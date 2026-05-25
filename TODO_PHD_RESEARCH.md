@@ -1,82 +1,181 @@
 # TODO / Follow-Up Tasks for PhD RESEARCH Repo
 
-This file tracks concrete follow-up items derived from the `MASTER_RESEARCH_INDEX.md` and associated Google Drive artifacts.
-It is intentionally action-oriented so we can keep focus on applications while still evolving the RESEARCH repo over time.
+This is the canonical action list for Piter Garcia's PhD application portfolio.
+Items are organized by priority and domain, derived from `MASTER_RESEARCH_INDEX.md` and the full handoff instructions.
 
 ---
 
-## 1. CV / Application Document Tasks
+## Immediate Priority (do first)
 
-- [ ] Create repo directories for CV variants:
-  - [ ] `cv-resume/academic-cv/`
-  - [ ] `cv-resume/industry-resume/`
-  - [ ] `cv-resume/teaching-cv/`
-- [ ] Add current academic CV PDF as `cv-resume/academic-cv/academic-cv.pdf`.
-- [ ] Add current industry/RA resume PDF as `cv-resume/industry-resume/industry-resume.pdf`.
-- [ ] Add teaching-focused CV PDF as `cv-resume/teaching-cv/teaching-cv.pdf`.
-- [ ] Optionally add LaTeX or Markdown sources for each CV variant in the same folders.
-- [ ] In `README.md`, add a short "Core Application Artifacts" section linking to the three CV PDFs and `MASTER_RESEARCH_INDEX.md`.
+- [ ] Upload `qRL_Reinforcement_Learning_Routing_for_Quantum_Entanglement_Networks.pdf` to `PAPERS/Quantum_Computing/Quantum_MAB/` — this is the **lead research artifact** for every PhD application.
+- [ ] Identify the canonical current CV/resume and upload to `CV/current/academic-cv.pdf`.
+- [ ] Choose one sole-authored writing sample (≥5 pages, academic, with citations); annotate it in `MASTER_RESEARCH_INDEX.md` as `writing sample`.
+- [ ] Create `APPLICATIONS/Noyce/checklist.md` with Noyce requirements and status of each item.
+- [ ] Create `APPLICATIONS/PhD/warner_requirements.md` with Warner statement/writing sample specifications.
 
 ---
 
-## 2. AI / Ethics / Diagnostics Tasks
+## 1. Repository Structure Tasks
 
-- [ ] Review `fairness_framework_update_addendum.md` and decide whether to:
-  - [ ] Extract a standalone "EQUITAS 2.0" conceptual note for inclusion in future papers.
-  - [ ] Summarize key points as a short section in `MASTER_RESEARCH_INDEX.md` or a separate `EQUITAS_OVERVIEW.md`.
-- [ ] From `phd-visibility-action-plan.md`, pull 3–5 concrete visibility milestones (paper submissions, talks, collaborations) and mirror them in this TODO file under a "Visibility" section.
-- [ ] Identify 1–2 pieces from `survey-related-work.pdf` and `Eaton_601_RoughDraft-3.pdf` that could serve as writing samples; annotate them in `MASTER_RESEARCH_INDEX.md` with a "writing sample" note.
-
----
-
-## 3. Quantum Routing / Bandits Tasks
-
-- [ ] In `MASTER_RESEARCH_INDEX.md`, add GitHub-relative paths for the main quantum framework files once the repo structure is finalized (e.g., `daqr/core/quantum_physics.py`).
-- [ ] Add a short `QUANTUM_OVERVIEW.md` in the repo summarizing:
-  - [ ] The purpose of the dynamic routing evaluation framework.
-  - [ ] How paper-style testbeds (2, 5, 7, 8, 12) are integrated.
-  - [ ] How to run a minimal experiment using the quick-start snippets.
-- [ ] Create or link to example experiment logs / results (e.g., a small `results/` snapshot) and reference them from `MASTER_RESEARCH_INDEX.md`.
-
----
-
-## 4. Teaching, Equity, and Diagnostics Tasks
-
-- [ ] For EDU 498 literacy artifacts (`EDU-498-Literacy-Learning-as-Social-Practice-Now-Open.pdf`, `Summer-A-Edu-498-Literacy-as-Social-Practice-Learners.pdf`, `Class-1_-EDU-498-Summer-2026.docx`, `Summer-A-2026-Class-2-Defining-Literacies.docx`):
-  - [ ] Draft a 1–2 paragraph synthesis (in a new `TEACHING_NOTES.md`) explaining how these lessons operationalize equity and literacy-as-social-practice.
-- [ ] For the autism/inclusion reading bundle (Goldstein, Dunlap, Wehmeyer & Kurth, Smith, Harvey, Jorgensen, Conn, OAR Kit for Kids, Indicator 13):
-  - [ ] Create a short annotated bibliography section in `TEACHING_NOTES.md` linking each reading to a concrete classroom design choice.
-- [ ] Add a note in `MASTER_RESEARCH_INDEX.md` indicating which of these materials are strongest candidates to cite directly in PhD statements (e.g., 3–4 "anchor" readings).
+- [ ] Confirm all folders from the canonical layout exist (GitHub will create them when files are added):
+  - [ ] `CV/current/`
+  - [ ] `CV/archive/`
+  - [ ] `STATEMENTS/`
+  - [ ] `PAPERS/AI_and_Education/`
+  - [ ] `PAPERS/Quantum_Computing/Quantum_MAB/`
+  - [ ] `PAPERS/Quantum_Computing/UDRM_Quantum_Path_Optimization/`
+  - [ ] `PAPERS/Quantum_Computing/iCMAB_EXPNeuralUCB/`
+  - [ ] `PAPERS/Quantum_Computing/implementation_framework/`
+  - [ ] `PAPERS/Quantum_Computing/literature/`
+  - [ ] `PAPERS/Quantum_Computing/references/`
+  - [ ] `PAPERS/Bioinformatics_Computational_Biology/DRG_RNAseq/`
+  - [ ] `PAPERS/Bioinformatics_Computational_Biology/HTSA_reports/`
+  - [ ] `PAPERS/Bioinformatics_Computational_Biology/HTSA_paper/`
+  - [ ] `PAPERS/Bioinformatics_Computational_Biology/references/`
+  - [ ] `PAPERS/Computer_Graphics/source/`
+  - [ ] `PAPERS/CS_Education_and_Pedagogy/inclusion/`
+  - [ ] `PAPERS/CS_Education_and_Pedagogy/group_lesson_plans/`
+  - [ ] `PROJECTS/AI_as_partner/`
+  - [ ] `PROJECTS/AI_Business_Model_Project/`
+  - [ ] `APPLICATIONS/Noyce/`
+  - [ ] `APPLICATIONS/PhD/`
+  - [ ] `ADMIN/`
+  - [ ] `ARCHIVE/course_notes/`
 
 ---
 
-## 5. Technical / Data / Systems Tasks
+## 2. CV / Resume Tasks
 
-- [ ] For `airbnb-guest-import-pipeline.md`:
-  - [ ] Decide whether to include this as a dedicated "Data Engineering" project section in the CV.
-  - [ ] If yes, add a short summary snippet in a new `SYSTEMS_PROJECTS.md` file and reference it in `MASTER_RESEARCH_INDEX.md`.
-- [ ] For cloud / diagnostic artifacts (`dlp.v2.json`, `cloudprofiler.v2.json`, `diagnosticMessages.generated.json`, `ThirdPartyNoticeText.txt`):
-  - [ ] Decide whether they should be documented as part of a "tooling / infrastructure" experience or remain as low-level supporting files.
+- [ ] Identify which of these is the canonical current version and upload to `CV/current/`:
+  - `piter_resume-cv-1.pdf`
+  - `piter-garcia_linkedin_resume.pdf`
+  - `RESUME.pdf`
+  - `scholarship_resume.md`
+- [ ] Upload older versions to `CV/archive/`.
+- [ ] Create academic CV (if not yet written) based on research narrative — quantum, AI education, bioinformatics.
+- [ ] Create teaching CV for Noyce/Warner applications.
+- [ ] Update `README.md` "Core Application Artifacts" table with actual uploaded filenames.
 
 ---
 
-## 6. Profile / Public-Facing Tasks
+## 3. Quantum Computing / Bandits Tasks
+
+- [ ] Upload `qRL_Reinforcement_Learning_Routing_for_Quantum_Entanglement_Networks.pdf` → `PAPERS/Quantum_Computing/Quantum_MAB/`.
+- [ ] Upload `MAB-Adversarial_Implementation-Test_Framework.pdf` → `PAPERS/Quantum_Computing/implementation_framework/`.
+- [ ] Upload `INTEGRATION_GUIDE.md`, `README_START_HERE.md`, `QUICK_START_CODE_SNIPPETS.md`, `README_TESTBED_RUNNERS.md` → `PAPERS/Quantum_Computing/implementation_framework/`.
+- [ ] Sanitize and upload iCMAB+EXPNeuralUCB Integration Plan → `PAPERS/Quantum_Computing/iCMAB_EXPNeuralUCB/`.
+- [ ] Sanitize and upload QuantumMAB Project Plan → `PAPERS/Quantum_Computing/Quantum_MAB/`.
+- [ ] Sanitize and upload UDRM integration plan (check with collaborator before posting) → `PAPERS/Quantum_Computing/UDRM_Quantum_Path_Optimization/`.
+- [ ] Export the quantum references spreadsheet from Drive to CSV or Markdown → `PAPERS/Quantum_Computing/references/`.
+- [ ] Create `PAPERS/Quantum_Computing/QUANTUM_OVERVIEW.md` summarizing:
+  - Purpose of the dynamic routing evaluation framework
+  - How paper-style testbeds (2, 5, 7, 8, 12) are integrated
+  - How to run a minimal experiment using quick-start snippets
+- [ ] **Do NOT upload** `Piter Garcia & Dan Krutz Research Communications Log` to GitHub (keep in Drive only).
+
+---
+
+## 4. AI / Ethics / Education Tasks
+
+- [ ] Upload `fairness_framework_update_addendum.md` → `PAPERS/AI_and_Education/`.
+- [ ] Upload RIT Ethics of AI reflections PDF → `PAPERS/AI_and_Education/` (flag as potential writing sample).
+- [ ] Upload IDAI700 Unit 6 slide decks (both) → `PAPERS/AI_and_Education/`.
+- [ ] Upload AI_as_a_partner lesson and MagicSchool project → `PROJECTS/AI_as_partner/`.
+- [ ] Upload AI Business Model Project (booklet + 2 slide decks) → `PROJECTS/AI_Business_Model_Project/`.
+- [ ] Review `survey-related-work.pdf` and `Eaton_601_RoughDraft-3.pdf` for sole-authorship and writing sample viability; annotate status in `MASTER_RESEARCH_INDEX.md`.
+- [ ] Extract 3–5 concrete milestones from `phd-visibility-action-plan.md` and add them as a sub-list here (keep the full plan in Drive only).
+- [ ] Consider writing a short `EQUITAS_OVERVIEW.md` expanding the fairness framework addendum into a standalone note.
+
+---
+
+## 5. Bioinformatics / Computational Biology Tasks
+
+- [ ] Compare `Boggavarapu_HTSA_Report9` and `Boggavarapu_HTSA_Report9 duplicate` — keep canonical, archive duplicate.
+- [ ] Upload canonical `Boggavarapu_HTSA_Report9` → `PAPERS/Bioinformatics_Computational_Biology/HTSA_reports/`.
+- [ ] Review `Copy of HTSA_Paper` and `Materials and Methods` — determine canonical paper version.
+- [ ] Upload canonical HTSA paper → `PAPERS/Bioinformatics_Computational_Biology/HTSA_paper/`.
+- [ ] Upload `Differential_Expression_Tool_Options` → `PAPERS/Bioinformatics_Computational_Biology/references/`.
+
+---
+
+## 6. Teaching / Inclusion / Pedagogy Tasks
+
+- [ ] Upload EDU 498 artifacts (all 4 files) → `PAPERS/CS_Education_and_Pedagogy/`.
+- [ ] Upload autism/inclusion reading bundle (13 files) → `PAPERS/CS_Education_and_Pedagogy/inclusion/`.
+- [ ] Upload `EDU484A_Group_Teaching_Lesson.pdf` → `PAPERS/CS_Education_and_Pedagogy/group_lesson_plans/` (label as group-authored).
+- [ ] Upload `ED452B Session 9 Discussion Posts` → `PAPERS/CS_Education_and_Pedagogy/`.
+- [ ] Archive `ED400A-Notes`, `EDU442-Notes`, `EDF436-Notes` → `ARCHIVE/course_notes/`.
+- [ ] Create `PAPERS/CS_Education_and_Pedagogy/TEACHING_NOTES.md`:
+  - 1–2 paragraph synthesis of EDU 498 literacy-as-social-practice work
+  - Annotated bibliography for the autism/inclusion bundle (3–4 anchor readings)
+
+---
+
+## 7. Computer Graphics Tasks
+
+- [ ] Upload `Computer Graphics I.pdf` → `PAPERS/Computer_Graphics/`.
+- [ ] Upload `Computer Graphics I.docx` → `PAPERS/Computer_Graphics/source/`.
+- [ ] Note: Use as historical technical evidence only; do not center unless applying to graphics programs.
+
+---
+
+## 8. Applications Tasks
+
+- [ ] Create `APPLICATIONS/Noyce/checklist.md` with:
+  - [ ] Application fee (email Francesca Chaba for waiver)
+  - [ ] Transcripts
+  - [ ] Letters of recommendation
+  - [ ] Personal statement
+  - [ ] Resume/CV
+  - [ ] Writing sample (≥5 pages, sole-authored, academic, citations)
+  - [ ] Confirm 12+ CS credits
+  - [ ] Contact Sharon Mason
+- [ ] Create `APPLICATIONS/PhD/warner_requirements.md` with:
+  - [ ] Statement of purpose: past/present/future format, double-spaced, 2–4 pages
+  - [ ] Writing sample: ≥5 pages, sole-authored, academic, in-text citations, reference page
+  - [ ] All other requirements from Warner application page
+- [ ] Build application-specific subfolders for each PhD institution as they are identified.
+- [ ] Draft Statement of Purpose in `STATEMENTS/statement-of-purpose-phd.md` using the guiding narrative:
+  > My work is developing around adaptive computational systems that help people and institutions make better decisions under uncertainty. My strongest technical direction is machine learning for quantum network routing and resource allocation, especially contextual/adversarial bandit methods. In parallel, my AI and CS education work shows a commitment to translating technical ideas into equitable learning environments. My computational biology work demonstrates scientific computing maturity and an ability to write in research formats. Together, these threads support a PhD trajectory focused on machine learning, applied computing, and socially meaningful technical systems.
+- [ ] Draft Teaching Statement in `STATEMENTS/teaching-statement.md`.
+- [ ] Draft Diversity Statement in `STATEMENTS/diversity-statement.md`.
+
+---
+
+## 9. Profile / Public-Facing Tasks
 
 - [ ] Update GitHub profile (bio) to:
-  - [ ] Link to `https://github.com/pzg8794/RESEARCH`.
-  - [ ] Include a 2–3 sentence summary of the three main pillars: AI diagnostics & ethics, quantum routing & bandits, teaching & inclusion.
-- [ ] If/when a personal website exists, mirror the same summary and add a direct link to `MASTER_RESEARCH_INDEX.md` as a public-facing "Research Dossier".
-- [ ] When ready, create a `PROFILE_SNIPPETS.md` file with:
-  - [ ] Short bios for different contexts (conference, application form, website, GitHub).
+  - [ ] Link to `https://github.com/pzg8794/RESEARCH`
+  - [ ] 2–3 sentence summary across the three pillars: quantum ML/routing, AI & CS education, inclusive pedagogy
+- [ ] Create `STATEMENTS/PROFILE_SNIPPETS.md` with short bios for:
+  - [ ] Conference / talk context
+  - [ ] Application form (150 words)
+  - [ ] Website / GitHub profile (3 sentences)
+  - [ ] LinkedIn "About" section
 
 ---
 
-## 7. General Maintenance Tasks
+## 10. Drive Cleanup Tasks
 
-- [ ] Whenever new Drive artifacts are created that matter for PhD applications, add them to `MASTER_RESEARCH_INDEX.md` with:
-  - [ ] Filename/path.
-  - [ ] 1–3 sentence "why it matters" description.
-  - [ ] Tags.
-- [ ] Periodically (e.g., once per semester), review this TODO file and `MASTER_RESEARCH_INDEX.md` together to:
-  - [ ] Mark completed tasks.
-  - [ ] Add new follow-up items as the research and teaching portfolio grows.
+> Drive reorganization is optional but improves findability. Do these whenever you have a slow moment.
+
+- [ ] Create top-level Drive folder structure:
+  - `01_RESEARCH/`
+  - `02_APPLICATIONS/`
+  - `03_CV_RESUME_PORTFOLIO/`
+  - `04_COURSEWORK/`
+  - `05_ADMIN_PRIVATE/`
+  - `06_ARCHIVE_DUPLICATES/`
+- [ ] Move insurance, FAFSA, SoFi, enrollment forms → `05_ADMIN_PRIVATE/`.
+- [ ] Move duplicate HTSA report → `06_ARCHIVE_DUPLICATES/`.
+- [ ] Move older resumes → `03_CV_RESUME_PORTFOLIO/archive/`.
+
+---
+
+## 11. General Maintenance
+
+- [ ] Whenever a new artifact is created that matters for PhD applications:
+  - Add an entry to `MASTER_RESEARCH_INDEX.md` with filename, summary, and GitHub path.
+  - Add a corresponding upload task to this file if the file needs to go to GitHub.
+- [ ] Once per semester: review this TODO and `MASTER_RESEARCH_INDEX.md` together; mark completed items; add new follow-ups.
+- [ ] **Never upload to GitHub:** insurance forms, FAFSA, loan documents, health records, enrollment forms, raw advisor email logs, financial records, or any file with another person's private information.
