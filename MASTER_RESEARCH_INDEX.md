@@ -43,6 +43,35 @@ Each entry includes: Title, Year/Context, Type, Location, and Tags.
 - **Core ideas / why it matters:** Explains AI tools that scan LinkedIn/Twitter and other social media feeds to infer personality traits and risk factors, documents contradictory outputs and reliability problems, and is key background for work on AI diagnostics vs surveillance.
 - **Tags:** AI hiring; social media scanning; surveillance; Cambridge Analytica; bias; diagnostics
 
+### 1.4 Fairness Framework Update Addendum (EQUITAS)
+- **Title:** Fairness Framework Update Addendum (EQUITAS)
+- **Author:** Piter Garcia
+- **Year/Context:** 2025–2026
+- **Type:** Conceptual framework update (Markdown)
+- **Location (Drive):** fairness_framework_update_addendum.md
+- **Core ideas / why it matters:** Refines and extends the EQUITAS fairness framework, linking AI diagnostics, clinical/educational equity, and practical implementation constraints; strong evidence of independent theorizing beyond course assignments.
+- **Tags:** fairness; EQUITAS; diagnostics; AI ethics; theory
+
+### 1.5 PhD Visibility Action Plan
+- **Title:** PhD Visibility Action Plan
+- **Author:** Piter Garcia
+- **Year/Context:** 2025–2026
+- **Type:** Strategic planning document (Markdown)
+- **Location (Drive):** phd-visibility-action-plan.md
+- **Core ideas / why it matters:** Lays out a concrete multi-year plan for building research visibility (papers, talks, collaborations) in AI/quantum and equity/inclusion; useful background for statements that emphasize intentional career design.
+- **Tags:** planning; PhD strategy; visibility; research trajectory
+
+### 1.6 Survey-Related Work and Rough Draft
+- **Title:** Survey-Related Work and EDUC 601 Rough Draft
+- **Author:** Piter Garcia
+- **Year/Context:** 2025–2026
+- **Type:** Literature review draft and course paper (PDF)
+- **Location (Drive):**
+  - survey-related-work.pdf
+  - Eaton_601_RoughDraft-3.pdf
+- **Core ideas / why it matters:** Demonstrates ability to synthesize research literature and produce extended academic writing; potential writing sample material for PhD applications.
+- **Tags:** literature review; academic writing; education; research methods
+
 ---
 
 ## 2. Quantum Computing, Routing, and Bandits
@@ -96,29 +125,33 @@ Each entry includes: Title, Year/Context, Type, Location, and Tags.
 - **Location (Drive):**
   - EDU-498-Literacy-Learning-as-Social-Practice-Now-Open.pdf (or renamed equivalent)
   - Summer-A-Edu-498-Literacy-as-Social-Practice-Learners.pdf
-  - Class 1_ EDU 498 Summer 2026 .docx
-  - Summer A 2026 Class 2 Defining Literacies.docx
+  - Class-1_-EDU-498-Summer-2026.docx
+  - Summer-A-2026-Class-2-Defining-Literacies.docx
 - **Core ideas / why it matters:** Designs and implements literacy-as-social-practice lessons with explicit attention to learner identities, disability, and inclusion – showing ability to turn equity theory into classroom artifacts.
 - **Tags:** literacy; social practice; teaching; equity; Warner
 
 ### 3.2 Autism, Inclusive Classrooms, and Positive Behavior Support – Reading Bundle
 
-- **Title:** Autism and Inclusion Reading Set (Goldstein; Dunlap; Wehmeyer & Kurth; OAR Kit for Kids; Indicator 13)
+- **Title:** Autism and Inclusion Reading Set (Goldstein; Dunlap; Wehmeyer & Kurth; OAR Kit for Kids; Indicator 13; Smith; Harvey; Jorgensen; Conn)
 - **Author / Source:** Various (peer-reviewed and practitioner resources)
 - **Year/Context:** Used in 2025–2026 coursework and lesson-design
 - **Type:** Articles, checklists, lesson plans, student workbooks (PDF)
 - **Location (Drive):**
   - Autism_spectrum_disorder.pdf
-  - Dunlap PBS and Autism.pdf (or renamed equivalent)
-  - Goldstein (2013) Seating Arrangements.pdf
-  - Wehmeyer & Kurth 2021 p. 1-6.pdf
-  - Indicator 13 Checklist Review Directions and Rubric (2).pdf
-  - Kit for Kids _ Organization for Autism Research.pdf
-  - Teach a Kit for Kids Lesson.pdf
-  - Kit for Kids Activity_Workbook_2-3.pdf
-  - Friendship Tip Sheets_2-3.pdf
-- **Core ideas / why it matters:** Anchors lesson designs in established research on autism, inclusive seating, PBS, peer-mediated support, and legally compliant transition planning – demonstrating that the EQUITAS approach is grounded in special education scholarship, not just CS/AI.
-- **Tags:** autism; PBS; inclusive education; peer supports; transition; diagnostics
+  - Dunlap-PBS-and-Autism.pdf (or renamed equivalent)
+  - Goldstein-2013-Seating-Arrangements.pdf
+  - Wehmeyer-Kurth-2021-p.-1-6.pdf
+  - Indicator-13-Checklist-Review-Directions-and-Rubric-2.pdf
+  - Kit-for-Kids-_-Organization-for-Autism-Research.pdf
+  - Teach-a-Kit-for-Kids-Lesson.pdf
+  - Kit-for-Kids-Activity_Workbook_2-3.pdf
+  - Friendship-Tip-Sheets_2-3.pdf
+  - Smith-2011-Making-Inclusion-Work.pdf
+  - Harvey-2018-Autism-and-School.pdf
+  - Jorgensen-2018-Communicative-Competence.pdf
+  - Conn-2016-Autism-and-Play.pdf
+- **Core ideas / why it matters:** Anchors lesson designs in established research on autism, inclusive seating, PBS, peer-mediated support, communicative competence, and legally compliant transition planning – demonstrating that the EQUITAS approach is grounded in special education scholarship, not just CS/AI.
+- **Tags:** autism; PBS; inclusive education; peer supports; transition; diagnostics; communicative competence; play
 
 ### 3.3 Classroom Management Professional Learning
 
@@ -130,20 +163,50 @@ Each entry includes: Title, Year/Context, Type, Location, and Tags.
 - **Core ideas / why it matters:** Documents ongoing professional learning around classroom management – useful context for the teaching-focused PhD narrative, especially around implementing EQUITAS in real classrooms.
 - **Tags:** classroom management; professional learning; teaching
 
+### 3.4 Additional Inclusion Readings
+
+- **Title:** Inclusion and School-Based Supports Reading Set (Smith; Harvey; Jorgensen; Conn)
+- **Author / Source:** Various
+- **Year/Context:** 2011–2018
+- **Type:** Peer-reviewed articles and practitioner pieces (PDF)
+- **Location (Drive):**
+  - Smith-2011-Making-Inclusion-Work.pdf
+  - Harvey-2018-Autism-and-School.pdf
+  - Jorgensen-2018-Communicative-Competence.pdf
+  - Conn-2016-Autism-and-Play.pdf
+- **Core ideas / why it matters:** Provides deeper theoretical and practical grounding for inclusive schooling, communicative competence, and play-based autism supports; complements the broader autism/PBS bundle and strengthens the education-side literature base.
+- **Tags:** inclusion; autism; communicative competence; play; school supports
+
 ---
 
-## 4. Other Domains (Computer Graphics, etc.) – To Be Filled
+## 4. Other Domains and Technical Work
 
-Placeholder for:
-- Computer graphics / visualization / HCI projects with research potential.
-- Any cross-cutting technical work that supports the main PhD narrative.
+### 4.1 Airbnb Guest Import Pipeline – Data Engineering Sample
+
+- **Title:** Airbnb Guest Import Pipeline – Design Document
+- **Author:** Piter Garcia
+- **Year/Context:** 2024–2025
+- **Type:** Technical design / data engineering spec (Markdown)
+- **Location (Drive):** airbnb-guest-import-pipeline.md
+- **Core ideas / why it matters:** Demonstrates ability to design real-world data pipelines (schema design, validation, error handling, and performance considerations); strong evidence of applied data engineering skills relevant to AI systems and research infrastructure.
+- **Tags:** data engineering; pipelines; systems design; ETL
+
+### 4.2 Cloud / Diagnostic Infrastructure Artifacts (Optional)
+
+- **Title:** Cloud and Diagnostic JSON Artifacts
+- **Author / Source:** Generated configuration and diagnostic files
+- **Year/Context:** 2024–2026
+- **Type:** JSON and text logs
+- **Location (Drive):** dlp.v2.json; cloudprofiler.v2.json; diagnosticMessages.generated.json; ThirdPartyNoticeText.txt
+- **Core ideas / why it matters:** These artifacts can be used as supporting evidence of experience with cloud tooling and large-system debugging if needed, but they are secondary to the primary research, teaching, and writing artifacts listed above.
+- **Tags:** cloud; diagnostics; tooling; infrastructure
 
 ---
 
 ## 5. How to Extend This Index
 
 When we discover a new paper or artifact:
-1. Decide the main section (CV/Application docs, AI & Ethics, Quantum, Teaching/Equity, Graphics/Other).
+1. Decide the main section (CV/Application docs, AI & Ethics, Quantum, Teaching/Equity, Technical/Other).
 2. Add a new bullet with:
    - Title, Authors
    - Year/Context & venue
