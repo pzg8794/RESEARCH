@@ -28,6 +28,7 @@ The strongest technical direction is machine learning for quantum network routin
 |---|---|
 | Master Research Index | [`MASTER_RESEARCH_INDEX.md`](./MASTER_RESEARCH_INDEX.md) |
 | TODO / Follow-up Tasks | [`TODO_PHD_RESEARCH.md`](./TODO_PHD_RESEARCH.md) |
+| Public Repository Showcase Plan | [`APPLICATIONS/PhD/PUBLIC_REPOSITORY_SHOWCASE_PLAN.md`](./APPLICATIONS/PhD/PUBLIC_REPOSITORY_SHOWCASE_PLAN.md) |
 | Academic CV | `CV/current/academic-cv.pdf` *(to be uploaded)* |
 | Industry Resume | `CV/current/industry-resume.pdf` *(to be uploaded)* |
 | Teaching CV | `CV/current/teaching-cv.pdf` *(to be uploaded)* |

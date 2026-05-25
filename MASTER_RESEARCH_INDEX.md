@@ -27,6 +27,23 @@ Every artifact uses this structure:
 
 ---
 
+## 0. Applications Portfolio Infrastructure
+
+---
+
+### Public Repository Showcase Plan (PhD Applications)
+- **Link / Filename:** `PUBLIC_REPOSITORY_SHOWCASE_PLAN.md`
+- **Type:** Portfolio infrastructure / application positioning document
+- **Category:** Applications / Planning
+- **Status:** Canonical
+- **Public/Private:** Public-safe
+- **Summary:** Defines which repositories should remain public and actively curated for applications, and which repositories should be de-emphasized.
+- **Why this matters for PhD applications:** Keeps external reviewer attention on high-signal paper/project repositories and avoids narrative dilution from personal coordination repos.
+- **GitHub target path:** `APPLICATIONS/PhD/PUBLIC_REPOSITORY_SHOWCASE_PLAN.md`
+- **Next action:** Revisit before each application cycle and adjust pinned-repo order if priorities change.
+
+---
+
 ## 1. Artificial Intelligence / AI + Education
 
 ---
