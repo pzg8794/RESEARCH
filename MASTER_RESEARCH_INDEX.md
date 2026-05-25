@@ -5,18 +5,27 @@ Each entry includes: Title, Year/Context, Type, Location, and Tags.
 
 ---
 
+## 0. CV and Application Documents
+
+- **Academic CV:** `cv-resume/academic-cv/academic-cv.pdf`
+- **Industry Resume:** `cv-resume/industry-resume/industry-resume.pdf`
+- **Teaching CV:** `cv-resume/teaching-cv/teaching-cv.pdf`
+- **Notes:** All application-ready documents live in this repo and are updated alongside this index.
+
+---
+
 ## 1. AI, Ethics, and Hiring Systems
 
 ### 1.1 Ethics of AI – Reflection Papers (RIT)
 - **Title:** Ethics of AI: Reflection Papers (Course email + feedback)
 - **Author:** Piter Garcia
-- **Year/Context:** 2025, RIT Philosophy Ethics of AI with Prof. Evan Selinger
+- **Year/Context:** 2025, RIT Philosophy “Ethics of AI” with Prof. Evan Selinger
 - **Type:** Reflection essays + instructor feedback email
 - **Location (Drive):** Rochester-Institute-of-Technology-Mail-Ethics-of-AI_-Reflection-Papers.pdf
 - **Core ideas / why it matters:** Applies EQUITAS framework to AI in healthcare and the SOPHIE Project; demonstrates ability to critique humanities/ethics articles and connect them to applied equity and diagnostics.
 - **Tags:** AI ethics; healthcare; EQUITAS; SOPHIE; reflection; RIT
 
-### 1.2 AI Games in Hiring – The Games We Play (IDAI700)
+### 1.2 AI Games in Hiring – “The Games We Play” (IDAI700)
 - **Title:** Chapter 3: The Games We Play – On Creative AI Tests (Lecture Slides)
 - **Author / Source:** IDAI700 course materials
 - **Year/Context:** 2025–2026, University of Rochester
@@ -76,12 +85,50 @@ Each entry includes: Title, Year/Context, Type, Location, and Tags.
 
 ---
 
-## 3. Teaching, Equity, and Diagnostics (to be populated)
+## 3. Teaching, Equity, and Diagnostics
 
-Placeholder for:
-- Classroom-based EQUITAS implementations and lesson plans.
-- Literacy and autism-support readings/summaries (EDU 498 and related materials).
-- Any education/inclusion conference submissions or posters.
+### 3.1 EDU 498 – Literacy Learning as Social Practice (Warner)
+
+- **Title:** EDU 498 – Literacy Learning as Social Practice (course artifacts)
+- **Author:** Piter Garcia
+- **Year/Context:** Summer 2026, Warner School of Education (EDU 498)
+- **Type:** Course overview, learner profiles, lesson plans (PDF + DOCX)
+- **Location (Drive):**
+  - EDU-498-Literacy-Learning-as-Social-Practice-Now-Open.pdf (or renamed equivalent)
+  - Summer-A-Edu-498-Literacy-as-Social-Practice-Learners.pdf
+  - Class 1_ EDU 498 Summer 2026 .docx
+  - Summer A 2026 Class 2 Defining Literacies.docx
+- **Core ideas / why it matters:** Designs and implements literacy-as-social-practice lessons with explicit attention to learner identities, disability, and inclusion – showing ability to turn equity theory into classroom artifacts.
+- **Tags:** literacy; social practice; teaching; equity; Warner
+
+### 3.2 Autism, Inclusive Classrooms, and Positive Behavior Support – Reading Bundle
+
+- **Title:** Autism and Inclusion Reading Set (Goldstein; Dunlap; Wehmeyer & Kurth; OAR Kit for Kids; Indicator 13)
+- **Author / Source:** Various (peer-reviewed and practitioner resources)
+- **Year/Context:** Used in 2025–2026 coursework and lesson-design
+- **Type:** Articles, checklists, lesson plans, student workbooks (PDF)
+- **Location (Drive):**
+  - Autism_spectrum_disorder.pdf
+  - Dunlap PBS and Autism.pdf (or renamed equivalent)
+  - Goldstein (2013) Seating Arrangements.pdf
+  - Wehmeyer & Kurth 2021 p. 1-6.pdf
+  - Indicator 13 Checklist Review Directions and Rubric (2).pdf
+  - Kit for Kids _ Organization for Autism Research.pdf
+  - Teach a Kit for Kids Lesson.pdf
+  - Kit for Kids Activity_Workbook_2-3.pdf
+  - Friendship Tip Sheets_2-3.pdf
+- **Core ideas / why it matters:** Anchors lesson designs in established research on autism, inclusive seating, PBS, peer-mediated support, and legally compliant transition planning – demonstrating that the EQUITAS approach is grounded in special education scholarship, not just CS/AI.
+- **Tags:** autism; PBS; inclusive education; peer supports; transition; diagnostics
+
+### 3.3 Classroom Management Professional Learning
+
+- **Title:** 15 Best Classroom Management Podcasts to Listen to in 2026
+- **Author / Source:** External article
+- **Year/Context:** 2026
+- **Type:** Curated professional development resource (PDF)
+- **Location (Drive):** 15-Best-Classroom-Management-Podcasts-to-Listen-to-in-2026.pdf
+- **Core ideas / why it matters:** Documents ongoing professional learning around classroom management – useful context for the teaching-focused PhD narrative, especially around implementing EQUITAS in real classrooms.
+- **Tags:** classroom management; professional learning; teaching
 
 ---
 
@@ -96,7 +143,7 @@ Placeholder for:
 ## 5. How to Extend This Index
 
 When we discover a new paper or artifact:
-1. Decide the main section (AI & Ethics, Quantum, Teaching/Equity, Graphics/Other).
+1. Decide the main section (CV/Application docs, AI & Ethics, Quantum, Teaching/Equity, Graphics/Other).
 2. Add a new bullet with:
    - Title, Authors
    - Year/Context & venue
