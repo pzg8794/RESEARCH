@@ -15,6 +15,7 @@ This file links the application-related documentation spread across the two loca
 | Purpose | Repo path |
 | --- | --- |
 | Application deadlines and priorities | [phd-application-roadmap-2026-2027.md](./phd-application-roadmap-2026-2027.md) |
+| Uppsala/KTH urgent packet checklist | [sweden-vacancy-packet-checklist.md](./sweden-vacancy-packet-checklist.md) |
 | Public repository/application showcase strategy | [PUBLIC_REPOSITORY_SHOWCASE_PLAN.md](./PUBLIC_REPOSITORY_SHOWCASE_PLAN.md) |
 | Master artifact index | [../../MASTER_RESEARCH_INDEX.md](../../MASTER_RESEARCH_INDEX.md) |
 | Repo action list | [../../TODO_PHD_RESEARCH.md](../../TODO_PHD_RESEARCH.md) |
@@ -35,7 +36,7 @@ This is the main local status board for profile/application identity work.
 | --- | --- | --- |
 | [PHD folder](<file:///Users/pitergarcia/DataScience/PHD>) | Canonical local tracker folder for public academic profile and application-asset coordination. | Reference from this map; copy only sanitized summaries. |
 | [PHD/README.md](<file:///Users/pitergarcia/DataScience/PHD/README.md>) | Local overview for the PHD tracker stack. | Keep as local canonical; summarize in repo if needed. |
-| [Application-Tracker-2026.md](<file:///Users/pitergarcia/DataScience/PHD/Application-Tracker-2026.md>) | Historical application status board. | Reference as historical; current cycle lives in the repo roadmap. |
+| [Application-Tracker-2026.md](<file:///Users/pitergarcia/DataScience/PHD/Application-Tracker-2026.md>) | Current local master tracker for live PhD vacancies, Fulbright, target programs, and May-June action planning. | Reference as the local source of truth; mirror public-safe deadlines/actions into the repo roadmap and sprint. |
 | [Application-Assets.md](<file:///Users/pitergarcia/DataScience/PHD/Application-Assets.md>) | Application packet and asset checklist. | Use to update `STATEMENTS/`, `CV/`, and application checklists. |
 | [Faculty-Outreach-Tracker.md](<file:///Users/pitergarcia/DataScience/PHD/Faculty-Outreach-Tracker.md>) | Faculty/recommender/outreach tracking. | Build a sanitized outreach tracker before publishing. |
 | [Academic-Profile-Stack.md](<file:///Users/pitergarcia/DataScience/PHD/Academic-Profile-Stack.md>) | OpenReview, ORCID, ResearchGate, LinkedIn, website identity alignment. | Copy public-safe profile snippets only. |
@@ -103,7 +104,8 @@ These are immediate-cycle materials, mostly in the local workspace root.
 | [PhD Application Strategy & Bridge Funding Plan.docx](<file:///Users/pitergarcia/DataScience/Semester5/Scholarship/PhD Application Strategy & Bridge Funding Plan.docx>) | Strategy plan source document. | Reference; extract public-safe summary. |
 | [The Puzzle Plan markdown](<file:///Users/pitergarcia/DataScience/Semester5/Scholarship/The Puzzle Plan_ An Interdisciplinary Framework for Equitable Diagnostics and Advocacy-Driven Research.md>) | Markdown version of Puzzle Plan. | Candidate for sanitized copy into `PAPERS/AI_and_Education/` or `STATEMENTS/`. |
 | [Intended Area of Study.md](<file:///Users/pitergarcia/DataScience/Semester5/Scholarship/Intended Area of Study.md>) | Research-area statement in Markdown. | Strong candidate for statement drafting. |
-| [CV_Piter_Garcia_2026.pdf](<file:///Users/pitergarcia/DataScience/Semester5/Scholarship/CV_Piter_Garcia_2026.pdf>) | Likely current academic CV. | Review and upload to `CV/current/academic-cv.pdf` if public-safe. |
+| [Piter_Garcia-Resume.pdf](<file:///Users/pitergarcia/DataScience/Semester5/Scholarship/CV_Piter-Garcia/Piter_Garcia-Resume.pdf>) | Most recently refreshed application CV PDF, updated 2026-05-24 per local asset tracker. | Review and upload to `CV/current/academic-cv.pdf` if public-safe. |
+| [CV_Piter_Garcia_2026.pdf](<file:///Users/pitergarcia/DataScience/Semester5/Scholarship/CV_Piter_Garcia_2026.pdf>) | Older academic CV PDF for comparison. | Use only if it has content missing from the refreshed CV. |
 | [scholarship_resume.md](<file:///Users/pitergarcia/DataScience/Semester5/Scholarship/scholarship_resume.md>) | Scholarship-focused resume source. | Candidate for `CV/current/` after review. |
 | [Scholarship-Resume-Leadership-RIT.txt](<file:///Users/pitergarcia/DataScience/Semester5/Scholarship/Scholarship-Resume-Leadership-RIT.txt>) | Resume/reference text. | Use as source for polished resume. |
 | [Leadership Experiences at RIT-Essay.md](<file:///Users/pitergarcia/DataScience/Semester5/Scholarship/Leadership Experiences at RIT-Essay.md>) | Leadership essay. | Reference for fellowship/personal statements. |
@@ -191,6 +193,6 @@ These can be referenced privately but should not be uploaded raw to this public 
 
 1. Create `APPLICATIONS/PhD/fulbright_host_affiliation_tracker.md` with only public-safe target-lab metadata.
 2. Create `APPLICATIONS/Noyce/checklist.md` from the Noyce folder and Warner scholarship PDF.
-3. Review `CV_Piter_Garcia_2026.pdf` and decide whether to copy it to `CV/current/academic-cv.pdf`.
+3. Review `Piter_Garcia-Resume.pdf` and decide whether to copy it to `CV/current/academic-cv.pdf`; use `CV_Piter_Garcia_2026.pdf` only as comparison.
 4. Extract 3-5 public-safe visibility milestones from the Drive visibility plan into `TODO_PHD_RESEARCH.md`.
 5. Build one sanitized `STATEMENTS/PROFILE_SNIPPETS.md` from the PHD profile stack and CV materials.

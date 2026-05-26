@@ -6,23 +6,29 @@ This roadmap tracks the active Fall 2027 PhD admission cycle and the 2027-2028 r
 
 ## What must start ASAP
 
-1. Fulbright eligibility and country fit
+1. Live Sweden doctoral vacancy sprint
+   - The local PHD tracker already identifies funded doctoral vacancies at Uppsala and KTH with deadlines from May 29 through July 31, 2026.
+   - These are job-style doctoral appointments, not annual U.S.-style admissions cycles. Treat each as due one day early because official systems close on Sweden/Central Europe time.
+   - Highest immediate fit: Uppsala Machine Learning for Data-Driven Precision Medicine and Diagnostics, due June 1, 2026.
+   - Fast triage needed: Uppsala AI Supported Decision-Making is due May 29, 2026, but the official page requires good spoken and written Swedish.
+
+2. Fulbright eligibility and country fit
    - Confirm U.S. Student Program eligibility before investing heavy time: the program requires U.S. citizenship or U.S. national status at the application deadline.
    - If eligible, treat Fulbright Europe/Eurasia as the most urgent research application: the national deadline is October 6, 2026 at 5:00 PM ET, and campus deadlines often arrive 4-6 weeks earlier.
    - Best immediate matches from the current research direction: Norway Open Study/Research and Sweden Open Study/Research, because both allow research projects and require host affiliation.
 
-2. Host affiliation outreach
+3. Host affiliation outreach
    - Identify 6-10 possible host faculty/labs in Norway and Sweden by June 2026.
    - Send short affiliation inquiries by late June or early July 2026.
    - Aim to secure an affiliation letter by August 2026.
    - Project angle: equitable diagnostics, ML/bioinformatics, disability/CLD advocacy, and the Puzzle Plan research framework.
 
-3. Common PhD packet
+4. Common PhD packet
    - Build one reusable packet by August 2026: CV, 2-page statement of purpose, 1-2 page research statement, writing/publication sample, transcript list, and recommender packet.
    - Ask recommenders early, ideally by August 2026 for December/January PhD deadlines.
    - Use the NYU, RIT, UofR, and existing research materials in Google Drive as the base assets.
 
-4. Program verification pass
+5. Program verification pass
    - Use ProFellow as a long-list discovery source only.
    - Verify every deadline on the official university page before adding it to the final submission calendar.
 
@@ -30,6 +36,12 @@ This roadmap tracks the active Fall 2027 PhD admission cycle and the 2027-2028 r
 
 | Application | Type | Deadline or window | Priority | Start action |
 | --- | --- | --- | --- | --- |
+| Uppsala PhD: AI Supported Decision-Making, Responsibility, Simulation, and Governance | Funded doctoral position, Sweden | May 29, 2026 | Urgent but maybe blocked | Decide immediately whether the Swedish-language requirement makes this a skip. If viable, prepare cover letter, 2-page project plan, CV/certified academic documents, two recommendation letters, and academic work sample. |
+| Uppsala PhD: Machine Learning for Data-Driven Precision Medicine and Diagnostics | Funded doctoral position, Sweden | June 1, 2026 | Highest immediate fit | Draft 1-page personal letter, select technical/scientific writing sample, prepare CV, degree/transcripts, and at least two reference contacts. |
+| KTH PhD: AI and ML for Single-Cell Cancer Data | Funded doctoral position, Sweden | June 3, 2026 | Urgent | Adapt BIOL550/ML/diagnostics narrative; prepare CV with references, application letter max 2 pages, diplomas/transcripts/language proof, and technical report or publication sample. |
+| KTH PhD: Machine Learning for Reliable Quantum Computing | Funded doctoral position, Sweden | June 8, 2026 | High | Prepare quantum-focused CV/application letter using GA-Work and quantum/network ML evidence; verify public-safety of any manuscript sample before sharing. |
+| KTH PhD: Machine Learning | Funded doctoral position, Sweden | June 17, 2026 | Active backup | KTH official vacancies list confirms the date; open exact detail page before drafting. Keep as backup unless faculty/project fit is strong. |
+| KTH PhD: Deep Learning for Biological Systems | Funded doctoral position, Sweden | July 31, 2026 | Active later | Build biology/ML packet after urgent June calls; reuse precision medicine, BIOL550, and diagnostics framing. |
 | Fulbright U.S. Student Program, Europe/Eurasia | Research / study fellowship | National deadline: October 6, 2026, 5:00 PM ET. Campus deadline may be 4-6 weeks earlier. | Highest | Confirm eligibility, contact campus Fulbright adviser, pick 1-2 countries, draft project, begin affiliation outreach. |
 | Fulbright Norway Open Study/Research Award | Research / study fellowship | October 6, 2026, 5:00 PM ET through Fulbright U.S. Student Program. | Highest | Build Norway host list, request affiliation, frame project around Norway-relevant research interests. |
 | Fulbright Sweden Open Study/Research Award | Research / study fellowship | October 6, 2026, 5:00 PM ET through Fulbright U.S. Student Program. | Highest | Build Sweden host list, request affiliation, frame project around Swedish research environment and graduate-level fit. |
@@ -65,6 +77,9 @@ These are the strongest source assets to reuse from the private Google Drive pla
 
 Tier 1: Start now or by June 2026
 
+- Uppsala precision medicine / diagnostics ML PhD, due June 1, 2026
+- KTH single-cell cancer data PhD, due June 3, 2026
+- KTH reliable quantum computing PhD, due June 8, 2026
 - Fulbright Norway Open Study/Research
 - Fulbright Sweden Open Study/Research
 - NYU Data Science PhD
@@ -94,6 +109,7 @@ Tier 3: Keep scanning monthly
 
 June 2026:
 
+- Submit or close the urgent Uppsala and KTH live-vacancy applications.
 - Confirm Fulbright eligibility and campus process.
 - Pick the primary Fulbright country and one backup country.
 - Build host-lab spreadsheet for Norway and Sweden.
@@ -133,6 +149,12 @@ November 2026-January 2027:
 - Fulbright getting started and eligibility: https://us.fulbrightonline.org/applicants/getting-started
 - Fulbright Norway Open Study/Research Award: https://us.fulbrightonline.org/countries/europe-and-eurasia/norway/1739
 - Fulbright Sweden Open Study/Research Award: https://us.fulbrightonline.org/countries/europe-and-eurasia/sweden/1722
+- Uppsala AI Supported Decision-Making PhD: https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=932281
+- Uppsala Precision Medicine and Diagnostics ML PhD: https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=930689
+- KTH Single-Cell Cancer Data PhD: https://www.kth.se/lediga-jobb/927967?l=en
+- KTH Reliable Quantum Computing PhD: https://www.kth.se/lediga-jobb/919576?l=en
+- KTH vacancies listing: https://www.kth.se/lediga-jobb?l=en
+- KTH Deep Learning for Biological Systems PhD: https://www.kth.se/lediga-jobb/928557?l=en
 - NYU Center for Data Science PhD admissions: https://cds.nyu.edu/phd-admissions-requirements/
 - NYU Courant Computer Science PhD admissions: https://cs.nyu.edu/home/phd/admission
 - RIT Computing and Information Sciences PhD: https://www.rit.edu/computing/study/computing-and-information-sciences-phd

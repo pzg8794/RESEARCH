@@ -8,13 +8,16 @@ Items are organized by priority and domain, derived from `MASTER_RESEARCH_INDEX.
 ## Immediate Priority (do first)
 
 - [ ] Upload `qRL_Reinforcement_Learning_Routing_for_Quantum_Entanglement_Networks.pdf` to `PAPERS/Quantum_Computing/Quantum_MAB/` — this is the **lead research artifact** for every PhD application.
-- [ ] Identify the canonical current CV/resume and upload to `CV/current/academic-cv.pdf`.
+- [x] Identify the canonical current CV/resume source: `Semester5/Scholarship/CV_Piter-Garcia/resume.tex`; latest refreshed PDF is `Semester5/Scholarship/CV_Piter-Garcia/Piter_Garcia-Resume.pdf`.
+- [ ] Review/copy the current CV PDF to `CV/current/academic-cv.pdf` only if it is public-safe.
 - [ ] Choose one sole-authored writing sample (≥5 pages, academic, with citations); annotate it in `MASTER_RESEARCH_INDEX.md` as `writing sample`.
 - [ ] Create `APPLICATIONS/Noyce/checklist.md` with Noyce requirements and status of each item.
 - [ ] Create `APPLICATIONS/PhD/warner_requirements.md` with Warner statement/writing sample specifications.
 - [x] Add `APPLICATIONS/PhD/phd-application-roadmap-2026-2027.md` with the active Fall 2027 PhD and 2027-2028 fellowship deadline tracker.
 - [x] Add `APPLICATIONS/PhD/LOCAL_SOURCE_MAP.md` linking the local PhD, Fulbright, scholarship, CV, GA-Work, and Warner/Noyce source spaces.
-- [x] Add `APPLICATIONS/PhD/may-2026-application-sprint.md` for the May 26-31 Fulbright/application catch-up sprint.
+- [x] Add `APPLICATIONS/PhD/may-2026-application-sprint.md` for the May 26-31 urgent Sweden vacancy and Fulbright setup sprint.
+- [x] Add `APPLICATIONS/PhD/sweden-vacancy-packet-checklist.md` for Uppsala/KTH packet assembly.
+- [ ] Start the urgent Sweden doctoral-vacancy sprint: decide May 29 Uppsala AI governance, draft/submit June 1 Uppsala precision medicine, then triage June 3 and June 8 KTH applications.
 - [ ] Start Fulbright Europe/Eurasia work immediately: confirm eligibility, contact campus adviser, choose country targets, and begin Norway/Sweden host-affiliation outreach.
 
 ---
@@ -50,7 +53,12 @@ Items are organized by priority and domain, derived from `MASTER_RESEARCH_INDEX.
 
 ## 2. CV / Resume Tasks
 
-- [ ] Identify which of these is the canonical current version and upload to `CV/current/`:
+- [x] Identify canonical current version from the active local PHD assets:
+  - source: `Semester5/Scholarship/CV_Piter-Garcia/resume.tex`
+  - refreshed PDF: `Semester5/Scholarship/CV_Piter-Garcia/Piter_Garcia-Resume.pdf`
+  - older academic PDF for comparison: `Semester5/Scholarship/CV_Piter_Garcia_2026.pdf`
+- [ ] Review and upload the refreshed PDF to `CV/current/academic-cv.pdf` if public-safe.
+- [ ] Archive or de-prioritize older candidates after review:
   - `piter_resume-cv-1.pdf`
   - `piter-garcia_linkedin_resume.pdf`
   - `RESUME.pdf`
@@ -127,7 +135,8 @@ Items are organized by priority and domain, derived from `MASTER_RESEARCH_INDEX.
 
 - [x] Create `APPLICATIONS/PhD/phd-application-roadmap-2026-2027.md` with Fulbright, NYU, UofR, RIT, NSF GRFP, GFSD, ProFellow long-list, and European vacancy-based doctoral timelines.
 - [x] Create `APPLICATIONS/PhD/LOCAL_SOURCE_MAP.md` to connect local Drive/workspace application materials to this repo without copying private raw files.
-- [x] Create `APPLICATIONS/PhD/may-2026-application-sprint.md` with daily tasks from May 26 through May 31 and the next two campus dates to calendar.
+- [x] Create `APPLICATIONS/PhD/may-2026-application-sprint.md` with checked local facts, urgent Sweden vacancy dates, daily tasks from May 26 through May 31, and the next Fulbright campus dates to calendar.
+- [x] Create `APPLICATIONS/PhD/sweden-vacancy-packet-checklist.md` with official requirements, source-file mapping, recommender/contact suggestions, and privacy boundaries for Uppsala/KTH vacancies.
 - [ ] Create `APPLICATIONS/PhD/fulbright_host_affiliation_tracker.md` or a linked spreadsheet with target faculty, country, fit rationale, contact status, and affiliation-letter status.
 - [ ] Create `APPLICATIONS/Noyce/checklist.md` with:
   - [ ] Application fee (email Francesca Chaba for waiver)
