@@ -12,6 +12,8 @@ Items are organized by priority and domain, derived from `MASTER_RESEARCH_INDEX.
 - [ ] Choose one sole-authored writing sample (≥5 pages, academic, with citations); annotate it in `MASTER_RESEARCH_INDEX.md` as `writing sample`.
 - [ ] Create `APPLICATIONS/Noyce/checklist.md` with Noyce requirements and status of each item.
 - [ ] Create `APPLICATIONS/PhD/warner_requirements.md` with Warner statement/writing sample specifications.
+- [x] Add `APPLICATIONS/PhD/phd-application-roadmap-2026-2027.md` with the active Fall 2027 PhD and 2027-2028 fellowship deadline tracker.
+- [ ] Start Fulbright Europe/Eurasia work immediately: confirm eligibility, contact campus adviser, choose country targets, and begin Norway/Sweden host-affiliation outreach.
 
 ---
 
@@ -121,6 +123,8 @@ Items are organized by priority and domain, derived from `MASTER_RESEARCH_INDEX.
 
 ## 8. Applications Tasks
 
+- [x] Create `APPLICATIONS/PhD/phd-application-roadmap-2026-2027.md` with Fulbright, NYU, UofR, RIT, NSF GRFP, GFSD, ProFellow long-list, and European vacancy-based doctoral timelines.
+- [ ] Create `APPLICATIONS/PhD/fulbright_host_affiliation_tracker.md` or a linked spreadsheet with target faculty, country, fit rationale, contact status, and affiliation-letter status.
 - [ ] Create `APPLICATIONS/Noyce/checklist.md` with:
   - [ ] Application fee (email Francesca Chaba for waiver)
   - [ ] Transcripts

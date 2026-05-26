@@ -44,6 +44,19 @@ Every artifact uses this structure:
 
 ---
 
+### PhD and Research Application Roadmap, 2026-2027
+- **Link / Filename:** `phd-application-roadmap-2026-2027.md`
+- **Type:** Deadline tracker / application roadmap
+- **Category:** Applications / Planning
+- **Status:** Canonical
+- **Public/Private:** Public-safe
+- **Summary:** Tracks the active Fall 2027 PhD admission cycle and 2027-2028 research/fellowship cycle, including Fulbright Europe/Eurasia, NYU, University of Rochester, RIT, NSF GRFP, GFSD, ProFellow-derived CS long-list programs, and European vacancy-based doctoral positions.
+- **Why this matters for PhD applications:** Converts scattered program deadlines into a version-controlled action plan, with urgent work separated from later-cycle applications.
+- **GitHub target path:** `APPLICATIONS/PhD/phd-application-roadmap-2026-2027.md`
+- **Next action:** Confirm Fulbright eligibility and campus process, begin Norway/Sweden host-affiliation outreach, and verify official PhD program deadlines again when Fall 2027 pages refresh.
+
+---
+
 ## 1. Artificial Intelligence / AI + Education
 
 ---
