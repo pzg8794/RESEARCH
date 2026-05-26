@@ -12,6 +12,7 @@ The source materials live across two local DataScience spaces:
 | Need | File |
 | --- | --- |
 | Current deadlines and application priorities | [phd-application-roadmap-2026-2027.md](./phd-application-roadmap-2026-2027.md) |
+| May 26-31 application sprint | [may-2026-application-sprint.md](./may-2026-application-sprint.md) |
 | Map of local source documents and folders | [LOCAL_SOURCE_MAP.md](./LOCAL_SOURCE_MAP.md) |
 | Public-facing repo/showcase strategy | [PUBLIC_REPOSITORY_SHOWCASE_PLAN.md](./PUBLIC_REPOSITORY_SHOWCASE_PLAN.md) |
 
@@ -25,3 +26,5 @@ The source materials live across two local DataScience spaces:
 ## Current priority
 
 Fulbright Europe/Eurasia is the immediate application thread because it needs country selection, campus-process timing, and host-affiliation outreach before the October 6, 2026 national deadline.
+
+Use [may-2026-application-sprint.md](./may-2026-application-sprint.md) for the immediate May 26-31 catch-up tasks.

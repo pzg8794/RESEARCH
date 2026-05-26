@@ -57,6 +57,19 @@ Every artifact uses this structure:
 
 ---
 
+### May 2026 Application Sprint Todo
+- **Link / Filename:** `may-2026-application-sprint.md`
+- **Type:** Weekly todo list / application sprint
+- **Category:** Applications / Planning
+- **Status:** Canonical
+- **Public/Private:** Public-safe
+- **Summary:** Converts the remaining May 26-31 window into daily Fulbright/application tasks, with the next two campus dates to calendar: June 30 first draft and July 1 late-starter FPQ/FPT cutoff.
+- **Why this matters for PhD applications:** Turns the urgent May setup work into concrete actions: eligibility, adviser process, FPQ/FPT, country selection, project outline, host-affiliation list, outreach, recommenders, and CV selection.
+- **GitHub target path:** `APPLICATIONS/PhD/may-2026-application-sprint.md`
+- **Next action:** Work through the May 26 checklist first, then create a host-affiliation tracker.
+
+---
+
 ### Local Source Map for PhD, Fellowship, and Research Applications
 - **Link / Filename:** `LOCAL_SOURCE_MAP.md`
 - **Type:** Source map / navigation index
