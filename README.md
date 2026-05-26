@@ -30,6 +30,7 @@ The strongest technical direction is machine learning for quantum network routin
 | TODO / Follow-up Tasks | [`TODO_PHD_RESEARCH.md`](./TODO_PHD_RESEARCH.md) |
 | Public Repository Showcase Plan | [`APPLICATIONS/PhD/PUBLIC_REPOSITORY_SHOWCASE_PLAN.md`](./APPLICATIONS/PhD/PUBLIC_REPOSITORY_SHOWCASE_PLAN.md) |
 | PhD and Research Application Roadmap | [`APPLICATIONS/PhD/phd-application-roadmap-2026-2027.md`](./APPLICATIONS/PhD/phd-application-roadmap-2026-2027.md) |
+| Local PhD/Application Source Map | [`APPLICATIONS/PhD/LOCAL_SOURCE_MAP.md`](./APPLICATIONS/PhD/LOCAL_SOURCE_MAP.md) |
 | Academic CV | `CV/current/academic-cv.pdf` *(to be uploaded)* |
 | Industry Resume | `CV/current/industry-resume.pdf` *(to be uploaded)* |
 | Teaching CV | `CV/current/teaching-cv.pdf` *(to be uploaded)* |

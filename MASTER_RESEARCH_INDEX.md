@@ -57,6 +57,19 @@ Every artifact uses this structure:
 
 ---
 
+### Local Source Map for PhD, Fellowship, and Research Applications
+- **Link / Filename:** `LOCAL_SOURCE_MAP.md`
+- **Type:** Source map / navigation index
+- **Category:** Applications / Planning
+- **Status:** Canonical
+- **Public/Private:** Public-safe pointer map; source files may be private
+- **Summary:** Connects local PhD, Fulbright, scholarship, CV/resume, GA-Work, Warner/Noyce, teaching-portfolio, and academic-planning materials from both DataScience roots to this repository.
+- **Why this matters for PhD applications:** Prevents application evidence from being scattered across Google Drive and local workspaces; gives future updates one map for finding statements, CVs, profile trackers, fellowship documents, and supporting evidence.
+- **GitHub target path:** `APPLICATIONS/PhD/LOCAL_SOURCE_MAP.md`
+- **Next action:** Use the map to create sanitized application checklists, Fulbright host-affiliation tracking, and current CV/profile snippets.
+
+---
+
 ## 1. Artificial Intelligence / AI + Education
 
 ---

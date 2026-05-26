@@ -13,6 +13,7 @@ Items are organized by priority and domain, derived from `MASTER_RESEARCH_INDEX.
 - [ ] Create `APPLICATIONS/Noyce/checklist.md` with Noyce requirements and status of each item.
 - [ ] Create `APPLICATIONS/PhD/warner_requirements.md` with Warner statement/writing sample specifications.
 - [x] Add `APPLICATIONS/PhD/phd-application-roadmap-2026-2027.md` with the active Fall 2027 PhD and 2027-2028 fellowship deadline tracker.
+- [x] Add `APPLICATIONS/PhD/LOCAL_SOURCE_MAP.md` linking the local PhD, Fulbright, scholarship, CV, GA-Work, and Warner/Noyce source spaces.
 - [ ] Start Fulbright Europe/Eurasia work immediately: confirm eligibility, contact campus adviser, choose country targets, and begin Norway/Sweden host-affiliation outreach.
 
 ---
@@ -124,6 +125,7 @@ Items are organized by priority and domain, derived from `MASTER_RESEARCH_INDEX.
 ## 8. Applications Tasks
 
 - [x] Create `APPLICATIONS/PhD/phd-application-roadmap-2026-2027.md` with Fulbright, NYU, UofR, RIT, NSF GRFP, GFSD, ProFellow long-list, and European vacancy-based doctoral timelines.
+- [x] Create `APPLICATIONS/PhD/LOCAL_SOURCE_MAP.md` to connect local Drive/workspace application materials to this repo without copying private raw files.
 - [ ] Create `APPLICATIONS/PhD/fulbright_host_affiliation_tracker.md` or a linked spreadsheet with target faculty, country, fit rationale, contact status, and affiliation-letter status.
 - [ ] Create `APPLICATIONS/Noyce/checklist.md` with:
   - [ ] Application fee (email Francesca Chaba for waiver)
