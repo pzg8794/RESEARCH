@@ -12,15 +12,17 @@ Important: the University of Rochester Fulbright guidance says not to use genera
 
 ## Execution focus: Wednesday, May 27 (applications only)
 
+Closest active deadline now: 2026-06-01 (Uppsala precision medicine and diagnostics ML PhD).
+
 Top-priority execution order for today:
 
-1. Uppsala May 29 AI governance decision: submit or skip.
-2. Uppsala June 1 precision medicine packet completion.
-3. KTH June 3 single-cell packet skeleton and file staging.
+1. Uppsala June 1 precision medicine packet completion and submission staging.
+2. KTH June 3 single-cell packet skeleton and file staging.
+3. KTH June 8 reliable quantum ML packet pre-outline (only if time remains).
 
 Today completion targets:
 
-- [ ] Uppsala AI governance status line written as `Submitted`, `Skipped`, or `Blocked`.
+- [x] Uppsala AI governance status line written as `Submitted`, `Skipped`, or `Blocked`.
 - [ ] Uppsala precision medicine personal letter draft v1 completed.
 - [ ] Two references selected and contact details validated for Uppsala precision medicine.
 - [ ] Writing sample selected and short abstract attached.
@@ -141,8 +143,8 @@ KTH June 3 single-cell packet quick start:
 
 ## Thursday, May 28
 
-- [ ] Submit the May 29 Uppsala AI governance role only if viable and complete.
-- [ ] Otherwise mark it skipped and move all time to Uppsala precision medicine.
+- [x] Submit the May 29 Uppsala AI governance role only if viable and complete.
+- [x] Otherwise mark it skipped and move all time to Uppsala precision medicine.
 - [ ] Finish Uppsala precision medicine CV, personal letter, references, transcript/diploma checklist, and writing sample.
 - [ ] Start the KTH single-cell packet outline:
   - [ ] Application letter max 2 pages.
@@ -189,7 +191,7 @@ KTH June 3 single-cell packet quick start:
 
 | Date | Application | Blocker | Owner | Next action |
 | --- | --- | --- | --- | --- |
-| 2026-05-27 | Uppsala AI governance (May 29) | Swedish-language requirement viability unclear. | Piter | Confirm official requirement applicability; mark `Submit` or `Skip` today. |
+| 2026-05-27 | Uppsala AI governance (May 29) | Not applicable: Swedish-language requirement not satisfied. | Piter | Skipped and documented; no further action. |
 | 2026-05-27 | Uppsala precision medicine (June 1) | Final writing sample and references not locked. | Piter | Lock sample + 2 references, finish letter draft, stage uploads. |
 | 2026-05-27 | KTH single-cell (June 3) | Packet skeleton not yet assembled. | Piter | Build outline/checklist immediately after Uppsala June 1 packet draft. |
 
