@@ -14,6 +14,7 @@ The source materials live across two local DataScience spaces:
 | Current deadlines and application priorities | [phd-application-roadmap-2026-2027.md](./phd-application-roadmap-2026-2027.md) |
 | May 26-31 application sprint | [may-2026-application-sprint.md](./may-2026-application-sprint.md) |
 | Sweden Uppsala/KTH packet checklist | [sweden-vacancy-packet-checklist.md](./sweden-vacancy-packet-checklist.md) |
+| GitHub CV/profile/repo registry | [GITHUB_REPO_REGISTRY.md](./GITHUB_REPO_REGISTRY.md) |
 | Map of local source documents and folders | [LOCAL_SOURCE_MAP.md](./LOCAL_SOURCE_MAP.md) |
 | Public-facing repo/showcase strategy | [PUBLIC_REPOSITORY_SHOWCASE_PLAN.md](./PUBLIC_REPOSITORY_SHOWCASE_PLAN.md) |
 

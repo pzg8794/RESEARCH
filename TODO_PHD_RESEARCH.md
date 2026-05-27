@@ -17,6 +17,7 @@ Items are organized by priority and domain, derived from `MASTER_RESEARCH_INDEX.
 - [x] Add `APPLICATIONS/PhD/LOCAL_SOURCE_MAP.md` linking the local PhD, Fulbright, scholarship, CV, GA-Work, and Warner/Noyce source spaces.
 - [x] Add `APPLICATIONS/PhD/may-2026-application-sprint.md` for the May 26-31 urgent Sweden vacancy and Fulbright setup sprint.
 - [x] Add `APPLICATIONS/PhD/sweden-vacancy-packet-checklist.md` for Uppsala/KTH packet assembly.
+- [x] Add `APPLICATIONS/PhD/GITHUB_REPO_REGISTRY.md` linking CV, profile, research, and application-facing GitHub repos back to RESEARCH.
 - [ ] Start the urgent Sweden doctoral-vacancy sprint: decide May 29 Uppsala AI governance, draft/submit June 1 Uppsala precision medicine, then triage June 3 and June 8 KTH applications.
 - [ ] Start Fulbright Europe/Eurasia work immediately: confirm eligibility, contact campus adviser, choose country targets, and begin Norway/Sweden host-affiliation outreach.
 
@@ -161,6 +162,10 @@ Items are organized by priority and domain, derived from `MASTER_RESEARCH_INDEX.
 
 ## 9. Profile / Public-Facing Tasks
 
+- [x] Link all currently found CV/profile GitHub repos into the RESEARCH repo:
+  - [x] `pzg8794/CV_Piter-Garcia`
+  - [x] `pzg8794/CV_Piter-Garcia-UOR-2025-`
+  - [x] `pzg8794/pzg8794`
 - [ ] Update GitHub profile (bio) to:
   - [ ] Link to `https://github.com/pzg8794/RESEARCH`
   - [ ] 2–3 sentence summary across the three pillars: quantum ML/routing, AI & CS education, inclusive pedagogy

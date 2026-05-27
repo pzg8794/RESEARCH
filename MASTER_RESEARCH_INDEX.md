@@ -37,10 +37,23 @@ Every artifact uses this structure:
 - **Category:** Applications / Planning
 - **Status:** Canonical
 - **Public/Private:** Public-safe
-- **Summary:** Defines which repositories should remain public and actively curated for applications, and which repositories should be de-emphasized.
+- **Summary:** Defines which repositories should remain public and actively curated for applications, which private repos should remain reference-only, and which repositories should be de-emphasized.
 - **Why this matters for PhD applications:** Keeps external reviewer attention on high-signal paper/project repositories and avoids narrative dilution from personal coordination repos.
 - **GitHub target path:** `APPLICATIONS/PhD/PUBLIC_REPOSITORY_SHOWCASE_PLAN.md`
 - **Next action:** Revisit before each application cycle and adjust pinned-repo order if priorities change.
+
+---
+
+### GitHub Repo Registry for CV, Profile, and Application Evidence
+- **Link / Filename:** `GITHUB_REPO_REGISTRY.md`
+- **Type:** GitHub repository registry / navigation index
+- **Category:** Applications / Planning
+- **Status:** Canonical
+- **Public/Private:** Public-safe pointer map; some linked repositories are private
+- **Summary:** Links the GitHub repos that matter for CV, resume, public-profile, research, teaching, and application evidence work, including `pzg8794/CV_Piter-Garcia`, `pzg8794/CV_Piter-Garcia-UOR-2025-`, `pzg8794/pzg8794`, and application-facing research/teaching repos.
+- **Why this matters for PhD applications:** Keeps GitHub evidence discoverable from RESEARCH and prevents CV/profile/application repositories from drifting outside the application planning hub.
+- **GitHub target path:** `APPLICATIONS/PhD/GITHUB_REPO_REGISTRY.md`
+- **Next action:** Re-check visibility before each application submission and decide whether any private repo needs a sanitized public mirror or RESEARCH summary.
 
 ---
 
@@ -63,10 +76,10 @@ Every artifact uses this structure:
 - **Category:** Applications / Planning
 - **Status:** Canonical
 - **Public/Private:** Public-safe
-- **Summary:** Converts the remaining May 26-31 window into daily Fulbright/application tasks, with the next two campus dates to calendar: June 30 first draft and July 1 late-starter FPQ/FPT cutoff.
-- **Why this matters for PhD applications:** Turns the urgent May setup work into concrete actions: eligibility, adviser process, FPQ/FPT, country selection, project outline, host-affiliation list, outreach, recommenders, and CV selection.
+- **Summary:** Converts the remaining May 26-31 window into daily application tasks, now prioritizing the urgent Sweden doctoral-vacancy sprint while keeping Fulbright June/July milestones visible.
+- **Why this matters for PhD applications:** Turns the urgent May setup work into concrete actions: Uppsala/KTH submit/skip decisions, CV/source selection, writing-sample triage, portal confirmation, eligibility checks, adviser process, FPQ/FPT status, and Fulbright setup.
 - **GitHub target path:** `APPLICATIONS/PhD/may-2026-application-sprint.md`
-- **Next action:** Work through the May 26 checklist first, then create a host-affiliation tracker.
+- **Next action:** Decide whether to skip the May 29 Uppsala AI governance vacancy, then prioritize the June 1 Uppsala precision medicine packet.
 
 ---
 

@@ -16,6 +16,7 @@ This file links the application-related documentation spread across the two loca
 | --- | --- |
 | Application deadlines and priorities | [phd-application-roadmap-2026-2027.md](./phd-application-roadmap-2026-2027.md) |
 | Uppsala/KTH urgent packet checklist | [sweden-vacancy-packet-checklist.md](./sweden-vacancy-packet-checklist.md) |
+| GitHub CV/profile/application repo registry | [GITHUB_REPO_REGISTRY.md](./GITHUB_REPO_REGISTRY.md) |
 | Public repository/application showcase strategy | [PUBLIC_REPOSITORY_SHOWCASE_PLAN.md](./PUBLIC_REPOSITORY_SHOWCASE_PLAN.md) |
 | Master artifact index | [../../MASTER_RESEARCH_INDEX.md](../../MASTER_RESEARCH_INDEX.md) |
 | Repo action list | [../../TODO_PHD_RESEARCH.md](../../TODO_PHD_RESEARCH.md) |
@@ -117,6 +118,9 @@ These are immediate-cycle materials, mostly in the local workspace root.
 
 | Source | Use | Repo action |
 | --- | --- | --- |
+| [pzg8794/CV_Piter-Garcia](https://github.com/pzg8794/CV_Piter-Garcia) | Public GitHub repo for current CV/resume source and profile operations. | Treat as the canonical GitHub CV repo; track status in [GITHUB_REPO_REGISTRY.md](./GITHUB_REPO_REGISTRY.md). |
+| [pzg8794/CV_Piter-Garcia-UOR-2025-](https://github.com/pzg8794/CV_Piter-Garcia-UOR-2025-) | Private GitHub repo for the UofR/Warner teaching-resume redesign. | Reference as private teaching-resume history; do not copy raw contents unless reviewed. |
+| [pzg8794/pzg8794](https://github.com/pzg8794/pzg8794) | Public GitHub profile README for PhD/research identity. | Keep aligned with RESEARCH, CV, ORCID, ResearchGate, website, and LinkedIn. |
 | [CV_Piter-Garcia folder](<file:///Users/pitergarcia/DataScience/Semester5/Scholarship/CV_Piter-Garcia>) | LaTeX CV/resume source and profile assets. | Reference as source of resume builds. |
 | [CV_Piter-Garcia/README.md](<file:///Users/pitergarcia/DataScience/Semester5/Scholarship/CV_Piter-Garcia/README.md>) | Local CV repo overview. | Reference. |
 | [resume.tex](<file:///Users/pitergarcia/DataScience/Semester5/Scholarship/CV_Piter-Garcia/resume.tex>) | Main LaTeX resume source. | Use for current CV/resume export. |
