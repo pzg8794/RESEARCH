@@ -1,0 +1,124 @@
+\documentclass[11pt]{article}
+\usepackage[letterpaper,margin=0.9in]{geometry}
+\usepackage[hidelinks]{hyperref}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{tabularx}
+
+\setlist[itemize]{leftmargin=1.2em,itemsep=3pt,topsep=3pt}
+\titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
+
+\newcommand{\entry}[4]{
+  \noindent\begin{tabularx}{\textwidth}{@{}Xr@{}}
+    \textbf{#1} & #2 \\
+    \textit{#3} & \textit{#4}
+  \end{tabularx}\vspace{2pt}
+}
+
+\begin{document}
+
+\begin{center}
+  {\LARGE \textbf{Piter Z. Garcia Bautista}}\\[4pt]
+  Rochester, NY \textbar\ +1 (646) 288-3300 \textbar\ \href{mailto:pzg8794@rit.edu}{pzg8794@rit.edu}\\
+  \href{https://linkedin.com/in/garciapiterz}{linkedin.com/in/garciapiterz} \textbar\
+  \href{https://github.com/pzg8794}{github.com/pzg8794} \textbar\
+  \href{https://garciapiterz.com}{garciapiterz.com}
+\end{center}
+
+\section{Research Profile}
+Graduate researcher focused on machine learning under uncertainty, noisy observations, and limited-signal environments. Background spans reproducible ML evaluation pipelines, bandit and reinforcement-learning-based decision-making systems, quantum computing research, and fault-tolerant algorithm design. Current Graduate Assistant work (Quantum and AI Research, RIT) emphasizes reliability-first evaluation methodology, structured experimental design, and principled approaches to settings where standard supervised assumptions break down. Particularly interested in how statistical learning can be made robust and trustworthy in noisy physical and computational systems, including quantum circuits.
+
+\section{Research Interests}
+Reliable machine learning under noise and uncertainty; fault-tolerant algorithm evaluation; quantum computing and quantum-classical hybrid methods; bandit learning and sequential decision-making; reproducible benchmarking and structured experimental design.
+
+\section{Education}
+
+\entry{Rochester Institute of Technology}{Expected Aug 2026}{Master of Science, Data Science --- GPA 3.9+}{Rochester, NY}
+\begin{itemize}
+  \item Concentration: Bioinformatics \& Artificial Intelligence.
+  \item Relevant coursework: Data-Driven Knowledge Discovery, Neural Networks \& Deep Learning, Applied Data Science, Bioinformatics Algorithms, Software Engineering for Data Science.
+\end{itemize}
+
+\entry{University of Rochester, Warner School of Education}{In progress}{Graduate study, Teaching Computer Science K--12 (M.S. track)}{Rochester, NY}
+\begin{itemize}
+  \item NSF Robert Noyce Scholar (\$30,000 full funding); Advanced Certificate in Leadership in Disability and Inclusive Practices.
+\end{itemize}
+
+\entry{Rochester Institute of Technology}{2015}{Master of Science, Computer Science}{Rochester, NY}
+\begin{itemize}
+  \item Concentrations: Artificial Intelligence, Big Data Analytics, Computer Graphics.
+  \item MS Thesis: ASL Recognition Application --- image processing and pattern recognition under partial-observation constraints.
+\end{itemize}
+
+\entry{Farmingdale State College}{2012}{Bachelor of Science, Computer Engineering}{Farmingdale, NY}
+\begin{itemize}
+  \item Dual degree: Electrical Engineering \& Computer Engineering Technology.
+  \item Honors: CSTEP Award \& Merit; Dual BS Scholarship.
+\end{itemize}
+
+\section{Research and Professional Experience}
+
+\entry{Rochester Institute of Technology, Software Engineering Department}{Fall 2025 -- Present}{Graduate Assistant, Quantum and AI Research}{Rochester, NY}
+\begin{itemize}
+  \item Build reproducible ML evaluation pipelines across local, Colab, and GCP environments for quantum-adjacent algorithmic experiments, with structured logging and failure-mode tracking.
+  \item Develop bandit and decision-making systems designed for uncertain, heterogeneous, and partially observed settings, with emphasis on reliability, repeatability, and evaluation rigor.
+  \item Co-author manuscript-level technical analyses on quantum path optimization and fault-tolerant routing under noise constraints; currently under submission.
+  \item Design evaluation frameworks that isolate algorithmic reliability from environmental noise, enabling clean comparison between quantum-classical hybrid approaches.
+\end{itemize}
+
+\entry{Independent Research}{2025 -- Present}{Quantum Fault-Tolerant Routing and Path Optimization}{Rochester, NY}
+\begin{itemize}
+  \item Developed and validated quantum-classical hybrid ML algorithms for fault-tolerant routing, modeling noise channels and decoherence effects as structured uncertainty in the learning objective.
+  \item Produced reproducible benchmarking results comparing quantum-advantage regimes against classical baselines with rigorous statistical validation.
+  \item Applied structured bandit frameworks (UCB, neural-UCB variants) to path selection under adversarial and stochastic noise models relevant to NISQ-era devices.
+\end{itemize}
+
+\entry{Rochester Institute of Technology}{2025 -- 2026}{Computational Biology Research (BIO614 and BIO550)}{Rochester, NY}
+\begin{itemize}
+  \item Applied probabilistic and algorithmic methods to RNA structure prediction, including uncertainty-aware evaluation of competing structural hypotheses.
+  \item Developed reproducible RNA-seq differential-expression pipelines with quality-control validation and statistical-significance reporting.
+\end{itemize}
+
+\entry{VEDADATA Inc.}{Sep 2022 -- Aug 2024}{Data Solutions Engineer}{New York, NY}
+\begin{itemize}
+  \item Designed scalable Python workflows for ingestion, validation, and statistical diagnostics, emphasizing data reliability and structured quality checks.
+  \item Strengthened production reliability through anomaly detection, schema validation, and structured logging.
+\end{itemize}
+
+\entry{VIOME Inc.}{Jan 2021 -- Sep 2022}{AI Data Solutions Engineer}{New York, NY}
+\begin{itemize}
+  \item Developed healthcare ML workflows for feature engineering, model experimentation, and reliability-aware evaluation in AWS-based production environments.
+  \item Implemented uncertainty-quantification and model-monitoring components to flag prediction instability under distribution shift.
+\end{itemize}
+
+\section{Selected Technical Writing}
+\begin{itemize}
+  \item \textit{Quantum Path Optimization with Fault-Tolerant Routing} --- manuscript on quantum-classical hybrid ML under noise constraints and decoherence, with structured evaluation (submitted 2025--2026).
+  \item \textit{Fairness-Aware Bandits for Network Routing in Quantum and Clinical Settings} (DSCI601 project, manuscript-style report) --- bandit learning framework applied to reliability-critical routing problems.
+  \item \textit{BIO614-FinalProjectProposal} (Overleaf) --- formal manuscript-style computational analysis with reproducible benchmarking and structured evaluation.
+\end{itemize}
+
+\section{Awards \& Recognition}
+\begin{itemize}
+  \item NSF Robert Noyce Teacher Scholarship (2024--2026) --- full funding for M.S. in Teaching Computer Science K--12.
+  \item MS International Scholarship (2012--2015) --- MESCYT \& RIT, awarded for academic excellence.
+  \item Honorable Mention Technology Award (2012) --- NYS STEP/CSTEP, 2nd place capstone project.
+  \item IEEE Alumni Member (2009--Present) --- Member No. 90613000.
+\end{itemize}
+
+\section{Technical Competencies}
+\textbf{Programming:} Python, R, Java, C++, C\#, SQL, MATLAB, JavaScript, Bash\\
+\textbf{Machine Learning:} PyTorch, TensorFlow, scikit-learn, XGBoost; bandit/RL algorithms (UCB, neural-UCB, contextual bandits); uncertainty quantification; model evaluation\\
+\textbf{Quantum Computing:} Qiskit, quantum circuit simulation, noise channel modeling, NISQ-era algorithm design\\
+\textbf{Data and Statistics:} pandas, NumPy, SciPy, statistical modeling, reproducible benchmarking, structured experimental design\\
+\textbf{Infrastructure:} Git/GitHub, Docker, Linux, GCP, AWS, LaTeX
+
+\section{Selected Fit for KTH ML for Reliable Quantum Computing Position}
+\begin{itemize}
+  \item Direct research experience combining ML methods with quantum computing, including fault-tolerant routing and noise-aware algorithm design in a manuscript currently under submission.
+  \item Reproducible evaluation methodology built for settings where noise, limited observations, and hardware constraints dominate --- exactly the reliability challenges in NISQ-era quantum ML.
+  \item Bandit and sequential decision-making background provides a natural bridge to online learning and adaptive ML strategies needed in quantum-classical hybrid settings.
+  \item Strong motivation to pursue rigorous, reliability-first ML research where careful evaluation and statistical validity are as important as model performance.
+\end{itemize}
+
+\end{document}
