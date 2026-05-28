@@ -71,13 +71,21 @@ Keyword and order lock (user-defined):
 
 Current reference plan:
 
+- Locked-in safe references for recommendation/review use: Professor Travis Desell, Dr. Daniel Krutz, Fernando Rodriguez, Dr. Zen Borys, Devroop, and Sheera.
 - Confirmed in portal: Travis Desell, Daniel Krutz, Fernando Rodriguez, and Qi Yu
 - Primary recommendation focus if reduced later: Professor Travis Desell and Dr. Daniel Krutz
+- Secondary safe collaborator references if needed: Devroop and Sheera (ICNP quantum paper collaborators)
 
 Suggested references to list first:
 
 - Professor Travis Desell: data science, ML, computational methods, PhD readiness.
 - Dr. Daniel Krutz: technical rigor, computing/data science, software/research preparation.
+
+Reference safety lock:
+
+- Safe/locked reference pool for future recommendation decisions: Travis Desell, Daniel Krutz, Fernando Rodriguez, Dr. Zen Borys, Devroop, and Sheera.
+- Treat Devroop and Sheera as collaborator-safe references only when a quantum-paper collaborator is appropriate.
+- Do not recommend outside this pool without explicit user approval.
 
 Suggested writing sample order:
 
