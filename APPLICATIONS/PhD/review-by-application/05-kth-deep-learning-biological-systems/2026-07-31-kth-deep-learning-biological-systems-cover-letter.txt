@@ -1,0 +1,15 @@
+Dear Selection Committee,
+
+I am applying for the doctoral position in deep learning for biological systems at KTH. I am drawn to this project because it combines machine learning, mathematical modeling, and biologically meaningful inference in a way that could directly support precision medicine. My goal is to contribute to research that builds strong computational models for complex biological systems while remaining careful about uncertainty, data quality, and the scientific interpretation of results.
+
+My background combines graduate training in computer science and data science, applied machine learning experience, and current work in computational biology and high-dimensional data analysis. In research and industry settings, I have built reproducible machine learning workflows across local, Colab, and GCP environments, with emphasis on evaluation discipline, data quality, and transparent technical reporting. In computational biology coursework and project work, I have focused on sequencing data analysis, structured quality control, and interpretation of noisy biological signal. That experience has made me especially motivated by questions where meaningful biological insight depends on careful modeling rather than predictive accuracy alone.
+
+What interests me most in this position is the opportunity to work on deep learning methods for biological systems that connect computation with mechanistic and clinically relevant understanding. I am particularly interested in problems where machine learning must represent complex interactions, heterogeneous data, and uncertain structure without losing scientific usefulness. The focus on modeling cell-cell interactions, biological dynamics, and healthier system states is compelling because it requires both methodological rigor and strong interdisciplinary reasoning. My strongest current preparation is in machine learning, reproducible pipeline development, and biological-data analysis, and I would be excited to extend that preparation toward deeper work on biological modeling and precision medicine applications.
+
+KTH is especially attractive because this project sits in a strong interdisciplinary environment connecting machine learning, systems modeling, and translational biological research. I am looking for a PhD setting where strong computational work is directly connected to important biomedical questions, and where collaboration across technical and life-science domains is treated as central research practice.
+
+I would be excited to contribute to KTH's research community and to develop as a doctoral researcher working on deep learning for biological systems. Thank you for considering my application.
+
+Sincerely,
+
+Piter Zacari Garcia Bautista

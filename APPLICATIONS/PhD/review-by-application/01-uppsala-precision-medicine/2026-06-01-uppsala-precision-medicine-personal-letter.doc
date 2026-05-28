@@ -1,0 +1,20 @@
+Dear Selection Committee,
+
+I am applying for the PhD position in Computerised Image Processing with focus on Machine Learning for Data-Driven Precision Medicine and Diagnostics at Uppsala University. My research goal is to build machine learning systems for diagnostics and clinical decision support that are technically strong, reproducible, and equitable in real-world use.
+
+I hold an M.S. in Computer Science and am currently completing an M.S. in Data Science (expected August 2026), alongside applied work in computational biology. In both research and industry settings, I have developed practical machine learning workflows for noisy, heterogeneous, and high-dimensional data, with emphasis on reliability, reproducibility, evaluation discipline, and clear technical communication. I am especially motivated by diagnostic settings where model errors can have unequal consequences and where robust deployment requires careful attention to bias, uncertainty, and generalization.
+
+What attracts me most to this position is the opportunity to work on methodologically demanding problems with direct clinical relevance. I am particularly interested in how machine learning methods can be trained and evaluated under limited, imprecise, or heterogeneous biomedical information, and how such systems can be made reliable enough to support high-stakes decision-making in practice.
+
+Given my final Fall 2026 semester commitments, the earliest possible starting date of employment for me is 1 January 2027, or as agreed.
+
+My three main scientific achievements to date are:
+1. Building reproducible machine learning research workflows across local, Colab, and GCP environments for large-scale experimental evaluation and technical reporting.
+2. Developing applied AI and data-science workflows in healthcare industry settings, including preprocessing, feature engineering, predictive modeling, and evaluation.
+3. Completing computational biology and high-throughput sequencing analysis work focused on differential expression, reproducible quality control, and interpretation of biological data.
+
+I would be excited to contribute to Uppsala University's research environment and to grow within a multidisciplinary setting connecting machine learning, image analysis, and precision medicine.
+
+Sincerely,
+
+Piter Z. Garcia Bautista
