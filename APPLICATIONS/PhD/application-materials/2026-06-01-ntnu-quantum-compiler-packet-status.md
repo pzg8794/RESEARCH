@@ -13,6 +13,18 @@ Posting: https://www.jobbnorge.no/ledige-stillinger/stilling/298925/phd-candidat
 - Sent-applications URL: https://jobseeker.jobbnorge.no/client/sent-applications/5877905/application
 - Jobbnorge confirmation: Appears in "Sent Applications" as "PhD Candidate in Quantum Compiler Technologies (298925)"
 
+## CV Step-4 update (2026-05-30, this session)
+Added the following entries to the Jobbnorge CV Step 4 form for application 5878636:
+
+**Education added:**
+- University of Rochester | Warner School of Education | Degree: Master | Study: Computer Science Education | From: Sep 2024 | To: Dec 2026 | **Grade: 4.0** | isLocatedOutsideNorway: yes
+
+**Work Experience added (all 4):**
+1. UofR Warner School of Education — Teaching Placement, Computer Science Education (Jan 2026–present)
+2. Rochester Institute of Technology, Software Engineering Dept — Graduate Assistant, Quantum and AI Research (Sep 2025–present)
+3. VEDADATA Inc. (Veda) — Data Solutions Engineer (Sep 2022–Aug 2024)
+4. VIOME Inc. — AI Data Solutions Engineer (Jan 2021–Sep 2022)
+
 ## v3 revision summary
 - Motivation letter v3: Names Prof. Cherubin, TAFFO, SPQR, Politecnico di Milano, CGO; LLVM/MLIR commitment explicit
 - Project outline v3: Title changed to "Compiler-Assisted Precision Tuning for QEC Code Optimization in Fault-Tolerant Quantum Workloads"; names TAFFO, Precimonious, HiFPTuner, Stim, JLM, CGO, PoliMi partner visit (Year 1 and Year 3)
