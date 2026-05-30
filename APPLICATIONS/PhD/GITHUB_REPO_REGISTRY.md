@@ -20,6 +20,7 @@ These are the CV/profile repos found on GitHub and now linked from this RESEARCH
 | [pzg8794/CV_Piter-Garcia-UOR-2025-](https://github.com/pzg8794/CV_Piter-Garcia-UOR-2025-) | Private | Teaching-facing UofR/Warner resume redesign and K-12 CS/inclusion resume evidence. | No current local checkout found in the active DataScience tree during this audit; prior work treated it as a resume repo. | Reference as private historical/teaching-resume source; do not publish raw contents without review. |
 | [pzg8794/pzg8794](https://github.com/pzg8794/pzg8794) | Public | GitHub profile README for PhD applications and public research identity. | Local checkout: [PHD/pzg8794](<file:///Users/pitergarcia/DataScience/PHD/pzg8794>); remote checked as `https://github.com/pzg8794/pzg8794.git`. | Keep aligned with RESEARCH, ORCID, ResearchGate, website, LinkedIn, and CV links. |
 | [pzg8794/RESEARCH](https://github.com/pzg8794/RESEARCH) | Public | Portfolio anchor and cross-repo navigation hub. | Current pushed repo for this registry. | Use this registry as the entry point for GitHub repo navigation. |
+| [pzg8794/portfolio](https://github.com/pzg8794/portfolio) | Public | Legacy CS project code, academic course reports, and industry work evidence index. Local: `/Users/pitergarcia/DataScience/portfolio-repo` | Created 2026-05-30. | See [PORTFOLIO_INDEX.md](../../PORTFOLIO/PORTFOLIO_INDEX.md) for full Drive-backed inventory. Use for C/C++ evidence and industry work evidence in applications. |
 
 ## Application-Facing Research and Portfolio Repositories
 

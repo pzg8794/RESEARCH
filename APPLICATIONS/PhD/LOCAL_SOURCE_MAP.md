@@ -223,6 +223,26 @@ These can be referenced privately but should not be uploaded raw to this public 
 - Private email exports and advisor/research communications logs.
 - Student-placement transcripts or school/student artifacts that could identify students, teachers, families, or classroom details.
 
+## Old Portfolio (Portafolio)
+
+Legacy portfolio Drive folder containing CS project code, academic reports, industry work samples, resume materials, and portfolio brand documents from 2015–2025.
+
+**Drive root:** [Portafolio folder](https://drive.google.com/drive/u/0/folders/1YuT0Zl11GJgz0nGuqTAxvNCrWmDK6F9d)
+**GitHub repo:** [pzg8794/portfolio](https://github.com/pzg8794/portfolio)
+**Full index:** [RESEARCH/PORTFOLIO/PORTFOLIO_INDEX.md](../../PORTFOLIO/PORTFOLIO_INDEX.md)
+
+| Artifact | Drive Link | Application Relevance |
+|---|---|---|
+| **C++ / CPP_OOP project code** | [Projects Code folder](https://drive.google.com/drive/u/0/folders/1hcQBQDRzhHNFMDCBEGQkXnrnX1EKanBJ) | **HIGH** — Direct C/C++ evidence (NTNU required; compiler research positions) |
+| Computer Graphics, Cryptography, Algorithms | Same Projects Code folder | Medium — CS fundamentals |
+| Industry work (Qualitrol, TrueInteraction) | [Work Projects folder](https://drive.google.com/drive/u/0/folders/15XQ7-XsTIgsbv3nmnHV10LSul8vUOd9L) | Industry software engineering evidence |
+| Academic reports (2015) | [Publications folder](https://drive.google.com/drive/u/0/folders/1YgPvyUzF9gM_FwCFwxBjUHjw56KPGGkJ) | Historical course-level writing (not primary writing samples) |
+| **Piter Portfolio** (Aug 2025, starred) | [Google Doc](https://docs.google.com/document/d/150cG5Ms9k33V89hA1kB32qdVAARi6LAa7LEgfzduGyk) | Current portfolio narrative — open first |
+| Portfolio Layout (Jan 2025, 35.5 MB) | [Google Doc](https://docs.google.com/document/d/1SM6DbVHz3WqUhzlvXhn3b5_0RvmyW7CqvZX4Rfiz8jY) | Visual/design layout with collaborator |
+| Work References (Apr 2024) | [Google Sheets](https://docs.google.com/spreadsheets/d/1JLF7cipNRmQntxdVFHWGUoUmi7vpZAQOe2BbOvhj3ps) | Professional references list |
+
+**Usage rule:** Before every application requiring C/C++ evidence or industry software work artifacts, check `PORTFOLIO_INDEX.md` and the GitHub portfolio repo. For PhD writing samples, always prefer Overleaf-tracked papers ([OVERLEAF_PAPER_INDEX.md](./OVERLEAF_PAPER_INDEX.md)).
+
 ## Next organization tasks
 
 1. Create `APPLICATIONS/PhD/fulbright_host_affiliation_tracker.md` with only public-safe target-lab metadata.
