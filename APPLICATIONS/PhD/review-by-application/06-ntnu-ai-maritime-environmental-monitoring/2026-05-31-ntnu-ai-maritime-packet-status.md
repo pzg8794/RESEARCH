@@ -48,7 +48,7 @@ Posting: [Jobbnorge listing](https://www.jobbnorge.no/ledige-stillinger/stilling
 - A later sent-application attachment refresh confirmed the full eight-attachment set, including `Farmingdale State College Official Transcript`, with attachment endpoints `41768090` through `41768097`.
 - Final submitted preview QA confirmed the screening answers remain correct (`No, but I will complete the degree this semester`, `Yes`, `Yes`) and the CV preview still shows the corrected UofR Warner teaching-placement entry plus the Graduate Assistant in Quantum and AI Research entry.
 - Local tailored CV source was rebuilt without the Samasta entry: `2026-05-31-ntnu-ai-maritime-cv.tex` -> `2026-05-31-ntnu-ai-maritime-cv.pdf`.
-- A later CV correction pass created Jobbnorge draft preview `5877656` with the Farmingdale State College education entry and the transcript-backed rounded RIT GPA (`3.5`), but repeated `Update application` attempts on that exact draft returned a Jobbnorge-side `500` while reporting that the content was saved. A separate fresh send page could still resubmit the older submitted state, so the corrected CV data is verified in draft preview `5877656` but not yet verified in the submitted preview `5877625`.
+- A later CV correction pass created Jobbnorge draft preview `5877656` with the Farmingdale State College education entry, the transcript-backed RIT Data Science GPA (`3.93` from program-only graded courses), and the UofR Warner GPA (`4.0` from Workday Academic Record cumulative GPA). Repeated `Update application` attempts on that exact draft still returned a Jobbnorge-side `500` while reporting that the content was saved. A separate fresh send page could still resubmit the older submitted state, so the corrected CV data is verified in draft preview `5877656` but not yet verified in the submitted preview `5877625`.
 
 ## Required Documents Checklist
 
@@ -77,7 +77,9 @@ Posting: [Jobbnorge listing](https://www.jobbnorge.no/ledige-stillinger/stilling
   - Latest non-role-specific base artifact referenced in project materials: `materials/scholarships/cv_piter_garcia_2026.pdf`
   - Local tailored copy: `2026-05-31-ntnu-ai-maritime-cv.tex` -> `2026-05-31-ntnu-ai-maritime-cv.pdf`
   - Education section already includes `Farmingdale State College` (`2012`) with the dual-degree support line `Electrical Engineering & Computer Engineering Technology`.
-  - Latest local correction pass sets the RIT Data Science GPA to `3.5` and the Farmingdale transcript-backed GPA to `3.1`.
+  - Latest local correction pass sets the RIT Data Science GPA to `3.93`, the UofR Warner GPA to `4.0`, and the Farmingdale transcript-backed GPA to `3.1`.
+  - RIT Data Science GPA method: manually computed from the Data Science plan courses shown on `uppsala-rit-unofficial-transcript-2026-05-27.pdf` because the transcript `Graduate Career Totals` blend the earlier Computer Science MS and the current Data Science MS. Graded Data Science-plan points = `118.002`; GPA units = `30`; computed GPA = `3.9334` -> display `3.93`.
+  - UofR Warner GPA source: Workday `View My Academic Record` shows cumulative GPA `4.00` for the Warner School of Education graduate record.
 
 ## Portal CV Curation Notes
 
