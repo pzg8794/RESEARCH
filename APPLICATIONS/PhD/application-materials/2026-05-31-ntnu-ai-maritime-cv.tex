@@ -1,0 +1,123 @@
+\documentclass[11pt]{article}
+\usepackage[letterpaper,margin=0.85in]{geometry}
+\usepackage[hidelinks]{hyperref}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{tabularx}
+
+\setlist[itemize]{leftmargin=1.2em,itemsep=3pt,topsep=3pt}
+\titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
+
+\newcommand{\entry}[4]{
+  \noindent\begin{tabularx}{\textwidth}{@{}Xr@{}}
+    \textbf{#1} & #2 \\
+    \textit{#3} & \textit{#4}
+  \end{tabularx}\vspace{2pt}
+}
+
+\begin{document}
+
+\begin{center}
+  {\LARGE \textbf{Piter Z. Garcia Bautista}}\\[4pt]
+  Rochester, NY \textbar\ +1 (646) 288-3300 \textbar\ \href{mailto:pzg8794@rit.edu}{pzg8794@rit.edu} \textbar\ \href{mailto:pitergarcia@rochester.edu}{pitergarcia@rochester.edu}\\
+  \href{https://linkedin.com/in/garciapiterz}{linkedin.com/in/garciapiterz} \textbar\
+  \href{https://github.com/pzg8794}{github.com/pzg8794} \textbar\
+  \href{https://garciapiterz.com}{garciapiterz.com}
+\end{center}
+
+\section{Research Summary}
+NSF Robert Noyce Scholar and graduate researcher working at the intersection of equitable machine learning, reproducible experimentation, and high-stakes decision support. Current work spans fairness-aware learning, contextual and sequential decision workflows, and robust evaluation under shifting operational conditions. For maritime environmental monitoring, I am particularly interested in adaptive AI methods that remain reliable under noisy sensor streams, constrained communication, and non-stationary dynamics.
+
+\section{Education}
+
+\entry{Rochester Institute of Technology}{Expected Aug 2026}{Master of Science, Data Science --- GPA 3.5}{Rochester, NY}
+\begin{itemize}
+  \item Concentration: Bioinformatics \& Artificial Intelligence.
+  \item Relevant coursework: Foundations of Data Science (DSCI-633), Software Engineering for Data Science (DSCI-644), Applied Data Science I (DSCI-601), Bioinformatics Algorithms (BIOL-630), Data-Driven Knowledge Discovery (ISTE-780).
+\end{itemize}
+
+\entry{University of Rochester, Warner School of Education}{Expected Aug 2026}{Master of Science track, Teaching Computer Science K--12}{Rochester, NY}
+\begin{itemize}
+  \item NSF Robert Noyce Teacher Scholarship Program (\$30,000 full funding).
+  \item Advanced Certificate in Leadership in Disability and Inclusive Practices.
+\end{itemize}
+
+\entry{Rochester Institute of Technology}{2015}{Master of Science, Computer Science}{Rochester, NY}
+\begin{itemize}
+  \item Concentrations: Computer Graphics, Artificial Intelligence, Big Data Analytics.
+\end{itemize}
+
+\entry{Farmingdale State College}{2012}{Bachelor of Science, Computer Engineering Technology --- GPA 3.1}{Farmingdale, NY}
+\begin{itemize}
+  \item Dual degree: Electrical Engineering \& Computer Engineering Technology.
+  \item Honors: CSTEP Award \& Merit, Dual BS Scholarship.
+\end{itemize}
+
+\section{Current Research Experience \& Projects}
+
+\entry{RIT \& University of Rochester}{2024 -- Present}{Lead Researcher, EQUITAS Framework for Diagnostic Justice}{Rochester, NY}
+\begin{itemize}
+  \item Developed an interdisciplinary framework integrating fairness-aware ML, bioinformatics, and trauma-informed analysis.
+  \item Built reproducible bias-assessment workflows and reported equity gaps across algorithmic variants.
+  \item Coordinated cross-domain collaboration across computing, education, and health research contexts.
+\end{itemize}
+
+\entry{Rochester Institute of Technology}{2024 -- Present}{Principal Investigator, Equitable Bioinformatics Project (ISTE-780)}{Rochester, NY}
+\begin{itemize}
+  \item Applied systematic fairness analysis to RNA secondary structure prediction pipelines.
+  \item Implemented reproducible evaluation codebase with automated metric reporting and statistical testing.
+\end{itemize}
+
+\entry{Rochester Institute of Technology}{Fall 2025 -- Present}{Graduate Assistant, Quantum and AI Research}{Rochester, NY}
+\begin{itemize}
+  \item Run controlled experiments for contextual bandit and routing workflows under stochastic and adversarial settings.
+  \item Build traceable experiment infrastructure across local, Colab, and GCP environments for robust comparison.
+\end{itemize}
+
+\section{Teaching \& Mentoring Experience}
+
+\entry{Varsity Tutors \& Independent Practice}{2021 -- Present}{STEM Tutor and Academic Mentor}{Remote \& In-Person}
+\begin{itemize}
+  \item Tutor Computer Science, Data Science, Mathematics, and Statistics for diverse learners.
+  \item Design culturally responsive instruction and mentoring support for underrepresented students in STEM.
+\end{itemize}
+
+\entry{Rochester Institute of Technology}{2013 -- 2015}{Faculty Assistant, Graduate Office}{Rochester, NY}
+\begin{itemize}
+  \item Supported graduate program operations, student documentation, and faculty coordination.
+\end{itemize}
+
+\section{Selected Publications \& Academic Contributions}
+\begin{itemize}
+  \item \textit{Equitable Bioinformatics: Enhancing Diagnostic Decision-Making through RNA and Biomarker Data} (ISTE-780 Project Report, 2025).
+  \item \textit{Trauma-Informed Bioinformatics for Diagnostic Justice: An EQUITAS Framework} (ED-447 Capstone, 2025).
+  \item \textit{RNA Secondary Structure Prediction and Visualization: Implementing the Nussinov Algorithm with MFE Enhancements} (BIO-630 Final Project, 2025).
+  \item \textit{ASL Recognition Application: Image Processing for Sign Language Translation} (MS Thesis, 2015).
+\end{itemize}
+
+\section{Technical Skills}
+\textbf{Programming:} Python, R, Java, C++, C\#, MATLAB, SQL, JavaScript, Bash\\
+\textbf{Machine Learning:} PyTorch, TensorFlow, scikit-learn, XGBoost, fairness-aware ML, contextual learning workflows\\
+\textbf{Data \& Analysis:} pandas, NumPy, SciPy, SHAP analysis, statistical testing, reproducible benchmarking\\
+\textbf{Infrastructure:} AWS, GCP, Docker, Git/GitHub, Linux, LaTeX
+
+\section{Professional Experience}
+
+\entry{VEDADATA Inc.}{Sep 2022 -- Aug 2024}{Data Solutions Engineer}{New York, NY}
+\begin{itemize}
+  \item Designed and implemented data pipelines and analytics workflows using Python and cloud services.
+\end{itemize}
+
+\entry{VIOME Inc.}{Jan 2021 -- Sep 2022}{AI Data Solutions Engineer}{New York, NY}
+\begin{itemize}
+  \item Built ML workflows for healthcare applications with production deployment and monitoring support.
+\end{itemize}
+
+\section{Selected Fit for NTNU AI-Enabled Maritime Systems Position}
+\begin{itemize}
+  \item Strong fit for adaptive maritime monitoring research through experience with dynamic decision workflows, reliability analysis, and constrained-system evaluation.
+  \item Demonstrated reproducibility discipline for multi-run experimental design, statistical validation, and transparent reporting.
+  \item Interdisciplinary AI background spanning method development, applied data systems, and high-stakes deployment contexts.
+\end{itemize}
+
+\end{document}

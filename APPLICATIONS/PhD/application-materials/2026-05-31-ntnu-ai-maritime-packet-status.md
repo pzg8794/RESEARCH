@@ -48,6 +48,7 @@ Posting: [Jobbnorge listing](https://www.jobbnorge.no/ledige-stillinger/stilling
 - A later sent-application attachment refresh confirmed the full eight-attachment set, including `Farmingdale State College Official Transcript`, with attachment endpoints `41768090` through `41768097`.
 - Final submitted preview QA confirmed the screening answers remain correct (`No, but I will complete the degree this semester`, `Yes`, `Yes`) and the CV preview still shows the corrected UofR Warner teaching-placement entry plus the Graduate Assistant in Quantum and AI Research entry.
 - Local tailored CV source was rebuilt without the Samasta entry: `2026-05-31-ntnu-ai-maritime-cv.tex` -> `2026-05-31-ntnu-ai-maritime-cv.pdf`.
+- A later CV correction pass created Jobbnorge draft preview `5877656` with the Farmingdale State College education entry and the transcript-backed rounded RIT GPA (`3.5`), but repeated `Update application` attempts on that exact draft returned a Jobbnorge-side `500` while reporting that the content was saved. A separate fresh send page could still resubmit the older submitted state, so the corrected CV data is verified in draft preview `5877656` but not yet verified in the submitted preview `5877625`.
 
 ## Required Documents Checklist
 
@@ -76,6 +77,7 @@ Posting: [Jobbnorge listing](https://www.jobbnorge.no/ledige-stillinger/stilling
   - Latest non-role-specific base artifact referenced in project materials: `materials/scholarships/cv_piter_garcia_2026.pdf`
   - Local tailored copy: `2026-05-31-ntnu-ai-maritime-cv.tex` -> `2026-05-31-ntnu-ai-maritime-cv.pdf`
   - Education section already includes `Farmingdale State College` (`2012`) with the dual-degree support line `Electrical Engineering & Computer Engineering Technology`.
+  - Latest local correction pass sets the RIT Data Science GPA to `3.5` and the Farmingdale transcript-backed GPA to `3.1`.
 
 ## Portal CV Curation Notes
 
@@ -87,7 +89,8 @@ Posting: [Jobbnorge listing](https://www.jobbnorge.no/ledige-stillinger/stilling
 
 1. Confirm receipt email is present in inbox and archive a copy.
 2. Export or save the full application preview PDF for records.
-3. Do not add further optional materials unless a specific new requirement appears; the packet now contains seven confirmed attachments.
+3. Retry the Jobbnorge CV-only update later from the saved draft state if the portal `500` clears; the corrected draft preview is `5877656`.
+4. Do not add further optional materials unless a specific new requirement appears; the packet now contains eight confirmed attachments.
 
 ## Risk Flags
 
@@ -95,3 +98,4 @@ Posting: [Jobbnorge listing](https://www.jobbnorge.no/ledige-stillinger/stilling
 - Need rapid referee confirmation.
 - Ensure all files are in English and clearly named.
 - Bachelor transcript coverage is now improved through the Farmingdale official transcript upload, but no separate diploma PDF or diploma-supplement PDF was located in the local workspace during this pass.
+- Jobbnorge intermittently returns `500` on the corrected CV draft submit path even though the draft data remains saved; the draft preview and submitted preview can temporarily diverge.
