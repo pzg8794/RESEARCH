@@ -10,6 +10,7 @@ This directory is organized so each application has its own self-contained revie
 3. `03-kth-reliable-quantum-computing/`
 4. `04-kth-machine-learning/`
 5. `05-kth-deep-learning-biological-systems/`
+6. `06-ntnu-ai-maritime-environmental-monitoring/`
 
 Each folder contains the exact artifacts used/planned for that application.
 

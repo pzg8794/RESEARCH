@@ -1,8 +1,29 @@
 # Local Source Map for PhD, Fellowship, and Research Applications
 
-Updated: 2026-05-26
+Updated: 2026-05-28
 
 This file links the application-related documentation spread across the two local DataScience spaces into this repository. It is a navigation map, not a bulk upload. Copy only public-safe or sanitized derivatives into GitHub.
+
+## Retrieval order for formal and research documents
+
+Use this discovery order every time you need a source artifact:
+
+1. **Overleaf first** (default starting point for formal manuscripts and paper-style project reports).
+2. **Google Drive second** (broader archive and planning material).
+3. **GitHub third** (public-safe mirrors, trackers, and sanitized outputs).
+
+Timing shortcut:
+
+- If search time is constrained, treat Google Drive and GitHub as interchangeable fallback layers.
+- Start at the DataScience root before drilling down:
+  - [DataScience root Drive folder](https://drive.google.com/drive/folders/1pY_fQ54nHKvFABNRGYAr5bQ3su_tUDAi?usp=sharing)
+  - This is the semester-level root with course directories nested underneath (including UofR semester subtrees).
+
+Quick-start lookup examples:
+
+- In Overleaf, search `BIO614` to locate the project `BIO614-FinalProjectProposal`.
+- Treat BIO614 artifacts as primary computational-biology writing evidence; use BIO550 as companion evidence, not standalone by default.
+- After confirming the Overleaf source, use this map to find corresponding Drive and GitHub references.
 
 ## Source roots
 
@@ -16,7 +37,9 @@ This file links the application-related documentation spread across the two loca
 | --- | --- |
 | Application deadlines and priorities | [phd-application-roadmap-2026-2027.md](./phd-application-roadmap-2026-2027.md) |
 | Uppsala/KTH urgent packet checklist | [sweden-vacancy-packet-checklist.md](./sweden-vacancy-packet-checklist.md) |
+| Reusable statement theme library | [../STATEMENTS/statement-theme-library.md](../STATEMENTS/statement-theme-library.md) |
 | GitHub CV/profile/application repo registry | [GITHUB_REPO_REGISTRY.md](./GITHUB_REPO_REGISTRY.md) |
+| Transcript source and mirror index | [TRANSCRIPT_SOURCE_INDEX.md](./TRANSCRIPT_SOURCE_INDEX.md) |
 | Public repository/application showcase strategy | [PUBLIC_REPOSITORY_SHOWCASE_PLAN.md](./PUBLIC_REPOSITORY_SHOWCASE_PLAN.md) |
 | Master artifact index | [../../MASTER_RESEARCH_INDEX.md](../../MASTER_RESEARCH_INDEX.md) |
 | Repo action list | [../../TODO_PHD_RESEARCH.md](../../TODO_PHD_RESEARCH.md) |
@@ -26,7 +49,8 @@ This file links the application-related documentation spread across the two loca
 Use these rules when adding local materials to this public repo:
 
 - Copy or summarize: public-safe strategy docs, source maps, sanitized research statements, sanitized CV/resume materials, sanitized project summaries, public fellowship/program requirement notes.
-- Reference only: Google Docs, application drafts, transcripts, recommendation packets, private email exports, advisor logs, financial aid records, identity documents, unofficial transcripts, application forms with personal data.
+- Reference only: Google Docs, application drafts, recommendation packets, private email exports, advisor logs, financial aid records, identity documents, unofficial transcripts, application forms with personal data.
+- Controlled exception: when the user explicitly asks to mirror a transcript or degree document into this repo for active packet work, place the approved copy in `APPLICATIONS/PhD/application-materials/` and record the Drive and local provenance in `TRANSCRIPT_SOURCE_INDEX.md`.
 - Never copy raw: IDs, financial records, health records, loan/FAFSA/1099/tax documents, raw advisor correspondence, private student information, or unreviewed recommendation letters.
 
 ## Canonical local planning and profile stack
@@ -142,7 +166,13 @@ These support the technical PhD narrative and research credibility.
 | [B-Rated-Venues-Submission-Guide.md](<file:///Users/pitergarcia/DataScience/Semester4/GA-Work/GA Papers/B-Rated-Venues-Submission-Guide.md>) | Venue/submission planning for paper work. | Reference for publication planning. |
 | [QuantumFaultTolerant README](<file:///Users/pitergarcia/DataScience/Semester4/GA-Work/GA Papers/QuantumFaultTolerant/README.md>) | Manuscript/project overview. | Candidate for public-safe summary. |
 | [ICNP_2026_venue_draft.tex](<file:///Users/pitergarcia/DataScience/Semester4/GA-Work/GA Papers/QuantumFaultTolerant/ICNP_2026_venue_draft.tex>) | Quantum networking manuscript source. | Reference; do not copy unpublished manuscript without intent. |
-| [ICNP_2026_venue_draft.pdf](<file:///Users/pitergarcia/DataScience/Semester4/GA-Work/GA Papers/QuantumFaultTolerant/ICNP_2026_venue_draft.pdf>) | Manuscript PDF. | Reference; upload only when publication policy allows. |
+| [ICNP_2026_venue_draft.pdf](<file:///Users/pitergarcia/DataScience/Semester4/GA-Work/GA Papers/QuantumFaultTolerant/ICNP_2026_venue_draft.pdf>) | Anonymous manuscript PDF. | Reference only; do not upload it or reuse its exact title while the submission remains anonymous. |
+| [GA_Dynamic_Qubit_Allocation_Report.pdf](<file:///Users/pitergarcia/DataScience/Semester4/GA-Work/GA Papers/GA_Reports/pdf_files/GA_Dynamic_Qubit_Allocation_Report.pdf>) | Preferred anonymous-safe quantum technical report for the KTH reliable quantum packet. | Reference for application upload; keep it as the primary sample unless a stronger sanitized manuscript copy is prepared privately. |
+| [GA_iCMAB_Evaluation_Report.pdf](<file:///Users/pitergarcia/DataScience/Semester4/GA-Work/GA Papers/GA_Reports/pdf_files/GA_iCMAB_Evaluation_Report.pdf>) | Backup anonymous-safe quantum technical report. | Reference for alternate upload if a more algorithm-focused sample is needed. |
+| [GA_EXPNeuralUCB_Tests_Report_Updated.pdf](<file:///Users/pitergarcia/DataScience/Semester4/GA-Work/GA Papers/GA_Reports/pdf_files/GA_EXPNeuralUCB_Tests_Report_Updated.pdf>) | Supplemental adversarial-neural-bandit report for quantum routing work. | Reference only; use as supporting evidence rather than the first sample. |
+| [TESTBEDS_OVERVIEW.md](<file:///Users/pitergarcia/DataScience/Semester4/GA-Work/hybrid_variable_framework/docs/TESTBEDS_OVERVIEW.md>) | Cross-testbed summary of the unified quantum routing evaluation framework. | Reference for application framing and interview prep. |
+| [README_START_HERE.md](<file:///Users/pitergarcia/DataScience/Semester4/GA-Work/hybrid_variable_framework/docs/setup/README_START_HERE.md>) | Framework onboarding overview. | Reference for concise explanation of the framework structure. |
+| [QUICK_START_CODE_SNIPPETS.md](<file:///Users/pitergarcia/DataScience/Semester4/GA-Work/hybrid_variable_framework/docs/setup/QUICK_START_CODE_SNIPPETS.md>) | Runnable framework examples. | Reference for implementation-depth examples; do not copy blindly into public notes. |
 | [Dynamic Routing setup files](<file:///Users/pitergarcia/DataScience/Semester4/GA-Work/hybrid_variable_framework/setup_files>) | Technical framework documentation. | Candidate for `PAPERS/Quantum_Computing/implementation_framework/`. |
 | [Research communications log](<file:///Users/pitergarcia/DataScience/Semester4/GA-Work/GA Papers/GA_Communications/Piter Garcia & Dan Krutz Research Communications Log.md>) | Advisor/research communication log. | Reference only; never copy raw to public GitHub. |
 

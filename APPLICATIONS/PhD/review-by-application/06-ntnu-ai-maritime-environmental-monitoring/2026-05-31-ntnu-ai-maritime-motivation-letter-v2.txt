@@ -1,0 +1,17 @@
+Dear Hiring Committee,
+
+I am applying for the PhD position in AI-Enabled Maritime Systems for Environmental Monitoring at the Department of Ocean Operations and Civil Engineering, NTNU. The COD-SPAWN project's integration of autonomous maritime sensing, environmental intelligence, and measurable societal impact strongly matches my research interests and long-term goals.
+
+My core motivation is to build trustworthy AI systems that operate under real-world constraints and support decisions in complex environments. The challenge at the center of this position is exactly the kind of work I want to pursue: converting multimodal observations from autonomous platforms into robust, interpretable indicators for cod spawning dynamics and pollution monitoring. This is an area where technical rigor in machine learning, sensing integration, and systems evaluation can directly improve environmental stewardship.
+
+In prior research and project work, I have focused on data-driven modeling, algorithmic design, and reproducible experimentation across interdisciplinary settings. I am comfortable moving from problem framing to implementation and validation, and I value research that bridges methodological innovation with practical deployment realities. I am especially motivated by collaboration across disciplines, and this role's linkage between marine biology, environmental monitoring, and ocean engineering is a strong fit with how I work.
+
+At NTNU, I would contribute to developing robust AI and computer vision pipelines for environmental monitoring on USVs, with particular emphasis on performance, uncertainty awareness, and operational reliability in changing marine conditions. I am also highly motivated to contribute to publications, collaborative field-oriented research, and active participation in research-group and international activities.
+
+Beyond technical alignment, I am drawn to NTNU's mission-driven and international research culture, as well as to the opportunity to work in Alesund in close connection with marine research infrastructure and cross-sector partners. This position is an excellent next step for my doctoral training and for building a long-term research profile at the intersection of AI, autonomous systems, and environmental sustainability.
+
+Thank you for your consideration. I would be honored to contribute to COD-SPAWN and NTNU's broader research mission.
+
+Sincerely,
+
+Piter Garcia
