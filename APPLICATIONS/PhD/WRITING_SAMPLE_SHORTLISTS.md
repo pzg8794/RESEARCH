@@ -1,6 +1,6 @@
 # Writing Sample Shortlists by Application Type
 
-Updated: 2026-05-30
+Updated: 2026-07-31 (canonical order updated to 6-item set; BIOL550 promoted to standalone; BDMD and PHRR added as positions 1–2)
 
 This file is the packet-building companion to `OVERLEAF_PAPER_INDEX.md`. Use it when the question is no longer "what exists?" but "which 2-4 artifacts fit this application best?"
 
@@ -17,6 +17,8 @@ Use alongside:
 2. Prefer upload-ready derivatives before raw Overleaf or Drive sources.
 3. Use the canonical Overleaf IDs in `OVERLEAF_CANONICAL_STATUS.md` whenever multiple similar course projects exist.
 4. `DSCI633` now has a staged repo-side application copy. Prefer BIO614, DSCI601, or ISTE780 first when a polished manuscript is required; use DSCI633 when a sole-authored healthcare data-science course report is the better fit.
+5. **Canonical CV order (LOCKED):** BDMD → PHRR → BIO614 → ISTE780 → BIOL550 → DSCI601 (non-quantum). QuantumPathOptimization leads for quantum CVs. Do NOT reorder.
+6. BIOL550 is now a **standalone** entry — never combined with BIO614. Use the IEEE-format solo version (`biol550-ieee-ngs-reanalysis-writing-sample.pdf`) for applications.
 
 ## Shortlists
 
@@ -58,7 +60,8 @@ Use alongside:
 - Primary: `IDAI700-Research_Portfolio` - strongest current course-based ethics/outreach writing anchor.
 - Secondary: `RIT Together Proposal` - community-facing supplement.
 - Technical support sample: `BIO614-FinalProjectProposal` or `Uppsala-2026-Writing-Sample-DSCI601-Clean`, depending on whether the host is more biological or ML-focused.
-- Do not lead with: BIOL550 reports, raw reflections, or unresolved group-phase artifacts.
+- Do not lead with: raw reflections or unresolved group-phase artifacts.
+- BIOL550 is now an acceptable standalone upload (use the IEEE-format solo version); it is no longer restricted to support-only use.
 
 ## Current availability snapshot
 
@@ -68,12 +71,15 @@ Use alongside:
 | `Uppsala-2026-Writing-Sample-DSCI601-Clean` | Upload-ready | Technical ML / fairness / governance |
 | sanitized `QuantumPathOptimization` copy | Upload-ready | Quantum / routing |
 | `ISTE780-Project_Phase4` | Upload-ready | Technical ML / breadth support |
-| `BIOL550-Project_Paper` | Companion-ready | Computational biology support |
+| `BIOL550-Project_Paper` | Group version — do not upload directly | Computational biology (use IEEE solo version instead) |
+| `biol550-ieee-ngs-reanalysis-writing-sample` | **Upload-ready** (IEEE solo, 4 pages) | Computational biology standalone |
 | `IDAI700-Research_Portfolio` | Backup-ready | Broader impact / reflective ethics support |
 | `IDAI700-Research_Paper` | Staged application copy ready | Preferred IDAI700 source for responsible AI packets |
 | `DSCI644-GP-Phase4` | Needs review | Data science / ML backup |
 | `RIT Together Proposal` | Needs review | Broader impact / outreach |
 | `DSCI633` | Staged repo-side application copy | Data science / health ML backup when a direct course report is acceptable |
+| `BDMD` (RIT M.S. CS 2015) | Source: archived thesis PDF / Overleaf | Position 1 in CV list; confirm upload-ready derivative before use |
+| `PHRR` (DSCI-633 Project Report) | Staged repo-side copy | Position 2 in CV list |
 
 ## Update rule
 
