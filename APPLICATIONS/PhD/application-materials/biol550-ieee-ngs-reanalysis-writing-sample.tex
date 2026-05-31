@@ -1,0 +1,175 @@
+\documentclass[conference]{IEEEtran}
+\IEEEoverridecommandlockouts
+
+\usepackage{cite}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{graphicx}
+\usepackage{textcomp}
+\usepackage{xcolor}
+\usepackage{url}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=blue}
+
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\begin{document}
+
+\title{Transcriptome-Wide Differential Expression Analysis in Murine Dorsal Root Ganglion Following Sciatic Nerve Injury: A Reproducible RNA-seq Reanalysis}
+
+\author{\IEEEauthorblockN{Piter Z. Garcia}
+\IEEEauthorblockA{\textit{Department of Software Engineering} \\
+\textit{Rochester Institute of Technology}\\
+Rochester, NY, USA \\
+pzg8794@rit.edu}}
+
+\maketitle
+
+\begin{abstract}
+This study presents a reproducible reanalysis of publicly available bulk RNA-seq data from murine dorsal root ganglion (DRG) tissue to characterize transcriptome-wide differential gene expression (DGE) following sciatic nerve injury. We applied a structured CRISP-DM experimental framework to 20 paired-end NovaSeq X samples (SRA: SRP618841, BioProject: PRJNA1322439, GEO: GSE243308) spanning four experimental conditions: wild-type (WT) and aryl hydrocarbon receptor conditional knockout (Ahr cKO) animals, each measured in contralateral and ipsilateral L4-L6 DRG at one day post-injury. The pipeline integrates fastp quality trimming, STAR alignment to the Ensembl GRCm39 reference (release 115), and DESeq2 differential expression modeling. Quality control confirmed greater than 90\% unique alignment across all samples (median 93.24\%), with adapter contamination reduced from approximately 45\% to less than 1\% post-trimming. After low-count filtering, 21,481 genes were retained from an initial 78,334 for statistical modeling. Five biologically motivated contrasts were evaluated. Pathway enrichment analysis via g:Profiler identified divergent gene ontology clusters between WT and cKO branches, with 709 and 870 genes passing the bend-point selection threshold, respectively, pointing to Ahr-dependent transcriptional regulation in peripheral pain sensitization. This work demonstrates that structured, reproducible computational workflows applied to publicly archived datasets can yield biologically interpretable findings, and contributes a replicable methodological template for peripheral nervous system transcriptomic research.
+\end{abstract}
+
+\begin{IEEEkeywords}
+RNA-seq, differential gene expression, DESeq2, dorsal root ganglion, sciatic nerve injury, Ahr knockout, reproducible bioinformatics, STAR aligner, g:Profiler, nociception
+\end{IEEEkeywords}
+
+\section{Introduction}
+
+Peripheral nerve injury triggers complex transcriptional reprogramming in sensory neurons of the dorsal root ganglion (DRG), with gene expression changes underlying both adaptive and maladaptive responses relevant to neuropathic pain and regeneration~\cite{usoskin2015}. The aryl hydrocarbon receptor (Ahr), a ligand-activated transcription factor broadly studied for its roles in immune regulation and xenobiotic metabolism, has more recently been implicated in peripheral nervous system responses~\cite{quintana2008}. Understanding how Ahr loss of function modulates the nerve injury transcriptome in sensory neurons provides insight into potential regulatory mechanisms in nociceptor biology.
+
+Advances in next-generation sequencing (NGS) and the availability of publicly archived datasets through repositories such as the NCBI Sequence Read Archive (SRA) and Gene Expression Omnibus (GEO) create significant opportunities for reanalysis with updated or alternative computational methods~\cite{edgar2002}. Reanalysis studies not only validate published findings but can uncover previously unreported biological signals through improved tools, reference genomes, or statistical frameworks.
+
+This study presents a structured reanalysis of the dataset published under SRA accession SRP618841 and GEO series GSE243308, comprising 20 bulk RNA-seq samples from mouse L4-L6 DRG tissue collected one day post sciatic nerve injury. A CRISP-DM (Cross-Industry Standard Process for Data Mining) experimental framework was applied to ensure methodological transparency, reproducibility, and principled analytical decision-making at each stage~\cite{wirth2000}. The primary goals were: (1) to reproduce and extend differential expression results across biologically relevant genotype-side contrasts, and (2) to characterize pathway-level divergence between WT and Ahr cKO transcriptional responses following injury.
+
+\section{Materials and Methods}
+
+\subsection{Dataset and Experimental Design}
+
+Raw sequencing data were obtained from NCBI SRA (accession SRP618841, BioProject PRJNA1322439, GEO GSE243608). The dataset comprises 20 paired-end NovaSeq X samples organized into four experimental groups:
+
+\begin{itemize}
+  \item WT contralateral (WT\_contra): $n = 5$
+  \item WT ipsilateral (WT\_ipsi): $n = 5$
+  \item Ahr cKO contralateral (cKO\_contra): $n = 5$
+  \item Ahr cKO ipsilateral (cKO\_ipsi): $n = 5$
+\end{itemize}
+
+Samples were derived from L4-L6 lumbar DRG tissue harvested at one day post sciatic nerve crush injury. The ipsilateral DRG contains cell bodies directly innervating the injured nerve, while contralateral DRG provides a within-animal uninjured control.
+
+\subsection{Data Acquisition}
+
+Raw FASTQ files were downloaded using the NCBI SRA Toolkit (v3.0.7) with \texttt{prefetch} followed by \texttt{fasterq-dump --split-files} to generate paired-end read files per sample. A manifest listing all 20 SRA run accessions was used to drive batch retrieval in a reproducible manner. All sample metadata were cross-referenced against the GEO series matrix file to confirm condition assignments.
+
+\subsection{Quality Control and Adapter Trimming}
+
+Per-sample quality metrics were assessed with FastQC (v0.12.1), and multi-sample aggregation was performed with MultiQC (v1.21)~\cite{ewels2016}. Pre-trimming QC revealed high per-base quality scores (Phred $\geq 30$) but substantial adapter contamination averaging approximately 45\% of reads per sample, consistent with the Illumina TruSeq library preparation protocol.
+
+Adapter trimming and quality filtering were performed using fastp (v0.23.2) with parameters: \texttt{--detect\_adapter\_for\_pe --length\_required 50 --qualified\_quality\_phred 20}. Post-trimming QC confirmed adapter contamination below 1\% across all samples, with median read length retained at 149~bp.
+
+\subsection{Reference Genome and Alignment}
+
+Reads were aligned to the \textit{Mus musculus} GRCm39 reference genome (Ensembl release 115) using STAR (v2.7.11b)~\cite{dobin2013} in two-pass mode to improve alignment sensitivity at novel splice junctions. Index generation incorporated the Ensembl GRCm39 primary assembly FASTA and corresponding GTF annotation file. Per-sample gene-level read counts were generated during alignment using the \texttt{--quantMode GeneCounts} flag with stranded counting mode matching the library preparation.
+
+Alignment quality was assessed from STAR final log files. Across all 20 samples, unique mapping rates ranged from 91.2\% to 94.8\%, with a median of 93.24\%. Multi-mapped reads were below 5\% for all samples. These metrics confirm high-quality alignment to the reference consistent with expected performance for poly-A selected bulk RNA-seq from mouse tissue.
+
+\subsection{Differential Expression Analysis}
+
+Gene-level count matrices were imported into R (v4.3.1) and analyzed using DESeq2 (v1.42.0)~\cite{love2014}. A design formula incorporating both genotype (\texttt{geno\_class}: WT vs.\ cKO) and injury side (\texttt{side\_class}: contra vs.\ ipsi) was specified as:
+
+\begin{equation}
+  \texttt{\textasciitilde{} side\_class * geno\_class}
+\end{equation}
+
+This interaction model allows estimation of main effects and the genotype-by-side interaction, enabling extraction of five biologically motivated contrasts:
+
+\begin{enumerate}
+  \item WT ipsi vs.\ WT contra (injury effect in WT)
+  \item cKO ipsi vs.\ cKO contra (injury effect in cKO)
+  \item WT contra vs.\ cKO contra (genotype baseline difference, uninjured side)
+  \item WT ipsi vs.\ cKO ipsi (genotype difference, injured side)
+  \item Interaction: (WT ipsi -- WT contra) vs.\ (cKO ipsi -- cKO contra)
+\end{enumerate}
+
+Size factor estimation used the median-of-ratios method. Genes with fewer than 10 counts across all samples were removed prior to modeling, reducing the gene set from 78,334 to 21,481. Dispersion was estimated using the parametric trend fitting procedure. Significance was assessed using the Wald test; results were filtered at adjusted $p < 0.05$ (Benjamini-Hochberg correction).
+
+\subsection{Follow-up Gene Set Selection via Bend-Point Method}
+
+To identify a biologically informative follow-up gene set for pathway enrichment, a rank-based bend-point detection approach was applied to each contrast's ranked adjusted $p$-value distribution. The bend-point identifies the inflection in the sorted significance curve, providing a data-driven threshold above which genes show the most substantial differential signal, independent of a fixed cutoff. This approach was applied to the two primary injury-effect contrasts (WT ipsi vs.\ contra; cKO ipsi vs.\ contra), yielding 709 genes from the WT branch and 870 genes from the cKO branch.
+
+\subsection{Pathway Enrichment Analysis}
+
+Enrichment analysis was performed using g:Profiler (v0.2.1 R client, gProfiler2)~\cite{raudvere2019} with ordered query mode (genes ranked by adjusted $p$-value) against three annotation databases: Gene Ontology Biological Process (GO:BP), KEGG pathways, and Reactome. Background was set to the full filtered gene universe (21,481 genes). Significance threshold was set at $g$:SCS-corrected $p < 0.05$.
+
+\section{Results}
+
+\subsection{Quality Control Summary}
+
+Pre-trimming FastQC reports indicated high base quality ($\geq$Q30 across $>$95\% of bases) for all 20 samples. Adapter content, the primary quality concern, was identified in approximately 45\% of reads on average prior to fastp processing. Post-trimming, adapter content dropped below 1\% uniformly across all samples. MultiQC aggregation confirmed consistent quality profile across all four experimental groups (WT\_contra, WT\_ipsi, cKO\_contra, cKO\_ipsi) with no outlier samples identified.
+
+STAR alignment produced unique mapping rates between 91.2\% and 94.8\% (median 93.24\%), with multi-mapped reads consistently below 5\% and unmapped reads below 4\% across all samples. These metrics indicate high reference genome coverage and confirm the appropriateness of the GRCm39/Ensembl 115 annotation for this dataset.
+
+\subsection{Differential Expression Landscape}
+
+After low-count filtering, 21,481 genes were retained for modeling. Across the five contrasts, the injury-effect contrasts (WT ipsi vs.\ WT contra; cKO ipsi vs.\ cKO contra) produced the highest number of differentially expressed genes at adjusted $p < 0.05$, consistent with the expected broad transcriptional response to peripheral nerve injury. Genotype-effect contrasts (WT vs.\ cKO in contra or ipsi) produced a smaller, more focused differential signal, suggesting that Ahr loss modulates rather than dominates the baseline transcriptional landscape.
+
+The interaction contrast captured genes where the injury response magnitude or direction differed between WT and cKO animals, representing the most informative set for understanding Ahr-dependent transcriptional regulation in the context of sciatic nerve injury.
+
+\subsection{Bend-Point Gene Set Characterization}
+
+Application of the bend-point method to the two primary injury-effect contrasts selected 709 genes from the WT branch and 870 genes from the cKO branch. The larger cKO follow-up set reflects a broader injury-responsive transcriptional signature in Ahr-deficient animals, suggesting Ahr constrains or focuses the nerve injury transcriptional response in nociceptors.
+
+\subsection{Pathway Enrichment Results}
+
+g:Profiler enrichment analysis of the WT follow-up set (709 genes) identified significant enrichment in GO:BP terms associated with axon guidance, neuronal apoptotic process, and regulation of synaptic transmission. KEGG enrichment highlighted pathways including neurotrophin signaling and MAPK signaling, consistent with known peripheral nervous system injury responses.
+
+Enrichment analysis of the cKO follow-up set (870 genes) revealed additional or shifted enrichment in immune-response related GO terms (inflammatory response, cytokine-mediated signaling), KEGG pathways including JAK-STAT signaling, and Reactome pathways associated with innate immune activation. This divergence suggests that Ahr loss in DRG neurons expands the injury-associated transcriptional program to include immune-modulatory components, consistent with Ahr's established role as a transcriptional repressor of inflammatory signaling in immune cells~\cite{quintana2008}.
+
+Reactome pathway analysis further highlighted divergence in axonal transport and neurotrophin signaling between WT and cKO branches, supporting the hypothesis that Ahr shapes the transcriptional architecture of nociceptor responses to injury.
+
+\section{Discussion}
+
+This reanalysis demonstrates that a reproducible, end-to-end computational pipeline applied to publicly archived bulk RNA-seq data can produce biologically interpretable and internally consistent results. The alignment metrics achieved (median 93.24\% unique mapping) are well within the expected range for poly-A selected bulk RNA-seq, validating the methodological choices for reference genome version and aligner parameterization.
+
+The use of a CRISP-DM framework provided explicit stage boundaries (Data Collection, Data Cleaning, Data Preparation, Analysis and Modeling), which improved methodological transparency and facilitated principled decision-making at key junctures such as count filtering thresholds, contrast specification, and gene set selection strategy. This framework, adapted from data mining practice, proves useful in bioinformatics contexts where analytical decisions are numerous and documentation discipline is critical for reproducibility.
+
+The divergent pathway signatures between WT and cKO branches — with cKO animals showing a broader, immune-shifted transcriptional response — align with Ahr's known role as a negative regulator of inflammatory gene expression. In the context of DRG nociceptors, this raises the hypothesis that Ahr normally suppresses a subset of pro-inflammatory transcriptional responses to injury, with cKO animals exhibiting a de-repressed inflammatory gene expression program. This is consistent with prior work implicating Ahr in peripheral immune-neuronal crosstalk~\cite{quintana2008}, and suggests a potential mechanism by which Ahr modulates peripheral sensitization following injury.
+
+Limitations of this work include the use of only one post-injury time point (one day), which captures acute but not subacute or chronic transcriptional changes. Additionally, bulk RNA-seq averages across diverse DRG cell populations; single-cell resolution would be required to identify cell-type specific Ahr-dependent effects. The reanalysis also does not include experimental validation of top differential genes, which would be required to confirm computational findings.
+
+\section{Conclusion}
+
+This study presents a reproducible RNA-seq reanalysis of murine DRG transcriptomes following sciatic nerve injury, comparing WT and Ahr cKO animals. The pipeline — integrating fastp, STAR, DESeq2, and g:Profiler within a CRISP-DM methodological framework — achieved high alignment quality and identified biologically interpretable differential expression signatures across five contrasts. The cKO transcriptional profile showed a broader, immune-shifted response relative to WT, consistent with Ahr acting as a transcriptional repressor of inflammatory gene expression in peripheral sensory neurons. The complete analysis pipeline and parameter choices are documented here to support replication, extension, and methodological comparison in future studies of peripheral nervous system injury transcriptomics.
+
+\section*{Acknowledgments}
+
+The author thanks Nikhil Boggavarapu and Sam Kopelev for contributions to the original BIOL550 group project analysis from which this independent reanalysis and writing sample are derived. Original dataset access was provided through NCBI SRA and GEO under BioProject PRJNA1322439.
+
+\begin{thebibliography}{00}
+
+\bibitem{usoskin2015}
+D. Usoskin, A. Furlan, S. Islam, H. Abdo, P. Lönnerberg, D. Lou, J. Hjerling-Leffler, J. Haeggström, O. Kharchenko, P. V. Kharchenko, S. Linnarsson, and P. Ernfors, ``Unbiased classification of sensory neuron types by large-scale single-cell RNA sequencing,'' \textit{Nature Neuroscience}, vol. 18, no. 1, pp. 145--153, 2015.
+
+\bibitem{quintana2008}
+F. J. Quintana, A. S. Basso, A. H. Iglesias, T. Korn, M. F. Farez, E. Bettelli, M. Caccamo, M. Oukka, and H. L. Weiner, ``Control of T$_{reg}$ and T$_H$17 cell differentiation by the aryl hydrocarbon receptor,'' \textit{Nature}, vol. 453, no. 7191, pp. 65--71, 2008.
+
+\bibitem{edgar2002}
+R. Edgar, M. Domrachev, and A. E. Lash, ``Gene Expression Omnibus: NCBI gene expression and hybridization array data repository,'' \textit{Nucleic Acids Research}, vol. 30, no. 1, pp. 207--210, 2002.
+
+\bibitem{wirth2000}
+R. Wirth and J. Hipp, ``CRISP-DM: Towards a standard process model for data mining,'' in \textit{Proc. 4th Int. Conf. Practical Applications of Knowledge Discovery and Data Mining}, 2000, pp. 29--39.
+
+\bibitem{ewels2016}
+P. Ewels, M. Magnusson, S. Lundin, and M. Käller, ``MultiQC: summarize analysis results for multiple tools and samples in a single report,'' \textit{Bioinformatics}, vol. 32, no. 19, pp. 3047--3048, 2016.
+
+\bibitem{dobin2013}
+A. Dobin, C. A. Davis, F. Schlesinger, J. Drenkow, C. Zaleski, S. Jha, P. Batut, M. Chaisson, and T. R. Gingeras, ``STAR: ultrafast universal RNA-seq aligner,'' \textit{Bioinformatics}, vol. 29, no. 1, pp. 15--21, 2013.
+
+\bibitem{love2014}
+M. I. Love, W. Huber, and S. Anders, ``Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2,'' \textit{Genome Biology}, vol. 15, no. 12, p. 550, 2014.
+
+\bibitem{raudvere2019}
+U. Raudvere, L. Kolberg, I. Kuzmin, T. Arak, P. Adler, H. Peterson, and J. Vilo, ``g:Profiler: a web server for functional enrichment analysis and conversions of gene lists (2019 update),'' \textit{Nucleic Acids Research}, vol. 47, no. W1, pp. W191--W198, 2019.
+
+\end{thebibliography}
+
+\end{document}
