@@ -44,7 +44,7 @@ Timing rule:
 - `BIO614-Project_Proposal2` -> `/project/680192464bec9fc317edfdd4`
 - `BIO614-Project_Proposal` -> `/project/6801835c29fff18f5bc05afb`
 
-Recommendation: use `BIO614-FinalProjectProposal` as the first BIO writing-sample anchor.
+Recommendation: use `BIO614-FinalProjectProposal` as the first BIO writing-sample anchor. When the course appears as `BIO630` in other materials, map it back to this Overleaf manuscript entry explicitly.
 
 ### DSCI601
 
@@ -63,15 +63,17 @@ Recommendation: keep the cleaned DSCI601 manuscript copy as core methods/fairnes
 - `ISTE780-Lab5-Report` -> `/project/68945fb950c987645f1ac4ca`
 - `ISTE780-Lab4-Report` -> `/project/688b182bb3f4dc2b2916d1e7`
 - `ISTE780-Project_Phase4` -> `/project/687b2ee4bacc2838e411460b`
+- `ISTE780-Project_Phase3` -> `/project/687a7fa9cc5c2aa5f7e0ea47`
 - `ISTE780-Lab3-Report` -> `/project/68730e1b162a9946d16ad890`
 - `ISTE780-Project_Phase2` -> `/project/685f6d4e7cfd1be32fb1edc2`
 - `ISTE780-Lab2-Report` -> `/project/6862...` (visible in list; capture full ID when selected)
 
-Recommendation: use `ISTE780-Project_Phase4` before lab-only reports when stronger project narrative is needed.
+Recommendation: use `ISTE780-Project_Phase4` as the canonical packet source. Treat `ISTE780-Project_Phase3` as an earlier-stage related project, not as a duplicate Phase 4.
 
 ### IDAI700
 
-- `IDAI700-Research_Portfolio` -> `/project/6912b8af5f8d972c24f1a3af` (primary IDAI700 candidate)
+- `IDAI700-Research_Paper` -> `/project/693fcd2283c8d0afc36697e1`
+- `IDAI700-Research_Portfolio` -> `/project/6912b8af5f8d972c24f1a3af` (primary IDAI700 application candidate)
 - `IDAI700-Reflection9` -> `/project/692aab0f82feceb233d08217`
 - `IDAI700-Reflection8` -> `/project/692aaad00c4b289dbb2d69f2`
 - `IDAI700-Reflection5` -> `/project/6917f399749fc724f36b5ff2`
@@ -79,7 +81,19 @@ Recommendation: use `ISTE780-Project_Phase4` before lab-only reports when strong
 - `IDAI700-Unit6-Journal` -> `/project/68fc54d09806bccf5b401d7b`
 - `IDAI700-Ban_Technology_Journal` -> `/project/68...` (visible in list; capture full ID when selected)
 
-Recommendation: prefer `IDAI700-Research_Portfolio` over short reflections when attaching fairness/ethics evidence.
+Recommendation: prefer `IDAI700-Research_Paper` when a packet needs one stand-alone responsible-AI paper. The current generic application copy is `application-materials/2026-05-30-idai700-designing-equitable-ai-systems-diagnostic-justice-writing-sample.pdf`, backed by the non-destructive Overleaf copy `Application-Writing-Sample-IDAI700-Diagnostic-Justice`. Use `IDAI700-Research_Portfolio` when broader narrative synthesis and lived-authority framing are more valuable than a conventional paper arc.
+
+### DSCI644
+
+- `DSCI644-GP-Phase4` -> `/project/6806e71cd7edd322e0877d31`
+
+Recommendation: review as a backup data-science / ML writing sample when BIO614, DSCI601, and ISTE780 do not fit the posting tightly enough, but verify authorship and collaboration boundaries first.
+
+### RIT Together Proposal
+
+- `RIT Together Proposal` -> `/project/68717cf070e9a60a4c1e3644` (user-supplied Overleaf proposal link)
+
+Recommendation: use for broader-impact, outreach, or community-facing applications, not as the first technical writing sample.
 
 ### BIOL550
 
@@ -105,6 +119,11 @@ For strong applications, target a 2-4 sample packet when allowed:
 2. DSCI601 methods/fairness manuscript evidence.
 3. Quantum/GA anonymous-safe technical report (role-dependent).
 4. Optional ISTE780 or IDAI700 artifact for computational systems or AI fairness breadth.
+5. DSCI644 as a backup data-science/ML sample when a fresher course paper is a better fit than the current four-sample ladder.
+
+Drive-first pipeline note:
+
+- `DSCI633` currently has a strong project folder in Drive (`https://drive.google.com/drive/u/0/folders/1Z-zMFLS6uAfOCkpysGW8vuaQiezAhG14`) but no tracked Overleaf manuscript yet. The current repo-side application copy is `application-materials/2026-05-30-dsci633-predicting-hospital-readmission-rates-writing-sample.pdf`. Use `PAPERS/Data_Science_and_Machine_Learning/DSCI633_PROJECT_INTAKE.md` plus `PAPERS/Data_Science_and_Machine_Learning/DSCI633_MANUSCRIPT_PLAN.md` for provenance and optional cleanup if a shorter manuscript-style derivative is later needed.
 
 ## Documentation rule after each submission update
 

@@ -1,0 +1,5 @@
+Question 1:
+I am interested in this PhD because it combines machine learning, computational biology, and clinically meaningful cancer-data inference. The focus on Bayesian and AI-enhanced methods for tumor DNA, ctDNA, single-cell data, and metastasis detection matches my goal of building reliable computational methods for high-dimensional biomedical data with direct diagnostic relevance.
+
+Question 2:
+I can contribute strong Python-based ML and reproducibility skills, experience working with noisy heterogeneous data, and current computational biology work in RNA-seq and differential-expression analysis. I would bring disciplined evaluation, clear technical reporting, and a strong motivation to grow into probabilistic and deep-learning methods for clinically relevant cancer-data problems.

@@ -1,0 +1,3 @@
+Title: BIOL550 Weekly Report - Mouse Differential Expression (SRP618841)
+
+This sample presents a computational biology workflow for analyzing high-dimensional sequencing data with emphasis on statistical validity, reproducibility, and biological interpretation. The report summarizes preprocessing quality checks, differential-expression analysis, and signal interpretation in a mouse RNA-seq setting. It demonstrates my ability to work with noisy biological data, document analytical assumptions, and connect computational results to meaningful biomedical questions.

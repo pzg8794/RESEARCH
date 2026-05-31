@@ -70,6 +70,48 @@ Every artifact uses this structure:
 
 ---
 
+### ProFellow Opportunity Queue
+
+- **Link / Filename:** `profellow-opportunity-queue-2026-05-27.md`
+- **Type:** Fellowship discovery queue / bookmark tracker
+- **Category:** Applications / Planning
+- **Status:** Canonical
+- **Public/Private:** Public-safe
+- **Summary:** Captures the first ProFellow discovery pass, including the active Mira item, the bookmarked doctoral and doctoral-fellowship shortlist, screened-out leads, and the next verification steps.
+- **Why this matters for PhD applications:** Keeps fellowship and fully funded doctoral discovery from getting lost in browser bookmarks or email while preserving a clean queue for future application work.
+- **GitHub target path:** `APPLICATIONS/Fellowships/profellow-opportunity-queue-2026-05-27.md`
+- **Next action:** Verify the official pages for the bookmarked items and promote only the strongest verified targets into the main roadmap.
+
+---
+
+### ProFellow Search Routine
+
+- **Link / Filename:** `profellow-search-routine.md`
+- **Type:** Workflow note / search protocol
+- **Category:** Applications / Planning
+- **Status:** Canonical
+- **Public/Private:** Public-safe
+- **Summary:** Documents the repeatable ProFellow workflow, including productive queries, weak queries, triage rules, bookmark rules, and the promotion path from discovery to verified application target.
+- **Why this matters for PhD applications:** Makes future discovery passes consistent, reduces duplicate effort, and turns ProFellow into a reliable queue-building tool rather than a loose browsing habit.
+- **GitHub target path:** `APPLICATIONS/Fellowships/profellow-search-routine.md`
+- **Next action:** Reuse and refine the routine during each weekly search pass.
+
+---
+
+### Fulbright Awards Queue
+
+- **Link / Filename:** `fulbright-awards-queue-2026-05-27.md`
+- **Type:** Fellowship queue / official award shortlist
+- **Category:** Applications / Planning
+- **Status:** Canonical
+- **Public/Private:** Public-safe
+- **Summary:** Captures the current official Fulbright U.S. Student Program shortlist with priority tiers, host-affiliation requirements, partnership-award caveats, and the strongest Europe-focused options for research and graduate study.
+- **Why this matters for PhD applications:** Keeps Fulbright discovery organized as a real application pipeline instead of a loose set of country pages, while separating high-fit Nordic and European options from lower-priority monitors.
+- **GitHub target path:** `APPLICATIONS/Fellowships/fulbright-awards-queue-2026-05-27.md`
+- **Next action:** Confirm the exact eligibility route, build host lists for Sweden/Norway/Germany, and decide whether Finland partnership awards are worth the extra admissions workload.
+
+---
+
 ### May 2026 Application Sprint Todo
 - **Link / Filename:** `may-2026-application-sprint.md`
 - **Type:** Weekly todo list / application sprint
@@ -194,6 +236,40 @@ Every artifact uses this structure:
 
 ---
 
+### IDAI700 – Research Portfolio and Course Paper Bundle
+
+- **Link / Filename:**
+  - `IDAI700-Research_Portfolio` (canonical application-facing Overleaf project: `https://www.overleaf.com/project/6912b8af5f8d972c24f1a3af`)
+  - Distinct companion Overleaf project: `IDAI700-Research_Paper` (`https://www.overleaf.com/project/693fcd2283c8d0afc36697e1`)
+  - Repo-side comparison note: `APPLICATIONS/PhD/IDAI700_WRITING_SAMPLE_REVIEW.md`
+  - Drive folder: `https://drive.google.com/drive/u/0/folders/1dpVtDcwv3BKR_9sr0PpvckW34NlMNjx-`
+- **Type:** Research portfolio / manuscript-style course paper
+- **Category:** AI + CS Education / AI Ethics
+- **Status:** Keep
+- **Public/Private:** Review before posting
+- **Summary:** The IDAI700 lane now has two confirmed distinct artifacts: a portfolio narrative titled `EQUITAS: A Lived Journey to Ethical AI` and a separate stand-alone research paper beginning `Designing Equitable AI Systems that Providers and Patients from Marginalized Communities Can Trust`.
+- **Why this matters for PhD applications:** Stronger backup writing evidence for fairness- and ethics-heavy applications than slide decks alone; useful when a packet needs responsible-AI depth without losing the broader technical narrative.
+- **GitHub target path:** `PAPERS/AI_and_Education/`
+- **Next action:** Use the staged copy `APPLICATIONS/PhD/application-materials/2026-05-30-idai700-designing-equitable-ai-systems-diagnostic-justice-writing-sample.pdf` as the first single-paper responsible-AI packet source, backed by the non-destructive Overleaf copy `Application-Writing-Sample-IDAI700-Diagnostic-Justice`, and keep `IDAI700-Research_Portfolio` as broader narrative support.
+
+---
+
+### RIT Together Proposal
+
+- **Link / Filename:**
+  - Drive folder: `https://drive.google.com/drive/u/0/folders/1F29wrZiK3LHWkvRpmiyihibOuY_Qogsr`
+  - Overleaf proposal paper: `https://www.overleaf.com/project/68717cf070e9a60a4c1e3644`
+- **Type:** Proposal project / manuscript-style proposal
+- **Category:** AI + CS Education / Broader Impact
+- **Status:** Keep
+- **Public/Private:** Review before posting
+- **Summary:** Project materials and proposal paper for the RIT Together effort; likely stronger as community-facing and broader-impact evidence than as a primary technical paper.
+- **Why this matters for PhD applications:** Useful for statements and fellowships that value outreach, community partnership, or public-interest framing alongside technical work.
+- **GitHub target path:** `PROJECTS/RIT_Together_Proposal/`
+- **Next action:** Review authorship and collaboration boundaries, then stage a sanitized summary or final proposal if it strengthens broader-impact applications.
+
+---
+
 ### Fairness Framework Update Addendum (EQUITAS)
 - **Link / Filename:** `fairness_framework_update_addendum.md` (Google Drive)
 - **Type:** Conceptual framework update (Markdown)
@@ -217,6 +293,19 @@ Every artifact uses this structure:
 - **Why this matters for PhD applications:** Shows intentional career design; pull 3–5 milestones into public-facing statements.
 - **GitHub target path:** `APPLICATIONS/PhD/` *(private repo or omit from public index)*
 - **Next action:** Extract milestone bullets; use in statement of purpose.
+
+---
+
+### Statement Theme Library
+- **Link / Filename:** `statement-theme-library.md`
+- **Type:** Reusable narrative map / statement planning aid
+- **Category:** Applications / Planning
+- **Status:** Canonical
+- **Public/Private:** Public-safe
+- **Summary:** Organizes reusable statement tracks for quantum AI, fairness AI, fairness in bioinformatics, inclusion/diversity, and mixed combinations so future applications can choose a theme quickly.
+- **Why this matters for PhD applications:** Reduces rewrite time and keeps the best evidence tied to the right narrative instead of forcing one application story onto every program.
+- **GitHub target path:** `STATEMENTS/`
+- **Next action:** Keep in sync with new sanitized course papers, Overleaf-derived samples, and future application packets.
 
 ---
 
@@ -277,6 +366,23 @@ Every artifact uses this structure:
 - **Why this matters for PhD applications:** Shows systematic literature engagement and planning discipline.
 - **GitHub target path:** `PAPERS/Quantum_Computing/implementation_framework/`
 - **Next action:** Upload sanitized version.
+
+---
+
+### QuantumPathOptimization – Manuscript and Application-Safe Copies
+
+- **Link / Filename:**
+  - `QuantumPathOptimization` (Overleaf: `https://www.overleaf.com/project/68ea344896594f27b427ca8f`)
+  - GA papers / reports Drive folder: `https://drive.google.com/drive/u/0/folders/1x0sR6EpPEd4WVfwbRn5MTmJXQwiVO-79`
+  - Repo-side application derivative: `APPLICATIONS/PhD/application-materials/2026-06-01-uppsala-quantumpathoptimization-manuscript-writing-sample.pdf`
+- **Type:** Manuscript-style paper + sanitized application copy
+- **Category:** Quantum Computing / Bandits
+- **Status:** Canonical
+- **Public/Private:** Sanitize before posting
+- **Summary:** Central quantum-routing manuscript artifact inside the GA-Work research stream, supported by technical reports and application-safe derivative copies.
+- **Why this matters for PhD applications:** One of the strongest quantum/network-ML writing samples once sanitized; it anchors the quantum side of the adaptive decision-making story.
+- **GitHub target path:** `PAPERS/Quantum_Computing/Quantum_MAB/`
+- **Next action:** Keep using sanitized application copies only; do not expose anonymous-review titles or unsanitized venue drafts.
 
 ---
 
@@ -394,6 +500,109 @@ Every artifact uses this structure:
 ---
 
 ## 3. Bioinformatics / Computational Biology / Data Science
+
+---
+
+### BIO630 / BIO614 – Final Project Proposal
+
+- **Link / Filename:**
+  - `BIO614-FinalProjectProposal` (Overleaf: `https://www.overleaf.com/project/68a761a470c296440522a537`)
+  - Drive folder: `https://drive.google.com/drive/u/0/folders/1y3JxZcTeLje3KPx5RG9vl2fvoC9Do1Wv`
+  - Repo-side packet derivatives: `APPLICATIONS/PhD/application-materials/BIO614-FinalProjectProposal.pdf` and institution-labeled writing-sample copies under `APPLICATIONS/PhD/application-materials/`
+- **Type:** Final project proposal / manuscript-style paper
+- **Category:** Bioinformatics / Computational Biology / Data Science
+- **Status:** Canonical
+- **Public/Private:** Public-safe pointer; review packaged PDFs before reposting outside application contexts
+- **Summary:** Primary RNA-structure and computational-biology manuscript artifact. User notes that the course may appear as `BIO630` in some records while the Overleaf and packet materials are currently tracked under `BIO614`.
+- **Why this matters for PhD applications:** This is the lead computational-biology writing sample and the clearest evidence of formal scientific writing, reproducible evaluation, and biological-methods framing.
+- **GitHub target path:** `PAPERS/Bioinformatics_Computational_Biology/`
+- **Next action:** Keep the BIO630/BIO614 alias explicit in application materials so transcript/course naming does not drift from the manuscript naming.
+
+---
+
+### DSCI601 – Fairness-Aware Bandits for Network Routing in Quantum and Clinical Settings
+
+- **Link / Filename:**
+  - GitHub repo snapshot: `https://github.com/pzg8794/DSCI601-Project_Proposal/tree/dc17b5458ba759d2bffe9591d777a20021586f63`
+  - Overleaf project: `https://www.overleaf.com/project/69941bd7ee1169df5004fd26`
+  - Clean application-copy Overleaf project: `https://www.overleaf.com/project/6a17c004b31cb222b4ffa75a`
+  - Repo-side packet derivatives under `APPLICATIONS/PhD/application-materials/`
+- **Type:** Project proposal / manuscript-style report
+- **Category:** Bioinformatics / Computational Biology / Data Science
+- **Status:** Canonical
+- **Public/Private:** Public-safe
+- **Summary:** Core DSCI601 methods paper connecting bandit learning, fairness constraints, and routing problems in quantum and clinical settings.
+- **Why this matters for PhD applications:** One of the strongest ML/data-science writing samples in the portfolio; it repeatedly serves as primary methods evidence in live application packets.
+- **GitHub target path:** `PAPERS/Data_Science_and_Machine_Learning/`
+- **Next action:** Keep the cleaned application copy as the preferred packet version and retain the older Overleaf/GitHub states only as provenance.
+
+---
+
+### ISTE780 – Project Phase 4
+
+- **Link / Filename:**
+  - Canonical Overleaf project in application indexes: `https://www.overleaf.com/project/687b2ee4bacc2838e411460b`
+  - Related earlier-phase Overleaf project: `ISTE780-Project_Phase3` (`https://www.overleaf.com/project/687a7fa9cc5c2aa5f7e0ea47`)
+  - Drive folder: `https://drive.google.com/drive/u/0/folders/1i1xGbm3wvw715uJ7jJp46LjxGychilbD`
+  - Repo-side derivative: `APPLICATIONS/PhD/application-materials/ISTE780-Project_Phase4-Fairness-AI-Bioinformatics.pdf`
+- **Type:** Project report / manuscript-style course paper
+- **Category:** Bioinformatics / Computational Biology / Data Science
+- **Status:** Canonical
+- **Public/Private:** Public-safe pointer; review packaged PDFs before reposting outside application contexts
+- **Summary:** Broad AI/bioinformatics/reporting artifact used as the main breadth sample that complements BIO614 and DSCI601 without duplicating quantum material.
+- **Why this matters for PhD applications:** Strong additional writing sample when a packet needs one more technical artifact showing interdisciplinary AI systems and scientific reporting breadth.
+- **GitHub target path:** `PAPERS/Data_Science_and_Machine_Learning/`
+- **Next action:** Keep Phase 4 as the canonical packet source and use Phase 3 only as provenance or fallback when a posting explicitly benefits from the earlier project stage.
+
+---
+
+### DSCI644 – Manuscript-Backed Course Paper
+
+- **Link / Filename:**
+  - `DSCI644-GP-Phase4` (Overleaf: `https://www.overleaf.com/project/6806e71cd7edd322e0877d31`)
+  - Drive folder: `https://drive.google.com/drive/u/0/folders/1hmlPXDBO721k5ZyThoACXm1KyiiHNgPx`
+- **Type:** Course paper / manuscript-style report
+- **Category:** Bioinformatics / Computational Biology / Data Science
+- **Status:** Keep
+- **Public/Private:** Review before posting
+- **Summary:** DSCI644 Phase 4 artifact with both Overleaf and Drive sources; the exact Overleaf title is now captured, but no sanitized repo-side derivative is yet tracked in RESEARCH.
+- **Why this matters for PhD applications:** Potential backup data-science/ML writing sample once authorship, collaboration boundaries, and packet fit are reviewed.
+- **GitHub target path:** `PAPERS/Data_Science_and_Machine_Learning/`
+- **Next action:** Review authorship and collaboration boundaries, then stage a public-safe derivative if it strengthens a specific application.
+
+---
+
+### BIOL550 – Project Paper and Companion Reports
+
+- **Link / Filename:**
+  - Overleaf project: `https://www.overleaf.com/project/69e646218e011fb4b09687b5`
+  - Drive folder: `https://drive.google.com/drive/u/0/folders/1Jc__3XQ4gJpetHvb7AvUuPqxyOPksORn`
+  - GitHub repo snapshot: `https://github.com/pzg8794/BIOL550-Project_Paper/tree/d06b8b802fb6505ba5c1aa2e0bddaebeba567f91`
+- **Type:** Project paper + report bundle
+- **Category:** Bioinformatics / Computational Biology
+- **Status:** Keep
+- **Public/Private:** Review before posting
+- **Summary:** Companion RNA-seq and differential-expression evidence with both paper-style and report-style outputs.
+- **Why this matters for PhD applications:** Valuable computational-biology support evidence, especially for diagnostics and sequencing narratives, but usually better as a companion sample than as the first standalone upload.
+- **GitHub target path:** `PAPERS/Bioinformatics_Computational_Biology/DRG_RNAseq/`
+- **Next action:** Keep the strongest BIOL550 artifact as companion evidence and avoid centering raw weekly-report material in primary writing-sample bundles.
+
+---
+
+### DSCI633 – Project with Paper Potential
+
+- **Link / Filename:**
+  - Drive folder: `https://drive.google.com/drive/u/0/folders/1Z-zMFLS6uAfOCkpysGW8vuaQiezAhG14`
+  - Repo-side intake note: `PAPERS/Data_Science_and_Machine_Learning/DSCI633_PROJECT_INTAKE.md`
+  - Repo-side manuscript plan: `PAPERS/Data_Science_and_Machine_Learning/DSCI633_MANUSCRIPT_PLAN.md`
+- **Type:** Course project / manuscript candidate
+- **Category:** Bioinformatics / Computational Biology / Data Science
+- **Status:** Staged repo-side application copy
+- **Public/Private:** Review before posting
+- **Summary:** Exact title and authorship are now captured for the sole-authored DSCI633 report `Predicting Hospital Readmission Rates`, and the confirmed V2 PDF has been staged repo-side as `APPLICATIONS/PhD/application-materials/2026-05-30-dsci633-predicting-hospital-readmission-rates-writing-sample.pdf`.
+- **Why this matters for PhD applications:** Adds an immediately referenceable sole-authored healthcare data-science writing sample beyond the current BIO614/DSCI601/ISTE780 set, even though the present report still has notebook-export formatting.
+- **GitHub target path:** `PAPERS/Data_Science_and_Machine_Learning/`
+- **Next action:** Use the staged copy when a posting benefits from a direct healthcare prediction report. Treat a later cleanup into a shorter manuscript as optional follow-up, not a prerequisite for referencing the work.
 
 ---
 

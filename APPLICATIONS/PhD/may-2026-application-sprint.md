@@ -18,15 +18,16 @@ Top-priority execution order for today:
 
 1. Uppsala June 1 precision medicine packet completion and submission staging.
 2. KTH June 3 single-cell packet skeleton and file staging.
-3. KTH June 8 reliable quantum ML packet pre-outline (only if time remains).
+3. KTH June 8 reliable quantum ML packet skeleton with anonymous-safe sample selection and source-trail setup.
 
 Today completion targets:
 
 - [x] Uppsala AI governance status line written as `Submitted`, `Skipped`, or `Blocked`.
-- [ ] Uppsala precision medicine personal letter draft v1 completed.
-- [ ] Two references selected and contact details validated for Uppsala precision medicine.
-- [ ] Writing sample selected and short abstract attached.
-- [ ] KTH single-cell 2-page letter outline created.
+- [x] Uppsala precision medicine personal letter draft v1 completed.
+- [x] Two references selected and contact details validated for Uppsala precision medicine.
+- [x] Writing sample selected and short abstract attached.
+- [x] KTH single-cell 2-page letter outline created.
+- [x] KTH reliable quantum packet letter/CV/source map created without reusing the anonymous ICNP manuscript title.
 - [ ] Private evidence folder updated with portal checks/screenshots (not committed).
 
 ## Already clear from local docs
@@ -49,7 +50,7 @@ Today completion targets:
 | 2026-05-29 | 2026-05-28 | ~~[Uppsala PhD: AI Supported Decision-Making, Responsibility, Simulation, and Governance](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=932281)~~ | ~~urgent, but possible blocker~~ skipped (not applicable) | Cover letter max 500 words, doctoral project plan max 2 pages, CV/certified academic documents, two recommendation letters, independent academic work. Official page requires good spoken and written Swedish. | Skipped: Swedish-language requirement not satisfied. |
 | 2026-06-01 | 2026-05-31 | [Uppsala PhD: Machine Learning for Data-Driven Precision Medicine and Diagnostics](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=930689) | highest-fit urgent | CV, degree diploma/transcripts, master's thesis or technical/scientific text, contact details for at least two references, personal letter max 1 page. | Start immediately. This is the strongest health/diagnostics/ML fit. |
 | 2026-06-03 | 2026-06-02 | [KTH PhD: AI and ML for Single-Cell Cancer Data](https://www.kth.se/lediga-jobb/927967?l=en) | urgent | Diplomas/grades/language proof, CV with references, application letter max 2 pages, publications or technical reports. | Triage after Uppsala precision medicine; likely worth a focused attempt. |
-| 2026-06-08 | 2026-06-07 | [KTH PhD: Machine Learning for Reliable Quantum Computing](https://www.kth.se/lediga-jobb/919576?l=en) | active high fit | Diplomas/grades/language proof, CV, application letter max 2 pages, publications or technical reports. | Strong quantum/ML fit; use GA-Work narrative. |
+| 2026-06-08 | 2026-06-07 | [KTH PhD: Machine Learning for Reliable Quantum Computing](https://www.kth.se/lediga-jobb/919576?l=en) | active high fit | Diplomas/grades/language proof, CV, application letter max 2 pages, publications or technical reports. | Quantum packet is now seeded in RESEARCH with a tailored letter, CV, packet note, and anonymous-safe technical report choice. |
 | 2026-06-17 | 2026-06-16 | [KTH PhD: Machine Learning](https://www.kth.se/lediga-jobb?l=en) | active backup | Official KTH vacancy listing confirms deadline; open exact detail page before drafting. | Keep as backup unless project/faculty fit is strong. |
 | 2026-07-31 | 2026-07-30 | [KTH PhD: Deep Learning for Biological Systems](https://www.kth.se/lediga-jobb/928557?l=en) | active later | Diplomas/grades/language proof, CV, application letter max 2 pages, publications or technical reports, three references. | Build after urgent June calls. |
 
@@ -75,11 +76,22 @@ By the end of Sunday, May 31, we should have:
 - [x] Primary urgent country selected: Sweden.
 - [x] Strongest project frames identified from existing materials.
 - [x] May 29 Uppsala AI governance vacancy marked submit or skip.
-- [ ] Uppsala precision medicine packet drafted and submitted, or blockers documented.
-- [ ] KTH single-cell cancer data vacancy marked submit, skip, or draft next.
+- [x] Uppsala precision medicine packet drafted and submitted, or blockers documented.
+- [x] KTH single-cell cancer data vacancy marked submit, skip, or draft next.
+- [x] KTH reliable quantum computing packet staged, or blockers documented.
 - [ ] Fulbright eligibility confirmed or flagged as uncertain.
 - [ ] Official Fulbright applicant account located or created.
 - [ ] FPQ and Fulbright Application Planning Tool status confirmed from portal/email evidence.
+
+## Post-sprint wrap-up (2026-05-30)
+
+- Submitted and locked in current packet-status files:
+  - Uppsala precision medicine (`24673373`)
+  - KTH single-cell cancer data (`24673183`)
+  - KTH reliable quantum computing (`24682182`)
+  - KTH machine learning (`24682004`)
+  - KTH deep learning for biological systems (`24681995`)
+- Next unresolved admin lane is no longer Sweden vacancy packet assembly; it is Fulbright eligibility/account/FPQ-FPT confirmation.
 
 ## Today: Tuesday, May 26
 
@@ -106,7 +118,7 @@ Do now:
   - [ ] DSCI601 data science/fairness methods work.
   - [ ] Puzzle Plan / equitable diagnostics research statement.
   - [ ] Quantum/GA technical report only if it is public-safe.
-- [ ] Draft the 1-page Uppsala precision medicine personal letter in your own voice.
+- [x] Draft the 1-page Uppsala precision medicine personal letter in your own voice.
 - [ ] Open the Uppsala/KTH Varbi application portals and save confirmation screenshots/PDFs locally, not in this public repo.
 
 ## Wednesday, May 27
@@ -120,6 +132,7 @@ Uppsala May 29 decision:
 - [x] If the Swedish-language requirement is not satisfied, write one line in this file or the tracker: `Skipped: Swedish-language requirement`.
 
 Skipped: Swedish-language requirement.
+
 - [ ] If the role is viable, draft:
   - [ ] Cover letter, max 500 words.
   - [ ] Doctoral project plan, max 2 pages.
@@ -129,17 +142,17 @@ Skipped: Swedish-language requirement.
 
 Uppsala June 1 precision medicine packet:
 
-- [ ] Draft 1-page personal letter.
-- [ ] Create a one-paragraph fit bridge: image analysis, ML, diagnostics, clinical decision support, equitable diagnostics.
-- [ ] Choose two reference contacts from the local recommender list.
+- [x] Draft 1-page personal letter.
+- [x] Create a one-paragraph fit bridge: image analysis, ML, diagnostics, clinical decision support, equitable diagnostics.
+- [x] Choose two reference contacts from the local recommender list.
 - [ ] Collect or request degree/transcript files.
-- [ ] Prepare one writing sample PDF or link plus a short abstract.
+- [x] Prepare one writing sample PDF or link plus a short abstract.
 
 KTH June 3 single-cell packet quick start:
 
-- [ ] Create 6-line fit bridge from BIOL550 + diagnostics + ML methods.
-- [ ] Pick one technical sample and confirm it opens as a clean PDF.
-- [ ] Build checklist: letter/CV/references/transcript-language-proof.
+- [x] Create 6-line fit bridge from BIOL550 + diagnostics + ML methods.
+- [x] Pick one technical sample and confirm it opens as a clean PDF.
+- [x] Build checklist: letter/CV/references/transcript-language-proof.
 
 ## Thursday, May 28
 
@@ -192,8 +205,11 @@ KTH June 3 single-cell packet quick start:
 | Date | Application | Blocker | Owner | Next action |
 | --- | --- | --- | --- | --- |
 | 2026-05-27 | Uppsala AI governance (May 29) | Not applicable: Swedish-language requirement not satisfied. | Piter | Skipped and documented; no further action. |
-| 2026-05-27 | Uppsala precision medicine (June 1) | Final writing sample and references not locked. | Piter | Lock sample + 2 references, finish letter draft, stage uploads. |
-| 2026-05-27 | KTH single-cell (June 3) | Packet skeleton not yet assembled. | Piter | Build outline/checklist immediately after Uppsala June 1 packet draft. |
+| 2026-05-28 | Uppsala precision medicine (June 1) | None. Submitted through Varbi with application record `24673373`; final packet-status file reflects the locked multi-sample set and no pending draft remains. | Piter | No immediate portal action required. |
+| 2026-05-28 | KTH single-cell (June 3) | None. Submitted through KTH Varbi with application record `24673183`; current packet-status file is the source of truth. | Piter | No immediate portal action required. |
+| 2026-05-28 | KTH reliable quantum (June 8) | None. Submitted through KTH Varbi with application record `24682182`; Q1/Q2 and uploads were verified before final submit. | Piter | No immediate portal action required. |
+| 2026-05-28 | KTH machine learning (June 17) | None. Submitted through KTH Varbi with application record `24682004`. | Piter | No immediate portal action required. |
+| 2026-05-28 | KTH deep learning for biological systems (July 31) | None. Submitted through KTH Varbi with application record `24681995`. | Piter | No immediate portal action required. |
 
 ## Application packet sources already found
 
@@ -212,13 +228,13 @@ KTH June 3 single-cell packet quick start:
 
 ## Source trail
 
-- Uppsala AI Supported Decision-Making PhD: https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=932281
-- Uppsala Precision Medicine and Diagnostics ML PhD: https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=930689
-- KTH Single-Cell Cancer Data PhD: https://www.kth.se/lediga-jobb/927967?l=en
-- KTH Reliable Quantum Computing PhD: https://www.kth.se/lediga-jobb/919576?l=en
-- KTH vacancies listing: https://www.kth.se/lediga-jobb?l=en
-- KTH Deep Learning for Biological Systems PhD: https://www.kth.se/lediga-jobb/928557?l=en
-- UofR Fulbright campus endorsement timeline: https://www.rochester.edu/college/studentfellowships/deadlines/fulbright.html
-- Fulbright Europe/Eurasia awards: https://us.fulbrightonline.org/countries/europe-and-eurasia
+- Uppsala AI Supported Decision-Making PhD: [official page](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=932281)
+- Uppsala Precision Medicine and Diagnostics ML PhD: [official page](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=930689)
+- KTH Single-Cell Cancer Data PhD: [official page](https://www.kth.se/lediga-jobb/927967?l=en)
+- KTH Reliable Quantum Computing PhD: [official page](https://www.kth.se/lediga-jobb/919576?l=en)
+- KTH vacancies listing: [official page](https://www.kth.se/lediga-jobb?l=en)
+- KTH Deep Learning for Biological Systems PhD: [official page](https://www.kth.se/lediga-jobb/928557?l=en)
+- UofR Fulbright campus endorsement timeline: [official page](https://www.rochester.edu/college/studentfellowships/deadlines/fulbright.html)
+- Fulbright Europe/Eurasia awards: [official page](https://us.fulbrightonline.org/countries/europe-and-eurasia)
 - Local source map: [LOCAL_SOURCE_MAP.md](./LOCAL_SOURCE_MAP.md)
 - Current application roadmap: [phd-application-roadmap-2026-2027.md](./phd-application-roadmap-2026-2027.md)

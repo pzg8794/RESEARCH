@@ -12,6 +12,21 @@ The portfolio tracks research artifacts, technical projects, writing samples, CV
 
 The living planning source is maintained in Google Drive. This GitHub repository mirrors public-safe summaries, polished artifacts, and application-ready documentation.
 
+## Artifact Discovery Order (Start Here)
+
+When locating research documents, always follow this order:
+
+1. **Overleaf first**: primary source for formal manuscripts, proposal-style papers, and polished LaTeX artifacts.
+2. **Google Drive second**: broader planning files, historical drafts, and administrative working copies.
+3. **GitHub third**: public-safe mirrors, summaries, and versioned derivatives.
+
+Practical guidance:
+
+- Start by searching Overleaf project titles directly (for example, `BIO614` to find `BIO614-FinalProjectProposal`).
+- If multiple similar Overleaf projects appear, resolve the canonical packet source in `APPLICATIONS/PhD/OVERLEAF_CANONICAL_STATUS.md` before packaging a derivative.
+- If an item is not in Overleaf, check the Drive source maps in `APPLICATIONS/PhD/LOCAL_SOURCE_MAP.md`.
+- Use this repo to find sanitized final references and application trackers after source validation.
+
 ---
 
 ## Research Narrative
@@ -25,12 +40,20 @@ The strongest technical direction is machine learning for quantum network routin
 ## Core Application Artifacts
 
 | Artifact | Path |
-|---|---|
+| --- | --- |
 | Master Research Index | [`MASTER_RESEARCH_INDEX.md`](./MASTER_RESEARCH_INDEX.md) |
 | TODO / Follow-up Tasks | [`TODO_PHD_RESEARCH.md`](./TODO_PHD_RESEARCH.md) |
 | Public Repository Showcase Plan | [`APPLICATIONS/PhD/PUBLIC_REPOSITORY_SHOWCASE_PLAN.md`](./APPLICATIONS/PhD/PUBLIC_REPOSITORY_SHOWCASE_PLAN.md) |
+| Statement Theme Library | [`STATEMENTS/statement-theme-library.md`](./STATEMENTS/statement-theme-library.md) |
 | PhD and Research Application Roadmap | [`APPLICATIONS/PhD/phd-application-roadmap-2026-2027.md`](./APPLICATIONS/PhD/phd-application-roadmap-2026-2027.md) |
+| Fellowship Opportunity Queue | [`APPLICATIONS/Fellowships/profellow-opportunity-queue-2026-05-27.md`](./APPLICATIONS/Fellowships/profellow-opportunity-queue-2026-05-27.md) |
+| Fulbright Awards Queue | [`APPLICATIONS/Fellowships/fulbright-awards-queue-2026-05-27.md`](./APPLICATIONS/Fellowships/fulbright-awards-queue-2026-05-27.md) |
+| ProFellow Search Routine | [`APPLICATIONS/Fellowships/profellow-search-routine.md`](./APPLICATIONS/Fellowships/profellow-search-routine.md) |
 | Local PhD/Application Source Map | [`APPLICATIONS/PhD/LOCAL_SOURCE_MAP.md`](./APPLICATIONS/PhD/LOCAL_SOURCE_MAP.md) |
+| Overleaf Writing-Sample Discovery Playbook | [`APPLICATIONS/PhD/OVERLEAF_DISCOVERY_PLAYBOOK.md`](./APPLICATIONS/PhD/OVERLEAF_DISCOVERY_PLAYBOOK.md) |
+| Writing Sample Shortlists | [`APPLICATIONS/PhD/WRITING_SAMPLE_SHORTLISTS.md`](./APPLICATIONS/PhD/WRITING_SAMPLE_SHORTLISTS.md) |
+| Canonical Overleaf Project Status | [`APPLICATIONS/PhD/OVERLEAF_CANONICAL_STATUS.md`](./APPLICATIONS/PhD/OVERLEAF_CANONICAL_STATUS.md) |
+| DSCI633 Manuscript Plan | [`PAPERS/Data_Science_and_Machine_Learning/DSCI633_MANUSCRIPT_PLAN.md`](./PAPERS/Data_Science_and_Machine_Learning/DSCI633_MANUSCRIPT_PLAN.md) |
 | Academic CV | `CV/current/academic-cv.pdf` *(to be uploaded)* |
 | Industry Resume | `CV/current/industry-resume.pdf` *(to be uploaded)* |
 | Teaching CV | `CV/current/teaching-cv.pdf` *(to be uploaded)* |
@@ -41,7 +64,7 @@ The strongest technical direction is machine learning for quantum network routin
 
 ## Repository Structure
 
-```
+```text
 RESEARCH/
 ├── README.md                          # This file
 ├── MASTER_RESEARCH_INDEX.md           # Central index of all artifacts
@@ -49,9 +72,10 @@ RESEARCH/
 ├── CV/
 │   ├── current/                       # Active CV and resume PDFs
 │   └── archive/                       # Older versions
-├── STATEMENTS/                        # SOP, personal, diversity, teaching statements
+├── STATEMENTS/                        # SOP, personal, diversity, teaching statements, reusable theme library
 ├── PAPERS/
 │   ├── AI_and_Education/
+│   ├── Data_Science_and_Machine_Learning/
 │   ├── Quantum_Computing/
 │   │   ├── Quantum_MAB/
 │   │   ├── UDRM_Quantum_Path_Optimization/
@@ -73,6 +97,8 @@ RESEARCH/
 │   ├── AI_as_partner/
 │   └── AI_Business_Model_Project/
 ├── APPLICATIONS/
+│   ├── Fellowships/                 # ProFellow queue, bookmarks, and discovery workflow
+│   ├── Mira/                        # Mira Fellowship artifacts and staged materials
 │   ├── Noyce/
 │   └── PhD/                         # PhD planning, deadlines, and public-safe application trackers
 ├── ADMIN/                             # Non-private admin notes only

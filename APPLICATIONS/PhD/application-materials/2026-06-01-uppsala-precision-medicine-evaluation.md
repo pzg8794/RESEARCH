@@ -8,7 +8,7 @@ https://www.uu.se/en/department/information-technology
 
 ## 1) Closest deadline status
 - Official deadline: 2026-06-01
-- Employment start: 1 September 2026 (or as agreed)
+- Employment start: 1 January 2027 (or as agreed), reflecting final Fall 2026 semester commitments
 - Location: Uppsala
 - Scope: 100% full-time doctoral employment
 - Employment type: Temporary position (doctoral employment)

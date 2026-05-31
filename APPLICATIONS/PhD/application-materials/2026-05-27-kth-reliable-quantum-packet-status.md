@@ -1,5 +1,7 @@
 # KTH Reliable Quantum Computing Packet Status
 
+Updated: 2026-05-29 (status reconciliation from live Varbi mypage)
+
 Role: [KTH Doctoral student in Machine Learning for Reliable Quantum Computing](https://www.kth.se/lediga-jobb/919576?l=en)  
 Official deadline: 2026-06-08  
 Internal deadline: 2026-06-07
@@ -14,7 +16,15 @@ Internal deadline: 2026-06-07
 	- `2026-06-08-kth-reliable-quantum-writing-sample-fairness-aware-bandits-clinical-decision-systems.pdf`
 - Optional short-answer fields completed in the draft form.
 - Detailed tracker: `2026-06-08-kth-reliable-quantum-packet-status.md`
-- Submission state: not submitted yet.
+- Submission state: submitted.
+
+## Submission reconciliation (authoritative)
+
+- Live candidate portal used for verification: `https://profile.varbi.com/en/user/mypage/?type=position&cid=177&trace=applicationupdated`
+- Position verified in list: `Doktorand inom maskininlärning för tillförlitlig kvantberäkning` (job ID `919576`)
+- Varbi list timestamp shown: `2026-05-28 19:40`
+- Application record shown in `View/Edit` links: `24682182`
+- This file is now historical context only; use `2026-06-08-kth-reliable-quantum-packet-status.md` as the canonical status tracker.
 
 ## Current packet lock
 
@@ -50,7 +60,5 @@ Internal deadline: 2026-06-07
 
 ## Remaining tasks
 
-1. Decide whether to upload `GA_Dynamic_Qubit_Allocation_Report.pdf` directly or stage a renamed application copy outside the public repo.
-2. If a longer sample is needed, prepare a retitled sanitized manuscript copy derived from `GA Papers/QuantumFaultTolerant/main.tex` outside the public repo.
-3. Attach the transcript/diploma/language documents required by KTH.
-4. Stage the KTH Varbi application and save private confirmation evidence after submit.
+1. No live submission blocker remains in this draft note.
+2. Keep private submission evidence outside this public repo when available.

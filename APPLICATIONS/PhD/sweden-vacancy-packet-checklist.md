@@ -174,6 +174,7 @@ Internal deadline: 2026-06-07
 - [x] Verify which GA-Work/quantum artifacts are public-safe before attaching or linking.
 - [ ] Prepare diplomas, grades, and English/language proof.
 - [x] Prepare CV.
+- [x] CV provenance recorded in packet-status note: tailored from the latest Overleaf-documented CV baseline (`CV_Piter-Garcia (2023)`) before upload.
 - [x] Draft application letter, max 2 pages.
 - [x] Select representative technical report and abstract without reusing the anonymous ICNP title.
 - [x] Profile initialized in Varbi quick-apply: https://kth.varbi.com/en/apply/positionquick/919576/?where=4
@@ -205,6 +206,7 @@ Internal deadline: 2026-06-16
 - [x] Deadline checked on official page/listing.
 - [x] Profile initialized in Varbi quick-apply: https://kth.varbi.com/en/apply/positionquick/927950/?where=4
 - [x] Reuse CV + references packet from KTH single-cell baseline.
+- [x] CV provenance recorded in packet-status note: tailored from the latest Overleaf-documented CV baseline (`CV_Piter-Garcia (2023)`) before upload.
 - [x] Draft role-specific application letter.
 - [x] Choose final writing sample mix and upload.
 - [x] Tailored CV, cover letter, and role-specific writing samples uploaded to the draft profile.
@@ -223,6 +225,7 @@ Internal deadline: 2026-07-30
 - [x] Deadline checked on official page/listing.
 - [x] Profile initialized in Varbi quick-apply: https://kth.varbi.com/en/apply/positionquick/928557/?where=4
 - [x] Reuse biology/diagnostics packet baseline from Uppsala + KTH single-cell.
+- [x] CV provenance recorded in packet-status note: tailored from the latest Overleaf-documented CV baseline (`CV_Piter-Garcia (2023)`) before upload.
 - [x] Draft role-specific application letter.
 - [x] Choose final writing sample mix and upload.
 - [x] Tailored CV, cover letter, and role-specific writing samples uploaded to the draft profile.

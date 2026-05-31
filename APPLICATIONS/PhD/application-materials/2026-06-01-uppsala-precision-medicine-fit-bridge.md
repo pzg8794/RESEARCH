@@ -1,0 +1,3 @@
+# Uppsala Precision Medicine Fit Bridge (1 paragraph)
+
+My research fit for this PhD is at the intersection of machine learning, diagnostics, and responsible clinical decision support. I am motivated by precision medicine problems where data are high-dimensional, heterogeneous, and shift across cohorts, and where model errors can produce unequal downstream outcomes. My technical focus is on robust and interpretable ML workflows that improve diagnostic utility while explicitly addressing bias, uncertainty, and generalization under real-world conditions. This aligns with my broader research direction in equitable diagnostics: building methods that are not only accurate in validation settings, but also reliable, transparent, and safe enough to support decisions in practice.

@@ -11,6 +11,7 @@ Role: [Jobbnorge listing](https://www.jobbnorge.no/ledige-stillinger/stilling/30
   - `uppsala-rit-transcripts.pdf`
   - `uppsala-rit-unofficial-transcript-2026-05-27.pdf`
   - `farmingdale-state-college-official-transcript-2012-05-24.pdf`
+  - `university-of-rochester-warner-unofficial-transcript-2026-05-30.pdf`
 - Research proposals:
   - `BIO614-FinalProjectProposal.pdf`
   - `DSCI601-Project_Proposal-Fairness-Quantum-AI.pdf`
@@ -24,4 +25,5 @@ Role: [Jobbnorge listing](https://www.jobbnorge.no/ledige-stillinger/stilling/30
 
 - Portal question for master's completion is recorded in the packet status as `No, but I will complete the degree this semester`.
 - The attached NTNU CV already carries the Farmingdale State College 2012 education entry with dual-degree support across Electrical Engineering and Computer Engineering Technology.
+- The UofR Warner unofficial transcript was generated from Workday and saved in this review packet for reference; it is not yet confirmed as a live Jobbnorge attachment.
 - The review packet mirrors the exact local artifacts used or staged for the Jobbnorge application workflow.

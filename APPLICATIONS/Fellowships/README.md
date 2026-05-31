@@ -1,0 +1,31 @@
+# Fellowships and Funding Queue
+
+This folder tracks public-safe fellowship, doctoral-funding, and opportunity-discovery work that sits alongside the main PhD application roadmap.
+
+Use this folder when an opportunity comes from ProFellow, an external fellowship database, or a funding-specific search pass rather than from a single university admissions page.
+
+## Start here
+
+| Need | File |
+| --- | --- |
+| Current ProFellow capture queue | [profellow-opportunity-queue-2026-05-27.md](./profellow-opportunity-queue-2026-05-27.md) |
+| Current Fulbright award queue | [fulbright-awards-queue-2026-05-27.md](./fulbright-awards-queue-2026-05-27.md) |
+| Repeatable discovery workflow | [profellow-search-routine.md](./profellow-search-routine.md) |
+| Active Mira packet already staged | [../Mira/2026-05-27-mira-written-materials.tex](../Mira/2026-05-27-mira-written-materials.tex) |
+| Active Mira PDF artifact | [../Mira/2026-05-27-mira-written-materials.pdf](../Mira/2026-05-27-mira-written-materials.pdf) |
+| Main PhD / research roadmap | [../PhD/phd-application-roadmap-2026-2027.md](../PhD/phd-application-roadmap-2026-2027.md) |
+
+## Working rules
+
+1. Treat ProFellow as a discovery and bookmarking layer, not as the final source of record for deadlines.
+2. If an item looks plausible, bookmark it in ProFellow and add it to the queue the same day.
+3. Mark every entry with a status such as `Prepared`, `Bookmarked`, `Needs official verification`, `Paused`, `Monitor`, or `Screened out`.
+4. Move an item into the main PhD roadmap only after the official university or fellowship page is checked.
+5. Keep private portal evidence, payment details, transcripts, and recommendation-letter logistics outside this public-safe repo.
+6. For Fulbright, use the queue file as the durable bookmark layer because the official site does not provide the same account-bookmark workflow as ProFellow.
+
+## Folder intent
+
+- `Mira/` holds the concrete Mira application artifacts already prepared.
+- `Fellowships/` holds the queue, search routine, and future discovery notes.
+- `PhD/` remains the canonical deadline roadmap once an opportunity graduates from discovery into an actual application target.

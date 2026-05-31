@@ -1,0 +1,15 @@
+Dear Selection Committee,
+
+I am applying for the doctoral position in AI and Machine Learning for analysis of single-cell cancer data at KTH. I am drawn to this project because it sits at the intersection of machine learning, computational biology, and clinically meaningful inference: developing probabilistic and AI-enhanced Bayesian methods for tumor DNA, circulating tumor DNA, and metastasis detection. My goal is to contribute to data-driven biomedical research by building methods that remain reliable when data are high-dimensional, noisy, heterogeneous, and collected across changing experimental conditions.
+
+My background combines graduate training in computer science and data science, applied machine learning experience, and current computational biology work on high-dimensional sequencing data. In research and industry settings, I have built reproducible ML workflows across local, Colab, and GCP environments, with attention to evaluation discipline, data quality, and transparent reporting. In computational biology coursework and project work, I have focused on RNA-seq and differential-expression analysis, structured quality control, and interpretation of biological signal in noisy datasets. That experience makes me especially motivated by problems where biological insight depends on careful modeling rather than only predictive performance.
+
+What most interests me in this position is the opportunity to work on rigorous methods for cancer data that have both statistical and clinical importance. I am particularly interested in inference problems where uncertainty, cohort shift, sampling sparsity, and hidden structure can materially affect conclusions. The project's emphasis on probabilistic modeling, phylogenetic structure, single-cell measurements, and longitudinal blood samples is compelling because it requires exactly the kind of disciplined methodological work I want to deepen during a PhD. My strongest current preparation is in machine learning, computational data analysis, and reproducible pipeline design, and I would be excited to extend that foundation toward Bayesian inference and deep learning methods for tumor evolution and metastasis detection.
+
+KTH is especially attractive because this project sits inside a broader data-driven life science environment, with close collaboration across KTH, KI, and the DDLS research school. I am looking for a PhD setting where strong computational work is directly connected to high-value biomedical questions, and where collaboration across machine learning and life science is treated as core research practice rather than an afterthought. The scale of the DDLS initiative and access to unique cancer data make this a strong match for the type of research environment in which I can contribute and grow.
+
+I would be excited to contribute to KTH's research community and to develop as a doctoral researcher working on AI and machine learning for cancer data analysis. Thank you for considering my application.
+
+Sincerely,
+
+Piter Zacari Garcia Bautista

@@ -47,11 +47,15 @@ This roadmap tracks the active Fall 2027 PhD admission cycle and the 2027-2028 r
 | Fulbright Sweden Open Study/Research Award | Research / study fellowship | October 6, 2026, 5:00 PM ET through Fulbright U.S. Student Program. | Highest | Build Sweden host list, request affiliation, frame project around Swedish research environment and graduate-level fit. |
 | NSF GRFP | Graduate research fellowship | FY2027 dates not posted as of this update; recent CISE/STEM Education deadline was mid-November. | High if eligible | Start research statement and personal statement in June; verify the new solicitation once posted. |
 | GFSD / STEM fellowships | Graduate fellowship | Next cycle should be checked in late August 2026; prior cycle closed January 15, 2026. | Medium | Re-check opening date in August and decide whether the profile fits. |
+| Google PhD Fellowship Program | External doctoral fellowship | 2026 cycle closed; next cycle should be watched in March-April 2027. University nomination is required. | Medium later | Track only after the doctoral shortlist is narrower and the institutional nomination path is clearer. |
 | NYU Center for Data Science PhD | PhD | December 3, 2026 for Fall 2027. | High | Start faculty fit and SOP in August; applications expected to open late September. |
 | NYU Courant Computer Science PhD | PhD | Official page lists December 12 as the PhD deadline. Verify cycle-year wording before submission. | High | Reuse NYU assets; tailor toward computing, AI, data science, and research fit. |
+| Carnegie Mellon Machine Learning PhD | PhD | Applications open September 9, 2026; early deadline November 18, 2026 at 3:00 PM EST; final deadline December 9, 2026 at 3:00 PM EST. | High | Use the official ML department deadline rather than the broader CMU CS cycle; strong fit for reliable and socially meaningful ML. |
 | University of Rochester Biostatistics and Computational Biology | PhD | Priority deadline December 1; final deadline December 15. | High | Build bioinformatics/health-data version of the research statement by September. |
 | RIT Computing and Information Sciences PhD | PhD | Priority deadline December 31; rolling review after priority deadline. | High | Refresh RIT SOP and interview notes; verify GRE requirement on the live page. |
 | University of Rochester Computer Science / Data Science / Healthcare Data Science and AI | PhD | Computer Science January 5; Data Science priority January 5 and secondary February 1; Healthcare Data Science and AI January 5. | High | Confirm best department fit and build UofR-specific faculty match list. |
+| EPFL doctoral route in Computer and Communication Sciences / ML-related labs | PhD, Switzerland | Faculty- and doctoral-program-driven; verify lab-level cycle after the June 2026 urgent applications. | High Europe | Identify ML, computer vision, biomedical ML, and responsible-AI labs; contact faculty after the Sweden sprint. |
+| ETH Zurich / AI Center doctoral routes | PhD / doctoral fellowship route, Switzerland | Faculty-driven recruitment rather than one universal deadline; verify live lab-level openings after June 2026. | High Europe | Treat as a targeted faculty-contact route rather than a single portal deadline. |
 | Harvard Computer Science PhD | PhD | December 15, 2026 at 5:00 PM ET. | Stretch | Add only if the research fit is strong enough after core applications are drafted. |
 | Stanford Computer Science PhD | PhD | Fall 2027 deadline not yet confirmed on the official page; prior cycle deadline was early December. | Stretch | Monitor in September; prepare only if a specific faculty fit is compelling. |
 | Carnegie Mellon Computer Science PhD | PhD | Fall 2027 deadline not yet confirmed on the official page; prior cycle deadline was early December. | Stretch | Monitor in September; requires a very focused CS research case. |
@@ -91,6 +95,9 @@ Tier 1: Start now or by June 2026
 Tier 2: Start after the core packet exists
 
 - NSF GRFP, if eligible under the updated solicitation
+- Carnegie Mellon Machine Learning PhD
+- EPFL doctoral route in Computer and Communication Sciences / ML-related labs
+- ETH Zurich / AI Center doctoral routes
 - Harvard CS
 - Stanford CS
 - CMU CS
@@ -144,25 +151,25 @@ November 2026-January 2027:
 
 ## Source trail
 
-- ProFellow fully funded CS PhD long-list: https://www.profellow.com/fellowships/fully-funded-phd-programs-in-computer-science/
-- Fulbright Europe and Eurasia country list: https://us.fulbrightonline.org/countries/europe-and-eurasia
-- Fulbright getting started and eligibility: https://us.fulbrightonline.org/applicants/getting-started
-- Fulbright Norway Open Study/Research Award: https://us.fulbrightonline.org/countries/europe-and-eurasia/norway/1739
-- Fulbright Sweden Open Study/Research Award: https://us.fulbrightonline.org/countries/europe-and-eurasia/sweden/1722
-- Uppsala AI Supported Decision-Making PhD: https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=932281
-- Uppsala Precision Medicine and Diagnostics ML PhD: https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=930689
-- KTH Single-Cell Cancer Data PhD: https://www.kth.se/lediga-jobb/927967?l=en
-- KTH Reliable Quantum Computing PhD: https://www.kth.se/lediga-jobb/919576?l=en
-- KTH vacancies listing: https://www.kth.se/lediga-jobb?l=en
-- KTH Deep Learning for Biological Systems PhD: https://www.kth.se/lediga-jobb/928557?l=en
-- NYU Center for Data Science PhD admissions: https://cds.nyu.edu/phd-admissions-requirements/
-- NYU Courant Computer Science PhD admissions: https://cs.nyu.edu/home/phd/admission
-- RIT Computing and Information Sciences PhD: https://www.rit.edu/computing/study/computing-and-information-sciences-phd
-- University of Rochester graduate application deadlines: https://www.rochester.edu/college/gradstudies/admissions/apply.html
-- University of Rochester Biostatistics and Computational Biology graduate programs: https://www.urmc.rochester.edu/biostat/gradprograms
-- KTH doctoral vacancies: https://www.kth.se/en/studies/phd/become-a-phd-student/vacant-doctoral-positions-1.1411624
-- NTNU doctoral programme: https://www.ntnu.edu/iv/doctoral-programme
-- Stockholm University PhD studies: https://www.su.se/english/education/top-reasons-to-choose-su/our-courses-and-programmes/phd-studies-at-stockholm-university
-- University of Gothenburg doctoral studies: https://www.gu.se/en/doctoral-studies/apply-to-doctoral-studies
-- NSF GRFP solicitation page: https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf25-547/solicitation
-- GFSD applicant page: https://stemfellowships.org/applicants/
+- ProFellow fully funded CS PhD long-list: [official page](https://www.profellow.com/fellowships/fully-funded-phd-programs-in-computer-science/)
+- Fulbright Europe and Eurasia country list: [official page](https://us.fulbrightonline.org/countries/europe-and-eurasia)
+- Fulbright getting started and eligibility: [official page](https://us.fulbrightonline.org/applicants/getting-started)
+- Fulbright Norway Open Study/Research Award: [official page](https://us.fulbrightonline.org/countries/europe-and-eurasia/norway/1739)
+- Fulbright Sweden Open Study/Research Award: [official page](https://us.fulbrightonline.org/countries/europe-and-eurasia/sweden/1722)
+- Uppsala AI Supported Decision-Making PhD: [official page](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=932281)
+- Uppsala Precision Medicine and Diagnostics ML PhD: [official page](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=930689)
+- KTH Single-Cell Cancer Data PhD: [official page](https://www.kth.se/lediga-jobb/927967?l=en)
+- KTH Reliable Quantum Computing PhD: [official page](https://www.kth.se/lediga-jobb/919576?l=en)
+- KTH vacancies listing: [official page](https://www.kth.se/lediga-jobb?l=en)
+- KTH Deep Learning for Biological Systems PhD: [official page](https://www.kth.se/lediga-jobb/928557?l=en)
+- NYU Center for Data Science PhD admissions: [official page](https://cds.nyu.edu/phd-admissions-requirements/)
+- NYU Courant Computer Science PhD admissions: [official page](https://cs.nyu.edu/home/phd/admission)
+- RIT Computing and Information Sciences PhD: [official page](https://www.rit.edu/computing/study/computing-and-information-sciences-phd)
+- University of Rochester graduate application deadlines: [official page](https://www.rochester.edu/college/gradstudies/admissions/apply.html)
+- University of Rochester Biostatistics and Computational Biology graduate programs: [official page](https://www.urmc.rochester.edu/biostat/gradprograms)
+- KTH doctoral vacancies: [official page](https://www.kth.se/en/studies/phd/become-a-phd-student/vacant-doctoral-positions-1.1411624)
+- NTNU doctoral programme: [official page](https://www.ntnu.edu/iv/doctoral-programme)
+- Stockholm University PhD studies: [official page](https://www.su.se/english/education/top-reasons-to-choose-su/our-courses-and-programmes/phd-studies-at-stockholm-university)
+- University of Gothenburg doctoral studies: [official page](https://www.gu.se/en/doctoral-studies/apply-to-doctoral-studies)
+- NSF GRFP solicitation page: [official page](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf25-547/solicitation)
+- GFSD applicant page: [official page](https://stemfellowships.org/applicants/)

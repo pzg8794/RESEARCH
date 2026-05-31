@@ -9,6 +9,11 @@ Draft profile URL: https://kth.varbi.com/en/apply/positionquick/928557/?where=4
 ### CV
 - `2026-07-31-kth-deep-learning-biological-systems-cv.pdf`
 
+CV source note:
+
+- Overleaf-first check was attempted in this session by opening Overleaf and searching from the projects flow; direct search was blocked by login state in this browser session.
+- Following the same Uppsala process, the KTH CV update was produced from the latest known CV baseline previously documented from Overleaf (`CV_Piter-Garcia (2023)`), then tailored and uploaded as `2026-07-31-kth-deep-learning-biological-systems-cv.pdf`.
+
 ### Cover letter
 - `2026-07-31-kth-deep-learning-biological-systems-cover-letter.txt`
 

@@ -1,0 +1,15 @@
+Dear Selection Committee,
+
+I am applying for the doctoral position in Machine Learning at KTH. I am motivated by research problems where strong machine learning methods must remain reliable under limited data, noisy observations, shifting conditions, and real computational constraints. My goal is to contribute to machine learning research that is technically rigorous, empirically disciplined, and useful in domains where robustness and interpretability matter as much as raw performance.
+
+My background combines graduate training in computer science and data science, current research in AI and quantum-related machine learning at Rochester Institute of Technology, and industry experience building data and machine learning systems. In my graduate assistant work, I have developed reproducible experimental workflows across local, Colab, and GCP environments, with emphasis on structured evaluation, multi-run validation, comparison under changing conditions, and careful technical reporting. Across these settings, I have learned to treat machine learning as more than model fitting alone: sound research requires strong data pipelines, well-designed experiments, transparent baselines, and clear interpretation of where methods succeed or fail.
+
+What attracts me most to this position is the opportunity to deepen my work on machine learning as a methodological discipline rather than only as an application tool. I am especially interested in learning how to develop models that generalize under uncertainty, how to evaluate them in a way that reflects realistic deployment conditions, and how to design research that connects algorithmic ideas with robust empirical evidence. My current work has given me a strong practical foundation in Python-based experimentation, algorithm comparison, and reliability-focused evaluation, and I would be excited to extend that foundation within a doctoral environment centered directly on machine learning research.
+
+KTH is especially attractive because of its strong machine learning environment, its close links between theoretical and applied research, and its broader international research community. I am looking for a PhD setting where I can contribute disciplined experimentation, strong implementation skills, and an interdisciplinary perspective while growing into a researcher capable of making rigorous and durable contributions to machine learning.
+
+I would be excited to contribute to KTH's research community and to develop as a doctoral researcher in machine learning. Thank you for considering my application.
+
+Sincerely,
+
+Piter Zacari Garcia Bautista

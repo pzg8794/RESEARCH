@@ -1,0 +1,7 @@
+Keyword slot: QuantumPathOptimization
+
+Status: BLOCKED FOR DIRECT UPLOAD
+Reason: Anonymous-review ICNP manuscript content cannot be used as-is.
+
+Allowed action:
+- Replace this slot with an approved sanitized non-identifying application copy before upload.

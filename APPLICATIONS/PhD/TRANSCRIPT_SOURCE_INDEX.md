@@ -34,6 +34,25 @@ Default rule:
 - Education-link note:
   - The NTNU CV source already carries the Farmingdale 2012 education line with the supporting dual-degree wording `Electrical Engineering & Computer Engineering Technology`.
 
+## University of Rochester
+
+- Institution: University of Rochester, Warner School of Education
+- Student: Piter Zacari Garcia Bautista
+- Document: unofficial transcript PDF, 3 pages, generated `2026-05-30` from Workday
+- Primary Workday/local source:
+  - `https://wd5.myworkday.com/rochester/d/task/2997$10456.htmld`
+  - `/Users/pitergarcia/Downloads/33213927_Transcript.pdf`
+- Workday generation note:
+  - Generated from the `Generate Unofficial Transcript` task after verifying the Warner graduate record in `View My Academic Record`
+  - Workday preview/download filename: `33213927_Transcript.pdf`
+- Repo mirror:
+  - `application-materials/university-of-rochester-warner-unofficial-transcript-2026-05-30.pdf`
+- Current NTNU packet usage:
+  - Saved in the repo for transcript reference and future uploads
+  - Not yet confirmed as a live Jobbnorge attachment
+- Education-link note:
+  - The NTNU CV source uses the Workday Warner cumulative GPA `4.00` -> display `4.0`.
+
 ## Usage guidance
 
 When a future application asks for undergraduate transcripts or prior degree verification:

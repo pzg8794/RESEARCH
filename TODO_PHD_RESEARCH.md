@@ -11,6 +11,7 @@ Items are organized by priority and domain, derived from `MASTER_RESEARCH_INDEX.
 - [x] Identify the canonical current CV/resume source: `Semester5/Scholarship/CV_Piter-Garcia/resume.tex`; latest refreshed PDF is `Semester5/Scholarship/CV_Piter-Garcia/Piter_Garcia-Resume.pdf`.
 - [ ] Review/copy the current CV PDF to `CV/current/academic-cv.pdf` only if it is public-safe.
 - [ ] Choose one sole-authored writing sample (≥5 pages, academic, with citations); annotate it in `MASTER_RESEARCH_INDEX.md` as `writing sample`.
+- [ ] Build `STATEMENTS/statement-theme-library.md` into a reusable narrative map for quantum AI, fairness AI, fairness in bioinformatics, inclusion/diversity, and mixed tracks.
 - [ ] Create `APPLICATIONS/Noyce/checklist.md` with Noyce requirements and status of each item.
 - [ ] Create `APPLICATIONS/PhD/warner_requirements.md` with Warner statement/writing sample specifications.
 - [x] Add `APPLICATIONS/PhD/phd-application-roadmap-2026-2027.md` with the active Fall 2027 PhD and 2027-2028 fellowship deadline tracker.
@@ -18,6 +19,8 @@ Items are organized by priority and domain, derived from `MASTER_RESEARCH_INDEX.
 - [x] Add `APPLICATIONS/PhD/may-2026-application-sprint.md` for the May 26-31 urgent Sweden vacancy and Fulbright setup sprint.
 - [x] Add `APPLICATIONS/PhD/sweden-vacancy-packet-checklist.md` for Uppsala/KTH packet assembly.
 - [x] Add `APPLICATIONS/PhD/GITHUB_REPO_REGISTRY.md` linking CV, profile, research, and application-facing GitHub repos back to RESEARCH.
+- [x] Add `APPLICATIONS/PhD/WRITING_SAMPLE_SHORTLISTS.md` for role-specific writing-sample selection.
+- [x] Add `APPLICATIONS/PhD/OVERLEAF_CANONICAL_STATUS.md` to resolve canonical project IDs for ambiguous Overleaf entries.
 - [ ] Start the urgent Sweden doctoral-vacancy sprint: decide May 29 Uppsala AI governance, draft/submit June 1 Uppsala precision medicine, then triage June 3 and June 8 KTH applications.
 - [ ] Start Fulbright Europe/Eurasia work immediately: confirm eligibility, contact campus adviser, choose country targets, and begin Norway/Sweden host-affiliation outreach.
 
@@ -30,6 +33,7 @@ Items are organized by priority and domain, derived from `MASTER_RESEARCH_INDEX.
   - [ ] `CV/archive/`
   - [ ] `STATEMENTS/`
   - [ ] `PAPERS/AI_and_Education/`
+  - [ ] `PAPERS/Data_Science_and_Machine_Learning/`
   - [ ] `PAPERS/Quantum_Computing/Quantum_MAB/`
   - [ ] `PAPERS/Quantum_Computing/UDRM_Quantum_Path_Optimization/`
   - [ ] `PAPERS/Quantum_Computing/iCMAB_EXPNeuralUCB/`
@@ -93,6 +97,8 @@ Items are organized by priority and domain, derived from `MASTER_RESEARCH_INDEX.
 - [ ] Upload `fairness_framework_update_addendum.md` → `PAPERS/AI_and_Education/`.
 - [ ] Upload RIT Ethics of AI reflections PDF → `PAPERS/AI_and_Education/` (flag as potential writing sample).
 - [ ] Upload IDAI700 Unit 6 slide decks (both) → `PAPERS/AI_and_Education/`.
+- [x] Compare `IDAI700-Research_Paper` and `IDAI700-Research_Portfolio`; prefer the research paper for single-paper responsible-AI packets and keep the portfolio as broader narrative support.
+- [ ] Review the RIT Together proposal and stage a public-safe excerpt if it strengthens a broader-impact packet.
 - [ ] Upload AI_as_a_partner lesson and MagicSchool project → `PROJECTS/AI_as_partner/`.
 - [ ] Upload AI Business Model Project (booklet + 2 slide decks) → `PROJECTS/AI_Business_Model_Project/`.
 - [ ] Review `survey-related-work.pdf` and `Eaton_601_RoughDraft-3.pdf` for sole-authorship and writing sample viability; annotate status in `MASTER_RESEARCH_INDEX.md`.
@@ -104,6 +110,9 @@ Items are organized by priority and domain, derived from `MASTER_RESEARCH_INDEX.
 ## 5. Bioinformatics / Computational Biology Tasks
 
 - [ ] Compare `Boggavarapu_HTSA_Report9` and `Boggavarapu_HTSA_Report9 duplicate` — keep canonical, archive duplicate.
+- [ ] Review and stage the course-paper bench: BIO614/BIO630, DSCI601, ISTE780, DSCI644, and BIOL550.
+- [x] Create the first DSCI633 intake summary with exact title, authorship, and source-file map.
+- [ ] Execute `PAPERS/Data_Science_and_Machine_Learning/DSCI633_MANUSCRIPT_PLAN.md` and convert the current notebook-export DSCI633 report into a cleaned manuscript-style derivative.
 - [ ] Upload canonical `Boggavarapu_HTSA_Report9` → `PAPERS/Bioinformatics_Computational_Biology/HTSA_reports/`.
 - [ ] Review `Copy of HTSA_Paper` and `Materials and Methods` — determine canonical paper version.
 - [ ] Upload canonical HTSA paper → `PAPERS/Bioinformatics_Computational_Biology/HTSA_paper/`.
