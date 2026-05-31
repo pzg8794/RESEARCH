@@ -28,6 +28,14 @@ Status: Submitted
 ## Submitted references (from packet status)
 
 - Travis Desell
+
+## CV audit fixes applied (2026-05-31 session)
+
+- Fixed education section order: UofR Warner (In progress, Sep 2024–) moved to position 2 (before RIT CS 2015). Canonical order: RIT DS → UofR Warner → RIT CS → Farmingdale.
+- Added missing `\section{Awards \& Recognition}` with all 4 canonical entries.
+- Added `\section{Selected Fit for Uppsala Precision Medicine Position}` (4 bullets) — this section was entirely absent from the original CV.
+- CV recompiled successfully: 3 pages.
+- **PDF re-uploaded to uu.varbi.com application 24703420 with corrected file.**
 - Daniel Krutz
 - Fernando Rodriguez
 - Qi Yu

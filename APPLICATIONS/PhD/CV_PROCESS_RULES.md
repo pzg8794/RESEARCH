@@ -141,6 +141,7 @@ Add a `\section{Research Interests}` after Research Profile. Use a semicolon-sep
 ## 9. CV Checklist Before Submission
 
 Before submitting any CV, verify:
+- [ ] Education order is correct: RIT DS (Expected Aug 2026) → UofR Warner (In progress) → RIT CS (2015) → Farmingdale (2012). UofR Warner is current/in-progress, so it ranks after the current RIT DS degree and before the 2015 RIT CS degree.
 - [ ] All 4 GPA values are correct (3.3 / 3.2 / 3.9 / 4.0)
 - [ ] `\section{Research Profile}` present (not "Research Summary")
 - [ ] `\section{Research Interests}` present after Research Profile
@@ -181,4 +182,6 @@ These mistakes were found across submitted CVs in the 2025–2026 application cy
 | VEDADATA or VIOME entries placed after Technical Competencies | Industry experience entries must appear inside "Research and Professional Experience" in chronological order. Never float `\entry{}` blocks outside a section. |
 | Teaching & Mentoring as a standalone section | Either fold into "Research and Professional Experience" (per Format B) or remove entirely. If kept, only include tutoring entries with strong STEM content — remove weak administrative roles from 10+ years ago (e.g., "Faculty Assistant, Graduate Office 2013–2015"). |
 | Missing "Research Interests" section | Every CV must have `\section{Research Interests}` after Research Profile. Tailor keyword list to position focus. |
+| UofR Warner placed after RIT CS 2015 in Education | Education must be reverse chronological. UofR Warner is current/in-progress (Sep 2024–), so it goes immediately after RIT DS (Expected 2026) and before RIT CS (2015). Canonical order: RIT DS → UofR Warner → RIT CS → Farmingdale. |
+| Redundant "Independent Research" entry duplicating RIT GA work | Do not create a standalone "Independent Research" entry for work already described in the RIT Graduate Assistant entry. This creates confusion about whether the entry refers to quantum routing or DSCI601. The quantum research is fully covered by the RIT GA entry. Remove the redundant entry. |
 | Missing "Awards & Recognition" section | Every CV must include the 4 standard awards: NSF Noyce, MS International Scholarship, Honorable Mention, IEEE Alumni. |

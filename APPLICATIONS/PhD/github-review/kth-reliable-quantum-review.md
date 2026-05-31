@@ -37,3 +37,10 @@ I can contribute reproducible Python-based ML experimentation, disciplined evalu
 
 - Required consent checkboxes are checked.
 - Submit remains disabled in automation snapshots due Varbi/Cloudflare validation state.
+
+## CV audit fixes applied (2026-05-31 session)
+
+- Removed standalone `\section{Teaching \& Mentoring Experience}` block (Varsity Tutors entry). Format B bans standalone teaching sections; experience folded or omitted.
+- Removed redundant `\entry{Independent Research}` entry. Quantum routing work is fully covered by the RIT Graduate Assistant entry; the duplicate caused ambiguity about whether it described quantum or clinical (DSCI601) research.
+- CV recompiled successfully: 4 pages.
+- **PDF re-uploaded to kth.varbi.com application 24703413 with corrected file.**
