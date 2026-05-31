@@ -4,6 +4,7 @@
 \usepackage{enumitem}
 \usepackage{titlesec}
 \usepackage{tabularx}
+\usepackage{graphicx}
 
 \setlist[itemize]{leftmargin=1.2em,itemsep=3pt,topsep=3pt}
 \titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
@@ -17,13 +18,20 @@
 
 \begin{document}
 
-\begin{center}
-  {\LARGE \textbf{Piter Z. Garcia Bautista}}\\[4pt]
-  Rochester, NY \textbar\ +1 (646) 288-3300 \textbar\ \href{mailto:pzg8794@rit.edu}{pzg8794@rit.edu}\\
-  \href{https://linkedin.com/in/garciapiterz}{linkedin.com/in/garciapiterz} \textbar\
-  \href{https://github.com/pzg8794}{github.com/pzg8794} \textbar\
-  \href{https://garciapiterz.com}{garciapiterz.com}
-\end{center}
+\noindent\begin{minipage}[t]{0.76\textwidth}
+\vspace{0pt}
+{\LARGE \textbf{Piter Z. Garcia Bautista}}\\[4pt]
+Rochester, NY \textbar\ +1 (646) 288-3300 \textbar\ \href{mailto:pzg8794@rit.edu}{pzg8794@rit.edu}\\
+\href{https://linkedin.com/in/garciapiterz}{linkedin.com/in/garciapiterz} \textbar\
+\href{https://github.com/pzg8794}{github.com/pzg8794} \textbar\
+\href{https://garciapiterz.com}{garciapiterz.com}
+\end{minipage}%
+\hfill\begin{minipage}[t]{0.20\textwidth}
+\vspace{0pt}
+\raggedleft
+\includegraphics[width=\linewidth]{profile_pic}
+\end{minipage}
+\vspace{6pt}
 
 \section{Research Profile}
 Graduate researcher focused on machine learning for diagnostics and decision support under noisy, heterogeneous, and partially observed data. Background includes an M.S. in Computer Science, current M.S. work in Data Science, industry healthcare AI experience, and computational biology training. Current work emphasizes reproducibility, robust evaluation, fairness-aware analysis, and translational relevance to clinical settings.
@@ -77,6 +85,7 @@ Machine learning for precision medicine and diagnostics; robust learning under m
 \begin{itemize}
   \item \textit{Fairness-Aware Bandits for Network Routing in Quantum and Clinical Settings} (DSCI601 project proposal, manuscript-style report).
   \item \textit{BIO614-FinalProjectProposal} (Overleaf) and companion BIO550 computational biology analyses on RNA structure and RNA-seq workflows, with reproducible diagnostics-oriented interpretation.
+  \item \textit{Equitable Bioinformatics: Enhancing Diagnostic Decision-Making through RNA and Biomarker Data} (ISTE-780 Project Report) --- systematic fairness assessment of ML-driven diagnostic algorithms, with reproducible SHAP-based bias detection and statistical significance testing.
 \end{itemize}
 
 \section{Technical Competencies}

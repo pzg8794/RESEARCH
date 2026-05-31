@@ -4,6 +4,7 @@
 \usepackage{enumitem}
 \usepackage{titlesec}
 \usepackage{tabularx}
+\usepackage{graphicx}
 
 \setlist[itemize]{leftmargin=1.2em,itemsep=3pt,topsep=3pt}
 \titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
@@ -17,13 +18,20 @@
 
 \begin{document}
 
-\begin{center}
-  {\LARGE \textbf{Piter Z. Garcia Bautista}}\\[4pt]
-  Rochester, NY \textbar\ +1 (646) 288-3300 \textbar\ \href{mailto:pzg8794@rit.edu}{pzg8794@rit.edu}\\
-  \href{https://linkedin.com/in/garciapiterz}{linkedin.com/in/garciapiterz} \textbar\
-  \href{https://github.com/pzg8794}{github.com/pzg8794} \textbar\
-  \href{https://garciapiterz.com}{garciapiterz.com}
-\end{center}
+\noindent\begin{minipage}[t]{0.76\textwidth}
+\vspace{0pt}
+{\LARGE \textbf{Piter Z. Garcia Bautista}}\\[4pt]
+Rochester, NY \textbar\ +1 (646) 288-3300 \textbar\ \href{mailto:pzg8794@rit.edu}{pzg8794@rit.edu}\\
+\href{https://linkedin.com/in/garciapiterz}{linkedin.com/in/garciapiterz} \textbar\
+\href{https://github.com/pzg8794}{github.com/pzg8794} \textbar\
+\href{https://garciapiterz.com}{garciapiterz.com}
+\end{minipage}%
+\hfill\begin{minipage}[t]{0.20\textwidth}
+\vspace{0pt}
+\raggedleft
+\includegraphics[width=\linewidth]{profile_pic}
+\end{minipage}
+\vspace{6pt}
 
 \section{Research Profile}
 Graduate researcher with a strong foundation in machine learning methods, statistical learning theory, and data-driven decision support. Background includes fairness-aware ML for high-stakes settings, reproducible evaluation frameworks, bandit and sequential decision-making algorithms, and applied ML across healthcare, bioinformatics, and network routing domains. Current Graduate Assistant work (Quantum and AI Research, RIT) emphasizes principled model evaluation, statistical rigor, and method reliability across heterogeneous and partially observed data environments. Interested in pushing ML methodology forward --- building models that generalize robustly and whose failure modes are understood and bounded.
@@ -98,6 +106,7 @@ Machine learning theory and methods; statistical learning and model evaluation; 
 
 \section{Selected Technical Writing}
 \begin{itemize}
+  \item \textit{Quantum Path Optimization with Fault-Tolerant Routing} --- manuscript-level analysis of quantum-classical hybrid ML for fault-tolerant routing under noise constraints (under review, 2025--2026).
   \item \textit{Fairness-Aware Bandits for Network Routing in Quantum and Clinical Settings} (DSCI601 project, manuscript-style) --- bandit learning with equity constraints for high-stakes sequential decisions.
   \item \textit{Equitable Bioinformatics: Enhancing Diagnostic Decision-Making through RNA and Biomarker Data} (ISTE-780 Project Report) --- systematic fairness assessment applied to ML-driven diagnostics.
   \item \textit{BIO614-FinalProjectProposal} (Overleaf) --- formal computational methods manuscript with rigorous benchmarking and reproducible evaluation.

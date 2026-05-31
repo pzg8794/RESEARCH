@@ -4,6 +4,7 @@
 \usepackage{enumitem}
 \usepackage{titlesec}
 \usepackage{tabularx}
+\usepackage{graphicx}
 
 \setlist[itemize]{leftmargin=1.2em,itemsep=3pt,topsep=3pt}
 \titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
@@ -17,13 +18,20 @@
 
 \begin{document}
 
-\begin{center}
-  {\LARGE \textbf{Piter Z. Garcia Bautista}}\\[4pt]
-  Rochester, NY \textbar\ +1 (646) 288-3300 \textbar\ \href{mailto:pzg8794@rit.edu}{pzg8794@rit.edu}\\
-  \href{https://linkedin.com/in/garciapiterz}{linkedin.com/in/garciapiterz} \textbar\
-  \href{https://github.com/pzg8794}{github.com/pzg8794} \textbar\
-  \href{https://garciapiterz.com}{garciapiterz.com}
-\end{center}
+\noindent\begin{minipage}[t]{0.76\textwidth}
+\vspace{0pt}
+{\LARGE \textbf{Piter Z. Garcia Bautista}}\\[4pt]
+Rochester, NY \textbar\ +1 (646) 288-3300 \textbar\ \href{mailto:pzg8794@rit.edu}{pzg8794@rit.edu}\\
+\href{https://linkedin.com/in/garciapiterz}{linkedin.com/in/garciapiterz} \textbar\
+\href{https://github.com/pzg8794}{github.com/pzg8794} \textbar\
+\href{https://garciapiterz.com}{garciapiterz.com}
+\end{minipage}%
+\hfill\begin{minipage}[t]{0.20\textwidth}
+\vspace{0pt}
+\raggedleft
+\includegraphics[width=\linewidth]{profile_pic}
+\end{minipage}
+\vspace{6pt}
 
 \section{Research Profile}
 Graduate researcher focused on machine learning under uncertainty, noisy observations, and limited-signal environments. Background spans reproducible ML evaluation pipelines, bandit and reinforcement-learning-based decision-making systems, quantum computing research, and fault-tolerant algorithm design. Current Graduate Assistant work (Quantum and AI Research, RIT) emphasizes reliability-first evaluation methodology, structured experimental design, and principled approaches to settings where standard supervised assumptions break down. Particularly interested in how statistical learning can be made robust and trustworthy in noisy physical and computational systems, including quantum circuits.
@@ -110,6 +118,7 @@ Reliable machine learning under noise and uncertainty; fault-tolerant algorithm 
   \item \textit{Quantum Path Optimization with Fault-Tolerant Routing} --- manuscript on quantum-classical hybrid ML under noise constraints and decoherence, with structured evaluation (submitted 2025--2026).
   \item \textit{Fairness-Aware Bandits for Network Routing in Quantum and Clinical Settings} (DSCI601 project, manuscript-style report) --- bandit learning framework applied to reliability-critical routing problems.
   \item \textit{BIO614-FinalProjectProposal} (Overleaf) --- formal manuscript-style computational analysis with reproducible benchmarking and structured evaluation.
+  \item \textit{Equitable Bioinformatics: Enhancing Diagnostic Decision-Making through RNA and Biomarker Data} (ISTE-780 Project Report) --- systematic fairness assessment applied to ML-driven diagnostics, with reproducible SHAP-based bias detection.
 \end{itemize}
 
 \section{Awards \& Recognition}
