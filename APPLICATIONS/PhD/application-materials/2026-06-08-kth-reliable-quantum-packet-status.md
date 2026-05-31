@@ -34,3 +34,11 @@ CV source note:
 - All files uploaded: CV, cover letter (file), 2 writing samples.
 - Q1 and Q2 verified populated before final submit.
 - **Revised CV compiled from Overleaf 2025 tailored .tex source**; user manually confirmed final submit.
+
+## CV update — 2026-05-31
+
+- Added `Teaching & Mentoring Experience` section to `2026-06-08-kth-reliable-quantum-cv.tex`:
+  - `University of Rochester, Warner School of Education` — Sep 2024–Present — CS Teacher Candidate, K–12 Computer Science Teaching Placement (NSF Noyce Scholar)
+  - `Varsity Tutors & Independent Practice` — 2021–Present — STEM Tutor and Academic Mentor
+- Recompiled PDF: 4 pages, clean.
+- **Re-submitted 2026-05-31** — new application ID: **24703348** (GDPR consent re-checked; Varbi confirmed "Your application has been submitted"; `cid=177&trace=applicationupdated`).
