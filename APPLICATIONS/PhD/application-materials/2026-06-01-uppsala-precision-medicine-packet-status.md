@@ -167,3 +167,13 @@ The following retroactive improvements were applied to the CV source file after 
 - `WRITING_SAMPLE_KEYWORD_ORDER_LOCK.md` — updated to 6-item canonical order with source paths
 - `WRITING_SAMPLE_SHORTLISTS.md` — updated; "Do not lead with BIOL550" restriction removed; BIOL550 standalone IEEE version documented
 - `biol550-ieee-ngs-reanalysis-writing-sample.tex` / `.pdf` — new standalone IEEE-format BIOL550 writing sample (4 pages, solo-authored)
+
+---
+
+## CV Re-upload — 2026-05-31
+
+- CV `.tex` source updated: added ISTE-780 as a dedicated CV entry + expanded BIO614 entry (Format B).
+- Recompiled PDF: `2026-06-01-uppsala-precision-medicine-cv.pdf` (4 pages, clean).
+- **Re-uploaded and re-submitted 2026-05-31** — Varbi application ID: **24705076**.
+- Portal confirmation: `Din ansökan är nu inskickad` (Uppsala, `uu.varbi.com`, `trace=applicationupdated`).
+- GDPR checkbox re-checked before submit.
