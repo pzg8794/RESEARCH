@@ -142,16 +142,22 @@ Add a `\section{Research Interests}` after Research Profile. Use a semicolon-sep
 
 Before submitting any CV, verify:
 - [ ] All 4 GPA values are correct (3.3 / 3.2 / 3.9 / 4.0)
-- [ ] UofR entry appears in Research and Professional Experience (not only in Teaching)
+- [ ] `\section{Research Profile}` present (not "Research Summary")
+- [ ] `\section{Research Interests}` present after Research Profile
+- [ ] `\section{Awards \& Recognition}` present with 4 canonical entries
+- [ ] UofR entry appears in Research and Professional Experience (not only in Teaching/Education)
+- [ ] No course project listed under an inflated title ("Lead Researcher", "Principal Investigator")
+- [ ] VEDADATA and VIOME entries are inside "Research and Professional Experience" (not floating elsewhere)
 - [ ] Selected Technical Writing follows canonical order: BDMD → PHRR → BIO614 → ISTE780 → BIOL550 → DSCI601
+- [ ] Quantum CVs: QuantumPathOptimization is item 0 (before BDMD)
 - [ ] BIOL550 is a standalone entry (not combined with BIO614)
 - [ ] DSCI601 uses clinical diagnostic framing
-- [ ] No "Teaching & Mentoring Experience" section exists as a standalone (must be merged)
-- [ ] No "Professional Experience" section exists as a standalone (must be merged)
+- [ ] No standalone "Teaching & Mentoring Experience" section (fold into Research and Professional Experience or remove)
+- [ ] No standalone "Professional Experience" section (must be merged)
 - [ ] Section name is "Technical Competencies" not "Technical Skills"
 - [ ] Section name is "Selected Technical Writing" not "Selected Publications..."
 - [ ] PDF compiles without errors (`pdflatex -interaction=nonstopmode`)
-- [ ] Packet-status file updated in `application-materials/`
+- [ ] Packet-status file updated in `review-by-application/`
 
 ---
 
@@ -170,3 +176,9 @@ These mistakes were found across submitted CVs in the 2025–2026 application cy
 | Section named "Technical Skills" | Rename to "Technical Competencies" |
 | Section named "Selected Publications & Academic Contributions" | Rename to "Selected Technical Writing" |
 | Short "Research Summary" paragraph | Expand to "Research Profile" narrative |
+| Course project entries listed as "Lead Researcher" or "Principal Investigator" | These are NOT real positions — do not inflate coursework. Use a single descriptive entry title (e.g., "Computational Biology Research") or omit if already covered in Selected Technical Writing. |
+| EQUITAS "framework" listed as a real research position | EQUITAS is a course/project framing — it is not a real employed or PI position. If relevant, mention it as a writing sample or brief context bullet within a real entry. |
+| VEDADATA or VIOME entries placed after Technical Competencies | Industry experience entries must appear inside "Research and Professional Experience" in chronological order. Never float `\entry{}` blocks outside a section. |
+| Teaching & Mentoring as a standalone section | Either fold into "Research and Professional Experience" (per Format B) or remove entirely. If kept, only include tutoring entries with strong STEM content — remove weak administrative roles from 10+ years ago (e.g., "Faculty Assistant, Graduate Office 2013–2015"). |
+| Missing "Research Interests" section | Every CV must have `\section{Research Interests}` after Research Profile. Tailor keyword list to position focus. |
+| Missing "Awards & Recognition" section | Every CV must include the 4 standard awards: NSF Noyce, MS International Scholarship, Honorable Mention, IEEE Alumni. |
