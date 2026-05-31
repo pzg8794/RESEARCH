@@ -46,6 +46,7 @@ Status:
 - names chosen: yes
 - contact details entered in portal: yes
 - portal currently lists: Travis Desell, Daniel Krutz, Fernando Rodriguez, and Qi Yu
+- **ACTION NEEDED:** Remove Qi Yu from portal — not notified. Planned replacement: Zenon (pending notification before adding).
 
 ## Locked writing-sample plan
 
