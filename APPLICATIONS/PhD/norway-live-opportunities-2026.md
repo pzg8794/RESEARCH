@@ -1,6 +1,6 @@
 # Norway Live Opportunities Tracker (2026)
 
-Updated: 2026-05-29
+Updated: 2026-06-04
 Source of truth repo: RESEARCH
 
 This tracker records live Norway PhD/research opportunities in a standardized format:
@@ -9,6 +9,19 @@ This tracker records live Norway PhD/research opportunities in a standardized fo
 - Benefits
 - Deadline
 - Immediate action
+
+## Unresolved / Hold
+
+### Jobbnorge application 5887647
+
+- Portal URL: https://www.jobbnorge.no/jobseeker/#/application/5887647/
+- Status as of 2026-06-04: unresolved; not found in the local RESEARCH tracker or indexed public Jobbnorge search.
+- Public preview check: `https://jobseeker.jobbnorge.no/api/application/5887647/preview` returns an unauthenticated portal response, so the title cannot be resolved without a logged-in Jobbnorge session.
+- This is **not** one of the two Norway applications already documented as submitted:
+  - NTNU AI-Enabled Maritime Systems for Environmental Monitoring: active submitted preview `5877625`; see [2026-05-31-ntnu-ai-maritime-packet-status.md](./application-materials/2026-05-31-ntnu-ai-maritime-packet-status.md).
+  - NTNU Quantum Compiler Technologies: active submitted application `5878636`; see [2026-06-01-ntnu-quantum-compiler-packet-status.md](./application-materials/2026-06-01-ntnu-quantum-compiler-packet-status.md).
+- Decision rule: keep this on hold / no-go unless the portal title confirms a strong match to quantum, bioinformatics/computational biology, teaching/education, or explicit equity/fair-AI research.
+- Verification needed: open the logged-in Jobbnorge application or capture the title from Sent Applications/Drafts. If the title is a geology, geodynamics, sociology, anthropology, or broad immersive-systems role, archive/ignore rather than spending application time.
 
 ## 1) Closest Deadline Now
 
