@@ -2,8 +2,10 @@
 
 Institution: KTH  
 Role posting: https://www.kth.se/lediga-jobb/927950?l=en  
-Draft profile: https://kth.varbi.com/en/apply/positionquick/927950/?where=4  
-Status: Draft complete (not submitted)
+Portal: https://kth.varbi.com/en/apply/positionquick/927950/?where=4
+Status: Submitted / re-submitted
+
+Latest submitted Varbi application ID documented in the packet log: `24705044`.
 
 ## Primary packet status source
 
@@ -33,7 +35,7 @@ Question 2:
 
 I can contribute strong experimental discipline, reproducible Python workflows, and experience comparing ML methods under noisy and changing conditions. I would bring careful implementation, transparent reporting, and an interdisciplinary perspective from AI, data science, and reliability-focused research.
 
-## Form completion note
+## Submission note
 
-- Required consent checkboxes are checked.
-- Submit remains disabled in automation snapshots due Varbi/Cloudflare validation state.
+- The canonical packet-status file documents successful submission and later re-submission through KTH Varbi.
+- Older automation snapshots that showed a disabled submit button are historical and should not be treated as the current status.

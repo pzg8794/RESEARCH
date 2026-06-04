@@ -1,7 +1,8 @@
-# 04 - KTH Machine Learning (Draft Complete)
+# 04 - KTH Machine Learning (Submitted)
 
 Role: https://www.kth.se/lediga-jobb/927950?l=en
-Draft form: https://kth.varbi.com/en/apply/positionquick/927950/?where=4
+Portal: https://kth.varbi.com/en/apply/positionquick/927950/?where=4
+Latest submitted Varbi application ID documented in packet status: `24705044`
 
 ## Included artifacts
 

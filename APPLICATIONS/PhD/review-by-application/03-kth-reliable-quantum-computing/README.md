@@ -1,7 +1,8 @@
-# 03 - KTH Reliable Quantum Computing (Draft Complete)
+# 03 - KTH Reliable Quantum Computing (Submitted)
 
 Role: https://www.kth.se/lediga-jobb/919576?l=en
-Draft form: https://kth.varbi.com/en/apply/positionquick/919576/?where=4
+Portal: https://kth.varbi.com/en/apply/positionquick/919576/?where=4
+Latest submitted Varbi application ID documented in packet status: `24705020`
 
 ## Included artifacts
 

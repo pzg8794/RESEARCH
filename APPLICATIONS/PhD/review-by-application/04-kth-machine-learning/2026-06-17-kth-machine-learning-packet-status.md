@@ -1,8 +1,8 @@
-# KTH Machine Learning Packet Status (Draft Profile)
+# KTH Machine Learning Packet Status (Submitted)
 
 Role: [KTH Doctoral student in Machine Learning](https://www.kth.se/lediga-jobb/927950?l=en)  
 Official deadline: 2026-06-17  
-Draft profile URL: https://kth.varbi.com/en/apply/positionquick/927950/?where=4
+Portal URL: https://kth.varbi.com/en/apply/positionquick/927950/?where=4
 
 ## Upload state (2026-05-28)
 
@@ -30,5 +30,6 @@ CV source note:
 
 ## Submission status
 
-- Draft profile prepared.
-- Not submitted yet.
+- **Submitted 2026-05-28** — application ID: `24682004` (correct edit ID confirmed from portal mypage scan; prior `24681861` was incorrect).
+- **Revised CV re-uploaded and re-submitted 2026-05-28** — portal confirmed "Your application has been submitted".
+- **Re-uploaded and re-submitted 2026-05-31** — latest documented Varbi application ID: `24705044`.

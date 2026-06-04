@@ -1,8 +1,8 @@
-# KTH Reliable Quantum Computing Packet Status (Draft Profile)
+# KTH Reliable Quantum Computing Packet Status (Submitted)
 
 Role: [KTH Doctoral student in Machine Learning for Reliable Quantum Computing](https://www.kth.se/lediga-jobb/919576?l=en)  
 Official deadline: 2026-06-08  
-Draft profile URL: https://kth.varbi.com/en/apply/positionquick/919576/?where=4
+Portal URL: https://kth.varbi.com/en/apply/positionquick/919576/?where=4
 
 ## Upload state (2026-05-28)
 
@@ -29,5 +29,6 @@ CV source note:
 
 ## Submission status
 
-- Draft profile prepared.
-- Not submitted yet.
+- **Submitted 2026-05-28** — application ID: `24682182` (re-submitted to fix Q1; original `24681816` replaced).
+- **Re-submitted 2026-05-31** — application ID: `24703348` (GDPR consent re-checked; Varbi confirmed "Your application has been submitted").
+- **Re-uploaded and re-submitted 2026-05-31** — latest documented Varbi application ID: `24705020`.

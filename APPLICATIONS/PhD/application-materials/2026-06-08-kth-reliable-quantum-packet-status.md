@@ -1,8 +1,8 @@
-# KTH Reliable Quantum Computing Packet Status (Draft Profile)
+# KTH Reliable Quantum Computing Packet Status (Submitted)
 
 Role: [KTH Doctoral student in Machine Learning for Reliable Quantum Computing](https://www.kth.se/lediga-jobb/919576?l=en)  
 Official deadline: 2026-06-08  
-Draft profile URL: https://kth.varbi.com/en/apply/positionquick/919576/?where=4
+Portal URL: https://kth.varbi.com/en/apply/positionquick/919576/?where=4
 
 ## Upload state (2026-05-28)
 

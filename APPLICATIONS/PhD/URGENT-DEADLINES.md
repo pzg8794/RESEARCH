@@ -16,6 +16,7 @@ No unsubmitted high-fit PhD packet is currently documented as still needing firs
 | Jun 1 | 🇸🇪 Sweden | [Uppsala PhD: ML for Precision Medicine & Diagnostics](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=930689) | CV, transcripts, personal letter (1 page), writing sample, 2 reference contacts | Submitted; no immediate portal action |
 | Jun 3 | 🇸🇪 Sweden | [KTH PhD: AI/ML for Single-Cell Cancer Data](https://www.kth.se/lediga-jobb/927967?l=en) | CV, application letter (2 pages), diplomas/grades, language proof, publications/technical report | Submitted; no immediate portal action |
 | **Jun 8** | 🇸🇪 Sweden | [KTH PhD: ML for Reliable Quantum Computing](https://www.kth.se/lediga-jobb/919576?l=en) | CV, application letter (2 pages), diplomas/grades, language proof, publications/technical report | Submitted/re-submitted; optional final portal sanity check by Jun 7 |
+| Jun 8 | 🇳🇴 Norway | [UiO Postdoctoral Fellows in Special Needs Education, Education, Educational Psychology and Psychology](https://www.jobbnorge.no/en/available-jobs/job/299662/postdoctoral-fellows-in-special-needs-education-education-educational-psychology-and-psychology) | Postdoc-level application | Low fit / postdoc-only; skip unless specifically desired |
 
 ---
 
@@ -23,12 +24,11 @@ No unsubmitted high-fit PhD packet is currently documented as still needing firs
 
 | Deadline | Country | Opportunity | Status |
 |----------|---------|-------------|--------|
-| Jun 8 | 🇳🇱 Netherlands | UvA Student Assistant: Child Anxiety Treatment Projects | 🟡 Check fit |
-| Jun 15 | 🇳🇱 Netherlands | [TU Delft PhD: Impact of AI on Business Operations](https://www.academictransfer.com/en/jobs/) | 🟠 Review |
+| Jun 15 | 🇳🇱 Netherlands | [TU Delft PhD: Impact of AI on Business Operations](https://www.academictransfer.com/en/jobs/361381/phd-position-the-impact-of-ai-on-business-operations-in-knowledge-intensive-technology-firms/) | 🟠 Review |
 | Jun 15 | 🇳🇱 Netherlands | VU Junior Researcher | 🟡 Check fit |
-| Jun 17 | 🇸🇪 Sweden | [KTH PhD: Machine Learning (backup)](https://www.kth.se/lediga-jobb?l=en) | 🟡 Backup |
+| Jun 17 | 🇸🇪 Sweden | [KTH PhD: Machine Learning (backup)](https://www.kth.se/lediga-jobb?l=en) | ✅ Submitted |
 | Jun 29 | 🇳🇱 Netherlands | [Radboud PhD: Gut-Brain Axis & ADHD](https://www.academictransfer.com/en/jobs/) | 🟠 Review |
-| Jun 30 | 🇳🇱 Netherlands | Twente EngD: Context-Aware AI for Building Permitting | 🟡 Low priority |
+| Jun 30 | 🇳🇱 Netherlands | [Twente EngD: Context-Aware AI for Building Permitting](https://www.academictransfer.com/en/jobs/361380/engd-position-designing-a-context-aware-ai-for-automated-building-permitting/) | 🟡 Low priority |
 | **Jun 30** | 🌍 Fulbright | **UofR campus Fulbright full draft due for internal review** | 🟠 Build now |
 
 ---

@@ -172,8 +172,6 @@ The entries below are all Norway opportunities discovered during this session fr
   - https://www.jobbnorge.no/en/available-jobs/job/301571/postdoctoral-research-fellow-in-ai-based-multimodal-ananlysis-for-early-cancer-detection
 - Researcher on pyrimidine modifications in early life decisions in development and for healthy aging (deadline: 3 June 2026)
   - https://www.jobbnorge.no/en/available-jobs/job/300476/researcher-on-pyrimidine-modifications-in-early-life-decisions-in-development-and-for-healthy-aging
-- Second call for PhD research fellow in Anthropology of Health and Environment in Africa and Europe (deadline: 4 June 2026)
-  - https://www.jobbnorge.no/en/available-jobs/job/301933/second-call-for-phd-research-fellow-in-anthropology-of-health-and-environment-in-africa-and-europe
 - Postdoctoral Fellows in Special Needs Education, Education, Educational Psychology and Psychology (deadline: 8 June 2026)
   - https://www.jobbnorge.no/en/available-jobs/job/299662/postdoctoral-fellows-in-special-needs-education-education-educational-psychology-and-psychology
 - Postdoc Research Fellow in Sociology (deadline: 30 June 2026)

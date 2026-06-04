@@ -1,6 +1,6 @@
 # PhD & Fellowship Application Deadline Tracker
 
-Last updated: 2026-05-31  
+Last updated: 2026-06-04
 Maintainer: Piter Garcia  
 Repo: https://github.com/pzg8794/RESEARCH
 
@@ -46,17 +46,17 @@ This is the canonical multi-country deadline tracker for all PhD, fellowship, an
 
 | Deadline | Internal Due | Country | Opportunity | Route | Status |
 |----------|-------------|---------|-------------|-------|--------|
-| Jun 1, 2026 | **May 31** | 🇸🇪 Sweden | [Uppsala PhD: ML for Precision Medicine & Diagnostics](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=930689) | Direct PhD vacancy | 🔴 Submit NOW |
+| Jun 1, 2026 | **May 31** | 🇸🇪 Sweden | [Uppsala PhD: ML for Precision Medicine & Diagnostics](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=930689) | Direct PhD vacancy | ✅ Submitted |
 | Jun 1, 2026 | May 31 | 🌍 Global | [Mira Fellowship](https://www.mirafellowship.org) | Fellowship / profile-builder | 🟠 Check |
-| Jun 3, 2026 | Jun 2 | 🇸🇪 Sweden | [KTH PhD: AI/ML for Single-Cell Cancer Data](https://www.kth.se/lediga-jobb/927967?l=en) | Direct PhD vacancy | 🟠 Urgent |
-| Jun 8, 2026 | Jun 7 | 🇸🇪 Sweden | [KTH PhD: ML for Reliable Quantum Computing](https://www.kth.se/lediga-jobb/919576?l=en) | Direct PhD vacancy | 🟠 Urgent |
-| Jun 8, 2026 | Jun 7 | 🇳🇱 Netherlands | UvA Student Assistant: Child Anxiety Treatment Projects | Research assistant role | 🟡 Check fit |
+| Jun 3, 2026 | Jun 2 | 🇸🇪 Sweden | [KTH PhD: AI/ML for Single-Cell Cancer Data](https://www.kth.se/lediga-jobb/927967?l=en) | Direct PhD vacancy | ✅ Submitted |
+| Jun 8, 2026 | Jun 7 | 🇸🇪 Sweden | [KTH PhD: ML for Reliable Quantum Computing](https://www.kth.se/lediga-jobb/919576?l=en) | Direct PhD vacancy | ✅ Submitted |
+| Jun 8, 2026 | Jun 7 | 🇳🇴 Norway | [UiO Postdoctoral Fellows in Special Needs Education, Education, Educational Psychology and Psychology](https://www.jobbnorge.no/en/available-jobs/job/299662/postdoctoral-fellows-in-special-needs-education-education-educational-psychology-and-psychology) | Postdoc | ❌ Low fit / postdoc-only |
 | Jun 12, 2026 | Jun 11 | 🇳🇱 Netherlands | NIOO-KNAW Postdoc: Long-term Ecological Research | Postdoc | ❌ Likely not fit |
-| Jun 15, 2026 | Jun 14 | 🇳🇱 Netherlands | [TU Delft PhD: Impact of AI on Business Operations](https://www.academictransfer.com/en/jobs/) | Direct PhD vacancy | 🟠 Active |
+| Jun 15, 2026 | Jun 14 | 🇳🇱 Netherlands | [TU Delft PhD: Impact of AI on Business Operations](https://www.academictransfer.com/en/jobs/361381/phd-position-the-impact-of-ai-on-business-operations-in-knowledge-intensive-technology-firms/) | Direct PhD vacancy | 🟠 Active |
 | Jun 15, 2026 | Jun 14 | 🇳🇱 Netherlands | VU Junior Researcher | Research role | 🟡 Check fit |
-| Jun 17, 2026 | Jun 16 | 🇸🇪 Sweden | [KTH PhD: Machine Learning (backup)](https://www.kth.se/lediga-jobb?l=en) | Direct PhD vacancy | 🟡 Backup |
+| Jun 17, 2026 | Jun 16 | 🇸🇪 Sweden | [KTH PhD: Machine Learning (backup)](https://www.kth.se/lediga-jobb?l=en) | Direct PhD vacancy | ✅ Submitted |
 | Jun 29, 2026 | Jun 28 | 🇳🇱 Netherlands | [Radboud PhD: Gut-Brain Axis and Eating Behavior in ADHD](https://www.academictransfer.com/en/jobs/) | Direct PhD vacancy | 🟠 Active |
-| Jun 30, 2026 | Jun 28 | 🇳🇱 Netherlands | [Twente EngD: Context-Aware AI for Building Permitting](https://www.academictransfer.com/en/jobs/) | EngD | 🟡 Medium-low |
+| Jun 30, 2026 | Jun 28 | 🇳🇱 Netherlands | [Twente EngD: Context-Aware AI for Building Permitting](https://www.academictransfer.com/en/jobs/361380/engd-position-designing-a-context-aware-ai-for-automated-building-permitting/) | EngD | 🟡 Medium-low |
 | **Jun 30, 2026** | Jun 28 | 🌍 Fulbright | Fulbright campus draft ready for UofR internal review | Fulbright U.S. Student | 🟠 Build now |
 | Jul 1, 2026 | Jul 1 | 🌍 Fulbright | Late-starter cutoff: FPQ + Planning Tool at UofR | Fulbright U.S. Student | Safety net |
 | Jul 31, 2026 | Jul 30 | 🇸🇪 Sweden | [KTH PhD: Deep Learning for Biological Systems](https://www.kth.se/lediga-jobb/928557?l=en) | Direct PhD vacancy | 🟡 Later |

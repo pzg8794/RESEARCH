@@ -1,8 +1,8 @@
-# KTH Machine Learning Packet Status (Draft Profile)
+# KTH Machine Learning Packet Status (Submitted)
 
 Role: [KTH Doctoral student in Machine Learning](https://www.kth.se/lediga-jobb/927950?l=en)  
 Official deadline: 2026-06-17  
-Draft profile URL: https://kth.varbi.com/en/apply/positionquick/927950/?where=4
+Portal URL: https://kth.varbi.com/en/apply/positionquick/927950/?where=4
 
 ## Upload state (2026-05-28)
 

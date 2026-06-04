@@ -3,7 +3,9 @@
 Institution: KTH  
 Role posting: https://www.kth.se/lediga-jobb/919576?l=en  
 Draft profile: https://kth.varbi.com/en/apply/positionquick/919576/?where=4  
-Status: Draft complete (not submitted)
+Status: Submitted / re-submitted
+
+Latest submitted Varbi application ID documented in the packet log: `24705020`.
 
 ## Primary packet status sources
 
@@ -33,10 +35,10 @@ Question 2:
 
 I can contribute reproducible Python-based ML experimentation, disciplined evaluation across changing conditions, and research experience in quantum routing and resource-allocation settings. I would bring strong implementation, structured comparison workflows, and a reliability-focused mindset that fits the project and research group.
 
-## Form completion note
+## Submission note
 
-- Required consent checkboxes are checked.
-- Submit remains disabled in automation snapshots due Varbi/Cloudflare validation state.
+- The canonical packet-status file documents successful submission and later re-submission through KTH Varbi.
+- Older automation snapshots that showed a disabled submit button are historical and should not be treated as the current status.
 
 ## CV audit fixes applied (2026-05-31 session)
 
