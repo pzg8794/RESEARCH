@@ -1,19 +1,21 @@
 # Urgent Deadlines — Quick Reference
 
-Last updated: 2026-05-31  
+Last updated: 2026-06-04  
 Full tracker: [DEADLINE-TRACKER.md](./DEADLINE-TRACKER.md)
 
 This file is the **1-page view** of everything due in the next 30–60 days. Update status after each submission.
 
 ---
 
-## 🔴 Due THIS WEEK (by June 8)
+## 🔴 Due THIS WEEK (June 4-8)
+
+No unsubmitted high-fit PhD packet is currently documented as still needing first submission this week. The June 8 KTH reliable quantum deadline remains the only active official deadline in this window, but the packet-status log says it was already submitted and re-submitted.
 
 | Deadline | Country | Opportunity | What you need | Status |
 |----------|---------|-------------|--------------|--------|
-| **Jun 1 (TODAY)** | 🇸🇪 Sweden | [Uppsala PhD: ML for Precision Medicine & Diagnostics](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=930689) | CV, transcripts, personal letter (1 page), writing sample, 2 reference contacts | 🔴 SUBMIT NOW |
-| **Jun 3** | 🇸🇪 Sweden | [KTH PhD: AI/ML for Single-Cell Cancer Data](https://www.kth.se/lediga-jobb/927967?l=en) | CV, application letter (2 pages), diplomas/grades, language proof, publications/technical report | 🟠 Draft today |
-| **Jun 8** | 🇸🇪 Sweden | [KTH PhD: ML for Reliable Quantum Computing](https://www.kth.se/lediga-jobb/919576?l=en) | CV, application letter (2 pages), diplomas/grades, language proof, publications/technical report | 🟠 Draft now |
+| Jun 1 | 🇸🇪 Sweden | [Uppsala PhD: ML for Precision Medicine & Diagnostics](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=930689) | CV, transcripts, personal letter (1 page), writing sample, 2 reference contacts | Submitted; no immediate portal action |
+| Jun 3 | 🇸🇪 Sweden | [KTH PhD: AI/ML for Single-Cell Cancer Data](https://www.kth.se/lediga-jobb/927967?l=en) | CV, application letter (2 pages), diplomas/grades, language proof, publications/technical report | Submitted; no immediate portal action |
+| **Jun 8** | 🇸🇪 Sweden | [KTH PhD: ML for Reliable Quantum Computing](https://www.kth.se/lediga-jobb/919576?l=en) | CV, application letter (2 pages), diplomas/grades, language proof, publications/technical report | Submitted/re-submitted; optional final portal sanity check by Jun 7 |
 
 ---
 
