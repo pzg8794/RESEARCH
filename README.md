@@ -49,13 +49,15 @@ The strongest technical direction is machine learning for quantum network routin
 | Fellowship Opportunity Queue | [`APPLICATIONS/Fellowships/profellow-opportunity-queue-2026-05-27.md`](./APPLICATIONS/Fellowships/profellow-opportunity-queue-2026-05-27.md) |
 | Fulbright Awards Queue | [`APPLICATIONS/Fellowships/fulbright-awards-queue-2026-05-27.md`](./APPLICATIONS/Fellowships/fulbright-awards-queue-2026-05-27.md) |
 | ProFellow Search Routine | [`APPLICATIONS/Fellowships/profellow-search-routine.md`](./APPLICATIONS/Fellowships/profellow-search-routine.md) |
+| Job Search Operations | [`APPLICATIONS/Jobs/README.md`](./APPLICATIONS/Jobs/README.md) |
+| Job Pipeline | [`APPLICATIONS/Jobs/job-pipeline.md`](./APPLICATIONS/Jobs/job-pipeline.md) |
 | Local PhD/Application Source Map | [`APPLICATIONS/PhD/LOCAL_SOURCE_MAP.md`](./APPLICATIONS/PhD/LOCAL_SOURCE_MAP.md) |
 | Overleaf Writing-Sample Discovery Playbook | [`APPLICATIONS/PhD/OVERLEAF_DISCOVERY_PLAYBOOK.md`](./APPLICATIONS/PhD/OVERLEAF_DISCOVERY_PLAYBOOK.md) |
 | Writing Sample Shortlists | [`APPLICATIONS/PhD/WRITING_SAMPLE_SHORTLISTS.md`](./APPLICATIONS/PhD/WRITING_SAMPLE_SHORTLISTS.md) |
 | Canonical Overleaf Project Status | [`APPLICATIONS/PhD/OVERLEAF_CANONICAL_STATUS.md`](./APPLICATIONS/PhD/OVERLEAF_CANONICAL_STATUS.md) |
 | DSCI633 Manuscript Plan | [`PAPERS/Data_Science_and_Machine_Learning/DSCI633_MANUSCRIPT_PLAN.md`](./PAPERS/Data_Science_and_Machine_Learning/DSCI633_MANUSCRIPT_PLAN.md) |
 | Academic CV | `CV/current/academic-cv.pdf` *(to be uploaded)* |
-| Industry Resume | `CV/current/industry-resume.pdf` *(to be uploaded)* |
+| Industry Resume | [`CV/current/industry-resume.pdf`](./CV/current/industry-resume.pdf) |
 | Teaching CV | `CV/current/teaching-cv.pdf` *(to be uploaded)* |
 | Statement of Purpose (PhD) | `STATEMENTS/statement-of-purpose-phd.md` *(to be drafted)* |
 | Writing Sample | `STATEMENTS/writing-sample.pdf` *(to be selected)* |
@@ -98,6 +100,7 @@ RESEARCH/
 │   └── AI_Business_Model_Project/
 ├── APPLICATIONS/
 │   ├── Fellowships/                 # ProFellow queue, bookmarks, and discovery workflow
+│   ├── Jobs/                        # Job pipeline and public-safe communication logs
 │   ├── Mira/                        # Mira Fellowship artifacts and staged materials
 │   ├── Noyce/
 │   └── PhD/                         # PhD planning, deadlines, and public-safe application trackers
