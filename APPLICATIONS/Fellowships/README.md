@@ -8,6 +8,8 @@ Use this folder when an opportunity comes from ProFellow, an external fellowship
 
 | Need | File |
 | --- | --- |
+| RIT opportunity review and verified deadlines | [rit-opportunity-log-2026-07-23.md](./rit-opportunity-log-2026-07-23.md) |
+| August-September execution checklist | [august-september-2026-action-plan.md](./august-september-2026-action-plan.md) |
 | Current ProFellow capture queue | [profellow-opportunity-queue-2026-05-27.md](./profellow-opportunity-queue-2026-05-27.md) |
 | Current Fulbright award queue | [fulbright-awards-queue-2026-05-27.md](./fulbright-awards-queue-2026-05-27.md) |
 | Repeatable discovery workflow | [profellow-search-routine.md](./profellow-search-routine.md) |

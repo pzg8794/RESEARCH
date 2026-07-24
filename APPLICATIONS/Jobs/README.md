@@ -22,6 +22,7 @@ applications, recruiter conversations, and follow-up work.
 | [Job Pipeline](./job-pipeline.md) | Active opportunities, fit, status, and next actions |
 | [Handshake Message Log](./handshake-message-log.md) | Recruiter-message decisions and replies |
 | [UofR Email Log](./uofr-email-log.md) | Starred/important University of Rochester career-email processing |
+| [RIT Email Log](./rit-email-log.md) | RIT career-email decisions, replies, live leads, and closed alerts |
 
 ## Operating Rules
 
@@ -30,8 +31,8 @@ applications, recruiter conversations, and follow-up work.
 3. Tailor a resume only for an active role with a real application path.
 4. Store summaries, not private message bodies or personal email addresses.
 5. Record submission evidence and the next follow-up date.
-6. Remove a UofR email from the starred queue only after it has been handled and
-   logged.
+6. Remove a UofR or RIT email from the starred queue only after it has been
+   handled and logged. Keep unresolved financial-aid dependencies starred.
 
 ## Status Vocabulary
 

@@ -1,6 +1,6 @@
 # ProFellow Opportunity Queue
 
-Updated: 2026-05-27
+Updated: 2026-07-23
 
 This is the working queue for ProFellow-discovered fellowships and fully funded doctoral programs.
 
@@ -24,6 +24,10 @@ The intent is to keep one public-safe list of:
 
 | Opportunity | Type | Deadline | Why it stays in the queue | Status | Next action |
 | --- | --- | --- | --- | --- | --- |
+| [2027 Carman International Fellowship](https://www.mosaicinfo.org/who-we-are/international/carman/) | Funded international service fellowship | 2026-08-01 | Strong post-graduation fit across data collection, program evaluation, inclusive education, and disability leadership; stipend, housing, travel, and insurance support are included. | **Application requested / waiting** | Packet requested on 2026-07-23. The primary contact returns July 31, so the request was routed to the alternate contact named in the automatic reply. Check July 24 and follow up July 27. |
+| [E2 1 Hotels Fellowship](https://www.e2.org/fellowship/) | Virtual advocacy and research fellowship | Priority 2026-08-15 | $10,000 project grant and a low-hour virtual format; viable only with an honest sustainability or environmental-justice project. | Eligibility verified, Conditional | Decide by 2026-08-01 whether to develop a project pitch and partner letter. |
+| [Luce Scholars Program](https://www.lucescholars.org/) | Fully funded professional placement in Asia | 2026-09-08 | Strong social-impact and post-graduation route with stipend, travel, language training, and insurance. | Eligibility-sensitive | Confirm age, citizenship/permanent residency, and Asia-residency rules before beginning. |
+| [Kaggle Benchmarks Resource Grant](https://www.kaggle.com/blog/introducing-the-benchmarks-resource-grant-program) | AI research infrastructure grant | Rolling / no deadline stated | Strong benchmark and reproducible-evaluation fit; provides compute, model access, managed infrastructure, and engineering support. | Form verified, Not ready | Identify an eligible institutional sponsor, scoped benchmark, dataset link, and metric. |
 | Mira Fellowship | Mid-career social-impact fellowship | 2026-06-01 | Strong fit for EQUITAS / Puzzle Plan / diagnostics justice framing; written packet and resume are already uploaded in the live form. | Prepared, Paused | Return when ready to supply the video link and payment transaction ID, then decide whether to submit. |
 
 ## ProFellow bookmarks created on 2026-05-27
