@@ -6,6 +6,7 @@ Last updated: 2026-07-24
 
 | Priority | Employer / opportunity | Work model and compensation | Fit | Status | Next action |
 | --- | --- | --- | --- | --- | --- |
+| P0 | Guidepoint - Data Quality Vendors in the Healthcare Landscape | Remote 45-60 minute consultation scheduled around Piter's availability; hourly rate is selected by Piter | High for data science, data quality, healthcare, and bioinformatics; compatible with the final-semester schedule | **Interest reply sent 2026-07-24 / Waiting** | Check for the advisor-profile link by 2026-07-27. Review the project scope, compliance questions, and conflicts before setting a rate or accepting a call. |
 | P0 | [Jobot - Senior Data Scientist](https://jobot.com/details/senior-data-scientist/42da5e5206) | 100% remote; $130,000-$170,000; annual bonus, health coverage, 401(k) match, and unlimited PTO advertised | High for applied AI/ML, LLM evaluation, Python/R, SQL, model deployment, healthcare data, and large datasets | **Application ready / needs confirmation** | The listing and form were live on 2026-07-23. The [resume](./application-materials/2026-07-23-jobot-senior-data-scientist-resume.pdf) is staged. Confirm transmission of contact information and resume upload, choose `No` for SMS, then submit. |
 | P0 | [Solü Technology Partners - Data Science Intern](https://rochester.joinhandshake.com/job-search/11185588?page=1&per_page=25) | Remote or hybrid in Rochester; $21/hour; full-time internship from August 24 through December 31, 2026 | High for applied data science and compatible with remaining in Rochester | **Submitted 2026-07-23** | Handshake confirmed submission before the August 6, 2026, 11:59 PM deadline. The available quantum/AI CV was used because the browser could not upload a new file; send a more targeted data-science resume if the employer replies. |
 | P0 | [LearningMate - Subject Matter Expert](https://rochester.joinhandshake.com/job-search/11187941?utm_campaign=job_recommendation_digest&utm_content=position_0&utm_source=job_recommendation_digest_mailer&utm_medium=email&page=1&per_page=25) | Remote; posting describes freelance/part-time work at $25-$35/hour | High for K-12 STEM, inclusive curriculum, and AI-assisted learning | **Packet ready / upload required** | Before August 7, 2026, 2:29 PM, manually upload the targeted [resume](./application-materials/2026-07-23-learningmate-sme-resume.pdf) and [cover letter](./application-materials/2026-07-23-learningmate-sme-cover-letter.pdf), answer work authorization `Yes` and sponsorship `No`, and submit. |
@@ -38,6 +39,8 @@ Last updated: 2026-07-24
 - 2026-07-24: Submit LearningMate after manually uploading the prepared resume
   and cover letter.
 - 2026-07-24: Finish Handshake AI onboarding after legal-agreement confirmation.
+- 2026-07-27: Check for the Guidepoint advisor-profile link and project
+  screening questions.
 - 2026-07-30: Check for replies from Handshake AI, Carney Sandoe, Stride,
   Cardinal Education, Epic, Ampact, Solü, Jobot, and VDart.
 - 2026-08-06 at 11:59 PM: Solü application deadline; application is already

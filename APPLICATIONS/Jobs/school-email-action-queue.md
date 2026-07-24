@@ -1,13 +1,14 @@
-# School Email Action Queue
+# Email Action Queue
 
 Updated: 2026-07-24
 
 This is the public-safe todo list for important career, funding, registration,
-and degree-completion email from the RIT and University of Rochester accounts.
-Each school keeps its own detailed log:
+degree-completion, and financial email from the RIT, University of Rochester,
+and personal accounts. Each account keeps its own detailed log:
 
 - [RIT email log](./rit-email-log.md)
 - [University of Rochester email log](./uofr-email-log.md)
+- [Personal email log](./personal-email-log.md)
 
 ## Queue Rules
 
@@ -56,6 +57,20 @@ Each school keeps its own detailed log:
 - [ ] **P0 - Handshake AI:** Review the legal agreements personally and
   complete identity verification for the remote AI Evaluation Specialist
   onboarding.
+- [ ] **P0 - Personal / scheduled payment:** Before **2026-07-26**, verify
+  funding and status for the scheduled installment payment. Contact the
+  provider before processing if an arrangement is needed.
+- [ ] **P0 - Personal / card payment:** Before **2026-07-27**, open the
+  official account and pay or arrange the amount due. Private balances and
+  account details are intentionally omitted.
+- [ ] **P0 - Personal / payment recovery:** Reconcile the returned ACH and
+  card-payment notices across the official accounts before resubmitting
+  anything. Confirm whether automatic retries are scheduled.
+- [ ] **P0 - Personal / utility:** Address the past-due utility warning now to
+  protect service continuity.
+- [ ] **P1 - Guidepoint:** Check for the advisor-profile link by
+  **2026-07-27**, then review the project scope and compliance questions
+  before setting a consulting rate.
 
 ## RIT
 
@@ -90,6 +105,19 @@ Each school keeps its own detailed log:
 | P2 | Technical access | Google Cloud changes | BigQuery transfer-label change is due **2026-08-11** if affected scripts exist; Cloud Console 2-step verification is due **2026-10-20** | Audit active Cloud scripts for legacy label filters, then complete 2-step verification through the secure account before October. |
 | P2 | Funding event | HESC graduate-school funding event | Event announced for **2026-08-18 at 6:00 PM** | Confirm whether registration is still open during the UofR refresh and register if useful. |
 
+## Personal Account
+
+| Priority | Category | Item | Current status | Next action |
+| --- | --- | --- | --- | --- |
+| P0 | Paid consulting | Guidepoint data-quality consultation | Remote 45-60 minute consultation; interest reply sent 2026-07-24; rate and acceptance are not committed | Check for the advisor-profile link on 2026-07-27. Review scope, compliance, and conflicts before proceeding. |
+| P0 | Payment continuity | Scheduled installment and card deadlines | Payment actions are due 2026-07-26 and 2026-07-27 while other recent transactions were returned | Reconcile the official accounts first, then pay or request arrangements without creating duplicate payments. |
+| P0 | Utility continuity | Past-due service warning | Unresolved | Pay or request a formal arrangement through the official provider account. |
+| P1 | Account continuity | Apple cloud-service billing problem | Service interruption is possible | Decide whether the service is needed, then correct the official payment method or funding. |
+| P1 | Secure document workflow | Financial-account access documents | Support requested documents for a secure account-access workflow | Piter reviews and submits any legal, identity, or family documents through the official channel. |
+| P1 | Financial decision | Debt-settlement inquiry | Initial follow-up received; no deadline stated | Do not enroll until fees, creditor effects, tax consequences, and nonprofit counseling alternatives are compared. |
+| P1 | Job discovery | One N Only marketing-team hiring notice | Current message found; role and work model not yet verified | Review after browser access resumes. Close unless remote through December and relevant to a priority career path. |
+| P2 | Billing policy | ChatGPT paid-seat timing | Change begins 2026-08-19; no action required | Revisit only if adding paid seats. |
+
 ## Completed in This Pass
 
 - [x] Checked RIT for new important mail since 2026-07-23; no new important
@@ -121,3 +149,10 @@ Each school keeps its own detailed log:
   Enterprise marketing message, and Common Sense Media survey message.
 - [x] Preserved the Fall 2026 Computer Science-Technology student-teaching
   confirmation in the log, then removed its star and stale `To respond` label.
+- [x] Reviewed the recent personal-account career and financial queue without
+  copying balances, account numbers, addresses, health details, or full
+  messages into RESEARCH.
+- [x] Sent an interest reply for the Guidepoint remote data-quality
+  consultation and requested the advisor-profile link and screening details.
+- [x] Recorded the 2026-07-26 and 2026-07-27 payment deadlines, returned
+  transaction warnings, utility warning, and secure-account handoffs.
