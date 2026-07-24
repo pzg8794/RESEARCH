@@ -2,6 +2,19 @@
 
 This file applies to the entire `RESEARCH/` tree.
 
+## FORBIDDEN: DO NOT DELETE GIT REPOSITORIES
+
+Every agent must read and follow [`REPOSITORY_SAFETY.md`](./REPOSITORY_SAFETY.md).
+Deleting a local clone, remote repository, `.git` directory, Git history,
+worktree, branch, tag, or remote is forbidden. Do not re-clone over a repository
+or use destructive cleanup commands against a repository.
+
+If a repository appears duplicated, stale, damaged, disconnected, or misplaced,
+preserve it, document its absolute path and Git state, and propose a
+non-destructive repair. No cleanup request authorizes repository deletion unless
+the user explicitly revokes the safety policy and identifies the exact
+repository and operation.
+
 ## LOCKED: Canonical GPA Values — DO NOT CHANGE
 
 The following GPA values are locked. No agent, script, or human edit may
@@ -33,6 +46,8 @@ or "correction." These are the values the applicant uses in all applications.
 
 ## Non-Destructive Policy
 
+- Never delete a Git repository or its `.git` metadata. The full mandatory
+  policy is in `REPOSITORY_SAFETY.md`.
 - Do not delete, overwrite, or rename application materials without explicit
   user instruction.
 - Create versioned copies (e.g., `-v2`, `-v3`) rather than overwriting.

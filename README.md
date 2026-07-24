@@ -2,6 +2,17 @@
 
 This repository is the version-controlled research and PhD application portfolio for Piter Garcia.
 
+## Critical Repository Safety Rule
+
+**Agents, scripts, and collaborators must not delete Git repositories.** Do not
+delete local clones, remote repositories, `.git` metadata, worktrees, branches,
+tags, remotes, or Git history; do not re-clone over an existing repository; and
+do not use destructive cleanup commands in or around this repository. Preserve
+duplicates or damaged checkouts and investigate them non-destructively.
+
+Read the mandatory [Repository Safety Policy](./REPOSITORY_SAFETY.md) and
+[Agent Notes](./AGENTS.md) before making repository-level changes.
+
 The portfolio tracks research artifacts, technical projects, writing samples, CV materials, application planning, and source-of-truth references across several connected areas:
 
 - Machine learning for adaptive decision-making
