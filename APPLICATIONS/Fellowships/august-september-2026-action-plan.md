@@ -1,6 +1,6 @@
 # August-September 2026 Application Action Plan
 
-Updated: 2026-07-23
+Updated: 2026-07-24
 
 ## Start Now
 
@@ -13,9 +13,15 @@ Updated: 2026-07-23
   Jobot, choose `No` for SMS, and submit.
 - [x] Route the Carman packet request to the alternate contact after the primary
   contact's July 31 out-of-office reply.
-- [ ] Check both Carman contacts for the packet on July 24 and July 27.
+- [x] Check both Carman contacts for the packet on July 24; no human response
+  was found.
+- [ ] Follow up with both Carman contacts on July 27 if the packet has not
+  arrived.
 - [ ] Confirm the Fall 2026 Full-Time Equivalency with the academic contact.
 - [ ] Notify RIT Aid as soon as FTE is approved.
+- [ ] By July 27, confirm citizenship, ASL, and Romance-language eligibility
+  for the Fulbright Italy Deafness Studies award and ask the UofR Fellowships
+  Office whether late entry is still possible.
 
 ## Carman: Due August 1
 
@@ -39,6 +45,20 @@ Updated: 2026-07-23
   project.
 - [ ] Request a support letter from a community or business partner.
 - [ ] Submit by August 14.
+
+## Fulbright: Late-Starter Decision July 27
+
+- [ ] Confirm U.S.-citizenship eligibility.
+- [ ] Confirm current ASL and Romance-language proficiency against the Italy
+  Deafness Studies award requirements.
+- [x] Ask `fellowships@rochester.edu` whether late entry is still possible
+  after the July 1 normal-entry deadline; inquiry sent July 24.
+- [ ] Check for the Fellowships Office reply by July 27.
+- [ ] If accepted into the campus process, complete the first full draft by
+  **July 30**.
+- [ ] If accepted, complete the revised application and recommendations for
+  formal campus review by **August 24**.
+- [ ] Close the item without drafting if eligibility or campus timing fails.
 
 ## Luce: Due September 8
 

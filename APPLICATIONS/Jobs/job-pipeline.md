@@ -1,6 +1,6 @@
 # Job Pipeline
 
-Last updated: 2026-07-23
+Last updated: 2026-07-24
 
 ## Immediate Queue
 
@@ -13,7 +13,7 @@ Last updated: 2026-07-23
 | P1 | Carney, Sandoe & Associates teaching placement support | Nationwide K-12 independent-school placement support; employer service is free | High for CS teaching and post-December relocation | Waiting | Replied on 2026-07-23 asking for one-on-one placement support and remote CS teaching or education-technology roles. Follow up if no reply by 2026-07-30. |
 | P1 | Stride virtual teaching | Remote K-12 placement and possible paid teaching/tutoring work | High for remote CS teaching and inclusion | Waiting | Replied on 2026-07-23 asking about Fall 2026 virtual student teaching and paid remote CS, tutoring, curriculum, or education-technology roles. Follow up if no reply by 2026-07-30. |
 | P1 | Cardinal Education - Educational Consultant | Advertised $70,000-$90,000 salary, performance bonus, completion bonus, and relocation support; location/schedule not yet confirmed | High for STEM consulting and inclusive education after graduation | Waiting / Future | Replied on 2026-07-23 asking whether the role is still open, whether a January 2027 start is possible, and whether remote or part-time work is available sooner. |
-| P1 | VDart - Data Scientist, AWS AI/ML and Advanced Analytics | Advertised remote/full-time with 30% travel to New Jersey; compensation and client not disclosed | Good for Python, SQL, AWS, ML, and production data workflows; travel and final-semester schedule need screening | **Waiting** | Screening reply sent 2026-07-23 asking whether the role is open and requesting the client, salary, hours/time zone, and travel cadence before sending a resume. Follow up 2026-07-27. |
+| P1 | VDart - Data Scientist, AWS AI/ML and Advanced Analytics | Advertised remote/full-time with 30% travel to New Jersey; compensation and client not disclosed | Good for Python, SQL, AWS, ML, and production data workflows; travel and final-semester schedule need screening | **Waiting** | Screening reply sent 2026-07-23 asking whether the role is open and requesting the client, salary, hours/time zone, and travel cadence before sending a resume. No recruiter reply was found in the 2026-07-24 check; follow up 2026-07-27. |
 | P2 | [Epic Talent Community](https://epic.avature.net/talentCommunity/) | Full-time technical roles generally positioned for after graduation; remote status not confirmed | High for data science, ML, healthcare analytics, and technical problem-solving | **Joined 2026-07-23 / Future** | Registration was submitted with the targeted data/AI resume ([source](./application-materials/2026-07-23-epic-data-ai-resume.tex), [PDF](./application-materials/2026-07-23-epic-data-ai-resume.pdf)). Monitor for matching technical roles that start after December 2026. |
 | P3 | Ampact - Early Learning Corps Tutor | Rochester service role; 15, 25, or 32 hours/week; stipend plus education award | Low for immediate remote requirement; moderate education fit | Waiting | Replied on 2026-07-23 asking about remote CS, data, tutoring, or education-technology roles. Do not apply to the local PreK role unless the work model changes. |
 

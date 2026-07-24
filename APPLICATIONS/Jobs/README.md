@@ -18,6 +18,7 @@ applications, recruiter conversations, and follow-up work.
 
 | File | Purpose |
 | --- | --- |
+| [School Email Action Queue](./school-email-action-queue.md) | Current cross-school career, funding, registration, and follow-up todo list |
 | [2026-07-23 Session Summary](./2026-07-23-job-search-session-summary.md) | Completed work, expected responses, deadlines, and immediate next actions |
 | [Job Pipeline](./job-pipeline.md) | Active opportunities, fit, status, and next actions |
 | [Handshake Message Log](./handshake-message-log.md) | Recruiter-message decisions and replies |
