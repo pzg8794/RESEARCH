@@ -25,6 +25,7 @@ applications, recruiter conversations, and follow-up work.
 | [UofR Email Log](./uofr-email-log.md) | Starred/important University of Rochester career-email processing |
 | [RIT Email Log](./rit-email-log.md) | RIT career-email decisions, replies, live leads, and closed alerts |
 | [Personal Email Log](./personal-email-log.md) | Personal-account career leads and public-safe financial recovery actions |
+| [MLADIS Email Log](./mladis-email-log.md) | Company-account operational, revenue, billing, and urgent decision handoffs |
 
 ## Operating Rules
 

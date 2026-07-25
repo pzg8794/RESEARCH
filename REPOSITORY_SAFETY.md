@@ -38,3 +38,19 @@ repository:
 
 When uncertain whether a directory is or contains a Git repository, treat it as
 a repository and preserve it.
+
+## Open Safety Incidents
+
+Last checked: 2026-07-25
+
+- GitHub Support ticket `4592214` remains open for repeated repository
+  deletions and restoration. The support update and deleted-repositories page
+  are unresolved handoffs; no repository was deleted, restored, replaced, or
+  re-cloned during the email-review pass.
+- GitHub reported that a personal access token found in a commit was revoked.
+  The token value must never be copied into this repository. Identify the
+  affected repository, audit history and dependent integrations for remaining
+  exposure, and rotate only the integrations that actually depended on it.
+- Until the incident is resolved, every automation and agent must treat Git
+  cleanup, repository removal, remote deletion, `.git` replacement, and
+  re-cloning over an existing path as forbidden.

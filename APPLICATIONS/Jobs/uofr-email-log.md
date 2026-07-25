@@ -1,6 +1,25 @@
 # University of Rochester Job and Career Email Log
 
-Last updated: 2026-07-24
+Last updated: 2026-07-25
+
+## Refresh Status - 2026-07-25
+
+- No reply from the Student Fellowships Office was found for the Fulbright
+  Italy late-entry inquiry. Keep the original message unresolved and check
+  again on 2026-07-27.
+- A Handshake teaching contact confirmed that the organization hires only for
+  in-person roles. That lead is closed for Fall 2026 because remote work is
+  required through December; it may be revisited for a January 2027 start.
+- The July 24 university digest produced two useful events: the NSF Graduate
+  Research Fellowship information session on **2026-07-30 at 5:00 PM via
+  Zoom**, and the graduate-student academic writing retreat on **2026-08-05
+  through 2026-08-07, noon-4:00 PM** in Rush Rhees Library.
+- The NSF session is eligibility-sensitive and requires registration; use it
+  to confirm whether the current graduate timeline or a future PhD start can
+  qualify. The writing retreat is a practical thesis-completion option.
+- The self-sent EDU486 print-order handoff remains starred because the physical
+  print action is not complete. No new high-priority financial-aid notice was
+  found after July 24.
 
 ## Refresh Status - 2026-07-24
 
@@ -42,6 +61,11 @@ the queue of unfinished work. Do not remove importance metadata automatically.
 
 | Date | Sender / organization | Subject or opportunity | Action | Status / follow-up |
 | --- | --- | --- | --- | --- |
+| 2026-07-25 | University of Rochester digest | NSF Graduate Research Fellowship information session | Recorded the 2026-07-30, 5:00 PM Zoom session | **P1 / eligibility check.** Register if the session is open to the current degree stage and use it to clarify future PhD/GRFP eligibility |
+| 2026-07-25 | University of Rochester digest | Graduate-student academic writing retreat | Recorded the August 5-7, noon-4:00 PM retreat in Rush Rhees Library | **P1 / thesis support.** Register if those three afternoons can be protected for thesis writing |
+| 2026-07-25 | Handshake teaching contact | In-person teaching roles only | Classified the employer's answer against the remote-through-December constraint | **Closed for Fall 2026.** Reconnect after December only if relocation and the role remain attractive |
+| 2026-07-25 | University of Rochester digest | Kearns Summer Research Symposium and Medallion dinner | Recorded July 29-30 networking options | **P2 optional.** Attend only if they do not displace application or thesis deadlines |
+| 2026-07-25 | Student Fellowships Office | Fulbright Italy late-entry inquiry | Checked for a reply; none found | **P0 / waiting.** Check again on 2026-07-27; late-starter draft deadline remains 2026-07-30 if the office authorizes entry |
 | 2026-07-24 | University of Rochester Financial Aid | Financial Aid Application Instructions | Reviewed the missing Aid Enrollment Plan form and in-person identity-verification requirement | **P0 / secure action.** Complete the FAOnline form using the planned credit load and schedule the required appointment; keep starred until both are confirmed |
 | 2026-07-24 | Genesee Valley BOCES | June 6 DASA and SAVE Course Registrations | Verified that the registrations were cancelled because an ineligible payment option was used; checked the current official form and pricing | **P0 / payment handoff.** Re-register by credit card; current combined total is $203 including the fee. Sensitive identity, payment, CAPTCHA, and final submission remain with Piter |
 | 2026-07-24 | EDU486 / University of Rochester | Poster Template for Session on July 31 | Matched the template email to the [existing course plan and draft](https://github.com/pzg8794/EDU486/blob/main/assignments/04-poster-fair/poster-proposal-draft.md) | **P0.** Finish the poster and attend the 2026-07-31, 1:30-3:00 PM fair in LeChase 215; preserve the course attachment in the course workspace rather than the public RESEARCH repo |

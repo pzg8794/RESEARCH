@@ -1,6 +1,6 @@
 # August-September 2026 Application Action Plan
 
-Updated: 2026-07-24
+Updated: 2026-07-25
 
 ## Start Now
 
@@ -13,11 +13,15 @@ Updated: 2026-07-24
   Jobot, choose `No` for SMS, and submit.
 - [x] Route the Carman packet request to the alternate contact after the primary
   contact's July 31 out-of-office reply.
-- [x] Check both Carman contacts for the packet on July 24; no human response
-  was found.
-- [ ] Follow up with both Carman contacts on July 27 if the packet has not
-  arrived.
-- [ ] Confirm the Fall 2026 Full-Time Equivalency with the academic contact.
+- [x] Receive the live Carman application link and reference instructions.
+- [ ] Start the
+  [Carman application checklist](./carman-2027-application-checklist.md) now;
+  three professional letters on letterhead are due with the application by
+  **August 1**.
+- [x] Submit the Fall 2026 Full-Time Equivalency Google Form for three thesis
+  credits and verify the recorded-response confirmation.
+- [ ] Await and complete the Registrar FTE form after the program-coordinator
+  review.
 - [ ] Notify RIT Aid as soon as FTE is approved.
 - [ ] By July 27, confirm citizenship, ASL, and Romance-language eligibility
   for the Fulbright Italy Deafness Studies award and ask the UofR Fellowships
@@ -25,14 +29,17 @@ Updated: 2026-07-24
 
 ## Carman: Due August 1
 
-- [ ] Save the official application packet when it arrives.
-- [ ] Build a requirements checklist from the packet.
-- [ ] If no human reply arrives by July 27, contact Mosaic by phone or its
-  general program channel because the primary contact returns only on July 31.
+- [x] Save the official application link.
+- [x] Build the
+  [requirements checklist](./carman-2027-application-checklist.md).
+- [ ] Ask three professional references today; letters must be on letterhead
+  and sent directly to the program by August 1.
 - [ ] Tailor the resume toward monitoring/evaluation, databases, inclusive
   education, disability leadership, and cross-cultural collaboration.
 - [ ] Draft the motivation statement.
-- [ ] Confirm references and any transcript requirements.
+- [ ] Confirm all three references by July 27 and letter delivery by July 29.
+- [ ] Review the legal, identity, background-check, signature, and consent
+  fields personally.
 - [ ] Submit no later than July 31 to preserve a one-day buffer.
 
 ## E2: Priority Due August 15

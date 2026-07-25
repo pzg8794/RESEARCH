@@ -1,11 +1,16 @@
 # Job Pipeline
 
-Last updated: 2026-07-24
+Last updated: 2026-07-25
 
 ## Immediate Queue
 
 | Priority | Employer / opportunity | Work model and compensation | Fit | Status | Next action |
 | --- | --- | --- | --- | --- | --- |
+| P0 | [Onward Search - Creative Project Manager](https://www.indeed.com/viewjob?jk=03b29d4ec5d73a0b) | Remote contract; $45-$50/hour; current listing says two months initially with possible extension | Strong bridge between AI/ML, data quality, ethics/bias, stakeholder communication, and project delivery; verify that weekly hours fit the final semester | **Live / packet needed** | Confirm weekly hours and time zone, then tailor a project/program-management resume and apply if the schedule is workable. |
+| P0 | [Jobot - ML Solution Architect](https://jobot.com/details/ml-solution-architect/47904ae801) | Remote; $150,000-$250,000; flexible hours and benefits advertised | Strong AI/ML, GenAI, AWS, Python, data-pipeline, and consulting fit; six-year experience requirement makes it a stretch | **Live / needs targeted resume and confirmation** | Build one architecture-focused resume, then confirm contact-data and resume transmission before applying. |
+| P1 | [Jobot - ML Solutions Architect](https://jobot.com/details/ml-solutions-architect/79e0495906) | Remote; $160,000-$210,000 | Strong production ML, cloud, Python/Java/Scala, SQL, pipelines, Spark/Snowflake/Databricks, and MLOps fit; six-year requirement is a stretch | **Live / secondary** | Reuse the ML architecture packet after the first Jobot application is ready. |
+| P1 | [Jobot - Senior Healthcare Data Engineer](https://jobot.com/details/senior-healthcare-data-engineer/41bbb54a06) | Remote; $120,000-$150,000; equity and benefits advertised | Excellent healthcare data-quality, Python, SQL, ETL, EHR/PMS, and interoperability fit; five-year requirement is a stretch | **Live / secondary** | Create a healthcare/data-quality resume variant after the architecture packet. |
+| P1 | Diverse Lynx - AI Platform Architect | Advertised 100% remote and full-time at $90,000-$120,000 with benefits | Technical fit may be good, but employer/client, authorization, schedule, travel, and required stack are unverified | **Screen first / no resume sent** | Ask for the end client, hours/time zone, travel, work authorization, stack, benefits, and interview process. |
 | P0 | Guidepoint - Data Quality Vendors in the Healthcare Landscape | Remote 45-60 minute consultation scheduled around Piter's availability; hourly rate is selected by Piter | High for data science, data quality, healthcare, and bioinformatics; compatible with the final-semester schedule | **Interest reply sent 2026-07-24 / Waiting** | Check for the advisor-profile link by 2026-07-27. Review the project scope, compliance questions, and conflicts before setting a rate or accepting a call. |
 | P0 | [Jobot - Senior Data Scientist](https://jobot.com/details/senior-data-scientist/42da5e5206) | 100% remote; $130,000-$170,000; annual bonus, health coverage, 401(k) match, and unlimited PTO advertised | High for applied AI/ML, LLM evaluation, Python/R, SQL, model deployment, healthcare data, and large datasets | **Application ready / needs confirmation** | The listing and form were live on 2026-07-23. The [resume](./application-materials/2026-07-23-jobot-senior-data-scientist-resume.pdf) is staged. Confirm transmission of contact information and resume upload, choose `No` for SMS, then submit. |
 | P0 | [Solü Technology Partners - Data Science Intern](https://rochester.joinhandshake.com/job-search/11185588?page=1&per_page=25) | Remote or hybrid in Rochester; $21/hour; full-time internship from August 24 through December 31, 2026 | High for applied data science and compatible with remaining in Rochester | **Submitted 2026-07-23** | Handshake confirmed submission before the August 6, 2026, 11:59 PM deadline. The available quantum/AI CV was used because the browser could not upload a new file; send a more targeted data-science resume if the employer replies. |
@@ -22,6 +27,7 @@ Last updated: 2026-07-24
 
 | Employer / role | Reason closed | Action |
 | --- | --- | --- |
+| Handshake teaching contact - in-person roles only | Employer confirmed that it does not offer remote teaching roles; remote work is required through December 2026 | Closed on 2026-07-25; reconsider only for a January 2027 relocation |
 | [DeepBrain - Research Scientist / Research Fellow, AI for Education and Game Intelligence](https://rochester.joinhandshake.com/job-search/11128588?page=1&per_page=25) | Domain fit is good, but the August 14 posting requires a completed PhD and a strong PhD/postdoc publication record | Reviewed and skipped on 2026-07-23 |
 | Inspired Education Group - Learning Coach | Posting unavailable and the account lacked permission to view it | Reviewed and closed on 2026-07-23 |
 | DeepBrain - STEM Learning Design Manager | Posting unavailable and the account lacked permission to view it | Reviewed and closed on 2026-07-23 |
@@ -32,13 +38,13 @@ Last updated: 2026-07-24
 
 ## Follow-Up Dates
 
-- 2026-07-24: Confirm whether to upload the staged resume and submit the live
+- 2026-07-25: Confirm weekly hours for the Onward Search Creative Project
+  Manager role and prepare the AI/ML project-management resume if compatible.
+- 2026-07-25: Prepare one ML-architecture resume for the first Jobot role, then
+  reuse it for the second listing.
+- 2026-07-25: Screen Diverse Lynx before sending a resume.
+- 2026-07-25: Confirm whether to upload the staged resume and submit the live
   Jobot Senior Data Scientist application.
-- 2026-07-24: Verify the personal email added to Handshake from the personal
-  Gmail inbox.
-- 2026-07-24: Submit LearningMate after manually uploading the prepared resume
-  and cover letter.
-- 2026-07-24: Finish Handshake AI onboarding after legal-agreement confirmation.
 - 2026-07-27: Check for the Guidepoint advisor-profile link and project
   screening questions.
 - 2026-07-30: Check for replies from Handshake AI, Carney Sandoe, Stride,

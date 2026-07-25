@@ -1,14 +1,15 @@
 # Email Action Queue
 
-Updated: 2026-07-24
+Updated: 2026-07-25
 
 This is the public-safe todo list for important career, funding, registration,
 degree-completion, and financial email from the RIT, University of Rochester,
-and personal accounts. Each account keeps its own detailed log:
+personal, and MLADIS accounts. Each account keeps its own detailed log:
 
 - [RIT email log](./rit-email-log.md)
 - [University of Rochester email log](./uofr-email-log.md)
 - [Personal email log](./personal-email-log.md)
+- [MLADIS email log](./mladis-email-log.md)
 
 ## Queue Rules
 
@@ -21,6 +22,27 @@ and personal accounts. Each account keeps its own detailed log:
 
 ## Do First
 
+- [ ] **P0 - MLADIS / Airbnb:** A reservation request expires about **2:55 PM
+  ET today, 2026-07-25**. The authorized operator must review the dates,
+  occupancy, house rules, price, and capacity in Airbnb, then accept or decline.
+- [ ] **P0 - Personal / identity:** Verify the new-account and new-address
+  alerts directly with the credit bureaus and issuers today. Use official
+  sites/apps, not email links; dispute or freeze only if an item is unfamiliar.
+- [ ] **P0 - RIT / Carman:** Ask three professional references today to send
+  letters on letterhead directly to Mosaic by **2026-08-01**. Continue from the
+  [Carman checklist](../Fellowships/carman-2027-application-checklist.md).
+- [ ] **P0 - RIT / ICNP paper:** Preserve the authenticated reviews, then set a
+  coauthor decision meeting for revision and retargeting. The next version must
+  clarify algorithms, allocator-policy interaction, physical threat grounding,
+  and medium-scale evaluation.
+- [ ] **P1 - RIT / thesis repository:** [Pull request
+  #8](https://github.com/pzg8794/DSCI601-Project_Proposal/pull/8) is merged but
+  contains only a placeholder note. Reconcile the promised Algorithm 2,
+  EQUITAS equity-focused mediation, context-spectrum table, pagination, and
+  cross-reference edits against the current thesis source.
+- [ ] **P0 - repository safety:** Review GitHub Support ticket `4592214` and
+  the restorable-repository page. Do not delete, overwrite, or re-clone any
+  repository. Audit the revoked-token incident without storing the token.
 - [ ] **P0 - UofR / financial aid:** Complete the `Aid Enrollment Plan Form`
   in FAOnline and schedule the required in-person identity-verification
   appointment. Aid eligibility and disbursement remain blocked until these
@@ -71,20 +93,28 @@ and personal accounts. Each account keeps its own detailed log:
 - [ ] **P1 - Guidepoint:** Check for the advisor-profile link by
   **2026-07-27**, then review the project scope and compliance questions
   before setting a consulting rate.
+- [ ] **P1 - UofR / NSF GRFP:** Register for the **2026-07-30 at 5:00 PM**
+  information session if the event accepts the current degree stage; use the
+  session to confirm eligibility for a future PhD start.
 
 ## RIT
 
 | Priority | Category | Item | Current status | Next action |
 | --- | --- | --- | --- | --- |
-| P0 | Financial aid | Fall 2026 Full-Time Equivalency | Request sent to the academic contact on 2026-07-23; no reply found in the 2026-07-24 check | Follow up on 2026-07-27. Once approved, reply to RIT Aid immediately so aid and loans can update. |
+| P0 | Financial aid | Fall 2026 Full-Time Equivalency | Google Form submitted for three thesis credits; recorded-response confirmation received. Advisor is checking the fourth FTE request with program coordinators before sending the Registrar form. | Complete the Registrar form as soon as it arrives. Once approved, reply to RIT Aid immediately so aid and loans can update. |
 | P0 | Billing | Fall 2026 statement | Statement issued; payment due **2026-08-15** while aid remains dependent on FTE | Recheck eServices after the registration freeze lifts and after FTE is approved. Escalate to RIT Aid before the due date if aid is still missing. |
 | P0 | State aid | 2026-27 NYS Student Aid Payment Application | HESC email says the application was denied | Log in to HESC, capture the denial reason, and determine the correction or appeal path. Keep starred until resolved. |
 | P0 | Federal grant | TEACH Grant update | StudentAid.gov sent an update on 2026-07-01; the email does not state the result | Log in to StudentAid.gov and review `My Activity`. Star the message until the required action is known and completed. |
 | P1 | Federal loan | Direct PLUS Loan application | Submission confirmation received 2026-06-30; RIT cannot apply additional aid or loans until full-time enrollment/FTE is confirmed | No separate application action. Monitor through the FTE and RIT Aid follow-up. |
 | P1 | Degree completion | Fall 2026 graduation application | RIT confirmed the application and stated that degree completion is on track if current courses are completed and the required GPA is maintained | Complete; recorded and unstarred on 2026-07-24. |
 | P2 | Campus logistics | 2026-27 parking permit | Reserved permits open 2026-08-10; general permits open **2026-08-12**. Local address must be current at least 24 hours before purchase, and the parking account must have a zero balance. | Decide whether a permit is needed. Keep starred only if a purchase is planned. |
-| P0 | Fellowship | Carman International Fellowship | Packet requested; 2026-07-24 check found only the primary contact's out-of-office reply | Follow up with both contacts on 2026-07-27. Deadline: **2026-08-01**. |
+| P0 | Fellowship | [Carman International Fellowship](https://www.mosaicinfo.org/application/) | Live application received; application and three professional letters on letterhead are due **2026-08-01** | Use the [Carman checklist](../Fellowships/carman-2027-application-checklist.md), secure reference commitments today, and submit by July 31. |
 | P1 | Job | VDart Data Scientist | Screening questions sent; no recruiter reply found on 2026-07-24 | Follow up on 2026-07-27 if still unanswered. |
+| P0 | Research | ICNP 2026 paper #330 | Rejected; authenticated reviews identify writing, novelty, algorithm-definition, physical-grounding, and evaluation-scale gaps | Preserve the review source, meet with coauthors, and retarget only after the gaps are addressed. |
+| P0 | Security | Repository deletion and revoked token | GitHub Support ticket `4592214` remains open; a leaked token was revoked | Keep both alerts visible. Review the support portal, identify affected repositories/integrations, and follow [repository safety](../../REPOSITORY_SAFETY.md). |
+| P0 | Job | [Onward Search Creative Project Manager](https://www.indeed.com/viewjob?jk=03b29d4ec5d73a0b) | Live remote AI/ML project-management contract at $45-$50/hour | Verify weekly hours and time zone, then prepare the project-management resume if compatible with Fall study. |
+| P0 | Job | [Jobot ML Solution Architect](https://jobot.com/details/ml-solution-architect/47904ae801) | Live remote role; strong fit but six-year requirement is a stretch | Prepare one architecture-focused resume, then obtain action-time confirmation before applying. |
+| P1 | Job | Diverse Lynx AI Platform Architect | Advertised remote/full-time, but client and work terms are unverified | Screen client, authorization, hours/time zone, travel, stack, benefits, and interview process before sending a resume. |
 
 ## University of Rochester
 
@@ -104,12 +134,22 @@ and personal accounts. Each account keeps its own detailed log:
 | P2 | Research funding | Survivorship Symposium abstract | Cancer-survivorship abstracts are due **2026-08-19** for the 2026-10-09 symposium | Apply only if there is a defensible existing cancer-survivorship project; otherwise close. |
 | P2 | Technical access | Google Cloud changes | BigQuery transfer-label change is due **2026-08-11** if affected scripts exist; Cloud Console 2-step verification is due **2026-10-20** | Audit active Cloud scripts for legacy label filters, then complete 2-step verification through the secure account before October. |
 | P2 | Funding event | HESC graduate-school funding event | Event announced for **2026-08-18 at 6:00 PM** | Confirm whether registration is still open during the UofR refresh and register if useful. |
+| P1 | Fellowship information | NSF Graduate Research Fellowship session | Zoom session is **2026-07-30 at 5:00 PM**; eligibility for the current stage is uncertain | Register if permitted and ask specifically about eligibility tied to a future PhD start. |
+| P1 | Thesis support | Graduate-student academic writing retreat | August 5-7, noon-4:00 PM, Rush Rhees Library | Register if those afternoons can be protected for thesis progress. |
+| Closed | Teaching job | Handshake in-person teaching contact | Employer confirmed that it hires only in person | Revisit only after December if relocation and the role still fit. |
 
 ## Personal Account
 
 | Priority | Category | Item | Current status | Next action |
 | --- | --- | --- | --- | --- |
 | P0 | Paid consulting | Guidepoint data-quality consultation | Remote 45-60 minute consultation; interest reply sent 2026-07-24; rate and acceptance are not committed | Check for the advisor-profile link on 2026-07-27. Review scope, compliance, and conflicts before proceeding. |
+| P0 | Identity protection | New-account and address alerts | Multiple credit-report alerts arrived on 2026-07-24 | Verify each change directly with the official bureau or issuer today; dispute or freeze if unrecognized. |
+| P0 | Payment continuity | Returned bank transfer | A new ACH return notice arrived; private details are omitted | Reconcile the bank and biller, determine whether an automatic retry is pending, and avoid duplicate payment. |
+| P0 | Medical billing | Provider balance update | Secure account review is required; health and balance details are omitted | Validate insurance processing and the balance, then pay or request a formal plan through the patient portal. |
+| P0 | Credit | Credit-line reduction | Issuer reported a lower credit line | Read the secure issuer notice, confirm the reason/effective limit, and adjust pending utilization or payments. |
+| P1 | Account continuity | Inactive savings account | Provider says the account will close by about **2026-08-24** | Decide whether to preserve it; use only the official account process. |
+| P1 | Account security | Apple billing-information change | Change reported on 2026-07-24 | Verify it in Apple Account settings and secure the account if unrecognized. |
+| P1 | Service billing | Mobile-plan change | Unlimited plan reported as started | Confirm authorization, price, and effective date with the carrier. |
 | P0 | Payment continuity | Scheduled installment and card deadlines | Payment actions are due 2026-07-26 and 2026-07-27 while other recent transactions were returned | Reconcile the official accounts first, then pay or request arrangements without creating duplicate payments. |
 | P0 | Utility continuity | Past-due service warning | Unresolved | Pay or request a formal arrangement through the official provider account. |
 | P1 | Account continuity | Apple cloud-service billing problem | Service interruption is possible | Decide whether the service is needed, then correct the official payment method or funding. |
@@ -118,10 +158,35 @@ and personal accounts. Each account keeps its own detailed log:
 | P1 | Job discovery | One N Only marketing-team hiring notice | Current message found; role and work model not yet verified | Review after browser access resumes. Close unless remote through December and relevant to a priority career path. |
 | P2 | Billing policy | ChatGPT paid-seat timing | Change begins 2026-08-19; no action required | Revisit only if adding paid seats. |
 
+## MLADIS Account
+
+| Priority | Category | Item | Current status | Next action |
+| --- | --- | --- | --- | --- |
+| P0 | Revenue / reservation | Airbnb request | Expires about **2:55 PM ET on 2026-07-25** | Authorized operator reviews and accepts or declines in Airbnb before expiration. |
+| P1 | Revenue reconciliation | Airbnb payout | Initiated July 23; expected by **July 30** | Verify receipt in the official business bank account. |
+| P1 | Subscription cost | ChatGPT Business | July renewal referenced five seats; seat-billing behavior changes August 19 | Verify the seat count and receipt; remove only genuinely unused seats through the normal admin flow. |
+
 ## Completed in This Pass
 
-- [x] Checked RIT for new important mail since 2026-07-23; no new important
-  thread was found.
+- [x] Reviewed the RIT, UofR, personal, and MLADIS accounts separately on
+  2026-07-25.
+- [x] Recorded the FTE form submission and corrected the stale `request sent`
+  status; approval and the Registrar form are still pending.
+- [x] Replaced the stale Carman packet-follow-up task with the live application,
+  three-letter requirement, and July 31 internal submission target.
+- [x] Verified the current Jobot ML architecture and healthcare-data roles and
+  recovered the remote AI/ML Creative Project Manager lead from ProFellow.
+- [x] Recorded the ICNP rejection and public-safe revision themes without
+  copying private reviewer text.
+- [x] Recorded GitHub ticket `4592214` and the revoked-token alert as unresolved
+  security handoffs; no repository operation was performed.
+- [x] Confirmed that Guidepoint has not replied and kept the thread unresolved.
+- [x] Recorded new personal identity, banking, credit, medical-billing, Apple,
+  and carrier handoffs without private account or health details.
+- [x] Recorded the time-sensitive MLADIS reservation request, payout check, and
+  subscription-seat review.
+- [x] On 2026-07-24, checked RIT for new important mail since 2026-07-23; no
+  new important thread was found in that earlier pass.
 - [x] Checked the Carman thread on 2026-07-24; no human reply yet.
 - [x] Checked the VDart thread on 2026-07-24; no recruiter reply yet.
 - [x] Reviewed the RIT graduation confirmation.
