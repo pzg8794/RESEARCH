@@ -1,6 +1,6 @@
 # Fulbright Awards Queue
 
-Updated: 2026-07-24
+Updated: 2026-07-25
 
 This is the official-source queue for Fulbright U.S. Student Program opportunities that look promising for research and graduate-study planning.
 
@@ -16,6 +16,11 @@ Unlike ProFellow, the Fulbright site does not provide the same logged-in bookmar
 - UofR's 2026-27 campus process required normal entry by `2026-07-01`.
   Late starters have a complete first-draft deadline of `2026-07-30`; the
   formal campus-review deadline is `2026-08-24`.
+- On July 25, the UofR Fellowships Office confirmed directly that late entry
+  remains possible. The immediate intake packet is the Prospective Applicant
+  Form, current resume, and Fulbright Planning Tool, followed by a meeting
+  before Friday. Campus endorsement remains possible with a fully revised
+  application and recommendations by `2026-08-24`.
 
 ## Status key
 
@@ -38,7 +43,7 @@ Unlike ProFellow, the Fulbright site does not provide the same logged-in bookmar
 
 | Award | Type | Official page | Why it fits | Main blocker or risk | Status |
 | --- | --- | --- | --- | --- | --- |
-| Italy Award in Deafness Studies | Research / teaching / collaboration | [official page](https://us.fulbrightonline.org/countries/europe-and-eurasia/italy/1695) | Strong overlap with inclusive education, disability access, specialized teaching, and accessibility tools. | U.S. citizenship, ASL, Romance-language proficiency, host-affiliation requirements, and late campus entry all need confirmation. | Tier 2, Eligibility-sensitive, Urgent decision |
+| Italy Award in Deafness Studies | Research / teaching / collaboration | [official page](https://us.fulbrightonline.org/countries/europe-and-eurasia/italy/1695) | Strong overlap with inclusive education, disability access, specialized teaching, and accessibility tools. | Late campus entry is permitted and Spanish is documented as native/fluent; U.S. citizenship, the award's ASL threshold, and host affiliation still need confirmation. | Tier 2, Eligibility-sensitive, Active intake |
 | Fulbright-University of Helsinki Graduate Award | Graduate / partnership award | [official page](https://us.fulbrightonline.org/countries/europe-and-eurasia/finland/1679) | Excellent computational biology and medical-data environment. | Only 1 award; separate university admission required. | Tier 2, Eligibility-sensitive |
 | Fulbright/Ghent University Award | Graduate / partnership award | [official page](https://us.fulbrightonline.org/countries/europe-and-eurasia/belgium/1796) | Flexible affiliation timing and strong biomedical / AI ecosystem in Belgium. | Only 2 awards; no tuition cover. | Tier 2 |
 | Fulbright/University of Antwerp Award | Graduate / partnership award | [official page](https://us.fulbrightonline.org/countries/europe-and-eurasia/belgium/1795) | Biomedical research strength and flexible visiting-research format. | Better fit after doctoral enrollment; short duration. | Tier 2, Eligibility-sensitive |
@@ -62,12 +67,15 @@ Unlike ProFellow, the Fulbright site does not provide the same logged-in bookmar
 
 ## Immediate next actions
 
-1. By July 27, confirm the exact citizenship and language eligibility route.
-2. Check for a reply to the late-entry inquiry sent to
-   `fellowships@rochester.edu` on July 24.
-3. If the office approves late entry, complete the first full draft by July 30
-   and prepare for formal campus review by August 24.
-4. Build an initial Sweden + Norway + Germany host list.
-5. Decide whether the Finland partnership awards are worth the separate
+1. Send the staged factual reply and confirm the U.S.-citizenship and ASL
+   eligibility route.
+2. By July 27, submit the Prospective Applicant Form, current resume, and
+   Fulbright Planning Tool and request the initial meeting.
+3. Meet with the Fellowships Office before Friday and prepare for the
+   August 24 revised-application and recommendation deadline.
+4. If the Italy ASL threshold is not met, pivot promptly to a stronger-fit
+   Fulbright award rather than closing the full cycle.
+5. Build an initial Sweden + Norway + Germany host list.
+6. Decide whether the Finland partnership awards are worth the separate
    admission workload this cycle.
-6. Keep this queue aligned with the main roadmap and campus Fulbright notes.
+7. Keep this queue aligned with the main roadmap and campus Fulbright notes.

@@ -10,6 +10,7 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 - [University of Rochester email log](./uofr-email-log.md)
 - [Personal email log](./personal-email-log.md)
 - [MLADIS email log](./mladis-email-log.md)
+- [Next-week watchlist: July 26-August 1](./next-week-watchlist-2026-07-26.md)
 
 ## Queue Rules
 
@@ -22,9 +23,10 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 
 ## Do First
 
-- [ ] **P0 - MLADIS / Airbnb:** A reservation request expires about **2:55 PM
-  ET today, 2026-07-25**. The authorized operator must review the dates,
-  occupancy, house rules, price, and capacity in Airbnb, then accept or decline.
+- [x] **Closed - MLADIS / Airbnb:** The July 25 reservation request expired at
+  3:13 PM without a response; there is no remaining accept-or-decline action.
+- [ ] **P0 - MLADIS / Airbnb:** Review the active reservation message and send
+  access/arrival coordination for the **2026-08-02** check-in by July 31.
 - [ ] **P0 - Personal / identity:** Verify the new-account and new-address
   alerts directly with the credit bureaus and issuers today. Use official
   sites/apps, not email links; dispute or freeze only if an item is unfamiliar.
@@ -65,26 +67,28 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
   restrictions` or the exact dietary request so the staged Handshake
   registration can be submitted for the free **2026-08-10 to 2026-08-11**
   myHub Teaching Retreat.
-- [ ] **P0 - UofR / Fulbright:** A late-entry inquiry was sent to
-  `fellowships@rochester.edu` on 2026-07-24. By **2026-07-27**, confirm
-  U.S.-citizenship, ASL, and Romance-language eligibility for the Italy
-  Deafness Studies award and check for the office's reply. The normal entry
-  deadline has passed; the late-starter full-draft deadline is
-  **2026-07-30**.
+- [ ] **P0 - UofR / Fulbright:** The office confirmed that a late application
+  and campus endorsement are still possible. Send the staged reply, submit the
+  Prospective Applicant Form, current resume, and Planning Tool by July 27, and
+  meet before Friday. A fully revised application and recommendations are due
+  **2026-08-24** for campus endorsement.
 - [ ] **P0 - Jobot:** Confirm transmission of contact information and the
   prepared resume, provide the correct ZIP code, select `No` for SMS, and
   submit the live Senior Data Scientist application.
 - [ ] **P0 - Handshake / LearningMate:** Upload the prepared resume and cover
   letter and submit by **2026-08-07 at 2:29 PM**.
-- [ ] **P0 - Handshake AI:** Review the legal agreements personally and
-  complete identity verification for the remote AI Evaluation Specialist
-  onboarding.
+- [ ] **P0 - Handshake AI:** Professional fields are staged as Computer
+  Science / Machine Learning, RIT, master's, 2026, and New York, with an
+  existing quantum CV attached. Review the legal agreements personally, click
+  `Next`, and complete government-ID verification.
 - [ ] **P0 - Personal / scheduled payment:** Before **2026-07-26**, verify
   funding and status for the scheduled installment payment. Contact the
   provider before processing if an arrangement is needed.
 - [ ] **P0 - Personal / card payment:** Before **2026-07-27**, open the
   official account and pay or arrange the amount due. Private balances and
   account details are intentionally omitted.
+- [ ] **P0 - Personal / scheduled payment:** Before **2026-07-28**, verify
+  funding and retry status for a separate automatic installment.
 - [ ] **P0 - Personal / payment recovery:** Reconcile the returned ACH and
   card-payment notices across the official accounts before resubmitting
   anything. Confirm whether automatic retries are scheduled.
@@ -124,9 +128,9 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 | P0 | Teaching certification | [DASA and SAVE registrations](https://www.gvboces.org/o/gvb/page/professional-learning) | The June 6 registrations were cancelled because the selected payment option was not available to this student. Current re-registration total is $203 including the card fee. | Piter completes the official form, payment, sensitive identity fields, and CAPTCHA. Finish both asynchronous courses within 30 days after login credentials arrive. |
 | P0 | Degree completion | EDU486 July 31 poster session | Template email and existing course plan confirm a **2026-07-31, 1:30-3:00 PM** poster fair in LeChase 215 | Finish from the [existing EDU486 poster draft](https://github.com/pzg8794/EDU486/blob/main/assignments/04-poster-fair/poster-proposal-draft.md) and attend. Keep the email starred until complete. |
 | P0 | Teaching development | [myHub 2026 Teaching Retreat](https://rochester.joinhandshake.com/stu/events/1956131) | Free in-person retreat on **2026-08-10 and 2026-08-11**; registration form is staged | Provide the dietary-restriction answer, then submit the Handshake form. Sessions include UDL, fair assessment, active learning, and difficult classroom conversations. |
-| P0 | Fellowship | [Fulbright Italy Deafness Studies](https://us.fulbrightonline.org/countries/europe-and-eurasia/italy/1695) | Strong inclusive-education/accessibility theme, but eligibility and timing are uncertain. A late-entry inquiry was sent on 2026-07-24. The normal campus entry deadline was 2026-07-01; late-starter draft is due 2026-07-30 and formal campus review is 2026-08-24. | By 2026-07-27, check for the office's reply, review the [campus timeline](https://www.rochester.edu/college/studentfellowships/deadlines/fulbright.html), and confirm citizenship and language qualifications. Do not draft an application until the office and eligibility checks say it is viable. |
+| P0 | Fellowship | [Fulbright Italy Deafness Studies](https://us.fulbrightonline.org/countries/europe-and-eurasia/italy/1695) | The Fellowships Office confirmed that late entry and campus endorsement remain possible. Intake materials are needed within the next few days; a fully revised application and recommendations are due 2026-08-24 for endorsement. | Send the staged reply, submit the Prospective Applicant Form, current resume, and Planning Tool by July 27, meet before Friday, and ask whether the documented technical ASL background meets the award threshold. Pivot awards if needed rather than abandoning Fulbright. |
 | P0 | Job | LearningMate Subject Matter Expert | Targeted packet prepared; application not submitted | Upload both PDFs and submit by **2026-08-07 at 2:29 PM**. |
-| P0 | Job | Handshake AI Evaluation Specialist | Onboarding prepared | Piter must review the legal agreements and complete identity verification. |
+| P0 | Job | Handshake AI Evaluation Specialist | Professional profile fields are staged; existing quantum CV is attached | Piter reviews the legal agreements before `Next`, then completes government-ID verification. |
 | P1 | Health insurance / billing | [Fall health-insurance enrollment or waiver](https://www.rochester.edu/uhs/primary-care/mandatory-health-fee/health-insurance-for-full-time-students/) | Annual online process is mandatory for full-time students; final deadline is **2026-09-15** | Piter decides whether to enroll or waive with eligible coverage and completes the secure UHS process before automatic enrollment and billing. |
 | P1 | Account continuity | Handshake personal email | Personal email was added | Verify it from the personal Gmail inbox. |
 | P1 | Job follow-up | Solu, Carney Sandoe, Stride, Cardinal Education, Epic, and Ampact | Submitted, joined, or waiting as documented in the job pipeline | Check for replies on **2026-07-30** and respond promptly. |
@@ -151,6 +155,7 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 | P1 | Account security | Apple billing-information change | Change reported on 2026-07-24 | Verify it in Apple Account settings and secure the account if unrecognized. |
 | P1 | Service billing | Mobile-plan change | Unlimited plan reported as started | Confirm authorization, price, and effective date with the carrier. |
 | P0 | Payment continuity | Scheduled installment and card deadlines | Payment actions are due 2026-07-26 and 2026-07-27 while other recent transactions were returned | Reconcile the official accounts first, then pay or request arrangements without creating duplicate payments. |
+| P0 | Payment continuity | July 28 automatic installment | A separate automatic payment is scheduled for 2026-07-28 | Verify funding and pending retries before processing. |
 | P0 | Utility continuity | Past-due service warning | Unresolved | Pay or request a formal arrangement through the official provider account. |
 | P1 | Account continuity | Apple cloud-service billing problem | Service interruption is possible | Decide whether the service is needed, then correct the official payment method or funding. |
 | P1 | Secure document workflow | Financial-account access documents | Support requested documents for a secure account-access workflow | Piter reviews and submits any legal, identity, or family documents through the official channel. |
@@ -162,12 +167,22 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 
 | Priority | Category | Item | Current status | Next action |
 | --- | --- | --- | --- | --- |
-| P0 | Revenue / reservation | Airbnb request | Expires about **2:55 PM ET on 2026-07-25** | Authorized operator reviews and accepts or declines in Airbnb before expiration. |
+| Closed | Revenue / reservation | July 25 Airbnb request | Expired at 3:13 PM without a response | No accept-or-decline action remains; improve urgent alert coverage. |
+| P0 | Guest operations | August 2 arrival | Airbnb requested access and arrival coordination | Authorized host responds through Airbnb by July 31. |
 | P1 | Revenue reconciliation | Airbnb payout | Initiated July 23; expected by **July 30** | Verify receipt in the official business bank account. |
 | P1 | Subscription cost | ChatGPT Business | July renewal referenced five seats; seat-billing behavior changes August 19 | Verify the seat count and receipt; remove only genuinely unused seats through the normal admin flow. |
 
 ## Completed in This Pass
 
+- [x] Evening refresh: read the UofR Fellowships Office reply, documented the
+  late-entry intake path, and replaced the unusable Gmail auto-draft with a
+  factual reply awaiting send confirmation.
+- [x] Evening refresh: staged the non-sensitive Handshake AI expertise fields
+  and identified the legal-agreement and government-ID boundaries.
+- [x] Evening refresh: confirmed there is no new RIT FTE, Carman, VDart, or
+  Guidepoint reply; classified the new ProFellow jobs digest as discovery-only.
+- [x] Evening refresh: confirmed the MLADIS request expired, recorded the
+  August 2 arrival handoff, and added the July 28 personal payment check.
 - [x] Reviewed the RIT, UofR, personal, and MLADIS accounts separately on
   2026-07-25.
 - [x] Recorded the FTE form submission and corrected the stale `request sent`

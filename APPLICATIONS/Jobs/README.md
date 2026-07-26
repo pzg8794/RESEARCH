@@ -19,6 +19,7 @@ applications, recruiter conversations, and follow-up work.
 | File | Purpose |
 | --- | --- |
 | [Email Action Queue](./school-email-action-queue.md) | Current cross-account career, funding, registration, financial, and follow-up todo list |
+| [Next-Week Watchlist: July 26-August 1](./next-week-watchlist-2026-07-26.md) | Dated daily execution plan and mailbox watch items for the coming week |
 | [2026-07-23 Session Summary](./2026-07-23-job-search-session-summary.md) | Completed work, expected responses, deadlines, and immediate next actions |
 | [Job Pipeline](./job-pipeline.md) | Active opportunities, fit, status, and next actions |
 | [Handshake Message Log](./handshake-message-log.md) | Recruiter-message decisions and replies |

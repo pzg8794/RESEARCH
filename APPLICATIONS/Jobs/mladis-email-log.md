@@ -10,8 +10,9 @@ names, reservation details, balances, bank information, and message bodies.
 
 | Priority | Timing | Item | Verified status | Next action |
 | --- | --- | --- | --- | --- |
-| P0 | About **2:55 PM ET on 2026-07-25** | Airbnb reservation request | Airbnb warned at 11:55 AM that a pending request would expire in three hours. No accept/decline action was taken. | Piter or the authorized property operator must review the dates, occupancy, house rules, pricing, and operational capacity in Airbnb, then accept or decline before expiration. |
-| P0 | Current | Related Airbnb correspondence | A same-day conversation exists for the pending request. | Respond only through Airbnb after the reservation decision is made. |
+| Closed | Expired at **3:13 PM ET on 2026-07-25** | Airbnb reservation request | Airbnb confirmed that the request expired without a response. It can no longer be accepted or declined from that request. | No reservation decision remains. Record the missed request and improve same-day alert coverage. |
+| P0 | Current | Active reservation correspondence | A same-day message exists for a current reservation ending July 28. | Authorized host reviews and responds through Airbnb tonight if the guest is waiting on an operational answer. |
+| P0 | By **2026-07-31** | August 2 guest arrival | Airbnb requested access instructions and arrival-time coordination before the guest's Sunday check-in. | Send the operational details through Airbnb and confirm the arrival plan before August 2. |
 | P1 | Expected by **2026-07-30** | Airbnb payout | A payout was initiated on 2026-07-23. Private amount and bank details are omitted. | Verify arrival in the official business bank account by July 30; use Airbnb support if it is missing. |
 | P1 | Current billing cycle | ChatGPT Business workspace | A July renewal notice referenced five paid seats, and seat-billing behavior changes on 2026-08-19. | Verify the current seat count and renewal receipt; remove paid seats only through the normal workspace-admin flow if they are genuinely unused. |
 
@@ -23,3 +24,5 @@ names, reservation details, balances, bank information, and message bodies.
   were not copied into RESEARCH.
 - No payment, reservation, legal, account-access, or subscription action was
   taken during this review.
+- The July 25 request expiration and August 2 arrival coordination were
+  verified in the evening refresh.

@@ -15,6 +15,15 @@ bodies, phone numbers, or personal recruiter addresses.
 - Priority fields are data science, AI/ML, quantum computing, research
   engineering, bioinformatics, inclusive CS teaching, and education technology.
 
+## Refresh Status - 2026-07-25 Evening
+
+- No new Registrar FTE form arrived after the submitted Google Form.
+- No new Carman or VDart reply arrived after the July 24 messages.
+- A new ProFellow jobs digest advertised remote and hybrid roles nationally,
+  but the mailbox preview did not establish a specific verified role. It stays
+  discovery-only until an employer, work model, compensation, and deadline are
+  checked.
+
 ## Actioned Leads
 
 | Date processed | Opportunity | Fit and constraints | Action | Status / follow-up |

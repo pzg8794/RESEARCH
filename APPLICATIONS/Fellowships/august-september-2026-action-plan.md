@@ -23,9 +23,13 @@ Updated: 2026-07-25
 - [ ] Await and complete the Registrar FTE form after the program-coordinator
   review.
 - [ ] Notify RIT Aid as soon as FTE is approved.
-- [ ] By July 27, confirm citizenship, ASL, and Romance-language eligibility
-  for the Fulbright Italy Deafness Studies award and ask the UofR Fellowships
-  Office whether late entry is still possible.
+- [x] Ask the UofR Fellowships Office whether late entry is possible.
+- [x] Receive confirmation that a late application and campus endorsement path
+  are still possible.
+- [ ] Send the staged factual reply, including the documented Spanish and ASL
+  background, after final confirmation.
+- [ ] By July 27, submit the Prospective Applicant Form, current resume, and
+  Fulbright Planning Tool and request a meeting before Friday.
 
 ## Carman: Due August 1
 
@@ -56,16 +60,22 @@ Updated: 2026-07-25
 ## Fulbright: Late-Starter Decision July 27
 
 - [ ] Confirm U.S.-citizenship eligibility.
-- [ ] Confirm current ASL and Romance-language proficiency against the Italy
-  Deafness Studies award requirements.
+- [x] Confirm documented Romance-language background: Spanish is
+  native/fluent.
+- [ ] Ask the Fellowships Office whether technical ASL research, without a
+  formal proficiency credential, satisfies the award requirement or whether a
+  different award is a stronger fit.
 - [x] Ask `fellowships@rochester.edu` whether late entry is still possible
   after the July 1 normal-entry deadline; inquiry sent July 24.
-- [ ] Check for the Fellowships Office reply by July 27.
-- [ ] If accepted into the campus process, complete the first full draft by
-  **July 30**.
-- [ ] If accepted, complete the revised application and recommendations for
-  formal campus review by **August 24**.
-- [ ] Close the item without drafting if eligibility or campus timing fails.
+- [x] Read the Fellowships Office reply on July 25.
+- [ ] Submit the Prospective Applicant Form, current resume, and Fulbright
+  Planning Tool within the next few days.
+- [ ] Meet with the office before Friday, July 31.
+- [ ] Complete the revised application and recommendations for formal campus
+  review by **August 24** if the award fit is confirmed.
+- [ ] Pivot to a better-fit Fulbright award if the Italy ASL threshold is not
+  satisfied; do not abandon the full Fulbright cycle solely because this one
+  award is unsuitable.
 
 ## Luce: Due September 8
 

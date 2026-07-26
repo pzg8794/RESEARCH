@@ -4,9 +4,22 @@ Last updated: 2026-07-25
 
 ## Refresh Status - 2026-07-25
 
-- No reply from the Student Fellowships Office was found for the Fulbright
-  Italy late-entry inquiry. Keep the original message unresolved and check
-  again on 2026-07-27.
+- The Student Fellowships Office replied at 8:01 PM. A late Fulbright
+  application is still possible, and campus endorsement is still possible if
+  a fully revised application and recommendations are ready by
+  **2026-08-24**.
+- The office requested a Prospective Applicant Form, current resume, and
+  Fulbright Planning Tool within the next few days, followed by an initial
+  meeting before Friday, July 31.
+- A factual reply is staged in Gmail but not sent. It identifies the UofR
+  program, December 2026 completion, native/fluent Spanish, and the documented
+  distinction between technical ASL research and formal language proficiency.
+  Final send confirmation is pending.
+- A new Handshake AI reminder identified the remaining onboarding steps. The
+  professional fields are now staged as Computer Science / Machine Learning,
+  RIT, master's level, 2026, and New York; an existing quantum-computing CV is
+  attached. The legal agreement, `Next` action, and government-ID verification
+  remain unresolved.
 - A Handshake teaching contact confirmed that the organization hires only for
   in-person roles. That lead is closed for Fall 2026 because remote work is
   required through December; it may be revisited for a January 2027 start.
@@ -61,11 +74,13 @@ the queue of unfinished work. Do not remove importance metadata automatically.
 
 | Date | Sender / organization | Subject or opportunity | Action | Status / follow-up |
 | --- | --- | --- | --- | --- |
+| 2026-07-25 | Student Fellowships Office | Fulbright Italy late-entry response | Read the direct guidance and replaced the unusable auto-generated Gmail text with a factual reply draft | **P0 / staged.** Send after confirmation, submit the Prospective Applicant Form, resume, and Planning Tool by July 27, and meet before Friday. Revised application and recommendations are due August 24 for campus endorsement |
+| 2026-07-25 | Handshake AI Team | Profile almost complete | Opened the live onboarding and staged Computer Science, Machine Learning, student, RIT, master's, 2026, LinkedIn, United States, and New York | **P0 / legal and identity handoff.** Existing quantum CV is attached. Piter must review the Terms and Contractor Agreement before `Next`, then complete government-ID verification |
 | 2026-07-25 | University of Rochester digest | NSF Graduate Research Fellowship information session | Recorded the 2026-07-30, 5:00 PM Zoom session | **P1 / eligibility check.** Register if the session is open to the current degree stage and use it to clarify future PhD/GRFP eligibility |
 | 2026-07-25 | University of Rochester digest | Graduate-student academic writing retreat | Recorded the August 5-7, noon-4:00 PM retreat in Rush Rhees Library | **P1 / thesis support.** Register if those three afternoons can be protected for thesis writing |
 | 2026-07-25 | Handshake teaching contact | In-person teaching roles only | Classified the employer's answer against the remote-through-December constraint | **Closed for Fall 2026.** Reconnect after December only if relocation and the role remain attractive |
 | 2026-07-25 | University of Rochester digest | Kearns Summer Research Symposium and Medallion dinner | Recorded July 29-30 networking options | **P2 optional.** Attend only if they do not displace application or thesis deadlines |
-| 2026-07-25 | Student Fellowships Office | Fulbright Italy late-entry inquiry | Checked for a reply; none found | **P0 / waiting.** Check again on 2026-07-27; late-starter draft deadline remains 2026-07-30 if the office authorizes entry |
+| 2026-07-25 | Student Fellowships Office | Fulbright Italy late-entry inquiry | Earlier check found no reply; superseded by the 8:01 PM response recorded above | **Superseded.** Follow the intake-material, meeting, and August 24 endorsement path above |
 | 2026-07-24 | University of Rochester Financial Aid | Financial Aid Application Instructions | Reviewed the missing Aid Enrollment Plan form and in-person identity-verification requirement | **P0 / secure action.** Complete the FAOnline form using the planned credit load and schedule the required appointment; keep starred until both are confirmed |
 | 2026-07-24 | Genesee Valley BOCES | June 6 DASA and SAVE Course Registrations | Verified that the registrations were cancelled because an ineligible payment option was used; checked the current official form and pricing | **P0 / payment handoff.** Re-register by credit card; current combined total is $203 including the fee. Sensitive identity, payment, CAPTCHA, and final submission remain with Piter |
 | 2026-07-24 | EDU486 / University of Rochester | Poster Template for Session on July 31 | Matched the template email to the [existing course plan and draft](https://github.com/pzg8794/EDU486/blob/main/assignments/04-poster-fair/poster-proposal-draft.md) | **P0.** Finish the poster and attend the 2026-07-31, 1:30-3:00 PM fair in LeChase 215; preserve the course attachment in the course workspace rather than the public RESEARCH repo |
@@ -91,6 +106,8 @@ the queue of unfinished work. Do not remove importance metadata automatically.
 
 - Unresolved financial-aid, certification, insurance, degree-completion,
   Fulbright, and security/account items remain starred.
+- The Fulbright thread remains starred because the reply draft, intake
+  materials, and initial meeting are not complete.
 - Routine marketing and fully processed digests may be unstarred only after
   their decisions are recorded.
 - `To respond` is not treated as automatically actionable: older bills,
