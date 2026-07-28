@@ -34,9 +34,10 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 - [ ] **P0 - Personal / identity:** Verify the new-account and new-address
   alerts directly with the credit bureaus and issuers today. Use official
   sites/apps, not email links; dispute or freeze only if an item is unfamiliar.
-- [ ] **P0 - RIT / Carman:** Confirm the three contacted references can send
-  letters on letterhead directly to Mosaic by **2026-08-01**. Continue from the
-  [Carman checklist](../Fellowships/carman-2027-application-checklist.md).
+- [ ] **P0 - RIT / Carman correction:** Tell the three contacted references
+  that no letter should be sent. The application is paused because the
+  opportunity was misclassified and current eligibility is uncertain. See the
+  [source correction](../Fellowships/carman-2027-source-correction.md).
 - [ ] **P0 - RIT / ICNP paper:** Preserve the authenticated reviews, then set a
   coauthor decision meeting for revision and retargeting. The next version must
   clarify algorithms, allocator-policy interaction, physical threat grounding,
@@ -127,7 +128,7 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 | P1 | Federal loan | Direct PLUS Loan application | Submission confirmation received 2026-06-30; RIT cannot apply additional aid or loans until full-time enrollment/FTE is confirmed | No separate application action. Monitor through the FTE and RIT Aid follow-up. |
 | P1 | Degree completion | Fall 2026 graduation application | RIT confirmed the application and stated that degree completion is on track if current courses are completed and the required GPA is maintained | Complete; recorded and unstarred on 2026-07-24. |
 | P2 | Campus logistics | 2026-27 parking permit | Reserved permits open 2026-08-10; general permits open **2026-08-12**. Local address must be current at least 24 hours before purchase, and the parking account must have a zero balance. | Decide whether a permit is needed. Keep starred only if a purchase is planned. |
-| P0 | Fellowship | [Carman International Fellowship](https://www.mosaicinfo.org/application/) | Live form inventoried; tailored resume and essay workbook ready; all three reference requests sent July 27; application and letters due **2026-08-01** | Confirm reference commitments July 28 and direct letter delivery July 29; complete personal legal, signature, and consent review before submitting by July 31. |
+| Paused | Fellowship | [Carman International Fellowship](https://www.mosaicinfo.org/application/) | Misclassified using current requirements, older Carman descriptions, and the Luce placement model; the stated degree and international-experience expectations are not a clean match | Tell the three references not to send letters. Do not submit unless Mosaic confirms eligibility and Piter still wants the service role. See the [source correction](../Fellowships/carman-2027-source-correction.md). |
 | P1 | Job | VDart Data Scientist | July 23 screening reply confirmed in Sent; no recruiter response | Check once on 2026-08-03. Do not send a duplicate message or resume without the requested work terms. |
 | P0 | Research | ICNP 2026 paper #330 | Rejected; authenticated reviews identify writing, novelty, algorithm-definition, physical-grounding, and evaluation-scale gaps | Preserve the review source, meet with coauthors, and retarget only after the gaps are addressed. |
 | P0 | Security | Repository deletion and revoked token | GitHub Support ticket `4592214` remains open; a leaked token was revoked | Keep both alerts visible. Review the support portal, identify affected repositories/integrations, and follow [repository safety](../../REPOSITORY_SAFETY.md). |

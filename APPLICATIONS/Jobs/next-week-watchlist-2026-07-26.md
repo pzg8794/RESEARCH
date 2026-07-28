@@ -27,8 +27,8 @@ systems.
   Office meeting.
 - [ ] Add pronouns and the current resume, review the waiver/signature fields,
   and submit the staged Prospective Applicant Form by **Tuesday, July 28**.
-- [ ] Confirm whether all three Carman references accepted; letters are due
-  directly from recommenders on organizational letterhead.
+- [ ] Tell all three Carman references that the application is paused and that
+  no letter should be sent while eligibility is unresolved.
 - [x] Prepare one concise Guidepoint follow-up after no new career reply
   surfaced.
 - [x] Prepare one concise VDart follow-up after no recruiter reply surfaced.
@@ -50,13 +50,11 @@ systems.
   meeting time is being arranged.
 - [x] Finish the Carman resume and first complete set of evidence-grounded
   narrative drafts.
-- [ ] Add the missing faith/non-faith sentence, cross-cultural experience,
-  exact dates, and three reference contacts to the Carman workbook.
+- [x] Audit the Carman source mix-up and pause the application.
 
 ### Wednesday, July 29
 
-- [ ] Confirm that every Carman letter has been sent or is scheduled for
-  immediate delivery.
+- [ ] Confirm that all three Carman references received the pause notice.
 - [ ] Check for the RIT Registrar FTE form; complete it immediately if it
   arrives.
 - [ ] Decide whether the July 29-30 UofR research-networking events are worth
@@ -75,8 +73,8 @@ systems.
 
 ### Friday, July 31
 
-- [ ] Submit the Carman application internally after personally reviewing the
-  legal, identity, background-check, signature, and consent fields.
+- [x] Remove the Carman submission block from the Calendar. Do not submit
+  unless Mosaic confirms eligibility and Piter still wants the service role.
 - [ ] Finish the EDU486 poster and attend the **1:30-3:00 PM** session in
   LeChase 215.
 - [ ] Contact the upcoming Airbnb guest through the platform with access and
@@ -86,8 +84,8 @@ systems.
 
 ### Saturday, August 1
 
-- [ ] Verify that Mosaic received the Carman application and all three
-  professional reference letters before the official deadline.
+- [x] Remove the Carman deadline event from the Calendar because the
+  application is paused.
 - [ ] Decide whether the E2 sustainability program has a genuine project fit
   before spending time on its August 15 priority deadline.
 - [ ] Review the week-end mailbox state and carry only genuinely unresolved
@@ -97,7 +95,7 @@ systems.
 
 ## Watch Every Day
 
-- **RIT:** Registrar FTE form, Carman reference confirmations, VDart reply,
+- **RIT:** Registrar FTE form, Carman pause acknowledgments, VDart reply,
   GitHub Support ticket `4592214`, and any response to the revoked-token alert.
 - **UofR:** Fulbright meeting and intake confirmation, financial-aid
   enrollment-plan follow-up, NSF GRFP registration, and employer replies.

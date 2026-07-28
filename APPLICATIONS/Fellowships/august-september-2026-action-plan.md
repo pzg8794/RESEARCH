@@ -9,6 +9,9 @@ official deadlines on their true dates and prepare earlier.
 ## Start Now
 
 - [x] Request the 2027 Carman International Fellowship application packet.
+- [x] Correct the Carman source mix-up and pause submission.
+- [ ] Tell the three Carman references that no letter should be sent while
+  eligibility is unresolved.
 - [x] Verify the Jobot Senior Data Scientist listing and application form.
 - [x] Prepare the Jobot application resume.
 - [x] Ask the VDart recruiter for client, compensation, hours, and travel
@@ -45,7 +48,7 @@ official deadlines on their true dates and prepare earlier.
   acknowledgment, and final submission remain.
 - [x] Confirm the advising meeting for **Friday, July 31, 3:00-3:30 PM EDT**.
 
-## Carman: Due August 1
+## Carman: Paused, Deadline August 1
 
 - [x] Save the official application link.
 - [x] Build the
@@ -57,13 +60,13 @@ official deadlines on their true dates and prepare earlier.
 - [x] Draft the evidence-grounded Experience, Motivation, Career Goals, and
   Communication answers in the
   [workbook](./carman-2027-form-and-essay-workbook.md).
-- [ ] Add Piter's truthful faith or non-faith sentence and private reference
-  details. The documented cross-cultural evidence and exact availability dates
-  are resolved in the workbook.
-- [ ] Confirm all three references immediately and letter delivery by July 29.
-- [ ] Review the legal, identity, background-check, signature, and consent
-  fields personally.
-- [ ] Submit no later than July 31 to preserve a one-day buffer.
+- [x] Audit the source mismatch. The high-fit description combined current
+  Carman requirements, older Carman fellow accounts, and the Luce Scholars
+  placement model.
+- [ ] Notify all three references that no letter should be sent yet.
+- [ ] Continue only if Mosaic confirms that the documented degree path and
+  experience satisfy the current eligibility language and Piter still wants
+  this international-service role.
 
 ## E2: Priority Due August 15
 

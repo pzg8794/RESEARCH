@@ -8,13 +8,10 @@ that could be completed safely from the documented record was handled.
 
 ## Do First
 
-- [ ] **Carman International Fellowship - submit by Friday, July 31.**
-  Continue from the
-  [application checklist](../Fellowships/carman-2027-application-checklist.md)
-  and [form workbook](../Fellowships/carman-2027-form-and-essay-workbook.md).
-  Review the sensitive background, certification, consent, signature, and
-  final-submission fields. Confirm that all three letters reach Mosaic by
-  August 1.
+- [ ] **Carman International Fellowship - paused, do not submit.**
+  The earlier high-fit assessment was a source mix-up. Review the
+  [correction](../Fellowships/carman-2027-source-correction.md); references
+  should be told not to send letters while eligibility is unresolved.
 - [ ] **Fulbright Prospective Applicant Form.**
   [Open the form](https://form.jotform.com/90414762363153). The Spain ETA resume
   is attached and the documented profile is filled. Add pronouns, choose the

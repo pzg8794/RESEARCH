@@ -17,9 +17,8 @@ earlier.
 
 - [ ] Complete the Airbnb guest arrival handoff through the platform and
   resolve any same-day access issue.
-- [ ] Verify that Mosaic received the Carman application and all three
-  professional reference letters. Escalate immediately if any confirmation is
-  missing.
+- [ ] Verify that the three Carman references received the pause notice. Do
+  not chase letters or an application receipt.
 - [ ] Reconcile any still-pending personal payment retry before initiating a
   new transaction.
 
@@ -73,8 +72,8 @@ earlier.
 
 ## Watch Every Day
 
-- **RIT:** FTE/Registrar response, Carman receipt, VDart, GitHub Support ticket
-  `4592214`, and revoked-token follow-up.
+- **RIT:** FTE/Registrar response, Carman pause acknowledgment, VDart, GitHub
+  Support ticket `4592214`, and revoked-token follow-up.
 - **UofR:** Fulbright intake/meeting, Health Data Max, LearningMate, financial
   aid, teaching certification, and employer replies.
 - **Personal:** Guidepoint, official-account payment retries, credit alerts,

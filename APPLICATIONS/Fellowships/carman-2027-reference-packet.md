@@ -4,6 +4,12 @@ Updated: 2026-07-28
 
 Status: requests sent to all three references on 2026-07-27
 
+**Paused:** Do not send sample letters or ask recommenders to submit letters.
+The opportunity was misclassified, and current eligibility is uncertain. See
+the [source correction](./carman-2027-source-correction.md). The immediate
+follow-up is to tell the contacted references that no letter should be sent
+unless Mosaic confirms eligibility and Piter chooses to continue.
+
 ## Program
 
 - Opportunity: [Carman International

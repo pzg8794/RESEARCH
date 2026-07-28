@@ -23,12 +23,9 @@ Calendar permits them.
 | --- | --- | --- | --- |
 | 2026-07-28, 9:00-9:45 AM | DEADLINE WORK BLOCK - Fulbright Spain ETA intake | Synced | Submit the Prospective Applicant Form, current resume, and Planning Tool; [checklist](../Fellowships/fulbright-italy-late-entry-checklist.md) |
 | 2026-07-28, 10:00-10:30 AM | NYS ITS Virtual Career Information Session | Registered; synced | Join through [Handshake](https://rochester.joinhandshake.com/stu/events/1963665) five minutes early |
-| 2026-07-28, 3:00-3:20 PM | REVIEW - Carman reference commitments | Synced | Confirm Travis Desell, Daniel Krutz, and Zen Borys can send their letters |
-| 2026-07-29, 3:00-3:20 PM | REVIEW - Carman letter delivery | Synced | Confirm each letter was sent directly to the program |
-| 2026-07-31, 9:00-10:30 AM | DEADLINE WORK BLOCK - Submit Carman Fellowship | Synced | Complete legal/signature review and submit before the [August 1 deadline](https://www.mosaicinfo.org/who-we-are/international/carman/) |
+| 2026-07-28, 3:00-3:20 PM | ACTION - Pause Carman reference letters | Corrected; synced | Tell Travis Desell, Daniel Krutz, and Zen Borys not to send letters while eligibility is unresolved; see the [source correction](../Fellowships/carman-2027-source-correction.md) |
 | 2026-07-31, 1:30-3:00 PM | EDU486 Poster Fair | Confirmed; synced | LeChase 215; finish from the existing poster draft |
 | 2026-07-31, 3:00-3:30 PM | CONFIRMED - Fulbright advising appointment | Confirmed; synced | Meet with the UofR Fellowships Office about the Spain ETA late-entry path |
-| 2026-08-01, all day | DEADLINE - Carman application and 3 letters | Synced | Verify Mosaic received the application and all letters |
 | 2026-08-03, 9:00-9:45 AM | REVIEW - Career application responses | Synced | Check Guidepoint, VDart, Health Data Max, UofR Fulbright advising, and Handshake responses |
 
 ## August and Later
@@ -51,6 +48,9 @@ Calendar permits them.
 
 ## Calendar Sync Status
 
+- [x] Corrected the Carman source mix-up on 2026-07-28. Removed the letter
+  delivery, submission work block, and submission deadline events; changed the
+  remaining block to a reference-pause notification.
 - [x] Authenticated the signed-in RIT Chrome profile as
   `pzg8794@g.rit.edu`.
 - [x] Imported all 23 events into the primary `Piter Garcia` calendar.

@@ -7,6 +7,14 @@ Internal submission target: **2026-07-31**
 Application: [Mosaic Carman International Fellowship
 Application](https://www.mosaicinfo.org/application/)
 
+## Pause Notice
+
+**Do not submit this application or send recommendation-letter drafts.** The
+opportunity was misclassified using a mixture of current Carman requirements,
+older Carman fellow descriptions, and the Luce Scholars placement model. The
+current Carman qualifications are not a clean match for Piter's documented
+background. See the [source correction](./carman-2027-source-correction.md).
+
 ## Critical Path
 
 - [x] Obtain the live application link from Mosaic.
@@ -29,8 +37,14 @@ Application](https://www.mosaicinfo.org/application/)
   Google Drive storage, outside the public repository.
 - [x] Complete the first factual review of the Travis Desell, Daniel Krutz,
   and Zenon Borys samples and incorporate Piter's corrections on 2026-07-28.
-- [ ] Give final approval to the revised samples and individualized email
-  notes before any recommender receives them.
+- [ ] Notify the three contacted references that the application is paused and
+  that no letter should be sent yet.
+- [ ] Ask Mosaic whether Piter's data science, computer science, and inclusive
+  teaching background satisfies the stated degree-focus and prior
+  international-setting requirements, but only if this service route remains
+  desirable.
+- [ ] Give final approval to the revised samples only if Mosaic confirms
+  eligibility and Piter decides the service role is still worthwhile.
 - [ ] By July 27, confirm that all three references accepted.
 - [ ] By July 29, confirm that each letter has been sent or is scheduled for
   immediate delivery.

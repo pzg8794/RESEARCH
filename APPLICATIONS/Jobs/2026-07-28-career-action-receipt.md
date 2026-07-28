@@ -55,9 +55,9 @@ data, or legal-form answers.
 
 ## Genuine Handoffs
 
-- [ ] [Carman application checklist](../Fellowships/carman-2027-application-checklist.md):
-  review sensitive background, certification, signature, consent, and final
-  submission fields; confirm all three letters by August 1.
+- [ ] [Carman source correction](../Fellowships/carman-2027-source-correction.md):
+  tell the three contacted references that the application is paused and that
+  no letter should be sent while eligibility is unresolved.
 - [ ] [Fulbright Prospective Applicant Form](https://form.jotform.com/90414762363153):
   add pronouns, make the optional privacy choice, review the records waiver,
   draw the signature, acknowledge the appointment requirement, and submit.
