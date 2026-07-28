@@ -25,6 +25,10 @@ Application](https://www.mosaicinfo.org/application/)
   [one-page PDF](./application-materials/2026-07-27-carman-international-fellowship-resume.pdf).
 - [x] Give each reference the August 1 deadline, the program link,
   the placement start in January 2027, and a short evidence packet.
+- [x] Prepare three evidence-grounded, review-only sample letters in private
+  Google Drive storage, outside the public repository.
+- [ ] Review the Travis Desell, Daniel Krutz, and Zenon Borys samples before
+  any recommender receives one.
 - [ ] By July 27, confirm that all three references accepted.
 - [ ] By July 29, confirm that each letter has been sent or is scheduled for
   immediate delivery.

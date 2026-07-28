@@ -85,6 +85,21 @@ Evidence packet:
 - [Form and essay workbook](./carman-2027-form-and-essay-workbook.md), only if
   a recommender requests additional context
 
+## Private Sample-Letter Review
+
+- [x] Prepared separate review-only sample letters for Travis Desell, Daniel
+  Krutz, and Zenon Borys on 2026-07-28.
+- [x] Checked each draft against the current Carman duties and the documented
+  work that the named recommender supervised, reviewed, or observed.
+- [x] Kept the letter drafts and evidence matrix in a private Google Drive
+  review folder outside this public repository.
+- [ ] Piter reviews the three drafts and flags any factual correction.
+- [ ] Each recommender confirms the scope of direct knowledge, revises the
+  sample into their own voice, adds institutional letterhead and signature,
+  and sends the final letter directly to Mosaic.
+
+No recommendation letter has been sent or submitted from this review step.
+
 ## Outreach Receipt
 
 - [x] Travis Desell request sent with the data-science, ML, computational
