@@ -1,10 +1,17 @@
 # MLADIS Email Operations Log
 
-Last updated: 2026-07-25
+Last updated: 2026-07-27
 
 This is the public-safe record of important revenue, billing, and operational
 mail reviewed in the MLADIS company account. It intentionally omits guest
 names, reservation details, balances, bank information, and message bodies.
+
+## Access Status - 2026-07-27
+
+The currently exposed browser sessions did not include an authenticated MLADIS
+mailbox. No live July 27 delta is claimed. The previously verified queue below
+remains active and must be checked in the MLADIS account, especially the July
+30 payout and July 31 arrival-coordination deadlines.
 
 ## Immediate Handoffs
 

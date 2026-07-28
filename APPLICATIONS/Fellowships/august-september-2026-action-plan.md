@@ -1,6 +1,6 @@
 # August-September 2026 Application Action Plan
 
-Updated: 2026-07-25
+Updated: 2026-07-27
 
 ## Start Now
 
@@ -14,10 +14,14 @@ Updated: 2026-07-25
 - [x] Route the Carman packet request to the alternate contact after the primary
   contact's July 31 out-of-office reply.
 - [x] Receive the live Carman application link and reference instructions.
-- [ ] Start the
+- [x] Start the
   [Carman application checklist](./carman-2027-application-checklist.md) now;
   three professional letters on letterhead are due with the application by
   **August 1**.
+- [x] Inventory the live Carman form and prepare the
+  [form and essay workbook](./carman-2027-form-and-essay-workbook.md).
+- [x] Prepare the [tailored Carman resume
+  PDF](./application-materials/2026-07-27-carman-international-fellowship-resume.pdf).
 - [x] Submit the Fall 2026 Full-Time Equivalency Google Form for three thesis
   credits and verify the recorded-response confirmation.
 - [ ] Await and complete the Registrar FTE form after the program-coordinator
@@ -28,7 +32,10 @@ Updated: 2026-07-25
   are still possible.
 - [ ] Send the staged factual reply, including the documented Spanish and ASL
   background, after final confirmation.
-- [ ] By July 27, submit the Prospective Applicant Form, current resume, and
+- [x] Prepare the [current Fulbright intake
+  resume](./application-materials/2026-07-27-fulbright-italy-deafness-studies-resume.pdf)
+  and [late-entry checklist](./fulbright-italy-late-entry-checklist.md).
+- [ ] By July 28, submit the Prospective Applicant Form, current resume, and
   Fulbright Planning Tool and request a meeting before Friday.
 
 ## Carman: Due August 1
@@ -38,10 +45,14 @@ Updated: 2026-07-25
   [requirements checklist](./carman-2027-application-checklist.md).
 - [ ] Ask three professional references today; letters must be on letterhead
   and sent directly to the program by August 1.
-- [ ] Tailor the resume toward monitoring/evaluation, databases, inclusive
+- [x] Tailor the resume toward monitoring/evaluation, databases, inclusive
   education, disability leadership, and cross-cultural collaboration.
-- [ ] Draft the motivation statement.
-- [ ] Confirm all three references by July 27 and letter delivery by July 29.
+- [x] Draft the evidence-grounded Experience, Motivation, Career Goals, and
+  Communication answers in the
+  [workbook](./carman-2027-form-and-essay-workbook.md).
+- [ ] Add Piter's truthful faith or non-faith sentence, documented
+  cross-cultural experience, exact dates, and three reference contacts.
+- [ ] Confirm all three references immediately and letter delivery by July 29.
 - [ ] Review the legal, identity, background-check, signature, and consent
   fields personally.
 - [ ] Submit no later than July 31 to preserve a one-day buffer.
@@ -57,7 +68,7 @@ Updated: 2026-07-25
 - [ ] Request a support letter from a community or business partner.
 - [ ] Submit by August 14.
 
-## Fulbright: Late-Starter Decision July 27
+## Fulbright: Intake Due July 28
 
 - [ ] Confirm U.S.-citizenship eligibility.
 - [x] Confirm documented Romance-language background: Spanish is
@@ -68,8 +79,10 @@ Updated: 2026-07-25
 - [x] Ask `fellowships@rochester.edu` whether late entry is still possible
   after the July 1 normal-entry deadline; inquiry sent July 24.
 - [x] Read the Fellowships Office reply on July 25.
+- [x] Open and inventory the Prospective Applicant Form and Planning Tool.
+- [x] Prepare the current one-page intake resume.
 - [ ] Submit the Prospective Applicant Form, current resume, and Fulbright
-  Planning Tool within the next few days.
+  Planning Tool by July 28.
 - [ ] Meet with the office before Friday, July 31.
 - [ ] Complete the revised application and recommendations for formal campus
   review by **August 24** if the award fit is confirmed.

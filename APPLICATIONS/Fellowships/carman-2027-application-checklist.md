@@ -14,12 +14,21 @@ Application](https://www.mosaicinfo.org/application/)
   send a signed letter on organizational letterhead directly to the program.
 - [x] Prepare the
   [reference-request draft](./carman-2027-reference-request-draft.md).
+- [x] Inventory the live form and prepare the
+  [form and essay workbook](./carman-2027-form-and-essay-workbook.md).
+- [x] Prepare the tailored
+  [resume source](./application-materials/2026-07-27-carman-international-fellowship-resume.tex)
+  and
+  [one-page PDF](./application-materials/2026-07-27-carman-international-fellowship-resume.pdf).
 - [ ] **Today:** give each reference the August 1 deadline, the program link,
   the placement start in January 2027, and a short evidence packet.
 - [ ] By July 27, confirm that all three references accepted.
 - [ ] By July 29, confirm that each letter has been sent or is scheduled for
   immediate delivery.
-- [ ] By July 30, finish the resume and narrative answers.
+- [x] Draft the Experience, Motivation, Career Goals, and Communication
+  answers from documented evidence.
+- [ ] By July 30, add the missing faith or non-faith sentence,
+  cross-cultural experience, exact availability dates, and reference details.
 - [ ] On July 31, review every legal, identity, background-check, certification,
   signature, and consent field personally.
 - [ ] Submit on July 31 and preserve the confirmation.
@@ -48,19 +57,19 @@ Reference packet:
 
 ## Application Evidence
 
-- [ ] Tailor the resume toward monitoring and evaluation, database management,
+- [x] Tailor the resume toward monitoring and evaluation, database management,
   data collection, inclusive education, disability leadership, and
   cross-cultural collaboration.
-- [ ] Use the January 2027 start to explain availability after December
+- [x] Use the January 2027 start to explain availability after December
   graduation.
-- [ ] Connect data-science work to practical program evaluation and
+- [x] Connect data-science work to practical program evaluation and
   decision-making.
-- [ ] Connect inclusive CS teaching and EQUITAS, the equity-focused lens within
+- [x] Connect inclusive CS teaching and EQUITAS, the equity-focused lens within
   the Puzzle Plan, to dignity, access, communication, and services for people
   with disabilities.
 - [ ] Use international or multilingual experience only where it is directly
   supported by the documented record.
-- [ ] Keep the motivation narrative specific to Mosaic and the Moshi,
+- [x] Keep the motivation narrative specific to Mosaic and the Moshi,
   Tanzania placement rather than writing a generic fellowship statement.
 
 ## Submission Boundary

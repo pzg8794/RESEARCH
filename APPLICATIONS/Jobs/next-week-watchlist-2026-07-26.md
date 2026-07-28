@@ -3,7 +3,7 @@
 Week: **Sunday, July 26 through Saturday, August 1, 2026**
 
 This is the public-safe execution list built from the UofR, RIT, personal, and
-MLADIS mailboxes on July 25. Private balances, account details, guest
+MLADIS mailboxes, refreshed on July 27. Private balances, account details, guest
 identities, health information, and message bodies remain in their secure
 systems.
 
@@ -21,15 +21,20 @@ systems.
 
 ### Monday, July 27
 
-- [ ] Submit the Fulbright Prospective Applicant Form, current resume, and
-  Planning Tool, then request an initial Fellowships Office meeting before
-  Friday.
+- [x] Prepare the Fulbright intake resume, map the Prospective Applicant Form
+  and Planning Tool, and revise the Fellowships Office reply in Gmail.
+- [ ] Submit the Fulbright forms and request an initial Fellowships Office
+  meeting by **Tuesday, July 28**.
 - [ ] Confirm whether all three Carman references accepted; letters are due
   directly from recommenders on organizational letterhead.
-- [ ] Check Guidepoint for the advisor-profile link and send one concise
-  follow-up if there is still no reply.
-- [ ] Check VDart for answers to the client, compensation, schedule, and travel
-  questions; follow up once if unanswered.
+- [x] Prepare one concise Guidepoint follow-up after no new career reply
+  surfaced.
+- [x] Prepare one concise VDart follow-up after no recruiter reply surfaced.
+- [ ] Send those two follow-ups after approval.
+- [x] Save the Health Data Max Clinical Business Analyst Intern role and
+  prepare its tailored resume, cover letter, and transcript packet.
+- [ ] Confirm whether 30 hours/week is workable, then submit Health Data Max
+  after upload authorization.
 - [ ] Complete or arrange the personal card payment due that day through the
   official account.
 
@@ -40,7 +45,10 @@ systems.
   created.
 - [ ] Confirm that the Fulbright intake materials were received and that a
   meeting time is being arranged.
-- [ ] Finish the Carman resume and first motivation-statement draft.
+- [x] Finish the Carman resume and first complete set of evidence-grounded
+  narrative drafts.
+- [ ] Add the missing faith/non-faith sentence, cross-cultural experience,
+  exact dates, and three reference contacts to the Carman workbook.
 
 ### Wednesday, July 29
 
@@ -81,6 +89,8 @@ systems.
   before spending time on its August 15 priority deadline.
 - [ ] Review the week-end mailbox state and carry only genuinely unresolved
   messages into the next watchlist.
+- [ ] Continue from the [August 2-8
+  watchlist](./next-week-watchlist-2026-08-02.md).
 
 ## Watch Every Day
 

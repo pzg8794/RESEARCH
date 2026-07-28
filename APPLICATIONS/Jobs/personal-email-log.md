@@ -1,6 +1,6 @@
 # Personal Email Career and Financial Action Log
 
-Last updated: 2026-07-25
+Last updated: 2026-07-27
 
 This is the public-safe record of career, consulting, education-funding, and
 urgent financial messages reviewed in the personal Gmail account. It records
@@ -11,11 +11,12 @@ account numbers, addresses, health details, or full message bodies.
 
 | Date processed | Opportunity | Verified fit and constraints | Action | Status / follow-up |
 | --- | --- | --- | --- | --- |
+| 2026-07-27 | Guidepoint - Data Quality Vendors in the Healthcare Landscape | Remote, short-duration consulting remains compatible with graduate study | No new career reply surfaced in the current personal-mail delta search; prepared a [single follow-up](./follow-up-drafts/2026-07-27-guidepoint-data-quality-follow-up.md) | **Waiting / keep starred.** Send the follow-up after approval, then review scope, compliance, conflicts, and rate before accepting |
 | 2026-07-25 | Guidepoint - Data Quality Vendors in the Healthcare Landscape | The remote paid consultation remains a strong fit. | Checked the thread; no reply arrived after Piter's 2026-07-24 interest message. | **Waiting / keep starred.** Check again on 2026-07-27, then send one concise follow-up if still unanswered. |
 | 2026-07-24 | Guidepoint - Data Quality Vendors in the Healthcare Landscape | Strong short-term fit for data science, data quality, healthcare, and bioinformatics. The proposed remote consultation is 45-60 minutes, scheduled around Piter's availability, and paid at an hourly rate selected by Piter. | Sent an interest reply requesting the advisor-profile link, project details, and screening questions. No rate or confidential information was provided. | **Waiting.** Check for the link by 2026-07-27. Review the project and compliance questions before setting a rate or accepting a call. |
 | 2026-07-24 | One N Only - marketing-team hiring notice | A current hiring message was found, but the role, location, work model, compensation, and application deadline were not yet verified. | Preserved for focused review. | **Needs review.** Apply only if the role is remote through December 2026 and materially matches data, AI, education, or technical communication. |
 
-No new career or recruiter reply arrived in the July 25 evening refresh.
+No new career or recruiter reply surfaced in the July 27 delta search.
 Guidepoint remains the only current personal-account consulting follow-up.
 
 ## Financial Action Queue
@@ -26,6 +27,12 @@ search. All payment and secure-account actions remain with Piter.
 
 | Priority | Deadline / timing | Item | Verified status | Secure next action |
 | --- | --- | --- | --- | --- |
+| P0 | Immediate | Returned card payment and matching ACH return | New July 27 notices indicate a card payment and the associated bank debit were returned. An automatic retry may already be pending. | Reconcile the issuer and bank through their official apps before initiating any new payment. Confirm pending retries first so the same obligation is not paid twice. |
+| P0 | Immediate | Credit-file and new-account alerts | Additional July 27 alerts referenced a new account or credit-file change. The email alone does not establish whether it is legitimate. | Verify directly with each official bureau and named issuer; dispute, freeze, or secure accounts only if the activity is unfamiliar. |
+| P0 | **2026-07-28** | Scheduled installment AutoPay | A provider confirmed that AutoPay is scheduled for July 28 while other returned-payment notices are active. | Verify funding and retry status before the scheduled draw. Do not make a manual duplicate payment. |
+| P1 | **2026-08-22** | Card statement due | A new statement was issued with an August 22 due date. Private amounts are omitted. | Review the official statement, record the required payment in the private financial system, and arrange payment before the due date. |
+| P1 | Immediate | Medical statement | A healthcare provider issued a new statement. Health and balance details are intentionally omitted. | Review insurance processing and the secure patient account; choose payment or a formal plan only after validating the balance. |
+| P1 | Immediate | Payment-plan offer | A card provider offered a payment plan. Terms were not accepted. | Compare total cost, fees, duration, account effects, and other hardship options in the official account before enrolling. |
 | P0 | Immediate | Credit-report identity alerts | Multiple bureaus reported a new account and/or address on 2026-07-24. This may be legitimate, but it requires same-day verification. | Open each bureau or issuer through its official app/site, confirm whether the changes are recognized, and use the bureau's fraud/dispute/freeze flow if any item is unfamiliar. Do not follow email links for identity actions. |
 | P0 | Immediate | Returned bank transfer | A bank reported that an ACH debit was returned. Private amount and account information are omitted. | Reconcile the official bank and biller accounts, identify whether an automatic retry is scheduled, and avoid creating a duplicate payment. |
 | P0 | Immediate | Medical-account balance update | A provider reported a changed balance and offered account/payment-plan review. Health and balance details are omitted. | Review the secure patient account, confirm insurance processing, and choose payment or a formal plan only after the balance is validated. |
@@ -64,3 +71,6 @@ search. All payment and secure-account actions remain with Piter.
   decisions are recorded here.
 - The July 28 automatic installment and issuer redemption confirmation were
   added during the evening refresh.
+- The July 27 refresh added the returned-payment reconciliation, new statement,
+  medical statement, payment-plan, and credit-alert handoffs without copying
+  private amounts or account identifiers.

@@ -1,6 +1,6 @@
 # RIT Career Email Log
 
-Last updated: 2026-07-25
+Last updated: 2026-07-27
 
 This is the public-safe record of job and career messages processed from the
 RIT Gmail account. It stores decisions and follow-up dates, not private message
@@ -15,6 +15,28 @@ bodies, phone numbers, or personal recruiter addresses.
 - Priority fields are data science, AI/ML, quantum computing, research
   engineering, bioinformatics, inclusive CS teaching, and education technology.
 
+## Refresh Status - 2026-07-27
+
+- Searched current RIT mail for Carman, VDart, Full-Time Equivalency,
+  Registrar, career, fellowship, and GitHub responses. No new Carman, VDart,
+  FTE, Registrar, or GitHub Support reply arrived after July 25.
+- Opened the live Carman application and inventoried its academic, employment,
+  language, reference, essay, legal, background, signature, and submission
+  fields. A [form and essay workbook](../Fellowships/carman-2027-form-and-essay-workbook.md)
+  and [one-page tailored resume](../Fellowships/application-materials/2026-07-27-carman-international-fellowship-resume.pdf)
+  are ready.
+- Carman remains blocked on three reference commitments, Piter's truthful
+  faith or non-faith statement, documented cross-cultural experience, exact
+  availability dates, private fields, and personal legal review.
+- Prepared a [VDart follow-up](./follow-up-drafts/2026-07-27-vdart-data-scientist-follow-up.md);
+  it remains unsent pending approval.
+- A starred LinkedIn Teaching Specialist digest, a generic systems-engineer
+  alert, Harvard Extension marketing, RIT news, and a ProFellow digest did not
+  produce a current remote role. Star removal for the LinkedIn digest was not
+  confirmed, so the mailbox state is not overstated here.
+- An Adobe password-change notice requires verification through the official
+  Adobe account if the change was not expected.
+
 ## Refresh Status - 2026-07-25 Evening
 
 - No new Registrar FTE form arrived after the submitted Google Form.
@@ -28,6 +50,8 @@ bodies, phone numbers, or personal recruiter addresses.
 
 | Date processed | Opportunity | Fit and constraints | Action | Status / follow-up |
 | --- | --- | --- | --- | --- |
+| 2026-07-27 | Carman International Fellowship | One-year international disability-services placement beginning January 2027; application and three letters due August 1 | Inventoried the live form, drafted the substantive essay answers, and prepared a tailored resume | **P0 / incomplete.** Use the [workbook](../Fellowships/carman-2027-form-and-essay-workbook.md), secure three references immediately, answer the four factual questions, then personally review private and legal fields |
+| 2026-07-27 | VDart - Data Scientist, AWS AI/ML and Advanced Analytics | Remote is advertised, but client, schedule, compensation, travel, and work terms remain unverified | Confirmed no reply surfaced and prepared a [concise follow-up](./follow-up-drafts/2026-07-27-vdart-data-scientist-follow-up.md) | **Waiting / send approval required.** Send one follow-up, then close if there is no substantive answer |
 | 2026-07-25 | [Jobot - ML Solution Architect](https://jobot.com/details/ml-solution-architect/47904ae801) | Remote; $150,000-$250,000; strong AI/ML, AWS, Python, pipelines, consulting, and GenAI fit. The stated six-year comparable-experience requirement makes this a stretch. | Verified the official listing is live and reviewed the application terms. | **P0 stretch / packet needed.** Tailor one architecture-focused resume, then obtain action-time confirmation before uploading it and applying. |
 | 2026-07-25 | [Jobot - ML Solutions Architect](https://jobot.com/details/ml-solutions-architect/79e0495906) | Remote; $160,000-$210,000; strong production ML, cloud, Python/Java/Scala, data pipelines, and MLOps fit. The listing asks for six years of relevant experience. | Verified the official listing is live. | **P1 stretch.** Reuse the architecture packet after the first Jobot application is ready. |
 | 2026-07-25 | [Jobot - Senior Healthcare Data Engineer](https://jobot.com/details/senior-healthcare-data-engineer/41bbb54a06) | Remote; $120,000-$150,000; excellent healthcare data-quality, Python, SQL, ETL, and interoperability fit. The listing asks for five years of relevant experience. | Verified the official listing is live. | **P1 stretch.** Build a healthcare/data-quality variant after the ML Solution Architect packet. |

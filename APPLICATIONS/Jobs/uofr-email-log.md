@@ -1,6 +1,30 @@
 # University of Rochester Job and Career Email Log
 
-Last updated: 2026-07-25
+Last updated: 2026-07-27
+
+## Refresh Status - 2026-07-27
+
+- Reviewed the current UofR career, fellowship, funding, and Handshake delta.
+  No new high-priority financial-aid or billing notice arrived after July 25.
+- The strongest new realistic lead is Health Data Max's Clinical Business
+  Analyst Intern role: remote or hybrid, $20-$30/hour, 30 hours/week, due
+  **2026-08-16 at 11:59 PM**. The job is saved and a tailored resume, cover
+  letter, and combined unofficial transcript PDF are ready.
+- The Health Data Max application is not submitted. The currently selected
+  quantum-computing CV is unrelated and must be replaced. Submission is
+  waiting on confirmation that 30 hours/week is workable and approval to
+  upload the three prepared files.
+- iLearn Mathematics Teacher, Brains & Motion instructor, and Gestalt High
+  School Math Teacher were reviewed and closed because they are onsite before
+  December or otherwise weaker than the priority fields.
+- IBM Dev Day: AI + Quantum and its hackathon are free and virtual on
+  **2026-08-27**. This is useful professional development, but registration has
+  not been submitted.
+- The Fulbright reply was revised and verified in Gmail. The current resume,
+  Prospective Applicant Form, Planning Tool, campus milestones, and ASL
+  eligibility risk are organized in the
+  [late-entry checklist](../Fellowships/fulbright-italy-late-entry-checklist.md).
+  The reply remains unsent pending approval.
 
 ## Refresh Status - 2026-07-25
 
@@ -74,7 +98,13 @@ the queue of unfinished work. Do not remove importance metadata automatically.
 
 | Date | Sender / organization | Subject or opportunity | Action | Status / follow-up |
 | --- | --- | --- | --- | --- |
-| 2026-07-25 | Student Fellowships Office | Fulbright Italy late-entry response | Read the direct guidance and replaced the unusable auto-generated Gmail text with a factual reply draft | **P0 / staged.** Send after confirmation, submit the Prospective Applicant Form, resume, and Planning Tool by July 27, and meet before Friday. Revised application and recommendations are due August 24 for campus endorsement |
+| 2026-07-27 | Handshake / Health Data Max | Clinical Business Analyst Intern | Verified the posting, saved the job, opened the application, and prepared the [complete packet](./application-materials/2026-07-27-health-data-max-packet.md) | **P0 / confirmation required.** Confirm the 30-hour weekly commitment, replace the unrelated CV, upload resume, cover letter, and unofficial transcripts, then submit before August 16 at 11:59 PM |
+| 2026-07-27 | IBM / Handshake | IBM Dev Day: AI + Quantum and hackathon | Verified a free virtual professional-development event on August 27 | **P1 / registration not submitted.** Register only after Piter confirms attendance |
+| 2026-07-27 | iLearn | Mathematics Teacher, grades 4-8 | Reviewed work model, location, and current availability constraint | **Closed for Fall 2026.** Full-time onsite New York role; reconsider only after December if relocation and certification fit |
+| 2026-07-27 | Brains & Motion | Structured Recess / Fitness Instructor | Reviewed work model, location, schedule, and field fit | **Closed.** Seasonal onsite Brooklyn role at $25/hour is weaker than current remote CS/data priorities |
+| 2026-07-27 | Gestalt Community Schools | High School Math Teacher | Reviewed work model and location | **Closed for Fall 2026.** Onsite Memphis role; revisit only after December if relocation is desired |
+| 2026-07-27 | Student Fellowships Office | Fulbright late-entry intake | Prepared a one-page intake resume, mapped both intake forms, verified campus milestones, and revised the reply in Gmail | **P0 / send and private-form handoff.** Approve the reply; Piter completes the legal/private form fields and ASL answers by July 28 |
+| 2026-07-25 | Student Fellowships Office | Fulbright Italy late-entry response | Read the direct guidance and replaced the unusable auto-generated Gmail text with a factual reply draft | **P0 / staged.** Send after confirmation, submit the Prospective Applicant Form, resume, and Planning Tool by July 28, and meet before Friday. Revised application and recommendations are due August 24 for campus endorsement |
 | 2026-07-25 | Handshake AI Team | Profile almost complete | Opened the live onboarding and staged Computer Science, Machine Learning, student, RIT, master's, 2026, LinkedIn, United States, and New York | **P0 / legal and identity handoff.** Existing quantum CV is attached. Piter must review the Terms and Contractor Agreement before `Next`, then complete government-ID verification |
 | 2026-07-25 | University of Rochester digest | NSF Graduate Research Fellowship information session | Recorded the 2026-07-30, 5:00 PM Zoom session | **P1 / eligibility check.** Register if the session is open to the current degree stage and use it to clarify future PhD/GRFP eligibility |
 | 2026-07-25 | University of Rochester digest | Graduate-student academic writing retreat | Recorded the August 5-7, noon-4:00 PM retreat in Rush Rhees Library | **P1 / thesis support.** Register if those three afternoons can be protected for thesis writing |
@@ -86,7 +116,7 @@ the queue of unfinished work. Do not remove importance metadata automatically.
 | 2026-07-24 | EDU486 / University of Rochester | Poster Template for Session on July 31 | Matched the template email to the [existing course plan and draft](https://github.com/pzg8794/EDU486/blob/main/assignments/04-poster-fair/poster-proposal-draft.md) | **P0.** Finish the poster and attend the 2026-07-31, 1:30-3:00 PM fair in LeChase 215; preserve the course attachment in the course workspace rather than the public RESEARCH repo |
 | 2026-07-24 | myHub / University of Rochester | 2026 Teaching Retreat | Reviewed the free two-day August 10-11 program and opened the Handshake registration | **P0 / staged.** Registration is ready except for the required dietary-restriction answer. Strong fit for UDL, active learning, fair assessment, and inclusive CS teaching |
 | 2026-07-24 | University Health Service | Fall health-insurance open enrollment | Reviewed the mandatory annual enroll-or-waive process | **P1 / secure action.** Complete the UHS process by **2026-09-15** to avoid automatic enrollment and billing; keep starred |
-| 2026-07-24 | Student Fellowships Office | Fulbright Student Grant to Italy in Deafness Studies | Checked the current award and UofR campus calendar; sent a late-entry inquiry to `fellowships@rochester.edu` | **P0 / waiting.** Normal entry deadline passed July 1; late-starter full draft is due July 30 and formal campus review August 24. Check for the office's reply and confirm citizenship, ASL, and Romance-language readiness by July 27 |
+| 2026-07-24 | Student Fellowships Office | Fulbright Student Grant to Italy in Deafness Studies | Checked the current award and UofR campus calendar; sent a late-entry inquiry to `fellowships@rochester.edu` | **Superseded by the July 25 reply.** Late-starter full draft is due July 30 and formal campus review August 24; citizenship and ASL readiness still require Piter's confirmation |
 | 2026-07-24 | University of Rochester digest | Genomic biomarkers seminar and Survivorship Symposium | Recorded the July 27 genomics seminar and August 19 abstract deadline | **P2 conditional.** Seminar is optional; submit a symposium abstract only if an existing cancer-survivorship project honestly fits |
 | 2026-07-24 | Google Cloud | BigQuery transfer labels and 2-step verification | Recorded current account and code-maintenance deadlines | **P2 conditional.** Audit affected scripts by **2026-08-11** and complete Cloud Console 2-step verification by **2026-10-20** |
 | 2026-07-24 | Warner School | Student Teacher Confirmation | Confirmed Fall 2026 Computer Science-Technology student-teaching placement beginning in the 2026-27 school year | **Complete/current.** Preserve as degree and teaching-career evidence; no new application action |

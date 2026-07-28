@@ -1,11 +1,12 @@
 # Job Pipeline
 
-Last updated: 2026-07-25
+Last updated: 2026-07-27
 
 ## Immediate Queue
 
 | Priority | Employer / opportunity | Work model and compensation | Fit | Status | Next action |
 | --- | --- | --- | --- | --- | --- |
+| P0 | [Health Data Max - Clinical Business Analyst Intern](https://rochester.joinhandshake.com/job-search/11219848) | Remote or hybrid in Ashburn, Virginia; $20-$30/hour; part-time internship at **30 hours/week** | Strong healthcare-data, Python/SQL, data-quality, requirements, testing, documentation, and applied-AI fit; the weekly commitment must fit the final semester | **Saved / complete packet ready / confirmation required** | Review the [prepared packet](./application-materials/2026-07-27-health-data-max-packet.md), confirm that 30 hours/week is workable, authorize the three uploads, replace the unrelated quantum CV, and submit before **2026-08-16 at 11:59 PM**. |
 | P0 | [Onward Search - Creative Project Manager](https://www.indeed.com/viewjob?jk=03b29d4ec5d73a0b) | Remote contract; $45-$50/hour; current listing says two months initially with possible extension | Strong bridge between AI/ML, data quality, ethics/bias, stakeholder communication, and project delivery; verify that weekly hours fit the final semester | **Live / packet needed** | Confirm weekly hours and time zone, then tailor a project/program-management resume and apply if the schedule is workable. |
 | P0 | [Jobot - ML Solution Architect](https://jobot.com/details/ml-solution-architect/47904ae801) | Remote; $150,000-$250,000; flexible hours and benefits advertised | Strong AI/ML, GenAI, AWS, Python, data-pipeline, and consulting fit; six-year experience requirement makes it a stretch | **Live / needs targeted resume and confirmation** | Build one architecture-focused resume, then confirm contact-data and resume transmission before applying. |
 | P1 | [Jobot - ML Solutions Architect](https://jobot.com/details/ml-solutions-architect/79e0495906) | Remote; $160,000-$210,000 | Strong production ML, cloud, Python/Java/Scala, SQL, pipelines, Spark/Snowflake/Databricks, and MLOps fit; six-year requirement is a stretch | **Live / secondary** | Reuse the ML architecture packet after the first Jobot application is ready. |
@@ -27,6 +28,9 @@ Last updated: 2026-07-25
 
 | Employer / role | Reason closed | Action |
 | --- | --- | --- |
+| iLearn - Mathematics Teacher, grades 4-8 | Full-time onsite in New York; incompatible with the remote-through-December requirement | Closed on 2026-07-27; reconsider only for a post-December relocation if the role is still open |
+| Brains & Motion - Structured Recess / Fitness Instructor | Seasonal part-time role in Brooklyn; onsite and outside the priority CS/data fields | Closed on 2026-07-27 |
+| Gestalt Community Schools - High School Math Teacher | Onsite in Memphis; incompatible with the current location constraint | Closed on 2026-07-27; revisit only for a post-December relocation |
 | Handshake teaching contact - in-person roles only | Employer confirmed that it does not offer remote teaching roles; remote work is required through December 2026 | Closed on 2026-07-25; reconsider only for a January 2027 relocation |
 | [DeepBrain - Research Scientist / Research Fellow, AI for Education and Game Intelligence](https://rochester.joinhandshake.com/job-search/11128588?page=1&per_page=25) | Domain fit is good, but the August 14 posting requires a completed PhD and a strong PhD/postdoc publication record | Reviewed and skipped on 2026-07-23 |
 | Inspired Education Group - Learning Coach | Posting unavailable and the account lacked permission to view it | Reviewed and closed on 2026-07-23 |
@@ -47,8 +51,14 @@ Last updated: 2026-07-25
   Jobot Senior Data Scientist application.
 - 2026-07-27: Check for the Guidepoint advisor-profile link and project
   screening questions.
+- 2026-07-28: Confirm whether the Health Data Max 30-hour schedule is workable;
+  if yes, upload the tailored resume, cover letter, and combined unofficial
+  transcripts and submit.
 - 2026-07-30: Check for replies from Handshake AI, Carney Sandoe, Stride,
   Cardinal Education, Epic, Ampact, Solü, Jobot, and VDart.
 - 2026-08-06 at 11:59 PM: Solü application deadline; application is already
   submitted.
 - 2026-08-07 at 2:29 PM: LearningMate application deadline.
+- 2026-08-16 at 11:59 PM: Health Data Max application deadline; packet is
+  ready and should be submitted well before this date if 30 hours/week is
+  workable.
