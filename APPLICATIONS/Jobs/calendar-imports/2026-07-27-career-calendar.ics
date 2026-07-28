@@ -83,25 +83,6 @@ DESCRIPTION:Carman letter review in one hour
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:20260730T170000-nsf-grfp-info@research.local
-DTSTAMP:20260727T120000Z
-DTSTART;TZID=America/New_York:20260730T170000
-DTEND;TZID=America/New_York:20260730T180000
-SUMMARY:NSF-GRFP Information Session
-DESCRIPTION:Registered. Attend through the Zoom confirmation and ask about eligibility for a future PhD start.
-STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:NSF-GRFP session tomorrow
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:NSF-GRFP session in one hour
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:20260731T090000-carman-submit@research.local
 DTSTAMP:20260727T120000Z
 DTSTART;TZID=America/New_York:20260731T090000
@@ -139,6 +120,25 @@ BEGIN:VALARM
 TRIGGER:-PT1H
 ACTION:DISPLAY
 DESCRIPTION:EDU486 Poster Fair in one hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260731T150000-fulbright-advising@research.local
+DTSTAMP:20260728T190000Z
+DTSTART;TZID=America/New_York:20260731T150000
+DTEND;TZID=America/New_York:20260731T153000
+SUMMARY:CONFIRMED - Fulbright advising appointment
+DESCRIPTION:Meet with the UofR Fellowships Office about the Spain ETA late-entry path.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Fulbright advising appointment tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Fulbright advising appointment in one hour
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -192,25 +192,6 @@ BEGIN:VALARM
 TRIGGER:-PT1H
 ACTION:DISPLAY
 DESCRIPTION:Writing Retreat Day 1 in one hour
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:20260806T120000-writing-retreat-day2@research.local
-DTSTAMP:20260727T120000Z
-DTSTART;TZID=America/New_York:20260806T120000
-DTEND;TZID=America/New_York:20260806T160000
-SUMMARY:UofR Graduate Writing Retreat - Day 2
-DESCRIPTION:Registered. Protected thesis-writing block.
-STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:Writing Retreat Day 2 tomorrow
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Writing Retreat Day 2 in one hour
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -271,46 +252,6 @@ DESCRIPTION:RIT parking review in one hour
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:20260810T090000-teaching-retreat-day1@research.local
-DTSTAMP:20260727T120000Z
-DTSTART;TZID=America/New_York:20260810T090000
-DTEND;TZID=America/New_York:20260810T170000
-SUMMARY:HOLD - UofR Teaching Retreat Day 1
-DESCRIPTION:Registration is staged. A dietary answer is still required.
-URL:https://rochester.joinhandshake.com/stu/events/1956131
-STATUS:TENTATIVE
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:Teaching Retreat Day 1 hold tomorrow
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Teaching Retreat Day 1 hold in one hour
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:20260811T090000-teaching-retreat-day2@research.local
-DTSTAMP:20260727T120000Z
-DTSTART;TZID=America/New_York:20260811T090000
-DTEND;TZID=America/New_York:20260811T170000
-SUMMARY:HOLD - UofR Teaching Retreat Day 2
-DESCRIPTION:Registration is staged. A dietary answer is still required.
-URL:https://rochester.joinhandshake.com/stu/events/1956131
-STATUS:TENTATIVE
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:Teaching Retreat Day 2 hold tomorrow
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Teaching Retreat Day 2 hold in one hour
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:20260815-rit-fall-statement@research.local
 DTSTAMP:20260727T120000Z
 DTSTART;VALUE=DATE:20260815
@@ -353,23 +294,22 @@ DESCRIPTION:Fulbright campus packet deadline tomorrow
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:20260827T110000-ibm-dev-day@research.local
-DTSTAMP:20260727T120000Z
-DTSTART;TZID=America/New_York:20260827T110000
-DTEND;TZID=America/New_York:20260827T143000
-SUMMARY:HOLD - IBM Dev Day: Bob in Action + Hackathon
-DESCRIPTION:Registration is staged. IBM and BeMyApp terms require direct review before acceptance.
-URL:https://rochester.joinhandshake.com/stu/events/1980103
-STATUS:TENTATIVE
+UID:20260914T090000-uofr-health-insurance-prep@research.local
+DTSTAMP:20260728T190000Z
+DTSTART;TZID=America/New_York:20260914T090000
+DTEND;TZID=America/New_York:20260914T093000
+SUMMARY:ACTION - Complete UofR health insurance enrollment/waiver
+DESCRIPTION:Finish the secure enrollment or waiver one day before the September 15 deadline.
+STATUS:CONFIRMED
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:IBM Dev Day hold tomorrow
+DESCRIPTION:UofR health insurance action tomorrow
 END:VALARM
 BEGIN:VALARM
 TRIGGER:-PT1H
 ACTION:DISPLAY
-DESCRIPTION:IBM Dev Day hold in one hour
+DESCRIPTION:UofR health insurance action in one hour
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -384,6 +324,25 @@ BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
 DESCRIPTION:UofR health insurance deadline tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261005T090000-fulbright-national-review@research.local
+DTSTAMP:20260728T190000Z
+DTSTART;TZID=America/New_York:20261005T090000
+DTEND;TZID=America/New_York:20261005T100000
+SUMMARY:FINAL REVIEW - Fulbright national application
+DESCRIPTION:Complete final review one day before the October 6 national deadline.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Fulbright national review tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Fulbright national review in one hour
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -404,6 +363,25 @@ BEGIN:VALARM
 TRIGGER:-PT1H
 ACTION:DISPLAY
 DESCRIPTION:Fulbright national deadline in one hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261019T090000-google-cloud-2sv-prep@research.local
+DTSTAMP:20260728T190000Z
+DTSTART;TZID=America/New_York:20261019T090000
+DTEND;TZID=America/New_York:20261019T093000
+SUMMARY:ACTION - Complete Google Cloud 2-step verification
+DESCRIPTION:Complete secure-account verification one day before the October 20 deadline.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Google Cloud verification action tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Google Cloud verification action in one hour
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT

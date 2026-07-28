@@ -8,6 +8,8 @@ applications, recruiter conversations, and follow-up work.
 - Available now for remote work that can fit alongside graduate study.
 - Remote or Rochester-area work is required through December 2026.
 - Nationwide and international relocation is possible after December 2026.
+- Avoid meetings, events, and work blocks on Tuesdays and Thursdays. Thursday
+  after 4:30 PM is a fallback only when Thursday is the sole option.
 - Priority fields:
   - Data science, machine learning, and AI
   - Quantum computing and research engineering
@@ -21,8 +23,10 @@ applications, recruiter conversations, and follow-up work.
 | [Email Action Queue](./school-email-action-queue.md) | Current cross-account career, funding, registration, financial, and follow-up todo list |
 | [Next-Week Watchlist: July 26-August 1](./next-week-watchlist-2026-07-26.md) | Dated daily execution plan and mailbox watch items for the coming week |
 | [Next-Week Watchlist: August 2-8](./next-week-watchlist-2026-08-02.md) | Carryover plan for submissions, replies, account dependencies, and next deadlines |
+| [2026-07-28 Linked Review Queue](./2026-07-28-linked-review-queue.md) | The four remaining legal, identity, privacy, or signature handoffs with direct links |
 | [RIT Google Calendar Queue](./rit-google-calendar-queue.md) | Verified events, deadlines, review blocks, source links, and calendar-sync status |
-| [RIT Calendar Import Archive](./calendar-imports/2026-07-27-career-calendar.ics) | Exact 23-event calendar source imported into the primary RIT calendar on 2026-07-27 |
+| [RIT Calendar Source](./calendar-imports/2026-07-27-career-calendar.ics) | Reconciled 22-event calendar source after the July 28 class-conflict cleanup |
+| [2026-07-28 Career Action Receipt](./2026-07-28-career-action-receipt.md) | Current confirmed messages, profile updates, calendar changes, response checks, and handoffs |
 | [2026-07-27 Career Action Receipt](./2026-07-27-career-action-receipt.md) | Confirmed submissions, messages, registrations, response checks, and genuine handoffs |
 | [2026-07-23 Session Summary](./2026-07-23-job-search-session-summary.md) | Completed work, expected responses, deadlines, and immediate next actions |
 | [Job Pipeline](./job-pipeline.md) | Active opportunities, fit, status, and next actions |
@@ -42,6 +46,8 @@ applications, recruiter conversations, and follow-up work.
 6. Remove an email from the starred queue only after it has been handled and
    logged. Keep unresolved career, financial, and financial-aid dependencies
    starred.
+7. Do not schedule activities on Tuesdays or Thursdays. Keep fixed deadlines
+   on their official dates and add preparation on an earlier day.
 
 ## Status Vocabulary
 

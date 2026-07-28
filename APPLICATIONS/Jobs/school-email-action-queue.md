@@ -1,6 +1,6 @@
 # Email Action Queue
 
-Updated: 2026-07-27
+Updated: 2026-07-28
 
 This is the public-safe todo list for important career, funding, registration,
 degree-completion, and financial email from the RIT, University of Rochester,
@@ -21,6 +21,9 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
    addresses, health details, or full message bodies.
 4. Use `Blocked - Piter` only for secure logins, identity verification, legal
    agreements, or personal-data submission that requires Piter's action.
+5. Do not schedule meetings, events, or work blocks on Tuesdays or Thursdays.
+   Use Thursday after 4:30 PM only when Thursday is the sole option; move
+   preparation for fixed Tuesday/Thursday deadlines to an earlier day.
 
 ## Do First
 
@@ -46,10 +49,10 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 - [ ] **P0 - repository safety:** Review GitHub Support ticket `4592214` and
   the restorable-repository page. Do not delete, overwrite, or re-clone any
   repository. Audit the revoked-token incident without storing the token.
-- [ ] **P0 - UofR / financial aid:** Complete the `Aid Enrollment Plan Form`
-  in FAOnline and schedule the required in-person identity-verification
-  appointment. Aid eligibility and disbursement remain blocked until these
-  requirements are complete.
+- [ ] **P0 - UofR / financial aid:** Complete the graduate/professional Direct
+  Loan Master Promissory Note and the required in-person identity
+  verification. The newest notice no longer lists the Aid Enrollment Plan.
+  The counselor has been asked for the correct in-person scheduling path.
 - [ ] **P0 - UofR / teaching certification:** Re-register for DASA and SAVE
   using the credit-card option. The prior registrations were cancelled because
   an ineligible payment option was selected. The current combined cost is
@@ -64,15 +67,15 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 - [ ] **P0 - RIT / StudentAid.gov:** Open `My Activity` and review the July 1
   TEACH Grant update. Record any certification, agreement-to-serve, counseling,
   or deadline requirement.
-- [ ] **P0 - UofR / teaching retreat:** Reply with either `No dietary
-  restrictions` or the exact dietary request so the staged Handshake
-  registration can be submitted for the free **2026-08-10 to 2026-08-11**
-  myHub Teaching Retreat.
+- [x] **Closed - UofR / teaching retreat:** The two-day August 10-11 program
+  requires Tuesday attendance and conflicts with class. Registration and both
+  calendar holds were closed.
 - [ ] **P0 - UofR / Fulbright:** The office confirmed that a late application
-  and campus endorsement are still possible. The reply, appointment request,
-  and Planning Tool are complete. Add pronouns and the current resume to the
-  prefilled Prospective Applicant Form, review the applicant-only
-  waiver/signature fields, and submit by **July 28**. Continue from the
+  and campus endorsement are still possible. The reply, Planning Tool, Spain
+  ETA resume upload, and **Friday, July 31, 3:00-3:30 PM** appointment are
+  complete. Add pronouns, make the optional privacy choice, review the
+  applicant-only waiver/signature fields, and submit the Prospective Applicant
+  Form. Continue from the
   [late-entry
   checklist](../Fellowships/fulbright-italy-late-entry-checklist.md).
 - [x] **Complete - Handshake / Health Data Max:** Submitted the targeted
@@ -83,10 +86,10 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
   submit the live Senior Data Scientist application.
 - [ ] **P0 - Handshake / LearningMate:** Upload the prepared resume and cover
   letter and submit by **2026-08-07 at 2:29 PM**.
-- [ ] **P0 - Handshake AI:** Professional fields are staged as Computer
-  Science / Machine Learning, RIT, master's, 2026, and New York, with an
-  existing quantum CV attached. Review the legal agreements personally, click
-  `Next`, and complete government-ID verification.
+- [ ] **P0 - Handshake AI:** The verified industry resume and documented
+  Computer Science, ML, database, algorithms, Python, RIT master's, 2026,
+  LinkedIn, and New York fields are complete. Review the legal agreements
+  personally, click `Next`, and complete government-ID verification.
 - [ ] **P0 - Personal / scheduled payment:** Before **2026-07-26**, verify
   funding and status for the scheduled installment payment. Contact the
   provider before processing if an arrangement is needed.
@@ -106,11 +109,12 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 - [x] **P1 - RIT / VDart:** Verified the screening reply was already sent on
   2026-07-23. Do not duplicate it or send a resume before the recruiter
   identifies the client, compensation, schedule, travel, and work terms.
-- [ ] **P1 - UofR / IBM:** IBM Dev Day: Bob in Action + Hackathon is free and
-  virtual on **2026-08-27**. External registration is staged at the IBM and
-  BeMyApp terms review.
-- [x] **P1 - UofR / NSF GRFP:** Registered for the **2026-07-30 at 5:00 PM**
-  information session; use it to confirm eligibility for a future PhD start.
+- [x] **Closed - UofR / IBM:** The August 27 event is Thursday
+  11:00 AM-2:30 PM and conflicts with class. Registration and the calendar
+  hold were closed.
+- [x] **P1 - UofR / NSF GRFP:** Requested the recording, slides, or
+  eligibility materials because the Thursday live session conflicts with
+  class. The live calendar event was removed.
 
 ## RIT
 
@@ -135,14 +139,14 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 
 | Priority | Category | Item | Current status | Next action |
 | --- | --- | --- | --- | --- |
-| P0 | Financial aid | Aid Enrollment Plan and identity verification | The June 30 instructions say the enrollment-plan form and in-person identity check remain outstanding; aid calculation or disbursement can be delayed | Complete the secure FAOnline form using the planned Fall credit load and schedule the in-person appointment. Keep starred until both are confirmed. |
+| P0 | Financial aid | Direct Loan MPN and identity verification | The July 28 notice lists the graduate/professional Direct Loan MPN and in-person identity check; the Aid Enrollment Plan is no longer listed | Complete the [MPN](https://studentaid.gov/mpn/) after reviewing its legal terms, then follow the counselor's response for the in-person appointment. Keep starred until both are confirmed. |
 | P0 | Teaching certification | [DASA and SAVE registrations](https://www.gvboces.org/o/gvb/page/professional-learning) | The June 6 registrations were cancelled because the selected payment option was not available to this student. Current re-registration total is $203 including the card fee. | Piter completes the official form, payment, sensitive identity fields, and CAPTCHA. Finish both asynchronous courses within 30 days after login credentials arrive. |
 | P0 | Degree completion | EDU486 July 31 poster session | Template email and existing course plan confirm a **2026-07-31, 1:30-3:00 PM** poster fair in LeChase 215 | Finish from the [existing EDU486 poster draft](https://github.com/pzg8794/EDU486/blob/main/assignments/04-poster-fair/poster-proposal-draft.md) and attend. Keep the email starred until complete. |
-| P0 | Teaching development | [myHub 2026 Teaching Retreat](https://rochester.joinhandshake.com/stu/events/1956131) | Free in-person retreat on **2026-08-10 and 2026-08-11**; registration form is staged | Provide the dietary-restriction answer, then submit the Handshake form. Sessions include UDL, fair assessment, active learning, and difficult classroom conversations. |
-| P0 | Fellowship | [Fulbright Spain English Teaching Assistant](https://us.fulbrightonline.org/countries/europe-and-eurasia/spain/1768) | Italy Deafness Studies is screened out because no ASL proficiency is documented; Spain ETA fits K-12 CS teacher preparation, classroom experience, native/fluent Spanish, and post-graduation availability | Corrected pivot reply, appointment request, and Planning Tool completed July 27. Finish the applicant-only waiver/signature and submit the prefilled Prospective Applicant Form plus resume by **July 28**; monitor for the meeting. |
+| Closed | Teaching development | [myHub 2026 Teaching Retreat](https://rochester.joinhandshake.com/stu/events/1956131) | Two-day August 10-11 event requires Tuesday attendance and conflicts with class | Registration and both calendar holds closed on July 28. |
+| P0 | Fellowship | [Fulbright Spain English Teaching Assistant](https://us.fulbrightonline.org/countries/europe-and-eurasia/spain/1768) | Italy Deafness Studies is screened out because no ASL proficiency is documented; Spain ETA fits K-12 CS teacher preparation, classroom experience, native/fluent Spanish, and post-graduation availability | Planning Tool and resume upload complete; Friday, July 31, 3:00-3:30 PM meeting confirmed. Finish applicant-only pronouns, privacy, waiver, signature, acknowledgment, and submission fields. |
 | P0 | Job | [Health Data Max Clinical Business Analyst Intern](https://rochester.joinhandshake.com/job-search/11219848) | Remote/hybrid, $20-$30/hour, 30 hours/week; tailored resume, cover letter, and transcripts submitted July 27 | Check for a response on **August 3** and confirm workable semester hours during screening. Official deadline is **2026-08-16 at 11:59 PM**. |
 | P0 | Job | LearningMate Subject Matter Expert | Targeted packet prepared; application not submitted | Upload both PDFs and submit by **2026-08-07 at 2:29 PM**. |
-| P0 | Job | Handshake AI Evaluation Specialist | Professional profile fields are staged; existing quantum CV is attached | Piter reviews the legal agreements before `Next`, then completes government-ID verification. |
+| P0 | Job | Handshake AI Evaluation Specialist | Verified industry resume and documented CS/ML profile fields are complete | Piter reviews the legal agreements before `Next`, then completes government-ID verification. |
 | P1 | Health insurance / billing | [Fall health-insurance enrollment or waiver](https://www.rochester.edu/uhs/primary-care/mandatory-health-fee/health-insurance-for-full-time-students/) | Annual online process is mandatory for full-time students; final deadline is **2026-09-15** | Piter decides whether to enroll or waive with eligible coverage and completes the secure UHS process before automatic enrollment and billing. |
 | P1 | Account continuity | Handshake personal email | Personal email was added | Verify it from the personal Gmail inbox. |
 | P1 | Job follow-up | Solu, Carney Sandoe, Stride, Cardinal Education, Epic, and Ampact | Submitted, joined, or waiting as documented in the job pipeline | Check for replies on **2026-07-30** and respond promptly. |
@@ -151,9 +155,9 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 | P2 | Research funding | Survivorship Symposium abstract | Cancer-survivorship abstracts are due **2026-08-19** for the 2026-10-09 symposium | Apply only if there is a defensible existing cancer-survivorship project; otherwise close. |
 | P2 | Technical access | Google Cloud changes | BigQuery transfer-label change is due **2026-08-11** if affected scripts exist; Cloud Console 2-step verification is due **2026-10-20** | Audit active Cloud scripts for legacy label filters, then complete 2-step verification through the secure account before October. |
 | P2 | Funding event | HESC graduate-school funding event | Event announced for **2026-08-18 at 6:00 PM** | Confirm whether registration is still open during the UofR refresh and register if useful. |
-| P1 | Fellowship information | NSF Graduate Research Fellowship session | Registered for the Zoom session on **2026-07-30 at 5:00 PM** | Attend and ask specifically about eligibility tied to a future PhD start. |
-| P1 | Professional development | IBM Dev Day: Bob in Action + Hackathon | Free virtual event on **2026-08-27**; external registration is staged | Review the IBM and BeMyApp terms at action time, then submit if accepted. |
-| P1 | Thesis support | Graduate-student academic writing retreat | Registered for August 5-7, noon-4:00 PM, Rush Rhees Library | Protect all three afternoons for the RIT data-science thesis and manuscript revisions. |
+| P1 | Fellowship information | NSF Graduate Research Fellowship session | Thursday live session conflicts with class; recording/materials request sent July 28 | Review the materials when received and record eligibility guidance for a future PhD start. |
+| Closed | Professional development | IBM Dev Day: Bob in Action + Hackathon | Thursday daytime event conflicts with class | Registration and calendar hold closed July 28. |
+| P1 | Thesis support | Graduate-student academic writing retreat | Registered for August 5-7, noon-4:00 PM, Rush Rhees Library | Attend Wednesday and Friday; the Thursday block was removed because of class. |
 | Closed | Teaching job | Handshake in-person teaching contact | Employer confirmed that it hires only in person | Revisit only after December if relocation and the role still fit. |
 
 ## Personal Account
@@ -188,6 +192,18 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 
 ## Completed in This Pass
 
+- [x] July 28 refresh: confirmed the Friday Fulbright advising appointment,
+  attached the Spain ETA resume to the Prospective Applicant Form, and recorded
+  the remaining applicant-only fields.
+- [x] July 28 refresh: updated Handshake AI with the verified industry resume
+  and documented professional profile; retained legal agreements and identity
+  verification as direct handoffs.
+- [x] July 28 refresh: verified the current UofR financial-aid requirements,
+  sent the in-person appointment-path question, and opened the official Direct
+  Loan MPN handoff.
+- [x] July 28 refresh: requested NSF-GRFP materials, closed the conflicting
+  teaching-retreat and IBM registrations, removed all Tuesday/Thursday
+  activity holds, and added earlier Monday deadline-preparation reminders.
 - [x] July 27 refresh: reviewed the current UofR, RIT, and personal deltas;
   classified new leads and urgent account alerts; and explicitly recorded that
   MLADIS was not live-refreshed because its signed-in mailbox was not exposed.

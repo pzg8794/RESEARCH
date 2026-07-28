@@ -1,6 +1,10 @@
 # August-September 2026 Application Action Plan
 
-Updated: 2026-07-27
+Updated: 2026-07-28
+
+Scheduling rule: avoid Tuesdays and Thursdays for meetings, events, and work
+blocks. Use Thursday after 4:30 PM only when it is the sole option. Keep fixed
+official deadlines on their true dates and prepare earlier.
 
 ## Start Now
 
@@ -36,8 +40,10 @@ Updated: 2026-07-27
   resume](./application-materials/2026-07-27-fulbright-spain-eta-resume.pdf)
   and [late-entry checklist](./fulbright-italy-late-entry-checklist.md).
 - [x] Submit the Fulbright Planning Tool; receipt confirmed 2026-07-27.
-- [ ] By July 28, submit the Prospective Applicant Form and current resume.
-- [x] Request a meeting before Friday.
+- [ ] Submit the Prospective Applicant Form. The current resume is attached;
+  applicant-controlled pronouns, privacy choice, records waiver, signature,
+  acknowledgment, and final submission remain.
+- [x] Confirm the advising meeting for **Friday, July 31, 3:00-3:30 PM EDT**.
 
 ## Carman: Due August 1
 
@@ -87,8 +93,12 @@ Updated: 2026-07-27
 - [x] Open and inventory the Prospective Applicant Form and Planning Tool.
 - [x] Prepare the current one-page intake resume.
 - [x] Submit the Fulbright Planning Tool; receipt confirmed 2026-07-27.
-- [ ] Submit the Prospective Applicant Form and current resume by July 28.
-- [ ] Meet with the office before Friday, July 31.
+- [ ] Submit the Prospective Applicant Form. The current Spain ETA resume is
+  attached; finish only the applicant-controlled privacy, waiver, signature,
+  acknowledgment, and submission fields.
+- [x] Confirm the meeting with the office for **Friday, July 31,
+  3:00-3:30 PM EDT**.
+- [ ] Attend the confirmed meeting with the Spain ETA intake record.
 - [ ] Complete the revised application and recommendations for formal campus
   review by **August 24** if the award fit is confirmed.
 - [x] Pivot to Spain ETA rather than abandoning the Fulbright cycle.

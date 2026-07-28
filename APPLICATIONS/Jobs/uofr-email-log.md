@@ -1,6 +1,32 @@
 # University of Rochester Job and Career Email Log
 
-Last updated: 2026-07-27
+Last updated: 2026-07-28
+
+## Refresh Status - 2026-07-28
+
+- The Fellowships Office confirmed the Fulbright advising meeting for
+  **Friday, July 31, 3:00-3:30 PM EDT**. The RIT Calendar entry is confirmed.
+- The Spain ETA resume is attached to the Prospective Applicant Form. The
+  remaining fields are applicant-controlled pronouns, privacy choice, records
+  waiver, signature, appointment acknowledgment, and submission.
+- The NSF-GRFP live session conflicts with recurring Thursday class. A request
+  for the recording, slides, or eligibility materials was sent and verified;
+  the live-session calendar event was removed.
+- The newest Financial Aid notice lists only the Direct Loan Master Promissory
+  Note and in-person identity verification as missing. The Aid Enrollment Plan
+  is no longer listed and is treated as resolved unless the office says
+  otherwise.
+- The available counselor scheduler offered only phone/Zoom and no open
+  appointment. A direct email was sent asking how to schedule the required
+  in-person identity verification, with Monday/Wednesday/Friday availability.
+- Handshake AI now contains the verified industry resume and completed
+  professional profile. Legal agreements and government-ID verification remain
+  direct applicant handoffs.
+- IBM Dev Day and the two-day Teaching Retreat were screened out because they
+  conflict with the Tuesday/Thursday class rule; their registration tabs and
+  calendar holds were removed.
+- Scheduling rule: avoid Tuesdays and Thursdays. A Thursday meeting after
+  4:30 PM is acceptable only when Thursday is the sole option.
 
 ## Refresh Status - 2026-07-27
 
@@ -104,25 +130,29 @@ the queue of unfinished work. Do not remove importance metadata automatically.
 
 | Date | Sender / organization | Subject or opportunity | Action | Status / follow-up |
 | --- | --- | --- | --- | --- |
+| 2026-07-28 | Student Fellowships Office | Fulbright advising appointment | Corrected the earlier scheduling messages and received confirmation for Friday, July 31, 3:00-3:30 PM EDT | **Confirmed.** Attend after the EDU486 poster fair and bring the Spain ETA intake record |
+| 2026-07-28 | Student Fellowships Office | NSF-GRFP session conflict | Sent a request for the recording, slides, or eligibility materials because Thursday class prevents live attendance | **Waiting.** Review the materials when received; the live calendar event is removed |
+| 2026-07-28 | University of Rochester Financial Aid | Current missing documents | Verified that the Direct Loan MPN and in-person identity verification are the only currently listed requirements; asked the counselor for the correct in-person scheduling path | **P0 / secure handoff.** Complete the [graduate/professional Direct Loan MPN](https://studentaid.gov/mpn/) and follow the counselor's in-person appointment instructions |
+| 2026-07-28 | Handshake AI Team | Profile completion | Uploaded the verified industry resume and completed documented CS/ML expertise, education, graduation, LinkedIn, location, and referral fields | **P0 / legal and identity handoff.** Review agreements personally and complete government-ID verification |
 | 2026-07-27 | Handshake / Health Data Max | Clinical Business Analyst Intern | Submitted the [complete targeted packet](./application-materials/2026-07-27-health-data-max-packet.md), including resume, cover letter, and unofficial transcripts; verified Handshake's confirmation | **Submitted.** Check for an employer response on August 3 and confirm workable semester hours during screening |
 | 2026-07-27 | NYS Office of Information Technology Services / Handshake | Virtual Information Session: Explore Careers in NYS Information Technology Services | Registered for the 2026-07-28, 10:00-10:30 AM EDT virtual session; Handshake displayed `You're registered!` | **Registered.** Join through Handshake five minutes before the event |
-| 2026-07-27 | UofR Graduate Writing Project | Graduate student academic writing retreat | Submitted the Google Form for the 2026-08-05 through 2026-08-07, noon-4:00 PM retreat and received the registration confirmation | **Registered.** Bring the RIT data-science thesis/manuscript and attend the full retreat |
-| 2026-07-27 | IBM / Handshake | IBM Dev Day: Bob in Action + Hackathon | Verified a free virtual AI-development event on August 27 and opened the external registration | **P1 / legal handoff.** Registration requires acceptance of IBM and BeMyApp terms; submit after action-time review |
+| 2026-07-27 | UofR Graduate Writing Project | Graduate student academic writing retreat | Submitted the Google Form for the 2026-08-05 through 2026-08-07, noon-4:00 PM retreat and received the registration confirmation | **Registered.** Attend Wednesday and Friday with the RIT data-science thesis/manuscript; Thursday conflicts with class and was removed from the calendar |
+| 2026-07-27 | IBM / Handshake | IBM Dev Day: Bob in Action + Hackathon | Verified a free virtual AI-development event on August 27 and opened the external registration | **Screened out 2026-07-28.** Thursday 11:00 AM-2:30 PM conflicts with class; registration and calendar hold closed |
 | 2026-07-27 | iLearn | Mathematics Teacher, grades 4-8 | Reviewed work model, location, and current availability constraint | **Closed for Fall 2026.** Full-time onsite New York role; reconsider only after December if relocation and certification fit |
 | 2026-07-27 | Brains & Motion | Structured Recess / Fitness Instructor | Reviewed work model, location, schedule, and field fit | **Closed.** Seasonal onsite Brooklyn role at $25/hour is weaker than current remote CS/data priorities |
 | 2026-07-27 | Gestalt Community Schools | High School Math Teacher | Reviewed work model and location | **Closed for Fall 2026.** Onsite Memphis role; revisit only after December if relocation is desired |
 | 2026-07-27 | Student Fellowships Office | Fulbright late-entry intake | Corrected the ASL record, screened out Italy Deafness Studies, verified Spain ETA as the stronger fit, sent the corrected reply, and sent an appointment request | **P0 / waiting.** Submit the Spain ETA intake forms by July 28 and monitor for the earliest advising meeting before Friday |
 | 2026-07-25 | Student Fellowships Office | Fulbright Italy late-entry response | Read the direct guidance and replaced the unusable auto-generated Gmail text with a factual reply draft | **P0 / staged.** Send after confirmation, submit the Prospective Applicant Form, resume, and Planning Tool by July 28, and meet before Friday. Revised application and recommendations are due August 24 for campus endorsement |
 | 2026-07-25 | Handshake AI Team | Profile almost complete | Opened the live onboarding and staged Computer Science, Machine Learning, student, RIT, master's, 2026, LinkedIn, United States, and New York | **P0 / legal and identity handoff.** Existing quantum CV is attached. Piter must review the Terms and Contractor Agreement before `Next`, then complete government-ID verification |
-| 2026-07-25 | University of Rochester digest | NSF Graduate Research Fellowship information session | Registered on 2026-07-27 for the **2026-07-30, 5:00 PM EDT** Zoom session; Zoom displayed a successful-registration confirmation | **Registered.** Attend and use the session to clarify future PhD/GRFP eligibility |
+| 2026-07-25 | University of Rochester digest | NSF Graduate Research Fellowship information session | Registered on 2026-07-27 for the **2026-07-30, 5:00 PM EDT** Zoom session; Zoom displayed a successful-registration confirmation | **Live attendance cancelled 2026-07-28.** Thursday class conflicts; recording/materials requested and calendar event removed |
 | 2026-07-25 | University of Rochester digest | Graduate-student academic writing retreat | Recorded the August 5-7, noon-4:00 PM retreat in Rush Rhees Library | **P1 / thesis support.** Register if those three afternoons can be protected for thesis writing |
 | 2026-07-25 | Handshake teaching contact | In-person teaching roles only | Classified the employer's answer against the remote-through-December constraint | **Closed for Fall 2026.** Reconnect after December only if relocation and the role remain attractive |
 | 2026-07-25 | University of Rochester digest | Kearns Summer Research Symposium and Medallion dinner | Recorded July 29-30 networking options | **P2 optional.** Attend only if they do not displace application or thesis deadlines |
 | 2026-07-25 | Student Fellowships Office | Fulbright Italy late-entry inquiry | Earlier check found no reply; superseded by the 8:01 PM response recorded above | **Superseded.** Follow the intake-material, meeting, and August 24 endorsement path above |
-| 2026-07-24 | University of Rochester Financial Aid | Financial Aid Application Instructions | Reviewed the missing Aid Enrollment Plan form and in-person identity-verification requirement | **P0 / secure action.** Complete the FAOnline form using the planned credit load and schedule the required appointment; keep starred until both are confirmed |
+| 2026-07-24 | University of Rochester Financial Aid | Financial Aid Application Instructions | Reviewed the earlier missing Aid Enrollment Plan form and in-person identity-verification requirement | **Superseded 2026-07-28.** The newest notice no longer lists the enrollment plan; current missing items are the Direct Loan MPN and in-person identity verification |
 | 2026-07-24 | Genesee Valley BOCES | June 6 DASA and SAVE Course Registrations | Verified that the registrations were cancelled because an ineligible payment option was used; checked the current official form and pricing | **P0 / payment handoff.** Re-register by credit card; current combined total is $203 including the fee. Sensitive identity, payment, CAPTCHA, and final submission remain with Piter |
 | 2026-07-24 | EDU486 / University of Rochester | Poster Template for Session on July 31 | Matched the template email to the [existing course plan and draft](https://github.com/pzg8794/EDU486/blob/main/assignments/04-poster-fair/poster-proposal-draft.md) | **P0.** Finish the poster and attend the 2026-07-31, 1:30-3:00 PM fair in LeChase 215; preserve the course attachment in the course workspace rather than the public RESEARCH repo |
-| 2026-07-24 | myHub / University of Rochester | 2026 Teaching Retreat | Reviewed the free two-day August 10-11 program and opened the Handshake registration | **P0 / staged.** Registration is ready except for the required dietary-restriction answer. Strong fit for UDL, active learning, fair assessment, and inclusive CS teaching |
+| 2026-07-24 | myHub / University of Rochester | 2026 Teaching Retreat | Reviewed the free two-day August 10-11 program and opened the Handshake registration | **Screened out 2026-07-28.** The required Tuesday session conflicts with class; registration and both calendar holds closed |
 | 2026-07-24 | University Health Service | Fall health-insurance open enrollment | Reviewed the mandatory annual enroll-or-waive process | **P1 / secure action.** Complete the UHS process by **2026-09-15** to avoid automatic enrollment and billing; keep starred |
 | 2026-07-24 | Student Fellowships Office | Fulbright Student Grant to Italy in Deafness Studies | Checked the current award and UofR campus calendar; sent a late-entry inquiry to `fellowships@rochester.edu` | **Superseded and screened out.** The Italy award requires intermediate ASL, which is not documented; the active route is Spain ETA |
 | 2026-07-24 | University of Rochester digest | Genomic biomarkers seminar and Survivorship Symposium | Recorded the July 27 genomics seminar and August 19 abstract deadline | **P2 conditional.** Seminar is optional; submit a symposium abstract only if an existing cancer-survivorship project honestly fits |

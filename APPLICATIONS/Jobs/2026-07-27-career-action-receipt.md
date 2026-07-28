@@ -2,6 +2,11 @@
 
 Date: 2026-07-27
 
+Historical snapshot: use the
+[July 28 action receipt](./2026-07-28-career-action-receipt.md) for the current
+Friday Fulbright appointment, financial-aid requirements, Handshake AI profile,
+and Tuesday/Thursday calendar cleanup.
+
 This is the public-safe receipt for actions completed in the signed-in career,
 school-email, and application systems. It omits private message bodies,
 reference contact details, identity data, and legal-form answers.
