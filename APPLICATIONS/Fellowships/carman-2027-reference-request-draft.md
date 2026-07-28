@@ -31,4 +31,4 @@ Thank you for considering this on short notice.
 
 Best,
 
-Piter Garcia Bautista
+Piter Garcia

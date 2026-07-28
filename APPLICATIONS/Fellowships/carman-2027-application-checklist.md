@@ -27,8 +27,10 @@ Application](https://www.mosaicinfo.org/application/)
   the placement start in January 2027, and a short evidence packet.
 - [x] Prepare three evidence-grounded, review-only sample letters in private
   Google Drive storage, outside the public repository.
-- [ ] Review the Travis Desell, Daniel Krutz, and Zenon Borys samples before
-  any recommender receives one.
+- [x] Complete the first factual review of the Travis Desell, Daniel Krutz,
+  and Zenon Borys samples and incorporate Piter's corrections on 2026-07-28.
+- [ ] Give final approval to the revised samples and individualized email
+  notes before any recommender receives them.
 - [ ] By July 27, confirm that all three references accepted.
 - [ ] By July 29, confirm that each letter has been sent or is scheduled for
   immediate delivery.
@@ -53,7 +55,7 @@ Choose people who can cover distinct parts of the fit:
    graduate research readiness.
 2. Dr. Daniel Krutz: technical rigor, software/data systems, research
    preparation, and documentation.
-3. Dr. Zen Borys: inclusive CS teaching, classroom practice, educational
+3. Dr. Zenon Borys: inclusive CS teaching, classroom practice, educational
    equity, and disability access.
 
 This trio was contacted on 2026-07-27. Each request used a distinct evidence

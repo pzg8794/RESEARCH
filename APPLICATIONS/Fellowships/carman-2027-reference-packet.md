@@ -1,6 +1,6 @@
 # Carman 2027 Reference Packet
 
-Updated: 2026-07-27
+Updated: 2026-07-28
 
 Status: requests sent to all three references on 2026-07-27
 
@@ -22,8 +22,8 @@ different parts of the fellowship fit.
 
 ### Professor Travis Desell
 
-Primary lens: data science, machine learning, computational methods, and
-graduate research readiness.
+Primary lens: teaching in Neural Networks, advising in DSCI 601, data science,
+machine learning, computational methods, and graduate research readiness.
 
 Suggested personalization:
 
@@ -57,7 +57,7 @@ Evidence packet:
 - validation, reproducibility, documentation, and stakeholder communication;
 - tailored Carman resume and official program overview.
 
-### Dr. Zen Borys
+### Dr. Zenon Borys
 
 Primary lens: inclusive computer-science pedagogy, classroom practice,
 educational equity, and disability access.
@@ -93,7 +93,11 @@ Evidence packet:
   work that the named recommender supervised, reviewed, or observed.
 - [x] Kept the letter drafts and evidence matrix in a private Google Drive
   review folder outside this public repository.
-- [ ] Piter reviews the three drafts and flags any factual correction.
+- [x] Piter completed the first factual review, and the corrections were
+  incorporated on 2026-07-28.
+- [x] Prepared individualized, apologetic email notes with the official
+  program and application links.
+- [ ] Piter gives final approval to the revised letters and email notes.
 - [ ] Each recommender confirms the scope of direct knowledge, revises the
   sample into their own voice, adds institutional letterhead and signature,
   and sends the final letter directly to Mosaic.
@@ -106,7 +110,7 @@ No recommendation letter has been sent or submitted from this review step.
   methods, and graduate-research lens.
 - [x] Daniel Krutz request sent with the technical rigor, software/data
   systems, research preparation, and documentation lens.
-- [x] Zen Borys request sent with the inclusive CS teaching, educational
+- [x] Zenon Borys request sent with the inclusive CS teaching, educational
   equity, and disability-access lens.
 - [ ] Confirm acceptance by 2026-07-28.
 - [ ] Confirm direct program delivery by 2026-07-29, with 2026-08-01 as the
