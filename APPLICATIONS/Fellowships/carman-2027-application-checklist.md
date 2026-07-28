@@ -14,6 +14,9 @@ Application](https://www.mosaicinfo.org/application/)
   send a signed letter on organizational letterhead directly to the program.
 - [x] Prepare the
   [reference-request draft](./carman-2027-reference-request-draft.md).
+- [x] Build the proposed Travis Desell, Daniel Krutz, and Zen Borys
+  [reference packet](./carman-2027-reference-packet.md) from the locked
+  reference pool.
 - [x] Inventory the live form and prepare the
   [form and essay workbook](./carman-2027-form-and-essay-workbook.md).
 - [x] Prepare the tailored
@@ -39,12 +42,15 @@ Application](https://www.mosaicinfo.org/application/)
 
 Choose people who can cover distinct parts of the fit:
 
-1. Research/data/AI leadership: Daniel Krutz or Travis Desell.
-2. Inclusive teaching and student support: a UofR teaching-placement,
-   education, or supervising-faculty reference.
-3. Program operations, disability/equity, community work, or cross-cultural
-   collaboration: the strongest current professional supervisor who can write
-   on letterhead.
+1. Professor Travis Desell: data science, ML, computational methods, and
+   graduate research readiness.
+2. Dr. Daniel Krutz: technical rigor, software/data systems, research
+   preparation, and documentation.
+3. Dr. Zen Borys: inclusive CS teaching, classroom practice, educational
+   equity, and disability access.
+
+This trio is proposed, not contacted. Piter must confirm the names before the
+requests are sent.
 
 Reference packet:
 

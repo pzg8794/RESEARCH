@@ -12,6 +12,7 @@ Use this folder when an opportunity comes from ProFellow, an external fellowship
 | August-September execution checklist | [august-september-2026-action-plan.md](./august-september-2026-action-plan.md) |
 | Carman live-form workbook and essay drafts | [carman-2027-form-and-essay-workbook.md](./carman-2027-form-and-essay-workbook.md) |
 | Carman deadline and submission checklist | [carman-2027-application-checklist.md](./carman-2027-application-checklist.md) |
+| Carman proposed reference trio and evidence packet | [carman-2027-reference-packet.md](./carman-2027-reference-packet.md) |
 | Fulbright Italy late-entry checklist | [fulbright-italy-late-entry-checklist.md](./fulbright-italy-late-entry-checklist.md) |
 | Current ProFellow capture queue | [profellow-opportunity-queue-2026-05-27.md](./profellow-opportunity-queue-2026-05-27.md) |
 | Current Fulbright award queue | [fulbright-awards-queue-2026-05-27.md](./fulbright-awards-queue-2026-05-27.md) |

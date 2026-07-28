@@ -23,8 +23,9 @@ program/community leadership] would directly support the application. I can
 send you my tailored resume, a one-page program summary, and a short list of
 specific examples you may use.
 
-Because the deadline is close, please let me know by **July 27** whether you
-can participate. I am aiming for the letter to be sent by **July 29**.
+Because the deadline is close, please let me know as soon as possible,
+preferably by **July 28**, whether you can participate. I am aiming for the
+letter to be sent by **July 29**.
 
 Thank you for considering this on short notice.
 

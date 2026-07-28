@@ -35,7 +35,9 @@ Updated: 2026-07-27
   upload the current resume, and submit.
 - [ ] **By Tuesday, July 28:** complete and submit the Planning Tool.
 - [ ] Immediately after the two forms are submitted, email the appointment
-  address and request the earliest meeting before Friday.
+  address using the [prepared appointment-request
+  draft](./fulbright-italy-appointment-request-draft.md) and request the
+  earliest meeting before Friday.
 
 ## Current Award Fit
 

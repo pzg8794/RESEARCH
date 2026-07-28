@@ -23,6 +23,8 @@ due **2026-08-01**.
   PDF](./application-materials/2026-07-27-carman-international-fellowship-resume.pdf)
 - [Reference-request
   draft](./carman-2027-reference-request-draft.md)
+- [Proposed reference trio and evidence
+  packet](./carman-2027-reference-packet.md)
 - [Deadline and submission
   checklist](./carman-2027-application-checklist.md)
 
@@ -215,12 +217,15 @@ dependence on others for routine interactions.
 
 ## Remaining Questions for Piter
 
-1. Who are the three references, and can each send a signed letter on
-   letterhead by August 1?
+1. May the proposed trio, Professor Travis Desell, Dr. Daniel Krutz, and Dr.
+   Zen Borys, be contacted, and can each send a signed letter on letterhead by
+   August 1?
 2. What truthful sentence describes Piter's faith or non-faith background and
    comfort in a faith-based workplace?
-3. What international, cross-cultural, or community-service experience should
-   be added to the Experience answer?
+3. The repository documents Piter's Dominican immigrant identity,
+   native/fluent Spanish, and Latino immigrant family context. May that
+   cross-cultural evidence be used here, and is there any direct international
+   or community-service experience to add without overstating it?
 4. Are January 1 through December 31, 2027 acceptable availability dates, or
    should Mosaic be asked for the exact placement dates first?
 
