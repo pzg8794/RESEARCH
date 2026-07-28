@@ -21,6 +21,9 @@ applications, recruiter conversations, and follow-up work.
 | [Email Action Queue](./school-email-action-queue.md) | Current cross-account career, funding, registration, financial, and follow-up todo list |
 | [Next-Week Watchlist: July 26-August 1](./next-week-watchlist-2026-07-26.md) | Dated daily execution plan and mailbox watch items for the coming week |
 | [Next-Week Watchlist: August 2-8](./next-week-watchlist-2026-08-02.md) | Carryover plan for submissions, replies, account dependencies, and next deadlines |
+| [RIT Google Calendar Queue](./rit-google-calendar-queue.md) | Verified events, deadlines, review blocks, source links, and calendar-sync status |
+| [RIT Calendar Import Archive](./calendar-imports/2026-07-27-career-calendar.ics) | Exact 23-event calendar source imported into the primary RIT calendar on 2026-07-27 |
+| [2026-07-27 Career Action Receipt](./2026-07-27-career-action-receipt.md) | Confirmed submissions, messages, registrations, response checks, and genuine handoffs |
 | [2026-07-23 Session Summary](./2026-07-23-job-search-session-summary.md) | Completed work, expected responses, deadlines, and immediate next actions |
 | [Job Pipeline](./job-pipeline.md) | Active opportunities, fit, status, and next actions |
 | [Handshake Message Log](./handshake-message-log.md) | Recruiter-message decisions and replies |

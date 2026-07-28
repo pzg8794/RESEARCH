@@ -31,7 +31,7 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 - [ ] **P0 - Personal / identity:** Verify the new-account and new-address
   alerts directly with the credit bureaus and issuers today. Use official
   sites/apps, not email links; dispute or freeze only if an item is unfamiliar.
-- [ ] **P0 - RIT / Carman:** Ask three professional references today to send
+- [ ] **P0 - RIT / Carman:** Confirm the three contacted references can send
   letters on letterhead directly to Mosaic by **2026-08-01**. Continue from the
   [Carman checklist](../Fellowships/carman-2027-application-checklist.md).
 - [ ] **P0 - RIT / ICNP paper:** Preserve the authenticated reviews, then set a
@@ -69,15 +69,15 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
   registration can be submitted for the free **2026-08-10 to 2026-08-11**
   myHub Teaching Retreat.
 - [ ] **P0 - UofR / Fulbright:** The office confirmed that a late application
-  and campus endorsement are still possible. The intake resume and form
-  handoffs are ready. Send the revised reply, submit the Prospective Applicant
-  Form, current resume, and Planning Tool by **July 28**, and meet before
-  Friday. Continue from the [late-entry
+  and campus endorsement are still possible. The reply, appointment request,
+  and Planning Tool are complete. Add pronouns and the current resume to the
+  prefilled Prospective Applicant Form, review the applicant-only
+  waiver/signature fields, and submit by **July 28**. Continue from the
+  [late-entry
   checklist](../Fellowships/fulbright-italy-late-entry-checklist.md).
-- [ ] **P0 - Handshake / Health Data Max:** Confirm that **30 hours/week** is
-  workable during Fall, then authorize the tailored resume, cover letter, and
-  combined unofficial transcripts to be uploaded. Replace the unrelated
-  quantum CV and submit before **2026-08-16 at 11:59 PM**.
+- [x] **Complete - Handshake / Health Data Max:** Submitted the targeted
+  resume, cover letter, and combined unofficial transcripts on 2026-07-27.
+  Check for a response on August 3.
 - [ ] **P0 - Jobot:** Confirm transmission of contact information and the
   prepared resume, provide the correct ZIP code, select `No` for SMS, and
   submit the live Senior Data Scientist application.
@@ -100,18 +100,17 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
   anything. Confirm whether automatic retries are scheduled.
 - [ ] **P0 - Personal / utility:** Address the past-due utility warning now to
   protect service continuity.
-- [ ] **P1 - Guidepoint:** Check for the advisor-profile link by
-  **2026-07-27**. A concise follow-up is prepared; send it after approval, then
-  review the project scope and compliance questions before setting a
-  consulting rate.
-- [ ] **P1 - RIT / VDart:** Send the prepared screening follow-up after
-  approval. Do not send a resume until the recruiter identifies the client,
-  compensation, schedule, travel cadence, and work terms.
-- [ ] **P1 - UofR / IBM:** Register for the free virtual **2026-08-27** IBM
-  Dev Day: AI + Quantum and hackathon after confirming attendance.
-- [ ] **P1 - UofR / NSF GRFP:** Register for the **2026-07-30 at 5:00 PM**
-  information session if the event accepts the current degree stage; use the
-  session to confirm eligibility for a future PhD start.
+- [x] **P1 - Guidepoint:** Sent the follow-up on 2026-07-27. Check once on
+  **2026-08-03**, then review scope, compliance, conflicts, and rate before
+  accepting a consultation.
+- [x] **P1 - RIT / VDart:** Verified the screening reply was already sent on
+  2026-07-23. Do not duplicate it or send a resume before the recruiter
+  identifies the client, compensation, schedule, travel, and work terms.
+- [ ] **P1 - UofR / IBM:** IBM Dev Day: Bob in Action + Hackathon is free and
+  virtual on **2026-08-27**. External registration is staged at the IBM and
+  BeMyApp terms review.
+- [x] **P1 - UofR / NSF GRFP:** Registered for the **2026-07-30 at 5:00 PM**
+  information session; use it to confirm eligibility for a future PhD start.
 
 ## RIT
 
@@ -124,8 +123,8 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 | P1 | Federal loan | Direct PLUS Loan application | Submission confirmation received 2026-06-30; RIT cannot apply additional aid or loans until full-time enrollment/FTE is confirmed | No separate application action. Monitor through the FTE and RIT Aid follow-up. |
 | P1 | Degree completion | Fall 2026 graduation application | RIT confirmed the application and stated that degree completion is on track if current courses are completed and the required GPA is maintained | Complete; recorded and unstarred on 2026-07-24. |
 | P2 | Campus logistics | 2026-27 parking permit | Reserved permits open 2026-08-10; general permits open **2026-08-12**. Local address must be current at least 24 hours before purchase, and the parking account must have a zero balance. | Decide whether a permit is needed. Keep starred only if a purchase is planned. |
-| P0 | Fellowship | [Carman International Fellowship](https://www.mosaicinfo.org/application/) | Live form inventoried; tailored resume and essay workbook ready; application and three professional letters on letterhead are due **2026-08-01** | Use the [Carman workbook](../Fellowships/carman-2027-form-and-essay-workbook.md), secure reference commitments today, add Piter's four factual inputs, and submit by July 31. |
-| P1 | Job | VDart Data Scientist | Screening questions sent; no recruiter reply found on 2026-07-24 | Follow up on 2026-07-27 if still unanswered. |
+| P0 | Fellowship | [Carman International Fellowship](https://www.mosaicinfo.org/application/) | Live form inventoried; tailored resume and essay workbook ready; all three reference requests sent July 27; application and letters due **2026-08-01** | Confirm reference commitments July 28 and direct letter delivery July 29; complete personal legal, signature, and consent review before submitting by July 31. |
+| P1 | Job | VDart Data Scientist | July 23 screening reply confirmed in Sent; no recruiter response | Check once on 2026-08-03. Do not send a duplicate message or resume without the requested work terms. |
 | P0 | Research | ICNP 2026 paper #330 | Rejected; authenticated reviews identify writing, novelty, algorithm-definition, physical-grounding, and evaluation-scale gaps | Preserve the review source, meet with coauthors, and retarget only after the gaps are addressed. |
 | P0 | Security | Repository deletion and revoked token | GitHub Support ticket `4592214` remains open; a leaked token was revoked | Keep both alerts visible. Review the support portal, identify affected repositories/integrations, and follow [repository safety](../../REPOSITORY_SAFETY.md). |
 | P0 | Job | [Onward Search Creative Project Manager](https://www.indeed.com/viewjob?jk=03b29d4ec5d73a0b) | Live remote AI/ML project-management contract at $45-$50/hour | Verify weekly hours and time zone, then prepare the project-management resume if compatible with Fall study. |
@@ -140,27 +139,28 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 | P0 | Teaching certification | [DASA and SAVE registrations](https://www.gvboces.org/o/gvb/page/professional-learning) | The June 6 registrations were cancelled because the selected payment option was not available to this student. Current re-registration total is $203 including the card fee. | Piter completes the official form, payment, sensitive identity fields, and CAPTCHA. Finish both asynchronous courses within 30 days after login credentials arrive. |
 | P0 | Degree completion | EDU486 July 31 poster session | Template email and existing course plan confirm a **2026-07-31, 1:30-3:00 PM** poster fair in LeChase 215 | Finish from the [existing EDU486 poster draft](https://github.com/pzg8794/EDU486/blob/main/assignments/04-poster-fair/poster-proposal-draft.md) and attend. Keep the email starred until complete. |
 | P0 | Teaching development | [myHub 2026 Teaching Retreat](https://rochester.joinhandshake.com/stu/events/1956131) | Free in-person retreat on **2026-08-10 and 2026-08-11**; registration form is staged | Provide the dietary-restriction answer, then submit the Handshake form. Sessions include UDL, fair assessment, active learning, and difficult classroom conversations. |
-| P0 | Fellowship | [Fulbright Italy Deafness Studies](https://us.fulbrightonline.org/countries/europe-and-eurasia/italy/1695) | The Fellowships Office confirmed that late entry and campus endorsement remain possible; the intake resume and form handoffs are ready | Send the staged reply and submit the Prospective Applicant Form, resume, and Planning Tool by **July 28**. Meet before Friday and ask whether the documented technical ASL background meets the award threshold. |
-| P0 | Job | [Health Data Max Clinical Business Analyst Intern](https://rochester.joinhandshake.com/job-search/11219848) | Remote/hybrid, $20-$30/hour, 30 hours/week; job saved and tailored resume, cover letter, and transcripts ready | Confirm the weekly schedule and authorize upload. Replace the unrelated quantum CV and submit before **2026-08-16 at 11:59 PM**. |
+| P0 | Fellowship | [Fulbright Spain English Teaching Assistant](https://us.fulbrightonline.org/countries/europe-and-eurasia/spain/1768) | Italy Deafness Studies is screened out because no ASL proficiency is documented; Spain ETA fits K-12 CS teacher preparation, classroom experience, native/fluent Spanish, and post-graduation availability | Corrected pivot reply, appointment request, and Planning Tool completed July 27. Finish the applicant-only waiver/signature and submit the prefilled Prospective Applicant Form plus resume by **July 28**; monitor for the meeting. |
+| P0 | Job | [Health Data Max Clinical Business Analyst Intern](https://rochester.joinhandshake.com/job-search/11219848) | Remote/hybrid, $20-$30/hour, 30 hours/week; tailored resume, cover letter, and transcripts submitted July 27 | Check for a response on **August 3** and confirm workable semester hours during screening. Official deadline is **2026-08-16 at 11:59 PM**. |
 | P0 | Job | LearningMate Subject Matter Expert | Targeted packet prepared; application not submitted | Upload both PDFs and submit by **2026-08-07 at 2:29 PM**. |
 | P0 | Job | Handshake AI Evaluation Specialist | Professional profile fields are staged; existing quantum CV is attached | Piter reviews the legal agreements before `Next`, then completes government-ID verification. |
 | P1 | Health insurance / billing | [Fall health-insurance enrollment or waiver](https://www.rochester.edu/uhs/primary-care/mandatory-health-fee/health-insurance-for-full-time-students/) | Annual online process is mandatory for full-time students; final deadline is **2026-09-15** | Piter decides whether to enroll or waive with eligible coverage and completes the secure UHS process before automatic enrollment and billing. |
 | P1 | Account continuity | Handshake personal email | Personal email was added | Verify it from the personal Gmail inbox. |
 | P1 | Job follow-up | Solu, Carney Sandoe, Stride, Cardinal Education, Epic, and Ampact | Submitted, joined, or waiting as documented in the job pipeline | Check for replies on **2026-07-30** and respond promptly. |
+| P1 | Career event | [NYS ITS virtual information session](https://rochester.joinhandshake.com/stu/events/1963665) | Registered for **2026-07-28, 10:00-10:30 AM EDT** | Join through Handshake five minutes early and note relevant public-service data/AI roles. |
 | P2 | Research event | Applied genomics seminar | Genomic biomarkers of aging seminar is **2026-07-27, noon-1:00 PM**, Wegmans Hall 1005 | Optional: attend only if it supports the bioinformatics/research path. No registration action was stated. |
 | P2 | Research funding | Survivorship Symposium abstract | Cancer-survivorship abstracts are due **2026-08-19** for the 2026-10-09 symposium | Apply only if there is a defensible existing cancer-survivorship project; otherwise close. |
 | P2 | Technical access | Google Cloud changes | BigQuery transfer-label change is due **2026-08-11** if affected scripts exist; Cloud Console 2-step verification is due **2026-10-20** | Audit active Cloud scripts for legacy label filters, then complete 2-step verification through the secure account before October. |
 | P2 | Funding event | HESC graduate-school funding event | Event announced for **2026-08-18 at 6:00 PM** | Confirm whether registration is still open during the UofR refresh and register if useful. |
-| P1 | Fellowship information | NSF Graduate Research Fellowship session | Zoom session is **2026-07-30 at 5:00 PM**; eligibility for the current stage is uncertain | Register if permitted and ask specifically about eligibility tied to a future PhD start. |
-| P1 | Professional development | IBM Dev Day: AI + Quantum and hackathon | Free virtual event on **2026-08-27**; current registration not submitted | Register after Piter confirms attendance; use it for AI/quantum networking and portfolio evidence. |
-| P1 | Thesis support | Graduate-student academic writing retreat | August 5-7, noon-4:00 PM, Rush Rhees Library | Register if those afternoons can be protected for thesis progress. |
+| P1 | Fellowship information | NSF Graduate Research Fellowship session | Registered for the Zoom session on **2026-07-30 at 5:00 PM** | Attend and ask specifically about eligibility tied to a future PhD start. |
+| P1 | Professional development | IBM Dev Day: Bob in Action + Hackathon | Free virtual event on **2026-08-27**; external registration is staged | Review the IBM and BeMyApp terms at action time, then submit if accepted. |
+| P1 | Thesis support | Graduate-student academic writing retreat | Registered for August 5-7, noon-4:00 PM, Rush Rhees Library | Protect all three afternoons for the RIT data-science thesis and manuscript revisions. |
 | Closed | Teaching job | Handshake in-person teaching contact | Employer confirmed that it hires only in person | Revisit only after December if relocation and the role still fit. |
 
 ## Personal Account
 
 | Priority | Category | Item | Current status | Next action |
 | --- | --- | --- | --- | --- |
-| P0 | Paid consulting | Guidepoint data-quality consultation | Remote 45-60 minute consultation; interest reply sent 2026-07-24; rate and acceptance are not committed | Check for the advisor-profile link on 2026-07-27. Review scope, compliance, and conflicts before proceeding. |
+| P0 | Paid consulting | Guidepoint data-quality consultation | Remote 45-60 minute consultation; follow-up sent 2026-07-27; rate and acceptance are not committed | Check once on 2026-08-03. Review scope, compliance, and conflicts before proceeding. |
 | P0 | Identity protection | New-account and address alerts | Multiple credit-report alerts arrived on 2026-07-24 | Verify each change directly with the official bureau or issuer today; dispute or freeze if unrecognized. |
 | P0 | Payment continuity | Returned bank transfer | A new ACH return notice arrived; private details are omitted | Reconcile the bank and biller, determine whether an automatic retry is pending, and avoid duplicate payment. |
 | P0 | Medical billing | Provider balance update | Secure account review is required; health and balance details are omitted | Validate insurance processing and the balance, then pay or request a formal plan through the patient portal. |
@@ -191,17 +191,19 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 - [x] July 27 refresh: reviewed the current UofR, RIT, and personal deltas;
   classified new leads and urgent account alerts; and explicitly recorded that
   MLADIS was not live-refreshed because its signed-in mailbox was not exposed.
-- [x] Saved Health Data Max and prepared a tailored one-page resume, cover
-  letter, and combined RIT/UofR unofficial transcript PDF. Submission remains
-  blocked only on the 30-hour schedule decision and upload authorization.
+- [x] Submitted Health Data Max with the tailored one-page resume, cover
+  letter, and combined RIT/UofR unofficial transcript PDF; Handshake displayed
+  its confirmation.
 - [x] Opened and inventoried the full Carman application; prepared a tailored
   one-page resume and evidence-grounded essay workbook. Reference commitments,
   personal factual answers, private fields, and legal review remain open.
-- [x] Prepared the Fulbright intake resume, mapped both intake forms, verified
-  the July 30, August 24, and September 8 campus milestones, and revised the
-  reply in Gmail without sending it.
-- [x] Prepared one concise follow-up each for Guidepoint and VDart; both remain
-  unsent pending approval.
+- [x] Prepared the Fulbright Spain ETA intake resume, submitted the Planning
+  Tool, prefilled the Prospective Applicant Form, and sent the corrected reply
+  and advising appointment request.
+- [x] Sent the Guidepoint follow-up and verified that the VDart screening
+  follow-up was already sent, avoiding a duplicate.
+- [x] Imported 23 deadlines, review blocks, registered events, and holds into
+  the primary RIT Google Calendar; Google confirmed all 23 events.
 - [x] Closed iLearn, Brains & Motion, and Gestalt as incompatible with the
   remote-through-December constraint.
 - [x] Evening refresh: read the UofR Fellowships Office reply, documented the

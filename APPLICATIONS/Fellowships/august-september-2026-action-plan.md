@@ -30,28 +30,30 @@ Updated: 2026-07-27
 - [x] Ask the UofR Fellowships Office whether late entry is possible.
 - [x] Receive confirmation that a late application and campus endorsement path
   are still possible.
-- [ ] Send the staged factual reply, including the documented Spanish and ASL
-  background, after final confirmation.
+- [x] Send the corrected reply: no ASL proficiency; pivot from Italy Deafness
+  Studies to Spain ETA based on teaching experience and native/fluent Spanish.
 - [x] Prepare the [current Fulbright intake
-  resume](./application-materials/2026-07-27-fulbright-italy-deafness-studies-resume.pdf)
+  resume](./application-materials/2026-07-27-fulbright-spain-eta-resume.pdf)
   and [late-entry checklist](./fulbright-italy-late-entry-checklist.md).
-- [ ] By July 28, submit the Prospective Applicant Form, current resume, and
-  Fulbright Planning Tool and request a meeting before Friday.
+- [x] Submit the Fulbright Planning Tool; receipt confirmed 2026-07-27.
+- [ ] By July 28, submit the Prospective Applicant Form and current resume.
+- [x] Request a meeting before Friday.
 
 ## Carman: Due August 1
 
 - [x] Save the official application link.
 - [x] Build the
   [requirements checklist](./carman-2027-application-checklist.md).
-- [ ] Ask three professional references today; letters must be on letterhead
+- [x] Ask three professional references; letters must be on letterhead
   and sent directly to the program by August 1.
 - [x] Tailor the resume toward monitoring/evaluation, databases, inclusive
   education, disability leadership, and cross-cultural collaboration.
 - [x] Draft the evidence-grounded Experience, Motivation, Career Goals, and
   Communication answers in the
   [workbook](./carman-2027-form-and-essay-workbook.md).
-- [ ] Add Piter's truthful faith or non-faith sentence, documented
-  cross-cultural experience, exact dates, and three reference contacts.
+- [ ] Add Piter's truthful faith or non-faith sentence and private reference
+  details. The documented cross-cultural evidence and exact availability dates
+  are resolved in the workbook.
 - [ ] Confirm all three references immediately and letter delivery by July 29.
 - [ ] Review the legal, identity, background-check, signature, and consent
   fields personally.
@@ -68,27 +70,28 @@ Updated: 2026-07-27
 - [ ] Request a support letter from a community or business partner.
 - [ ] Submit by August 14.
 
-## Fulbright: Intake Due July 28
+## Fulbright Spain ETA: Intake Due July 28
 
-- [ ] Confirm U.S.-citizenship eligibility.
+- [x] Confirm U.S.-citizenship eligibility from the prior live application
+  profile; reconfirm in the secure Fulbright form.
 - [x] Confirm documented Romance-language background: Spanish is
   native/fluent.
-- [ ] Ask the Fellowships Office whether technical ASL research, without a
-  formal proficiency credential, satisfies the award requirement or whether a
-  different award is a stronger fit.
+- [x] Screen out Italy Deafness Studies because no ASL proficiency is
+  documented and the required intermediate level is not met.
+- [x] Verify Spain ETA as the stronger route: master's candidates are accepted,
+  formal teaching practice is preferred, intermediate Spanish is required,
+  and the grant begins after December 2026 graduation.
 - [x] Ask `fellowships@rochester.edu` whether late entry is still possible
   after the July 1 normal-entry deadline; inquiry sent July 24.
 - [x] Read the Fellowships Office reply on July 25.
 - [x] Open and inventory the Prospective Applicant Form and Planning Tool.
 - [x] Prepare the current one-page intake resume.
-- [ ] Submit the Prospective Applicant Form, current resume, and Fulbright
-  Planning Tool by July 28.
+- [x] Submit the Fulbright Planning Tool; receipt confirmed 2026-07-27.
+- [ ] Submit the Prospective Applicant Form and current resume by July 28.
 - [ ] Meet with the office before Friday, July 31.
 - [ ] Complete the revised application and recommendations for formal campus
   review by **August 24** if the award fit is confirmed.
-- [ ] Pivot to a better-fit Fulbright award if the Italy ASL threshold is not
-  satisfied; do not abandon the full Fulbright cycle solely because this one
-  award is unsuitable.
+- [x] Pivot to Spain ETA rather than abandoning the Fulbright cycle.
 
 ## Luce: Due September 8
 

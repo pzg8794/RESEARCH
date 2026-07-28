@@ -10,7 +10,7 @@ Application](https://www.mosaicinfo.org/application/)
 ## Critical Path
 
 - [x] Obtain the live application link from Mosaic.
-- [ ] **Today:** choose three professional references and ask each person to
+- [x] Choose three professional references and ask each person to
   send a signed letter on organizational letterhead directly to the program.
 - [x] Prepare the
   [reference-request draft](./carman-2027-reference-request-draft.md).
@@ -23,15 +23,18 @@ Application](https://www.mosaicinfo.org/application/)
   [resume source](./application-materials/2026-07-27-carman-international-fellowship-resume.tex)
   and
   [one-page PDF](./application-materials/2026-07-27-carman-international-fellowship-resume.pdf).
-- [ ] **Today:** give each reference the August 1 deadline, the program link,
+- [x] Give each reference the August 1 deadline, the program link,
   the placement start in January 2027, and a short evidence packet.
 - [ ] By July 27, confirm that all three references accepted.
 - [ ] By July 29, confirm that each letter has been sent or is scheduled for
   immediate delivery.
 - [x] Draft the Experience, Motivation, Career Goals, and Communication
   answers from documented evidence.
-- [ ] By July 30, add the missing faith or non-faith sentence,
-  cross-cultural experience, exact availability dates, and reference details.
+- [x] Fill the live form's verified identity/contact, January-December 2027
+  availability, academic, professional, and language fields.
+- [ ] By July 30, add the missing faith or non-faith sentence and private
+  reference details. Cross-cultural evidence and January 1-December 31, 2027
+  availability are resolved in the workbook.
 - [ ] On July 31, review every legal, identity, background-check, certification,
   signature, and consent field personally.
 - [ ] Submit on July 31 and preserve the confirmation.
@@ -49,8 +52,8 @@ Choose people who can cover distinct parts of the fit:
 3. Dr. Zen Borys: inclusive CS teaching, classroom practice, educational
    equity, and disability access.
 
-This trio is proposed, not contacted. Piter must confirm the names before the
-requests are sent.
+This trio was contacted on 2026-07-27. Each request used a distinct evidence
+lens and asked for a response by July 28 and direct delivery by July 29.
 
 Reference packet:
 
@@ -73,7 +76,7 @@ Reference packet:
 - [x] Connect inclusive CS teaching and EQUITAS, the equity-focused lens within
   the Puzzle Plan, to dignity, access, communication, and services for people
   with disabilities.
-- [ ] Use international or multilingual experience only where it is directly
+- [x] Use international or multilingual experience only where it is directly
   supported by the documented record.
 - [x] Keep the motivation narrative specific to Mosaic and the Moshi,
   Tanzania placement rather than writing a generic fellowship statement.
@@ -81,6 +84,7 @@ Reference packet:
 ## Submission Boundary
 
 Codex may prepare the public-safe resume, statement drafts, reference packets,
-and checklist. Piter must personally verify sensitive identity information,
-legal attestations, background-check authorization, signature fields, and the
-final application submission.
+and checklist. The live form is staged at the criminal-history and
+vulnerable-adult/child-safety questions. Piter must personally answer those
+sensitive questions and verify legal attestations, background-check
+authorization, signature fields, and the final submission.

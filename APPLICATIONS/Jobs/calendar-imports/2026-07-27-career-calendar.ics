@@ -1,0 +1,423 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Piter Garcia Bautista//RESEARCH Career Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Career and Fellowship Actions
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:20260728T090000-fulbright-intake@research.local
+DTSTAMP:20260727T120000Z
+DTSTART;TZID=America/New_York:20260728T090000
+DTEND;TZID=America/New_York:20260728T094500
+SUMMARY:DEADLINE WORK BLOCK - Fulbright Spain ETA intake
+DESCRIPTION:Finish the Prospective Applicant Form\, current resume\, and Planning Tool. Complete the waiver and signature only after direct review.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Fulbright Spain ETA intake tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Fulbright Spain ETA intake in one hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260728T100000-nys-its@research.local
+DTSTAMP:20260727T120000Z
+DTSTART;TZID=America/New_York:20260728T100000
+DTEND;TZID=America/New_York:20260728T103000
+SUMMARY:NYS ITS Virtual Career Information Session
+DESCRIPTION:Registered. Join through Handshake five minutes early.
+URL:https://rochester.joinhandshake.com/stu/events/1963665
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:NYS ITS session tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:NYS ITS session in one hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260728T150000-carman-reference-commitments@research.local
+DTSTAMP:20260727T120000Z
+DTSTART;TZID=America/New_York:20260728T150000
+DTEND;TZID=America/New_York:20260728T152000
+SUMMARY:REVIEW - Carman reference commitments
+DESCRIPTION:Confirm Travis Desell\, Daniel Krutz\, and Zen Borys can send their letters.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Carman reference review tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Carman reference review in one hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260729T150000-carman-letter-delivery@research.local
+DTSTAMP:20260727T120000Z
+DTSTART;TZID=America/New_York:20260729T150000
+DTEND;TZID=America/New_York:20260729T152000
+SUMMARY:REVIEW - Carman letter delivery
+DESCRIPTION:Confirm each reference letter was sent directly to the program.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Carman letter review tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Carman letter review in one hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260730T170000-nsf-grfp-info@research.local
+DTSTAMP:20260727T120000Z
+DTSTART;TZID=America/New_York:20260730T170000
+DTEND;TZID=America/New_York:20260730T180000
+SUMMARY:NSF-GRFP Information Session
+DESCRIPTION:Registered. Attend through the Zoom confirmation and ask about eligibility for a future PhD start.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:NSF-GRFP session tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:NSF-GRFP session in one hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260731T090000-carman-submit@research.local
+DTSTAMP:20260727T120000Z
+DTSTART;TZID=America/New_York:20260731T090000
+DTEND;TZID=America/New_York:20260731T103000
+SUMMARY:DEADLINE WORK BLOCK - Submit Carman Fellowship
+DESCRIPTION:Complete the sensitive-answer review\, legal terms\, and signature before the August 1 deadline.
+URL:https://www.mosaicinfo.org/who-we-are/international/carman/
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Carman submission block tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Carman submission block in one hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260731T133000-edu486-poster-fair@research.local
+DTSTAMP:20260727T120000Z
+DTSTART;TZID=America/New_York:20260731T133000
+DTEND;TZID=America/New_York:20260731T150000
+SUMMARY:EDU486 Poster Fair
+LOCATION:LeChase 215
+DESCRIPTION:Confirmed course event. Finish from the existing poster draft.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:EDU486 Poster Fair tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:EDU486 Poster Fair in one hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260801-carman-deadline@research.local
+DTSTAMP:20260727T120000Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:DEADLINE - Carman application and 3 letters
+DESCRIPTION:Verify Mosaic received the application and all three reference letters.
+URL:https://www.mosaicinfo.org/who-we-are/international/carman/
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Carman deadline tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260803T090000-career-response-review@research.local
+DTSTAMP:20260727T120000Z
+DTSTART;TZID=America/New_York:20260803T090000
+DTEND;TZID=America/New_York:20260803T094500
+SUMMARY:REVIEW - Career application responses
+DESCRIPTION:Check Guidepoint\, VDart\, Health Data Max\, UofR Fulbright advising\, and Handshake responses.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Career response review tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Career response review in one hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260805T120000-writing-retreat-day1@research.local
+DTSTAMP:20260727T120000Z
+DTSTART;TZID=America/New_York:20260805T120000
+DTEND;TZID=America/New_York:20260805T160000
+SUMMARY:UofR Graduate Writing Retreat - Day 1
+DESCRIPTION:Registered. Bring the RIT data-science thesis and manuscript.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Writing Retreat Day 1 tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Writing Retreat Day 1 in one hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260806T120000-writing-retreat-day2@research.local
+DTSTAMP:20260727T120000Z
+DTSTART;TZID=America/New_York:20260806T120000
+DTEND;TZID=America/New_York:20260806T160000
+SUMMARY:UofR Graduate Writing Retreat - Day 2
+DESCRIPTION:Registered. Protected thesis-writing block.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Writing Retreat Day 2 tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Writing Retreat Day 2 in one hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260807T100000-learningmate-sme@research.local
+DTSTAMP:20260727T120000Z
+DTSTART;TZID=America/New_York:20260807T100000
+DTEND;TZID=America/New_York:20260807T110000
+SUMMARY:DEADLINE WORK BLOCK - LearningMate SME
+DESCRIPTION:Upload the targeted resume and cover letter before the 2:29 PM deadline.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:LearningMate application block tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:LearningMate application block in one hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260807T120000-writing-retreat-day3@research.local
+DTSTAMP:20260727T120000Z
+DTSTART;TZID=America/New_York:20260807T120000
+DTEND;TZID=America/New_York:20260807T160000
+SUMMARY:UofR Graduate Writing Retreat - Day 3
+DESCRIPTION:Registered. Complete the retreat commitment.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Writing Retreat Day 3 tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Writing Retreat Day 3 in one hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260809T180000-rit-parking-review@research.local
+DTSTAMP:20260727T120000Z
+DTSTART;TZID=America/New_York:20260809T180000
+DTEND;TZID=America/New_York:20260809T182000
+SUMMARY:REVIEW - RIT parking permit readiness
+DESCRIPTION:Confirm local address\, account balance\, and whether a permit is needed before reserved and general sales open.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:RIT parking review tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:RIT parking review in one hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260810T090000-teaching-retreat-day1@research.local
+DTSTAMP:20260727T120000Z
+DTSTART;TZID=America/New_York:20260810T090000
+DTEND;TZID=America/New_York:20260810T170000
+SUMMARY:HOLD - UofR Teaching Retreat Day 1
+DESCRIPTION:Registration is staged. A dietary answer is still required.
+URL:https://rochester.joinhandshake.com/stu/events/1956131
+STATUS:TENTATIVE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Teaching Retreat Day 1 hold tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Teaching Retreat Day 1 hold in one hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260811T090000-teaching-retreat-day2@research.local
+DTSTAMP:20260727T120000Z
+DTSTART;TZID=America/New_York:20260811T090000
+DTEND;TZID=America/New_York:20260811T170000
+SUMMARY:HOLD - UofR Teaching Retreat Day 2
+DESCRIPTION:Registration is staged. A dietary answer is still required.
+URL:https://rochester.joinhandshake.com/stu/events/1956131
+STATUS:TENTATIVE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Teaching Retreat Day 2 hold tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Teaching Retreat Day 2 hold in one hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260815-rit-fall-statement@research.local
+DTSTAMP:20260727T120000Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:DEADLINE - RIT Fall statement
+DESCRIPTION:Recheck billing after FTE and aid updates.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:RIT Fall statement deadline tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260822-financial-statement@research.local
+DTSTAMP:20260727T120000Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:DEADLINE - Financial statement review/payment
+DESCRIPTION:Review the official account and pay or arrange before the due date.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Financial statement deadline tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260824-fulbright-campus-packet@research.local
+DTSTAMP:20260727T120000Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:DEADLINE - Fulbright campus review packet
+DESCRIPTION:Have the revised application and recommendations ready for formal campus review.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Fulbright campus packet deadline tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260827T110000-ibm-dev-day@research.local
+DTSTAMP:20260727T120000Z
+DTSTART;TZID=America/New_York:20260827T110000
+DTEND;TZID=America/New_York:20260827T143000
+SUMMARY:HOLD - IBM Dev Day: Bob in Action + Hackathon
+DESCRIPTION:Registration is staged. IBM and BeMyApp terms require direct review before acceptance.
+URL:https://rochester.joinhandshake.com/stu/events/1980103
+STATUS:TENTATIVE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:IBM Dev Day hold tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:IBM Dev Day hold in one hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260915-uofr-health-insurance@research.local
+DTSTAMP:20260727T120000Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:DEADLINE - UofR health insurance enrollment/waiver
+DESCRIPTION:Complete the mandatory secure UHS process.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:UofR health insurance deadline tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261006T170000-fulbright-national@research.local
+DTSTAMP:20260727T120000Z
+DTSTART;TZID=America/New_York:20261006T170000
+DTEND;TZID=America/New_York:20261006T173000
+SUMMARY:DEADLINE - Fulbright national application
+DESCRIPTION:Final 2027-28 U.S. Student application deadline. Submit earlier after campus endorsement.
+URL:https://us.fulbrightonline.org/
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Fulbright national deadline tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Fulbright national deadline in one hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261020-google-cloud-2sv@research.local
+DTSTAMP:20260727T120000Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:DEADLINE - Google Cloud 2-step verification
+DESCRIPTION:Complete secure-account verification before access is affected.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Google Cloud 2-step verification deadline tomorrow
+END:VALARM
+END:VEVENT
+END:VCALENDAR

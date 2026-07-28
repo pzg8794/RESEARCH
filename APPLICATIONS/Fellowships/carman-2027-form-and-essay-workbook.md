@@ -15,6 +15,10 @@ The official overview says the next fellow begins a one-year placement in
 January 2027. The application and all three professional reference letters are
 due **2026-08-01**.
 
+Live-form status: verified contact, availability, academic, professional, and
+language fields are filled. The form is staged at the sensitive
+criminal-history and vulnerable-adult/child-safety questions.
+
 ## Prepared Material
 
 - [Tailored resume
@@ -23,7 +27,7 @@ due **2026-08-01**.
   PDF](./application-materials/2026-07-27-carman-international-fellowship-resume.pdf)
 - [Reference-request
   draft](./carman-2027-reference-request-draft.md)
-- [Proposed reference trio and evidence
+- [Contacted reference trio and evidence
   packet](./carman-2027-reference-packet.md)
 - [Deadline and submission
   checklist](./carman-2027-application-checklist.md)
@@ -118,8 +122,11 @@ equity-focused lens. These experiences would help me support local staff with
 program monitoring, data quality, planning, training materials, and
 communication while remaining accountable to local expertise and priorities.
 
-Personal international experience not already documented should be added by
-Piter here before submission.
+As a Dominican immigrant and native/fluent Spanish speaker, I also have
+personal experience navigating institutions across language and cultural
+contexts. That experience does not make me an expert in Tanzania; it makes me
+more attentive to how migration, language, family context, and institutional
+power shape communication and access.
 
 ### Motivation to Apply
 
@@ -215,23 +222,24 @@ selected, I would begin Kiswahili study before arrival and continue learning
 from local colleagues so that I can communicate more respectfully and reduce
 dependence on others for routine interactions.
 
-## Remaining Questions for Piter
+## Remaining Piter Input
 
-1. May the proposed trio, Professor Travis Desell, Dr. Daniel Krutz, and Dr.
-   Zen Borys, be contacted, and can each send a signed letter on letterhead by
-   August 1?
-2. What truthful sentence describes Piter's faith or non-faith background and
-   comfort in a faith-based workplace?
-3. The repository documents Piter's Dominican immigrant identity,
-   native/fluent Spanish, and Latino immigrant family context. May that
-   cross-cultural evidence be used here, and is there any direct international
-   or community-service experience to add without overstating it?
-4. Are January 1 through December 31, 2027 acceptable availability dates, or
-   should Mosaic be asked for the exact placement dates first?
+The repository and current instructions resolve the reference trio,
+cross-cultural evidence, and availability:
+
+- Travis Desell, Daniel Krutz, and Zen Borys were contacted on 2026-07-27.
+- Dominican immigrant identity, native/fluent Spanish, and Latino immigrant
+  family context may be used without claiming Tanzania-specific expertise.
+- Availability is January 1 through December 31, 2027, subject to Mosaic's
+  exact placement dates.
+
+One substantive answer is still private and cannot be inferred: the truthful
+sentence describing Piter's faith or non-faith background and comfort in a
+faith-based workplace.
 
 ## Submission Boundary
 
 The form includes sensitive background questions, a legal acknowledgment,
 signature, and final submit action. Piter must review and complete those
-fields personally. Do not submit until the four questions above are resolved
+fields personally. Do not submit until the faith/non-faith sentence is supplied
 and all three reference commitments are confirmed.

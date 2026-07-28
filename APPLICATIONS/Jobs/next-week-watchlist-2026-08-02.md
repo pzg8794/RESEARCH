@@ -22,16 +22,15 @@ legal-form answers stay in their secure systems.
 
 - [ ] Check the UofR Fellowships Office for intake receipt and the earliest
   meeting time.
-- [ ] Check Guidepoint and VDart once after their prepared follow-ups; close
-  either thread if there is no substantive response after one reasonable wait.
+- [ ] Check Guidepoint after the July 27 follow-up and VDart after its confirmed
+  July 23 screening reply; close either lead if there is no substantive answer.
 - [ ] Check Handshake for Health Data Max, Solu, LearningMate, Handshake AI,
   Carney Sandoe, Stride, Cardinal Education, Epic, and Ampact responses.
 
 ### Tuesday, August 4
 
-- [ ] Submit the Health Data Max application if the 30-hour weekly schedule is
-  confirmed. Use the tailored resume, cover letter, and combined unofficial
-  transcripts, not the unrelated quantum CV.
+- [ ] Review any Health Data Max response to the application submitted July 27
+  and confirm workable semester hours during screening.
 - [ ] Finish the LearningMate application upload rather than waiting for its
   deadline.
 - [ ] Check for the RIT Registrar FTE form and complete it immediately if it
@@ -39,7 +38,7 @@ legal-form answers stay in their secure systems.
 
 ### Wednesday, August 5
 
-- [ ] Begin the UofR graduate writing retreat if registered and protect the
+- [ ] Begin the registered UofR graduate writing retreat and protect the
   noon-4:00 PM block for the thesis.
 - [ ] Recheck RIT aid, Fall billing, HESC, and TEACH Grant dependencies through
   their official accounts.
@@ -49,8 +48,8 @@ legal-form answers stay in their secure systems.
 - [ ] Confirm the already-submitted Solu application remains recorded after
   its 11:59 PM deadline.
 - [ ] Continue the writing-retreat thesis block.
-- [ ] Review the Health Data Max application confirmation and record its first
-  follow-up date.
+- [x] Health Data Max submission confirmation is preserved; first response
+  check is August 3.
 
 ### Friday, August 7
 
@@ -86,4 +85,5 @@ legal-form answers stay in their secure systems.
 - **August 19:** survivorship symposium abstract, only with a genuine project.
 - **August 24:** Fulbright revised application and recommendations ready for
   campus review.
-- **August 27:** free virtual IBM Dev Day: AI + Quantum and hackathon.
+- **August 27:** free virtual IBM Dev Day: Bob in Action + Hackathon;
+  registration still requires action-time review of IBM and BeMyApp terms.

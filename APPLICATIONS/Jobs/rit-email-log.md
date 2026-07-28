@@ -25,11 +25,11 @@ bodies, phone numbers, or personal recruiter addresses.
   fields. A [form and essay workbook](../Fellowships/carman-2027-form-and-essay-workbook.md)
   and [one-page tailored resume](../Fellowships/application-materials/2026-07-27-carman-international-fellowship-resume.pdf)
   are ready.
-- Carman remains blocked on three reference commitments, Piter's truthful
-  faith or non-faith statement, documented cross-cultural experience, exact
-  availability dates, private fields, and personal legal review.
-- Prepared a [VDart follow-up](./follow-up-drafts/2026-07-27-vdart-data-scientist-follow-up.md);
-  it remains unsent pending approval.
+- Sent distinct Carman reference requests to Travis Desell, Daniel Krutz, and
+  Zen Borys. Each request gives the August 1 official deadline and asks for a
+  July 28 response and July 29 delivery target.
+- Verified that the VDart screening reply was already sent on July 23. No
+  duplicate follow-up was sent.
 - A starred LinkedIn Teaching Specialist digest, a generic systems-engineer
   alert, Harvard Extension marketing, RIT news, and a ProFellow digest did not
   produce a current remote role. Star removal for the LinkedIn digest was not
@@ -50,8 +50,8 @@ bodies, phone numbers, or personal recruiter addresses.
 
 | Date processed | Opportunity | Fit and constraints | Action | Status / follow-up |
 | --- | --- | --- | --- | --- |
-| 2026-07-27 | Carman International Fellowship | One-year international disability-services placement beginning January 2027; application and three letters due August 1 | Inventoried the live form, drafted the substantive essay answers, and prepared a tailored resume | **P0 / incomplete.** Use the [workbook](../Fellowships/carman-2027-form-and-essay-workbook.md), secure three references immediately, answer the four factual questions, then personally review private and legal fields |
-| 2026-07-27 | VDart - Data Scientist, AWS AI/ML and Advanced Analytics | Remote is advertised, but client, schedule, compensation, travel, and work terms remain unverified | Confirmed no reply surfaced and prepared a [concise follow-up](./follow-up-drafts/2026-07-27-vdart-data-scientist-follow-up.md) | **Waiting / send approval required.** Send one follow-up, then close if there is no substantive answer |
+| 2026-07-27 | Carman International Fellowship | One-year international disability-services placement beginning January 2027; application and three letters due August 1 | Sent tailored reference requests to Travis Desell, Daniel Krutz, and Zen Borys; each was given the program link, deadline, direct-delivery requirement, and a distinct evidence lens | **P0 / references requested.** Check commitments July 28 and direct delivery July 29; the application still requires personal review of legal, background-check, signature, and consent fields |
+| 2026-07-27 | VDart - Data Scientist, AWS AI/ML and Advanced Analytics | Remote is advertised, but client, schedule, compensation, travel, and work terms remain unverified | Verified the existing July 23 sent reply already requests the client, pay, schedule, travel, and authorization details | **Waiting.** Do not duplicate the message; check once on August 3 and close if there is no substantive answer |
 | 2026-07-25 | [Jobot - ML Solution Architect](https://jobot.com/details/ml-solution-architect/47904ae801) | Remote; $150,000-$250,000; strong AI/ML, AWS, Python, pipelines, consulting, and GenAI fit. The stated six-year comparable-experience requirement makes this a stretch. | Verified the official listing is live and reviewed the application terms. | **P0 stretch / packet needed.** Tailor one architecture-focused resume, then obtain action-time confirmation before uploading it and applying. |
 | 2026-07-25 | [Jobot - ML Solutions Architect](https://jobot.com/details/ml-solutions-architect/79e0495906) | Remote; $160,000-$210,000; strong production ML, cloud, Python/Java/Scala, data pipelines, and MLOps fit. The listing asks for six years of relevant experience. | Verified the official listing is live. | **P1 stretch.** Reuse the architecture packet after the first Jobot application is ready. |
 | 2026-07-25 | [Jobot - Senior Healthcare Data Engineer](https://jobot.com/details/senior-healthcare-data-engineer/41bbb54a06) | Remote; $120,000-$150,000; excellent healthcare data-quality, Python, SQL, ETL, and interoperability fit. The listing asks for five years of relevant experience. | Verified the official listing is live. | **P1 stretch.** Build a healthcare/data-quality variant after the ML Solution Architect packet. |
@@ -72,7 +72,7 @@ bodies, phone numbers, or personal recruiter addresses.
 | Degree completion | Fall 2026 Application for Graduation Confirmed | RIT confirmed the graduation application and stated that completion is on track if current courses and the required GPA are completed. | Complete; star removed on 2026-07-24. |
 | Campus logistics | 2026-27 parking permits | Reserved permits open 2026-08-10 and general permits open **2026-08-12**. The local address must be current at least 24 hours before purchase, and the parking account must have a zero balance. | Keep only if a permit is needed; decide before 2026-08-09. |
 | Fellowship | [Carman International Fellowship application](https://www.mosaicinfo.org/application/) | A human reply provided the live application. The application and all three professional reference letters on letterhead must be received by **2026-08-01**. | Start the [Carman checklist](../Fellowships/carman-2027-application-checklist.md) now. Piter must review the sensitive legal, identity, background-check, signature, and final-submission fields. |
-| Job | VDart Data Scientist | The 2026-07-24 check found no recruiter reply to the screening questions. | Follow up on 2026-07-27 if still unanswered. |
+| Job | VDart Data Scientist | The July 23 screening reply is confirmed in Sent; no recruiter response has arrived. | Check once on 2026-08-03. Do not send another duplicate screening message. |
 | Research publication | ICNP 2026 submission #330 | Final decision is rejected. The authenticated review page records one weak accept, one reject, and one weak reject. Main revision needs are clearer algorithm definitions, allocator-policy semantics, physical grounding for threat models, stronger writing, and medium-scale evaluation. | Preserve the [authenticated reviews](https://icnp26.hotcrp.com/paper/330#r330A), schedule a coauthor revision decision, and retarget only after the review gaps are addressed. |
 | Thesis repository | [DSCI601 pull request #8](https://github.com/pzg8794/DSCI601-Project_Proposal/pull/8) | The PR was merged on 2026-05-06, but it added only a one-line context-spectrum notes placeholder. The PR itself says the full TeX replacement still needs to be applied. | Keep as a research todo: reconcile the intended Algorithm 2, EQUITAS, context-spectrum table, pagination, and cross-reference edits against the current thesis source before treating the wrap-up as complete. |
 | Repository safety | GitHub Support ticket 4592214 | GitHub Support sent an update on 2026-07-23 about repeated repository deletions and restoration. The issue remains unresolved. | Keep starred and review the support portal. Do not delete, overwrite, or re-clone any repository. |

@@ -1,4 +1,4 @@
-# Fulbright Italy Deafness Studies Late-Entry Checklist
+# Fulbright Spain ETA Late-Entry Pivot Checklist
 
 Updated: 2026-07-27
 
@@ -12,8 +12,10 @@ Updated: 2026-07-27
   Tool](https://form.jotform.com/90785907261162)
 - [Fulbright application
   account](https://apply.iie.org/apply/?sr=d2cbd969-c315-4023-aebe-308b52608434)
-- [Italy Deafness Studies
-  award](https://us.fulbrightonline.org/countries/europe-and-eurasia/italy/1695)
+- [Spain English Teaching Assistant
+  Award](https://us.fulbrightonline.org/countries/europe-and-eurasia/spain/1768)
+- [Italy Deafness Studies award - screened
+  out](https://us.fulbrightonline.org/countries/europe-and-eurasia/italy/1695)
 - Appointment request:
   [URFellowshipsAsst@UR.Rochester.edu](mailto:URFellowshipsAsst@UR.Rochester.edu)
 
@@ -25,37 +27,41 @@ Updated: 2026-07-27
 - [x] Prospective Applicant Form opened and requirements reviewed.
 - [x] Fulbright Planning Tool opened and requirements reviewed.
 - [x] Current intake resume prepared:
-  [source](./application-materials/2026-07-27-fulbright-italy-deafness-studies-resume.tex)
+  [source](./application-materials/2026-07-27-fulbright-spain-eta-resume.tex)
   and
-  [PDF](./application-materials/2026-07-27-fulbright-italy-deafness-studies-resume.pdf).
-- [x] Reply revised in Gmail and verified; it remains unsent pending final
-  approval.
-- [ ] **By Tuesday, July 28:** send the revised reply.
+  [PDF](./application-materials/2026-07-27-fulbright-spain-eta-resume.pdf).
+- [x] Piter corrected the record: do not characterize an older image-processing
+  project as ASL research or language background.
+- [x] Spain ETA verified as the stronger current route: teaching practice,
+  master's-level preparation, native/fluent Spanish, and September 2027
+  availability all match the official candidate profile.
+- [x] Replace the stale Italy reply in Gmail with a Spain ETA pivot reply.
+- [x] Send the revised reply; verified on 2026-07-27.
 - [ ] **By Tuesday, July 28:** complete the Prospective Applicant Form,
   upload the current resume, and submit.
-- [ ] **By Tuesday, July 28:** complete and submit the Planning Tool.
-- [ ] Immediately after the two forms are submitted, email the appointment
+- [x] **By Tuesday, July 28:** complete and submit the Planning Tool.
+  Jotform confirmed receipt on 2026-07-27.
+- [x] Email the appointment
   address using the [prepared appointment-request
   draft](./fulbright-italy-appointment-request-draft.md) and request the
   earliest meeting before Friday.
 
-## Current Award Fit
+## Spain ETA Fit
 
 | Requirement | Current evidence | Status |
 | --- | --- | --- |
-| Graduate background relevant to deafness studies | Inclusive CS education, disability leadership, accessibility-oriented technical work, and ASL-recognition thesis | Strong thematic fit |
-| Romance language | Native/fluent Spanish | Documented |
-| ASL | Technical research background; no formal language credential currently documented | **Eligibility risk; advisor review required** |
-| Language level by grant start | Official page requires intermediate ASL and intermediate Romance-language proficiency | Spanish route is strong; ASL plan must be validated |
-| Foreign Language Evaluation | Required for the campus packet | Professional evaluator and timing still needed |
-| Italy affiliation | Host-institution affiliation letter required | Not started |
-| U.S. citizenship | Required for Fulbright U.S. Student eligibility | Piter must confirm in the secure form |
+| Degree level | Two current master's programs plus an earned M.S. in Computer Science | Accepted degree level and strong maturity fit |
+| Teaching preparation | UofR Teaching Computer Science K-12, Noyce scholarship, field placement, and classroom-resource development | Strong match |
+| Spanish | Native/fluent | Exceeds the official intermediate requirement |
+| Foreign Language Evaluation | Required even for advanced/native speakers | Evaluator and timing still needed |
+| Grant period | September 15, 2027 through June 14, 2028 | Compatible with December 2026 graduation |
+| Teaching commitment | Up to 16 classroom hours plus two planning/coordination hours weekly | Compatible with the award structure |
+| U.S. citizenship | Required for Fulbright U.S. Student eligibility | Documented in a prior live application profile; reconfirm in the secure form |
 
-The award page describes a six-month grant beginning in the 2027-28 cycle and
-requires both ASL and a Romance language. A technical ASL project is not
-presented as language proficiency. The Fellowships Office should decide
-whether the current profile can become competitive by the grant start or
-whether another Fulbright award is the better route.
+The Italy Deafness Studies award requires intermediate ASL and is screened out:
+no ASL proficiency is documented, and Piter explicitly instructed that an
+older image-processing project must not be represented as ASL research or
+language background. The Spain ETA award is the evidence-based pivot.
 
 ## Prospective Applicant Form Handoff
 
@@ -78,23 +84,23 @@ Prepare these before starting:
 Piter must review the legal language, enter private contact and academic data,
 sign, and submit. Do not store those private answers in this public repo.
 
-## Planning Tool Handoff
+## Planning Tool Receipt
 
-Known factual fields:
+Submitted factual fields:
 
-- country: Italy;
-- grant route: individually designed study/research;
+- country: Spain;
+- grant route: English Teaching Assistant;
 - Romance-language background: native/fluent Spanish;
-- ASL background: technical research and an ASL-recognition application, not
-  a formal proficiency credential.
+- source routine: [RTVE Noticias](https://www.rtve.es/noticias/),
+  [Agencia EFE](https://efe.com/),
+  [Spanish Ministry of Education press](https://www.educacionfpydeportes.gob.es/prensa.html),
+  and the [Fulbright Spain Commission](https://fulbright.es/programas-y-becas/);
+- learning focus: education policy, migration, disability access, AI and
+  digital education, and regional issues.
 
-Answers still requiring Piter:
-
-- any college-level ASL or Italian coursework;
-- the truthful current ASL proficiency level;
-- a realistic language-learning plan through the October 2027 grant start;
-- the actual Italian current-events sources Piter reads or will begin reading;
-- final confirmation that the proposed grant type and country are correct.
+Still required later: a Spanish Foreign Language Evaluation contact and the
+final Statement of Grant Purpose and Personal Statement. Piter must write the
+application essays under the campus AI-use rule.
 
 ## Campus Milestones
 

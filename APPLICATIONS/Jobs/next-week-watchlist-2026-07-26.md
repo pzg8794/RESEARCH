@@ -13,28 +13,31 @@ systems.
 
 - [ ] Verify funding and status for the scheduled personal installment before
   it processes; check for an automatic retry from any recent returned payment.
-- [ ] Send the staged UofR Fulbright reply after final confirmation.
-- [ ] Start the Fulbright Prospective Applicant Form and Planning Tool using
+- [x] Send the corrected UofR Fulbright Spain ETA reply.
+- [x] Start the Fulbright Prospective Applicant Form and Planning Tool using
   the [campus timeline](https://www.rochester.edu/college/studentfellowships/deadlines/fulbright.html).
-- [ ] Ask all three Carman references using the
+- [x] Ask all three Carman references using the
   [ready reference-request draft](../Fellowships/carman-2027-reference-request-draft.md).
 
 ### Monday, July 27
 
 - [x] Prepare the Fulbright intake resume, map the Prospective Applicant Form
   and Planning Tool, and revise the Fellowships Office reply in Gmail.
-- [ ] Submit the Fulbright forms and request an initial Fellowships Office
-  meeting by **Tuesday, July 28**.
+- [x] Submit the Fulbright Planning Tool and request an initial Fellowships
+  Office meeting.
+- [ ] Add pronouns and the current resume, review the waiver/signature fields,
+  and submit the staged Prospective Applicant Form by **Tuesday, July 28**.
 - [ ] Confirm whether all three Carman references accepted; letters are due
   directly from recommenders on organizational letterhead.
 - [x] Prepare one concise Guidepoint follow-up after no new career reply
   surfaced.
 - [x] Prepare one concise VDart follow-up after no recruiter reply surfaced.
-- [ ] Send those two follow-ups after approval.
+- [x] Send the Guidepoint follow-up; verify the VDart follow-up was already
+  sent and avoid a duplicate.
 - [x] Save the Health Data Max Clinical Business Analyst Intern role and
   prepare its tailored resume, cover letter, and transcript packet.
-- [ ] Confirm whether 30 hours/week is workable, then submit Health Data Max
-  after upload authorization.
+- [x] Submit Health Data Max with the targeted resume, cover letter, and
+  unofficial transcripts.
 - [ ] Complete or arrange the personal card payment due that day through the
   official account.
 

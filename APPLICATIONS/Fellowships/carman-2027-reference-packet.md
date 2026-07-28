@@ -2,7 +2,7 @@
 
 Updated: 2026-07-27
 
-Status: ready for Piter to approve the proposed trio and authorize outreach
+Status: requests sent to all three references on 2026-07-27
 
 ## Program
 
@@ -15,7 +15,7 @@ Status: ready for Piter to approve the proposed trio and authorize outreach
 - Letter requirements: professional reference, organizational letterhead, and
   direct delivery from the recommender to Mosaic
 
-## Proposed Reference Trio
+## Reference Trio Contacted
 
 These three are already in the repository's locked reference pool and cover
 different parts of the fellowship fit.
@@ -85,8 +85,17 @@ Evidence packet:
 - [Form and essay workbook](./carman-2027-form-and-essay-workbook.md), only if
   a recommender requests additional context
 
-## Outreach Boundary
+## Outreach Receipt
 
-The request emails remain unsent. Piter confirms the three names and authorizes
-each message before external delivery. Private reference contact details and
-the recommendation letters themselves do not belong in this repository.
+- [x] Travis Desell request sent with the data-science, ML, computational
+  methods, and graduate-research lens.
+- [x] Daniel Krutz request sent with the technical rigor, software/data
+  systems, research preparation, and documentation lens.
+- [x] Zen Borys request sent with the inclusive CS teaching, educational
+  equity, and disability-access lens.
+- [ ] Confirm acceptance by 2026-07-28.
+- [ ] Confirm direct program delivery by 2026-07-29, with 2026-08-01 as the
+  official receipt deadline.
+
+Private reference contact details and recommendation letters do not belong in
+this repository.
