@@ -11,14 +11,13 @@ that could be completed safely from the documented record was handled.
 - [ ] **Carman International Fellowship - paused, do not submit.**
   The earlier high-fit assessment was a source mix-up. Review the
   [correction](../Fellowships/carman-2027-source-correction.md) and the
-  [Fulbright Spain ETA reference recovery
-  plan](../Fellowships/fulbright-spain-eta-reference-recovery-plan.md).
-  No advisor email should be sent until Piter approves the redirect wording.
-- [ ] **Fulbright Prospective Applicant Form.**
-  [Open the form](https://form.jotform.com/90414762363153). The Spain ETA resume
-  is attached and the documented profile is filled. Add pronouns, choose the
-  optional anonymized-essay preference, review the records waiver, draw the
-  signature, check the appointment acknowledgment, and submit.
+  [advisor reference recovery
+  plan](../Fellowships/advisor-reference-recovery-plan.md). No advisor email
+  should be sent until Piter approves the funded-PhD reference-pool wording.
+- [ ] **Fulbright route review.**
+  Do not submit the Spain ETA intake as the default application. At the July 31
+  advising meeting, ask whether a Study/Research or other award genuinely fits
+  CS, AI, data, quantum, bioinformatics, or CS education.
 - [ ] **UofR Direct Loan MPN.**
   [Open Federal Student Aid](https://studentaid.gov/mpn/), log in, select the
   graduate/professional Direct Loan MPN, review the loan terms, and sign. The

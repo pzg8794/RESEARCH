@@ -60,9 +60,9 @@ experience requirements.
 - [x] Remove Carman from the active submit-now queue.
 - [x] Freeze all reference outreach. No correction or redirect message has
   been sent.
-- [ ] After Piter reviews the wording and the July 31 advising meeting confirms
-  the strategy, redirect the three references to the verified Fulbright Spain
-  ETA application.
+- [ ] After Piter reviews the wording, ask the three advisers to remain in the
+  reference pool for verified funded PhD applications. Do not redirect them to
+  Fulbright Spain ETA.
 - [ ] Ask Mosaic one concise eligibility question only if Piter still wants
   the international-service route.
 - [ ] Prioritize the Luce eligibility check before preparing its application.

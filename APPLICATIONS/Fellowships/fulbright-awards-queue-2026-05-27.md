@@ -37,7 +37,6 @@ Unlike ProFellow, the Fulbright site does not provide the same logged-in bookmar
 
 | Award | Type | Official page | Why it fits | Main blocker or risk | Status |
 | --- | --- | --- | --- | --- | --- |
-| Spain English Teaching Assistant Award | ETA | [official page](https://us.fulbrightonline.org/countries/europe-and-eurasia/spain/1768) | Direct match for UofR K-12 CS teacher preparation, field experience, master's-level maturity, native/fluent Spanish, and availability after December 2026 | Foreign Language Evaluation required; placement preferences and Spain-specific community-engagement plan still need development | **Tier 1, Active intake** |
 | Norway Open Study/Research Award | Open Study/Research | [official page](https://us.fulbrightonline.org/countries/europe-and-eurasia/norway/1739) | Strong Nordic fit, open host choice, good research environment for ML, computational biology, and interdisciplinary diagnostics work. | Need host affiliation; housing/cost-of-living pressure. | Tier 1 |
 | Sweden Open Study/Research Award | Open Study/Research | [official page](https://us.fulbrightonline.org/countries/europe-and-eurasia/sweden/1722) | Best direct overlap with current Sweden doctoral focus, AI ethics, computational medicine, and inclusive systems. | Host affiliation required before applying; funding may be tight relative to living costs. | Tier 1 |
 | Germany Open Study/Research Award | Open Study/Research | [official page](https://us.fulbrightonline.org/countries/europe-and-eurasia/germany/1685) | Largest number of awards in Europe and strong ML / computational biology ecosystem. | Host affiliation required; German language may strengthen the case. | Tier 1 |
@@ -49,6 +48,7 @@ Unlike ProFellow, the Fulbright site does not provide the same logged-in bookmar
 | Award | Type | Official page | Why it fits | Main blocker or risk | Status |
 | --- | --- | --- | --- | --- | --- |
 | Italy Award in Deafness Studies | Research / teaching / collaboration | [official page](https://us.fulbrightonline.org/countries/europe-and-eurasia/italy/1695) | Disability and inclusive-education themes overlap, but theme alone does not meet the language requirement | Intermediate ASL is required and no ASL proficiency is documented | **Screened out 2026-07-27** |
+| Spain English Teaching Assistant Award | ETA | [official page](https://us.fulbrightonline.org/countries/europe-and-eurasia/spain/1768) | Spanish fluency and teaching preparation overlap, but the central role is English-language teaching and cultural exchange rather than computer-science teaching | Supporting science or technology classes taught in English does not make this a CS-teaching award | **Paused / role mismatch 2026-07-28** |
 | Fulbright-University of Helsinki Graduate Award | Graduate / partnership award | [official page](https://us.fulbrightonline.org/countries/europe-and-eurasia/finland/1679) | Excellent computational biology and medical-data environment. | Only 1 award; separate university admission required. | Tier 2, Eligibility-sensitive |
 | Fulbright/Ghent University Award | Graduate / partnership award | [official page](https://us.fulbrightonline.org/countries/europe-and-eurasia/belgium/1796) | Flexible affiliation timing and strong biomedical / AI ecosystem in Belgium. | Only 2 awards; no tuition cover. | Tier 2 |
 | Fulbright/University of Antwerp Award | Graduate / partnership award | [official page](https://us.fulbrightonline.org/countries/europe-and-eurasia/belgium/1795) | Biomedical research strength and flexible visiting-research format. | Better fit after doctoral enrollment; short duration. | Tier 2, Eligibility-sensitive |
@@ -64,25 +64,20 @@ Unlike ProFellow, the Fulbright site does not provide the same logged-in bookmar
 
 ## Recommended order for actual effort
 
-1. Spain English Teaching Assistant Award
-2. Norway Open Study/Research
-3. Sweden Open Study/Research
-4. Germany Open Study/Research
-5. Finland partnership awards: Turku, Aalto, Helsinki
-6. Netherlands Global Health if the diagnostics/public-health framing becomes especially strong
+1. Norway Open Study/Research
+2. Sweden Open Study/Research
+3. Germany Open Study/Research
+4. Finland partnership awards: Turku, Aalto, Helsinki
+5. Netherlands Global Health if the diagnostics/public-health framing becomes especially strong
 
 ## Immediate next actions
 
-1. Complete the applicant-only waiver and signature, upload the
-   [Spain ETA resume](./application-materials/2026-07-27-fulbright-spain-eta-resume.pdf),
-   and submit the prefilled Prospective Applicant Form by July 28.
-2. Watch for the Fellowships Office appointment response; the corrected Spain
-   ETA reply, Planning Tool, and meeting request are complete.
-3. Meet with the Fellowships Office before Friday and prepare for the
-   August 24 revised-application and recommendation deadline.
-4. Develop Spain placement preferences and a locally grounded side-project
-   concept without using generative AI to write the required statements.
-5. Build an initial Sweden + Norway + Germany host list.
-6. Decide whether the Finland partnership awards are worth the separate
+1. Do not submit the prefilled Spain ETA Prospective Applicant Form as the
+   default route.
+2. Keep the July 31 Fellowships Office appointment and ask which
+   Study/Research or partnership award genuinely fits CS, AI, data, quantum,
+   bioinformatics, or CS education.
+3. Build an initial Sweden + Norway + Germany host list.
+4. Decide whether the Finland partnership awards are worth the separate
    admission workload this cycle.
-7. Keep this queue aligned with the main roadmap and campus Fulbright notes.
+5. Keep this queue aligned with the main roadmap and campus Fulbright notes.

@@ -4,6 +4,10 @@ Last updated: 2026-07-28
 
 ## Refresh Status - 2026-07-28
 
+- Corrected the Fulbright fit assessment: Spain ETA is an English-teaching
+  assistantship, not a CS-teaching award. Do not submit the prefilled Spain ETA
+  intake. Keep the July 31 appointment to evaluate a genuinely aligned
+  Study/Research or partnership route.
 - The Fellowships Office confirmed the Fulbright advising meeting for
   **Friday, July 31, 3:00-3:30 PM EDT**. The RIT Calendar entry is confirmed.
 - The Spain ETA resume is attached to the Prospective Applicant Form. The

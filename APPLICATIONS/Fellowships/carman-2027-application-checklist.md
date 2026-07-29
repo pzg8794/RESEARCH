@@ -40,8 +40,8 @@ background. See the [source correction](./carman-2027-source-correction.md).
 - [x] Freeze reference outreach. No correction or redirect message has been
   sent.
 - [ ] Review the
-  [Fulbright Spain ETA reference recovery plan](./fulbright-spain-eta-reference-recovery-plan.md)
-  and redirect only after Piter approves the message.
+  [advisor reference recovery plan](./advisor-reference-recovery-plan.md) and
+  contact advisers only after Piter approves the message.
 - [ ] Ask Mosaic whether Piter's data science, computer science, and inclusive
   teaching background satisfies the stated degree-focus and prior
   international-setting requirements, but only if this service route remains

@@ -10,14 +10,15 @@ Use this folder when an opportunity comes from ProFellow, an external fellowship
 | --- | --- |
 | RIT opportunity review and verified deadlines | [rit-opportunity-log-2026-07-23.md](./rit-opportunity-log-2026-07-23.md) |
 | August-September execution checklist | [august-september-2026-action-plan.md](./august-september-2026-action-plan.md) |
-| Fulbright Spain ETA reference recovery plan | [fulbright-spain-eta-reference-recovery-plan.md](./fulbright-spain-eta-reference-recovery-plan.md) |
+| Correct advisor reference recovery plan for funded PhD applications | [advisor-reference-recovery-plan.md](./advisor-reference-recovery-plan.md) |
+| Retracted Fulbright Spain ETA redirect, retained for audit | [fulbright-spain-eta-reference-recovery-plan.md](./fulbright-spain-eta-reference-recovery-plan.md) |
 | Luce official description, requirements, and eligibility gate | [luce-2027-2028-opportunity-dossier.md](./luce-2027-2028-opportunity-dossier.md) |
 | Carman source correction | [carman-2027-source-correction.md](./carman-2027-source-correction.md) |
 | Carman live-form workbook and essay drafts | [carman-2027-form-and-essay-workbook.md](./carman-2027-form-and-essay-workbook.md) |
 | Carman deadline and submission checklist | [carman-2027-application-checklist.md](./carman-2027-application-checklist.md) |
 | Carman contacted reference trio and evidence packet | [carman-2027-reference-packet.md](./carman-2027-reference-packet.md) |
-| Fulbright Spain ETA late-entry pivot checklist | [fulbright-italy-late-entry-checklist.md](./fulbright-italy-late-entry-checklist.md) |
-| Fulbright Spain ETA intake resume | [PDF](./application-materials/2026-07-27-fulbright-spain-eta-resume.pdf) and [LaTeX source](./application-materials/2026-07-27-fulbright-spain-eta-resume.tex) |
+| Retracted Fulbright Spain ETA intake checklist | [fulbright-italy-late-entry-checklist.md](./fulbright-italy-late-entry-checklist.md) |
+| Retracted Fulbright Spain ETA intake resume, retained for audit | [PDF](./application-materials/2026-07-27-fulbright-spain-eta-resume.pdf) and [LaTeX source](./application-materials/2026-07-27-fulbright-spain-eta-resume.tex) |
 | Current ProFellow capture queue | [profellow-opportunity-queue-2026-05-27.md](./profellow-opportunity-queue-2026-05-27.md) |
 | Current Fulbright award queue | [fulbright-awards-queue-2026-05-27.md](./fulbright-awards-queue-2026-05-27.md) |
 | Repeatable discovery workflow | [profellow-search-routine.md](./profellow-search-routine.md) |

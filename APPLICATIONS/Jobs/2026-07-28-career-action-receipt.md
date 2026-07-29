@@ -56,9 +56,8 @@ data, or legal-form answers.
 ## Genuine Handoffs
 
 - [ ] [Carman source correction](../Fellowships/carman-2027-source-correction.md):
-  review the proposed Fulbright Spain ETA redirect. No correction or redirect
-  message has been sent; Piter approves the wording before any advisor is
-  contacted.
+  review the proposed funded-PhD reference-pool correction. No message has
+  been sent; Piter approves the wording before any advisor is contacted.
 - [ ] [Fulbright Prospective Applicant Form](https://form.jotform.com/90414762363153):
   add pronouns, make the optional privacy choice, review the records waiver,
   draw the signature, acknowledge the appointment requirement, and submit.

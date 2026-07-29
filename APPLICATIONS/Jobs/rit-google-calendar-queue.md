@@ -21,9 +21,9 @@ Calendar permits them.
 
 | Date and time (EDT) | Calendar title | Status | Source / action |
 | --- | --- | --- | --- |
-| 2026-07-28, 9:00-9:45 AM | DEADLINE WORK BLOCK - Fulbright Spain ETA intake | Synced | Submit the Prospective Applicant Form, current resume, and Planning Tool; [checklist](../Fellowships/fulbright-italy-late-entry-checklist.md) |
+| 2026-07-28, 9:00-9:45 AM | RETRACTED - Fulbright Spain ETA intake | Corrected after review | Spain ETA is an English-teaching assistantship, not a CS-teaching award; do not submit it as the default route |
 | 2026-07-28, 10:00-10:30 AM | NYS ITS Virtual Career Information Session | Registered; synced | Join through [Handshake](https://rochester.joinhandshake.com/stu/events/1963665) five minutes early |
-| 2026-07-28, 3:00-3:20 PM | REVIEW - Advisor reference redirect plan | Corrected; synced | Review the proposed Carman-to-Fulbright Spain ETA redirect; do not email advisors until Piter approves the [recovery plan](../Fellowships/fulbright-spain-eta-reference-recovery-plan.md) |
+| 2026-07-28, 3:00-3:20 PM | REVIEW - Funded PhD reference recovery plan | Corrected; synced | Review the Carman correction and proposal to preserve Travis Desell, Daniel Krutz, and Zenon Borys for verified funded PhD applications; do not email advisors until Piter approves the [recovery plan](../Fellowships/advisor-reference-recovery-plan.md) |
 | 2026-07-31, 1:30-3:00 PM | EDU486 Poster Fair | Confirmed; synced | LeChase 215; finish from the existing poster draft |
 | 2026-07-31, 3:00-3:30 PM | CONFIRMED - Fulbright advising appointment | Confirmed; synced | Meet with the UofR Fellowships Office about the Spain ETA late-entry path |
 | 2026-08-03, 9:00-9:45 AM | REVIEW - Career application responses | Synced | Check Guidepoint, VDart, Health Data Max, UofR Fulbright advising, and Handshake responses |
@@ -50,7 +50,7 @@ Calendar permits them.
 
 - [x] Corrected the Carman source mix-up on 2026-07-28. Removed the letter
   delivery, submission work block, and submission deadline events; changed the
-  remaining block to review-only planning for a Fulbright Spain ETA redirect.
+  remaining block to review-only planning for funded PhD references.
 - [x] Authenticated the signed-in RIT Chrome profile as
   `pzg8794@g.rit.edu`.
 - [x] Imported all 23 events into the primary `Piter Garcia` calendar.

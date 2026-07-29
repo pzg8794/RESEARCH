@@ -7,8 +7,9 @@ Status: requests sent to all three references on 2026-07-27
 **Paused:** Do not send sample letters, correction messages, or new requests.
 The opportunity was misclassified, and current eligibility is uncertain. See
 the [source correction](./carman-2027-source-correction.md). A review-only
-[Fulbright Spain ETA redirect plan](./fulbright-spain-eta-reference-recovery-plan.md)
-is prepared, but Piter must approve it before any advisor is contacted.
+[advisor reference recovery plan](./advisor-reference-recovery-plan.md) is
+prepared for funded PhD applications, but Piter must approve it before any
+advisor is contacted.
 
 ## Program
 

@@ -36,9 +36,9 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
   sites/apps, not email links; dispute or freeze only if an item is unfamiliar.
 - [ ] **P0 - Reference recovery:** Review the proposed redirect of Travis
   Desell, Daniel Krutz, and Zenon Borys from the misclassified Carman request
-  to the verified Fulbright Spain ETA application. Do not email anyone until
-  Piter approves the
-  [recovery plan](../Fellowships/fulbright-spain-eta-reference-recovery-plan.md).
+  into a verified funded-PhD reference pool. Do not email anyone until Piter
+  approves the
+  [recovery plan](../Fellowships/advisor-reference-recovery-plan.md).
 - [ ] **P0 - RIT / ICNP paper:** Preserve the authenticated reviews, then set a
   coauthor decision meeting for revision and retargeting. The next version must
   clarify algorithms, allocator-policy interaction, physical threat grounding,
@@ -73,13 +73,10 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
   requires Tuesday attendance and conflicts with class. Registration and both
   calendar holds were closed.
 - [ ] **P0 - UofR / Fulbright:** The office confirmed that a late application
-  and campus endorsement are still possible. The reply, Planning Tool, Spain
-  ETA resume upload, and **Friday, July 31, 3:00-3:30 PM** appointment are
-  complete. Add pronouns, make the optional privacy choice, review the
-  applicant-only waiver/signature fields, and submit the Prospective Applicant
-  Form. Continue from the
-  [late-entry
-  checklist](../Fellowships/fulbright-italy-late-entry-checklist.md).
+  and campus endorsement are still possible. Keep the **Friday, July 31,
+  3:00-3:30 PM** appointment, but do not submit Spain ETA as the default route.
+  Ask the adviser to identify a Study/Research or partnership award aligned
+  with CS, AI, data, quantum, bioinformatics, or CS education.
 - [x] **Complete - Handshake / Health Data Max:** Submitted the targeted
   resume, cover letter, and combined unofficial transcripts on 2026-07-27.
   Check for a response on August 3.
@@ -129,7 +126,7 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 | P1 | Federal loan | Direct PLUS Loan application | Submission confirmation received 2026-06-30; RIT cannot apply additional aid or loans until full-time enrollment/FTE is confirmed | No separate application action. Monitor through the FTE and RIT Aid follow-up. |
 | P1 | Degree completion | Fall 2026 graduation application | RIT confirmed the application and stated that degree completion is on track if current courses are completed and the required GPA is maintained | Complete; recorded and unstarred on 2026-07-24. |
 | P2 | Campus logistics | 2026-27 parking permit | Reserved permits open 2026-08-10; general permits open **2026-08-12**. Local address must be current at least 24 hours before purchase, and the parking account must have a zero balance. | Decide whether a permit is needed. Keep starred only if a purchase is planned. |
-| Paused | Fellowship | [Carman International Fellowship](https://www.mosaicinfo.org/application/) | Misclassified using current requirements, older Carman descriptions, and the Luce placement model; the stated degree and international-experience expectations are not a clean match | No email or submission. Review the [Fulbright Spain ETA redirect](../Fellowships/fulbright-spain-eta-reference-recovery-plan.md) before contacting the three references. |
+| Paused | Fellowship | [Carman International Fellowship](https://www.mosaicinfo.org/application/) | Misclassified using current requirements, older Carman descriptions, and the Luce placement model; the stated degree and international-experience expectations are not a clean match | No email or submission. Review the [funded-PhD reference recovery plan](../Fellowships/advisor-reference-recovery-plan.md) before contacting the three references. |
 | P1 | Job | VDart Data Scientist | July 23 screening reply confirmed in Sent; no recruiter response | Check once on 2026-08-03. Do not send a duplicate message or resume without the requested work terms. |
 | P0 | Research | ICNP 2026 paper #330 | Rejected; authenticated reviews identify writing, novelty, algorithm-definition, physical-grounding, and evaluation-scale gaps | Preserve the review source, meet with coauthors, and retarget only after the gaps are addressed. |
 | P0 | Security | Repository deletion and revoked token | GitHub Support ticket `4592214` remains open; a leaked token was revoked | Keep both alerts visible. Review the support portal, identify affected repositories/integrations, and follow [repository safety](../../REPOSITORY_SAFETY.md). |
@@ -145,7 +142,7 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 | P0 | Teaching certification | [DASA and SAVE registrations](https://www.gvboces.org/o/gvb/page/professional-learning) | The June 6 registrations were cancelled because the selected payment option was not available to this student. Current re-registration total is $203 including the card fee. | Piter completes the official form, payment, sensitive identity fields, and CAPTCHA. Finish both asynchronous courses within 30 days after login credentials arrive. |
 | P0 | Degree completion | EDU486 July 31 poster session | Template email and existing course plan confirm a **2026-07-31, 1:30-3:00 PM** poster fair in LeChase 215 | Finish from the [existing EDU486 poster draft](https://github.com/pzg8794/EDU486/blob/main/assignments/04-poster-fair/poster-proposal-draft.md) and attend. Keep the email starred until complete. |
 | Closed | Teaching development | [myHub 2026 Teaching Retreat](https://rochester.joinhandshake.com/stu/events/1956131) | Two-day August 10-11 event requires Tuesday attendance and conflicts with class | Registration and both calendar holds closed on July 28. |
-| P0 | Fellowship | [Fulbright Spain English Teaching Assistant](https://us.fulbrightonline.org/countries/europe-and-eurasia/spain/1768) | Italy Deafness Studies is screened out because no ASL proficiency is documented; Spain ETA fits K-12 CS teacher preparation, classroom experience, native/fluent Spanish, and post-graduation availability | Planning Tool and resume upload complete; Friday, July 31, 3:00-3:30 PM meeting confirmed. Finish applicant-only pronouns, privacy, waiver, signature, acknowledgment, and submission fields. |
+| Paused | Fellowship | [Fulbright Spain English Teaching Assistant](https://us.fulbrightonline.org/countries/europe-and-eurasia/spain/1768) | English-teaching and cultural-exchange assistantship; supporting science or technology classes taught in English does not make it a CS-teaching award | Keep the July 31 advising meeting, but do not submit this as the default route. Ask whether a Study/Research or other Fulbright award genuinely matches CS, AI, data, quantum, bioinformatics, or CS education. |
 | P0 | Job | [Health Data Max Clinical Business Analyst Intern](https://rochester.joinhandshake.com/job-search/11219848) | Remote/hybrid, $20-$30/hour, 30 hours/week; tailored resume, cover letter, and transcripts submitted July 27 | Check for a response on **August 3** and confirm workable semester hours during screening. Official deadline is **2026-08-16 at 11:59 PM**. |
 | P0 | Job | LearningMate Subject Matter Expert | Targeted packet prepared; application not submitted | Upload both PDFs and submit by **2026-08-07 at 2:29 PM**. |
 | P0 | Job | Handshake AI Evaluation Specialist | Verified industry resume and documented CS/ML profile fields are complete | Piter reviews the legal agreements before `Next`, then completes government-ID verification. |
