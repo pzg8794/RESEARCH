@@ -35,20 +35,20 @@ observe.
 
 ## Required Explanation
 
-Do not say that the opportunity or research project expired. The Carman
-deadline remains publicly visible, and the problem was not expiration. The
-opportunity was misclassified after information from different programs was
-combined.
+The Carman deadline remains publicly visible, so do not say that Carman itself
+expired. The accurate concise explanation is that the Carman deadline and
+program materials were mixed up with a different research opportunity, and
+that the intended research opportunity is no longer accepting applications.
 
-The truthful, concise explanation is:
+Use:
 
-> After checking the official program description against my background, I
-> realized that I had conflated it with a different research opportunity and
-> that Carman is not the opportunity I intended to pursue.
+> When I reviewed the applications again, I realized that I had mixed up the
+> Carman deadline and program details with a different research opportunity.
+> The research opportunity I intended to pursue is no longer accepting
+> applications, so I am not moving forward with the Carman application.
 
-This removes the false August 1 obligation, accepts responsibility without
-blaming the recommender, and preserves trust for properly verified
-applications.
+This removes the August 1 obligation without discussing internal planning
+tools or creating the impression that Carman itself has expired.
 
 ## Proposed Cleanup Message
 
@@ -58,25 +58,18 @@ Use the existing Carman email thread. Do not send this until Piter approves it.
 >
 > Hi Professor/Dr. [Last Name],
 >
-> I am sorry for the rushed Carman Fellowship request. After checking the
-> official program description against my background, I realized that I had
-> conflated it with a different research opportunity and that Carman is not
-> the opportunity I intended to pursue. I have paused the application. Please
-> disregard the August 1 recommendation request; nothing is due from you.
+> I am sorry for the rushed recommendation request. When I reviewed the
+> applications again, I realized that I had mixed up the Carman deadline and
+> program details with a different research opportunity. The research
+> opportunity I intended to pursue is no longer accepting applications, so I
+> am not moving forward with the Carman application. Please disregard the
+> August 1 recommendation request; nothing is due from you.
 >
 > I am very grateful that you were willing to support me, and I apologize for
-> creating unnecessary urgency. I am now carefully verifying a smaller set of
-> funded PhD and research applications in computer science, data science, and
-> AI, with selected programs in quantum computing, computational biology, and
-> inclusive computer-science education where they match my work.
->
-> Would you be comfortable remaining part of my reference pool for the
-> programs that best match your direct experience with my work? I will first
-> verify each program, deadline, funding package, and recommendation format. I
-> will then send you one organized packet with my CV, research and teaching
-> statements, program list, deadlines, and the specific evidence most relevant
-> to your perspective, with reasonable notice. I will not register you in an
-> application system without confirming with you first.
+> the last-minute confusion and unnecessary urgency. I hope I may reach out
+> again for a properly verified funded PhD or research opportunity that
+> matches the work you know me through. I will provide the complete program
+> information and reasonable notice before making another request.
 >
 > Thank you for your patience and for being willing to help.
 >
