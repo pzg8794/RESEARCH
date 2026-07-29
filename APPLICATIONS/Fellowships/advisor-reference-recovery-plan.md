@@ -33,6 +33,23 @@ This combination supports both technical PhD programs and interdisciplinary
 CS-education programs without asking any recommender to claim work they did not
 observe.
 
+## Required Explanation
+
+Do not say that the opportunity or research project expired. The Carman
+deadline remains publicly visible, and the problem was not expiration. The
+opportunity was misclassified after information from different programs was
+combined.
+
+The truthful, concise explanation is:
+
+> After checking the official program description against my background, I
+> realized that I had conflated it with a different research opportunity and
+> that Carman is not the opportunity I intended to pursue.
+
+This removes the false August 1 obligation, accepts responsibility without
+blaming the recommender, and preserves trust for properly verified
+applications.
+
 ## Proposed Cleanup Message
 
 Use the existing Carman email thread. Do not send this until Piter approves it.
@@ -41,28 +58,27 @@ Use the existing Carman email thread. Do not send this until Piter approves it.
 >
 > Hi Professor/Dr. [Last Name],
 >
-> I am sorry for the rushed Carman Fellowship request and the August 1
-> deadline. After reviewing the current program more carefully, I realized
-> that I had misunderstood the opportunity and that it is not aligned with my
-> academic background or career goals. Please disregard the Carman request;
-> there is nothing due from you on August 1.
+> I am sorry for the rushed Carman Fellowship request. After checking the
+> official program description against my background, I realized that I had
+> conflated it with a different research opportunity and that Carman is not
+> the opportunity I intended to pursue. I have paused the application. Please
+> disregard the August 1 recommendation request; nothing is due from you.
 >
-> I am very grateful that you were willing to support me. I am preparing
-> funded PhD applications in computer science, data science and AI, quantum
-> computing, bioinformatics, and inclusive computer-science education for
-> 2027 entry. Those programs are much better aligned with the work you know me
-> through.
+> I am very grateful that you were willing to support me, and I apologize for
+> creating unnecessary urgency. I am now carefully verifying a smaller set of
+> funded PhD and research applications in computer science, data science, and
+> AI, with selected programs in quantum computing, computational biology, and
+> inclusive computer-science education where they match my work.
 >
 > Would you be comfortable remaining part of my reference pool for the
 > programs that best match your direct experience with my work? I will first
 > verify each program, deadline, funding package, and recommendation format. I
 > will then send you one organized packet with my CV, research and teaching
 > statements, program list, deadlines, and the specific evidence most relevant
-> to your perspective. I will not send any application invitation without
-> giving you reasonable notice.
+> to your perspective, with reasonable notice. I will not register you in an
+> application system without confirming with you first.
 >
-> I apologize again for the confusion and unnecessary urgency. Thank you for
-> your patience and for being willing to help.
+> Thank you for your patience and for being willing to help.
 >
 > Best,
 >
@@ -112,4 +128,3 @@ Add:
 3. Separate programs into open now, announced but not yet open, and
    faculty-contact or position-based applications.
 4. Build one reference matrix before any portal invitation is sent.
-
