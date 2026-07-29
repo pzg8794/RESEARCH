@@ -46,6 +46,21 @@ DESCRIPTION:EDU486 Poster Fair in one hour
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:20260731T144500-poster-fulbright-transition@research.local
+DTSTAMP:20260729T064500Z
+DTSTART;TZID=America/New_York:20260731T144500
+DTEND;TZID=America/New_York:20260731T150000
+SUMMARY:TRANSITION - Leave EDU486 Poster Fair for Fulbright
+LOCATION:LeChase 215 to Dewey Hall 4-209B
+DESCRIPTION:The EDU486 Poster Fair officially ends at 3:00 PM while the accepted Fulbright meeting begins at 3:00 PM in another building. Arrange poster coverage or notify the course team\, then leave by 2:45 PM.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Leave Poster Fair for Fulbright transition
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:20260803T090000-career-response-review@research.local
 DTSTAMP:20260727T120000Z
 DTSTART;TZID=America/New_York:20260803T090000

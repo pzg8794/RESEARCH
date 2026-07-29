@@ -25,6 +25,9 @@ private email bodies, recommender contact details, or secure form answers.
 - [x] Changed the August 24 Fulbright calendar item to a conditional checkpoint
   that forbids recommendation requests or submission until an aligned award
   is verified.
+- [x] Detected that the July 31 Poster Fair ends at the same time the
+  Fulbright meeting begins in another building. Added a live 2:45-3:00 PM
+  transition reminder from LeChase 215 to Dewey Hall 4-209B.
 - [x] Opened GitHub's deleted-repositories page and verified that
   [EDU486](https://github.com/pzg8794/EDU486) is an active public repository.
   GitHub's Restore action reports that the repository already exists on the
@@ -69,6 +72,7 @@ private email bodies, recommender contact details, or secure form answers.
 | Until GitHub Support replies | P0 | Keep ticket `4592214` visible and verify restoration of `DBSCAN`, `GAPP`, `Mobile-Detect`, `hello-express`, and `lodge-website`. Do not recreate, re-clone over, delete, or rewrite any repository while restoration is pending. |
 | Before issuing any replacement GitHub token | P0 | Identify and stop the external or removed Python process that used `vm-repo-token`. Any replacement must use least privilege and must not receive repository-delete or administration permission. |
 | By July 31 | P0 | Send the Airbnb August 2 guest access and arrival handoff through the platform. |
+| July 31, 2:45 PM | P0 | Arrange poster coverage or notify the EDU486 course team, then leave LeChase 215 for the 3:00 PM Fulbright meeting in Dewey Hall 4-209B. |
 | July 31, 3:00-4:00 PM | P0 | Attend the accepted Fulbright meeting. Ask which specific Study/Research or partnership award fits CS, AI, data, quantum, bioinformatics, or CS education; confirm eligibility, funding, host requirements, campus process, and recommendation timeline. |
 | August 3 | P1 | Check Guidepoint, VDart, Health Data Max, LearningMate, and other documented employer responses once. Do not include Carman or recommender acknowledgments in this review. |
 | August 5 and 7 | P1 | Attend the registered graduate writing retreat from noon-4:00 PM with the thesis/manuscript. |

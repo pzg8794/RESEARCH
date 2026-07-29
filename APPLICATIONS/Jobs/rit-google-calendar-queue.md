@@ -23,6 +23,7 @@ Calendar permits them.
 | --- | --- | --- | --- |
 | 2026-07-28, 10:00-10:30 AM | NYS ITS Virtual Career Information Session | Registered; synced | Join through [Handshake](https://rochester.joinhandshake.com/stu/events/1963665) five minutes early |
 | 2026-07-31, 1:30-3:00 PM | EDU486 Poster Fair | Confirmed; synced | LeChase 215; finish from the existing poster draft |
+| 2026-07-31, 2:45-3:00 PM | TRANSITION - Leave EDU486 Poster Fair for Fulbright | Added live and synced to source | Arrange poster coverage or notify the course team, then leave LeChase 215 for Dewey Hall 4-209B |
 | 2026-07-31, 3:00-4:00 PM | Piter Garcia, Fulbright initial meeting | Official invitation accepted | Dewey Hall 4-209B; identify a genuinely aligned award and verify eligibility, funding, host, application, and recommendation rules |
 | 2026-08-03, 9:00-9:45 AM | REVIEW - Career application responses | Synced | Check Guidepoint, VDart, Health Data Max, UofR Fulbright advising, and Handshake responses |
 
@@ -53,6 +54,9 @@ Calendar permits them.
   3:00-4:00 PM in Dewey Hall 4-209B.
 - [x] Changed the August 24 Fulbright event to a conditional checkpoint with
   an explicit no-recommender/no-submission boundary until an award is verified.
+- [x] Added a Friday, July 31, 2:45-3:00 PM transition reminder after detecting
+  that the Poster Fair ends when the Fulbright meeting begins in another
+  building.
 - [x] Corrected the Carman source mix-up on 2026-07-28. Removed the letter
   delivery, submission work block, and submission deadline events; changed the
   remaining block to review-only planning for funded PhD references.
@@ -74,7 +78,8 @@ Calendar permits them.
 
 Durable primary-calendar source:
 [2026-07-27-career-calendar.ics](./calendar-imports/2026-07-27-career-calendar.ics).
-The file now contains the 16 surviving primary-calendar events. The accepted
+The file now contains 17 primary-calendar events, including the July 31
+transition reminder. The accepted
 UofR invitation is supplied by the shared UofR calendar and is not duplicated
 in the import file. The original live import receipt remains 23 out of 23
 before the July 28 and July 29 reconciliation.
