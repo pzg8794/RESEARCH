@@ -1,9 +1,27 @@
 # Advisor Reference Recovery Plan
 
 Prepared: 2026-07-28
+Updated: 2026-07-29
 
-Status: **Review only. No correction, redirect, or application invitation has
-been emailed to any advisor.**
+Status: **Cleanup completed. Correction replies were sent to Professor Travis
+Desell, Dr. Daniel Krutz, and Dr. Zenon Borys on 2026-07-29. The August 1
+recommendation obligation was withdrawn, and no replacement application or
+portal invitation was sent.**
+
+## Completed Cleanup
+
+| Time (EDT) | Recommender | Verified result |
+| --- | --- | --- |
+| 2026-07-29 1:58 AM | Dr. Daniel Krutz | Replied in the active thread, acknowledged his willingness to help on short notice, and confirmed that nothing is due. His processed reply was removed from Starred. |
+| 2026-07-29 1:59 AM | Professor Travis Desell | Replied in the active thread, acknowledged his willingness to help while traveling, and confirmed that nothing is due. His processed reply was removed from Starred. |
+| 2026-07-29 2:00 AM | Dr. Zenon Borys | Replied in the original request thread and confirmed that nothing is due. He had not replied before the correction was sent. |
+
+The Gmail verification search also showed a duplicate original request to Dr.
+Krutz. A redundant second correction was not sent because the correction was
+already delivered in his active reply thread.
+
+No recommendation was submitted, no recommender was registered in an
+application portal, and no further Carman reference action is due.
 
 ## Correct Decision
 
@@ -50,66 +68,44 @@ Use:
 This removes the August 1 obligation without discussing internal planning
 tools or creating the impression that Carman itself has expired.
 
-## Proposed Cleanup Message
+## Sent Cleanup Message
 
-Use the existing Carman email thread. Do not send this until Piter approves it.
+Piter approved concise, individualized versions of the following message. Each
+was sent in the existing Carman email thread:
 
-> Subject: Correction to my recommendation request
->
 > Hi Professor/Dr. [Last Name],
 >
-> I am sorry for the rushed recommendation request. When I reviewed the
-> applications again, I realized that I had mixed up the Carman deadline and
-> program details with a different research opportunity. The research
-> opportunity I intended to pursue is no longer accepting applications, so I
-> am not moving forward with the Carman application. Please disregard the
-> August 1 recommendation request; nothing is due from you.
+> My apologies. I just received an email from the person who originally
+> reached out to me letting me know that the research opportunity I was
+> interested in is no longer accepting applications. Please disregard my
+> recommendation request; nothing is due from you.
 >
-> I am very grateful that you were willing to support me, and I apologize for
-> the last-minute confusion and unnecessary urgency. I hope I may reach out
-> again for a properly verified funded PhD or research opportunity that
-> matches the work you know me through. I will provide the complete program
-> information and reasonable notice before making another request.
+> I sincerely appreciate your willingness to support me, and I apologize for
+> the last-minute request. I will make sure to provide complete information
+> and reasonable notice before making another request.
 >
-> Thank you for your patience and for being willing to help.
->
-> Best,
+> Thank you again,
 >
 > Piter Garcia
 
-### Travis Personalization
+The Travis version thanked him specifically for offering support while
+traveling. The Daniel version thanked him for helping on short notice. The
+Zenon version thanked him for considering the request.
 
-Add:
+## Completion And Future Rules
 
-> Your perspective as my Neural Networks professor and DSCI 601 adviser would
-> be especially valuable for programs evaluating my machine-learning,
-> data-science, research, technical-writing, and graduate-study preparation.
-
-### Daniel Personalization
-
-Add:
-
-> Your perspective on my software and data-systems work, technical rigor,
-> documentation, collaboration, and research preparation would be especially
-> valuable.
-
-### Zenon Personalization
-
-Add:
-
-> Your perspective as my teacher and adviser would be especially valuable for
-> programs evaluating my CS teaching, inclusive pedagogy, classroom
-> preparation, educational-equity work, and commitment to disability access.
-
-## Rules Before Sending
-
-- [ ] Piter approves the core message and each personalization.
-- [ ] Do not promise a deadline until the official program page and portal are
-  verified.
-- [ ] Do not register anyone in an application portal before they agree.
-- [ ] Give each recommender a program map and evidence lens.
-- [ ] Give at least four weeks when the application cycle permits it.
-- [ ] Keep all final recommendations confidential and recommender-controlled.
+- [x] Piter approved the core message and each personalization.
+- [x] Use the existing email threads and only the name Piter Garcia.
+- [x] Do not redirect the recommenders to another opportunity in the cleanup
+  message.
+- [x] Do not register anyone in an application portal as part of this cleanup.
+- [x] Keep all draft and final recommendations confidential and
+  recommender-controlled.
+- [ ] Do not promise a future deadline until the official program page and
+  portal are verified.
+- [ ] Give each recommender a verified program map and evidence lens with the
+  next request.
+- [ ] Give at least four weeks of notice when the application cycle permits it.
 
 ## Next Application Work
 

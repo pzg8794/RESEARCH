@@ -1,6 +1,6 @@
 # August-September 2026 Application Action Plan
 
-Updated: 2026-07-28
+Updated: 2026-07-29
 
 Scheduling rule: avoid Tuesdays and Thursdays for meetings, events, and work
 blocks. Use Thursday after 4:30 PM only when it is the sole option. Keep fixed
@@ -10,11 +10,11 @@ official deadlines on their true dates and prepare earlier.
 
 - [x] Request the 2027 Carman International Fellowship application packet.
 - [x] Correct the Carman source mix-up and pause submission.
-- [x] Freeze Carman reference outreach; no correction or redirect has been
-  emailed.
-- [ ] Review the
+- [x] Close Carman reference outreach; correction replies were sent to Travis
+  Desell, Daniel Krutz, and Zenon Borys on 2026-07-29, and nothing is due.
+- [x] Review and complete the
   [advisor reference recovery plan](./advisor-reference-recovery-plan.md)
-  before contacting any advisor.
+  without redirecting any advisor to an unverified opportunity.
 - [x] Verify the Jobot Senior Data Scientist listing and application form.
 - [x] Prepare the Jobot application resume.
 - [x] Ask the VDart recruiter for client, compensation, hours, and travel
@@ -51,7 +51,7 @@ official deadlines on their true dates and prepare earlier.
   exists.
 - [x] Confirm the advising meeting for **Friday, July 31, 3:00-3:30 PM EDT**.
 
-## Carman: Paused, Deadline August 1
+## Carman: Closed After Source Mismatch
 
 - [x] Save the official application link.
 - [x] Build the
@@ -66,12 +66,14 @@ official deadlines on their true dates and prepare earlier.
 - [x] Audit the source mismatch. The high-fit description combined current
   Carman requirements, older Carman fellow accounts, and the Luce Scholars
   placement model.
-- [ ] After Piter's review, ask the three advisers to remain in the reference
-  pool for verified funded PhD applications. Do not send a replacement portal
-  invitation yet.
-- [ ] Continue only if Mosaic confirms that the documented degree path and
-  experience satisfy the current eligibility language and Piter still wants
-  this international-service role.
+- [x] Send concise correction replies to all three advisers and withdraw the
+  August 1 recommendation obligation.
+- [x] Do not send sample letters or a replacement portal invitation.
+- [x] Stop the Carman application because the role and eligibility do not
+  match the intended research opportunity.
+- [ ] Reuse the reference pool only through a new, verified request for a
+  funded PhD or aligned research opportunity with complete information and
+  reasonable notice.
 
 ## E2: Priority Due August 15
 
@@ -130,19 +132,21 @@ official deadlines on their true dates and prepare earlier.
   role is English teaching.
 - [x] Map Travis Desell, Daniel Krutz, and Zenon Borys to distinct,
   evidence-grounded PhD admissions lenses.
-- [ ] Obtain Piter's approval of the
+- [x] Obtain Piter's approval of the
   [cleanup message](./advisor-reference-recovery-plan.md).
-- [ ] Send only the correction and request to remain in the funded-PhD
-  reference pool after approval.
+- [x] Send only the correction; do not redirect the advisers within the
+  cleanup message.
+- [x] Remove Daniel's and Travis's processed replies from Starred.
+- [ ] For the next verified application, send a separate request with the
+  official program details, evidence packet, and reasonable notice.
 - [ ] Verify every PhD program, funding package, deadline, and recommendation
   format before sending any portal invitation.
 
 ## Next Phase After Reference Repair
 
-- [ ] After Piter approves the advisor correction and redirect, begin funded
-  PhD application setup for RIT, University of Rochester, NYU, and additional
-  high-support programs with strong AI, quantum, bioinformatics, or inclusive
-  CS-teaching fit.
+- [ ] After the completed reference repair, begin funded PhD application setup
+  for RIT, University of Rochester, NYU, and additional high-support programs
+  with strong AI, quantum, bioinformatics, or inclusive CS-teaching fit.
 - [ ] Reuse the same reference pool through official application systems where
   appropriate, but verify each program's current funding, stipend, fee,
   deadline, faculty fit, and recommendation rules before contacting anyone.

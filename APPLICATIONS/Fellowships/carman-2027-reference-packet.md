@@ -1,15 +1,15 @@
 # Carman 2027 Reference Packet
 
-Updated: 2026-07-28
+Updated: 2026-07-29
 
-Status: requests sent to all three references on 2026-07-27
+Status: **Reference outreach closed.** Requests were sent to all three
+references on 2026-07-27, and correction replies were sent to all three on
+2026-07-29. Nothing is due from any recommender.
 
-**Paused:** Do not send sample letters, correction messages, or new requests.
-The opportunity was misclassified, and current eligibility is uncertain. See
-the [source correction](./carman-2027-source-correction.md). A review-only
-[advisor reference recovery plan](./advisor-reference-recovery-plan.md) is
-prepared for funded PhD applications, but Piter must approve it before any
-advisor is contacted.
+The opportunity was misclassified and is no longer being pursued. See the
+[source correction](./carman-2027-source-correction.md) and the completed
+[advisor reference recovery plan](./advisor-reference-recovery-plan.md). Do
+not send sample letters, new Carman requests, or an August 1 reminder.
 
 ## Program
 
@@ -104,12 +104,11 @@ Evidence packet:
   incorporated on 2026-07-28.
 - [x] Prepared individualized, apologetic email notes with the official
   program and application links.
-- [ ] Piter gives final approval to the revised letters and email notes.
-- [ ] Each recommender confirms the scope of direct knowledge, revises the
-  sample into their own voice, adds institutional letterhead and signature,
-  and sends the final letter directly to Mosaic.
+- [x] Piter approved the correction replies on 2026-07-29.
+- [x] No sample letter was sent to a recommender.
+- [x] No recommender was asked to revise, sign, or submit a Carman letter.
 
-No recommendation letter has been sent or submitted from this review step.
+No recommendation letter has been sent or submitted.
 
 ## Outreach Receipt
 
@@ -119,9 +118,16 @@ No recommendation letter has been sent or submitted from this review step.
   systems, research preparation, and documentation lens.
 - [x] Zenon Borys request sent with the inclusive CS teaching, educational
   equity, and disability-access lens.
-- [ ] Confirm acceptance by 2026-07-28.
-- [ ] Confirm direct program delivery by 2026-07-29, with 2026-08-01 as the
-  official receipt deadline.
+- [x] Daniel Krutz correction sent in his active reply thread on 2026-07-29;
+  nothing is due.
+- [x] Travis Desell correction sent in his active reply thread on 2026-07-29;
+  nothing is due.
+- [x] Zenon Borys correction sent in the original request thread on
+  2026-07-29; nothing is due.
+- [x] Processed replies from Daniel and Travis removed from Starred.
+- [x] Duplicate original Daniel request identified; no redundant second
+  correction sent because the correction was already delivered in his active
+  thread.
 
 Private reference contact details and recommendation letters do not belong in
 this repository.
