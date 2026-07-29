@@ -21,6 +21,7 @@ Use this folder when an opportunity comes from ProFellow, an external fellowship
 | Retracted Fulbright Spain ETA intake resume, retained for audit | [PDF](./application-materials/2026-07-27-fulbright-spain-eta-resume.pdf) and [LaTeX source](./application-materials/2026-07-27-fulbright-spain-eta-resume.tex) |
 | Current ProFellow capture queue | [profellow-opportunity-queue-2026-05-27.md](./profellow-opportunity-queue-2026-05-27.md) |
 | Current Fulbright award queue | [fulbright-awards-queue-2026-05-27.md](./fulbright-awards-queue-2026-05-27.md) |
+| Verified Fulbright research shortlist, funding, and reference plan | [fulbright-study-research-shortlist-2027-2028.md](./fulbright-study-research-shortlist-2027-2028.md) |
 | Repeatable discovery workflow | [profellow-search-routine.md](./profellow-search-routine.md) |
 | Active Mira packet already staged | [../Mira/2026-05-27-mira-written-materials.tex](../Mira/2026-05-27-mira-written-materials.tex) |
 | Active Mira PDF artifact | [../Mira/2026-05-27-mira-written-materials.pdf](../Mira/2026-05-27-mira-written-materials.pdf) |

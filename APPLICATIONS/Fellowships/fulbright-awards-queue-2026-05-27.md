@@ -1,10 +1,14 @@
 # Fulbright Awards Queue
 
-Updated: 2026-07-27
+Updated: 2026-07-28
 
 This is the official-source queue for Fulbright U.S. Student Program opportunities that look promising for research and graduate-study planning.
 
 Unlike ProFellow, the Fulbright site does not provide the same logged-in bookmark workflow here, so this file is the durable bookmark set.
+
+For the corrected research route, current funding details, and the distinction
+between a Fulbright research grant and a fully funded PhD, start with
+[Fulbright Study/Research Shortlist, 2027-2028](./fulbright-study-research-shortlist-2027-2028.md).
 
 ## Eligibility and timing notes
 
@@ -74,10 +78,11 @@ Unlike ProFellow, the Fulbright site does not provide the same logged-in bookmar
 
 1. Do not submit the prefilled Spain ETA Prospective Applicant Form as the
    default route.
-2. Keep the July 31 Fellowships Office appointment and ask which
-   Study/Research or partnership award genuinely fits CS, AI, data, quantum,
-   bioinformatics, or CS education.
-3. Build an initial Sweden + Norway + Germany host list.
-4. Decide whether the Finland partnership awards are worth the separate
+2. Keep the July 31 Fellowships Office appointment and confirm the correction
+   to Open Study/Research, led by Norway.
+3. Select one research project before contacting hosts or revising
+   recommendation requests.
+4. Build an initial Norway + Sweden + Germany host list.
+5. Decide whether the Finland partnership awards are worth the separate
    admission workload this cycle.
-5. Keep this queue aligned with the main roadmap and campus Fulbright notes.
+6. Keep this queue aligned with the main roadmap and campus Fulbright notes.
