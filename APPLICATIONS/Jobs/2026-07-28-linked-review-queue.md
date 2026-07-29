@@ -10,8 +10,10 @@ that could be completed safely from the documented record was handled.
 
 - [ ] **Carman International Fellowship - paused, do not submit.**
   The earlier high-fit assessment was a source mix-up. Review the
-  [correction](../Fellowships/carman-2027-source-correction.md); references
-  should be told not to send letters while eligibility is unresolved.
+  [correction](../Fellowships/carman-2027-source-correction.md) and the
+  [Fulbright Spain ETA reference recovery
+  plan](../Fellowships/fulbright-spain-eta-reference-recovery-plan.md).
+  No advisor email should be sent until Piter approves the redirect wording.
 - [ ] **Fulbright Prospective Applicant Form.**
   [Open the form](https://form.jotform.com/90414762363153). The Spain ETA resume
   is attached and the documented profile is filled. Add pronouns, choose the

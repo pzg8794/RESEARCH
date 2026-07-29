@@ -10,8 +10,11 @@ official deadlines on their true dates and prepare earlier.
 
 - [x] Request the 2027 Carman International Fellowship application packet.
 - [x] Correct the Carman source mix-up and pause submission.
-- [ ] Tell the three Carman references that no letter should be sent while
-  eligibility is unresolved.
+- [x] Freeze Carman reference outreach; no correction or redirect has been
+  emailed.
+- [ ] Review the
+  [Fulbright Spain ETA reference recovery plan](./fulbright-spain-eta-reference-recovery-plan.md)
+  before contacting any advisor.
 - [x] Verify the Jobot Senior Data Scientist listing and application form.
 - [x] Prepare the Jobot application resume.
 - [x] Ask the VDart recruiter for client, compensation, hours, and travel
@@ -63,7 +66,9 @@ official deadlines on their true dates and prepare earlier.
 - [x] Audit the source mismatch. The high-fit description combined current
   Carman requirements, older Carman fellow accounts, and the Luce Scholars
   placement model.
-- [ ] Notify all three references that no letter should be sent yet.
+- [ ] After Piter's review and the July 31 Fulbright advising meeting, redirect
+  the three references to Fulbright Spain ETA rather than wasting their
+  willingness to help.
 - [ ] Continue only if Mosaic confirms that the documented degree path and
   experience satisfy the current eligibility language and Piter still wants
   this international-service role.
@@ -108,13 +113,39 @@ official deadlines on their true dates and prepare earlier.
 
 ## Luce: Due September 8
 
-- [ ] Confirm age, citizenship/permanent-residency, and prior-Asia-residency
-  eligibility before beginning the application.
+- [x] Document the official program description, expectations, requirements,
+  selection criteria, and currently verified support in the
+  [Luce dossier](./luce-2027-2028-opportunity-dossier.md).
+- [ ] Confirm the under-33-at-departure and prior-Asia-residency rules before
+  beginning the application.
 - [ ] If eligible, complete the eligibility questionnaire by August 5.
 - [ ] Draft the 500-word personal statement and five short answers by August 17.
 - [ ] Request two recommendations by August 10; one must be professional.
 - [ ] Record the 1-2 minute video by August 24.
 - [ ] Submit by September 6.
+
+## Fulbright Spain ETA References: Campus Due August 24
+
+- [x] Verify that ETA uses exactly three confidential online recommendation
+  forms rather than letters.
+- [x] Map Travis Desell, Daniel Krutz, and Zenon Borys to distinct,
+  evidence-grounded recommendation lenses.
+- [ ] Confirm the redirect strategy with the UofR Fulbright adviser on July 31.
+- [ ] Obtain Piter's approval before emailing any recommender.
+- [ ] Send the correction and redirect only after approval.
+- [ ] Provide the completed Statement of Grant Purpose, short responses,
+  official Spain description, writer instructions, and August 24 campus
+  deadline.
+
+## Next Phase After Reference Repair
+
+- [ ] After Piter approves the advisor correction and redirect, begin funded
+  PhD application setup for RIT, University of Rochester, NYU, and additional
+  high-support programs with strong AI, quantum, bioinformatics, or inclusive
+  CS-teaching fit.
+- [ ] Reuse the same reference pool through official application systems where
+  appropriate, but verify each program's current funding, stipend, fee,
+  deadline, faculty fit, and recommendation rules before contacting anyone.
 
 ## CAORC: September 4 and September 15
 

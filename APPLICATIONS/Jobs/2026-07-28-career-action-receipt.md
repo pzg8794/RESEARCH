@@ -56,8 +56,9 @@ data, or legal-form answers.
 ## Genuine Handoffs
 
 - [ ] [Carman source correction](../Fellowships/carman-2027-source-correction.md):
-  tell the three contacted references that the application is paused and that
-  no letter should be sent while eligibility is unresolved.
+  review the proposed Fulbright Spain ETA redirect. No correction or redirect
+  message has been sent; Piter approves the wording before any advisor is
+  contacted.
 - [ ] [Fulbright Prospective Applicant Form](https://form.jotform.com/90414762363153):
   add pronouns, make the optional privacy choice, review the records waiver,
   draw the signature, acknowledge the appointment requirement, and submit.

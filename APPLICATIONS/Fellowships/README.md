@@ -10,6 +10,9 @@ Use this folder when an opportunity comes from ProFellow, an external fellowship
 | --- | --- |
 | RIT opportunity review and verified deadlines | [rit-opportunity-log-2026-07-23.md](./rit-opportunity-log-2026-07-23.md) |
 | August-September execution checklist | [august-september-2026-action-plan.md](./august-september-2026-action-plan.md) |
+| Fulbright Spain ETA reference recovery plan | [fulbright-spain-eta-reference-recovery-plan.md](./fulbright-spain-eta-reference-recovery-plan.md) |
+| Luce official description, requirements, and eligibility gate | [luce-2027-2028-opportunity-dossier.md](./luce-2027-2028-opportunity-dossier.md) |
+| Carman source correction | [carman-2027-source-correction.md](./carman-2027-source-correction.md) |
 | Carman live-form workbook and essay drafts | [carman-2027-form-and-essay-workbook.md](./carman-2027-form-and-essay-workbook.md) |
 | Carman deadline and submission checklist | [carman-2027-application-checklist.md](./carman-2027-application-checklist.md) |
 | Carman contacted reference trio and evidence packet | [carman-2027-reference-packet.md](./carman-2027-reference-packet.md) |
@@ -30,6 +33,8 @@ Use this folder when an opportunity comes from ProFellow, an external fellowship
 4. Move an item into the main PhD roadmap only after the official university or fellowship page is checked.
 5. Keep private portal evidence, payment details, transcripts, and recommendation-letter logistics outside this public-safe repo.
 6. For Fulbright, use the queue file as the durable bookmark layer because the official site does not provide the same account-bookmark workflow as ProFellow.
+7. Do not contact or register recommenders until hard eligibility requirements
+   and the current official opportunity description are verified.
 
 ## Folder intent
 

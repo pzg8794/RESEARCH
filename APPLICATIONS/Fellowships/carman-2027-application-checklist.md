@@ -37,8 +37,11 @@ background. See the [source correction](./carman-2027-source-correction.md).
   Google Drive storage, outside the public repository.
 - [x] Complete the first factual review of the Travis Desell, Daniel Krutz,
   and Zenon Borys samples and incorporate Piter's corrections on 2026-07-28.
-- [ ] Notify the three contacted references that the application is paused and
-  that no letter should be sent yet.
+- [x] Freeze reference outreach. No correction or redirect message has been
+  sent.
+- [ ] Review the
+  [Fulbright Spain ETA reference recovery plan](./fulbright-spain-eta-reference-recovery-plan.md)
+  and redirect only after Piter approves the message.
 - [ ] Ask Mosaic whether Piter's data science, computer science, and inclusive
   teaching background satisfies the stated degree-focus and prior
   international-setting requirements, but only if this service route remains

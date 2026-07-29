@@ -58,9 +58,11 @@ experience requirements.
 
 - [x] Preserve the Carman work as an audit trail.
 - [x] Remove Carman from the active submit-now queue.
-- [ ] Tell the three contacted references that the application is paused while
-  eligibility is clarified and that no letter should be sent yet.
+- [x] Freeze all reference outreach. No correction or redirect message has
+  been sent.
+- [ ] After Piter reviews the wording and the July 31 advising meeting confirms
+  the strategy, redirect the three references to the verified Fulbright Spain
+  ETA application.
 - [ ] Ask Mosaic one concise eligibility question only if Piter still wants
   the international-service route.
 - [ ] Prioritize the Luce eligibility check before preparing its application.
-
