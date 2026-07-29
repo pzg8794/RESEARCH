@@ -1,6 +1,6 @@
 # Email Action Queue
 
-Updated: 2026-07-28
+Updated: 2026-07-29
 
 This is the public-safe todo list for important career, funding, registration,
 degree-completion, and financial email from the RIT, University of Rochester,
@@ -34,11 +34,10 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 - [ ] **P0 - Personal / identity:** Verify the new-account and new-address
   alerts directly with the credit bureaus and issuers today. Use official
   sites/apps, not email links; dispute or freeze only if an item is unfamiliar.
-- [ ] **P0 - Reference recovery:** Review the proposed redirect of Travis
-  Desell, Daniel Krutz, and Zenon Borys from the misclassified Carman request
-  into a verified funded-PhD reference pool. Do not email anyone until Piter
-  approves the
-  [recovery plan](../Fellowships/advisor-reference-recovery-plan.md).
+- [x] **Closed - Reference recovery:** Correction replies were sent to Travis
+  Desell, Daniel Krutz, and Zenon Borys on July 29. Nothing is due, no
+  acknowledgment should be chased, and no replacement opportunity was sent.
+  See the [follow-up reconciliation](./2026-07-29-follow-up-reconciliation.md).
 - [ ] **P0 - RIT / ICNP paper:** Preserve the authenticated reviews, then set a
   coauthor decision meeting for revision and retargeting. The next version must
   clarify algorithms, allocator-policy interaction, physical threat grounding,
@@ -48,9 +47,16 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
   contains only a placeholder note. Reconcile the promised Algorithm 2,
   EQUITAS equity-focused mediation, context-spectrum table, pagination, and
   cross-reference edits against the current thesis source.
-- [ ] **P0 - repository safety:** Review GitHub Support ticket `4592214` and
-  the restorable-repository page. Do not delete, overwrite, or re-clone any
-  repository. Audit the revoked-token incident without storing the token.
+- [x] **P0 - repository triage:** Reviewed GitHub Support ticket `4592214`,
+  the deleted-repositories page, the exact implicated token, and active web
+  sessions. [EDU486](https://github.com/pzg8794/EDU486) is active;
+  `vm-repo-token` is expired; no extra web session or local DataScience script
+  using that token was found.
+- [ ] **P0 - repository restoration:** GitHub Support must restore `DBSCAN`,
+  `GAPP`, `Mobile-Detect`, `hello-express`, and `lodge-website`. A factual
+  reply requesting support-side restoration was sent July 29. Keep ticket
+  `4592214` visible and do not recreate, overwrite, re-clone over, or delete
+  any repository.
 - [ ] **P0 - UofR / financial aid:** Complete the graduate/professional Direct
   Loan Master Promissory Note and the required in-person identity
   verification. The newest notice no longer lists the Aid Enrollment Plan.
@@ -73,10 +79,11 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
   requires Tuesday attendance and conflicts with class. Registration and both
   calendar holds were closed.
 - [ ] **P0 - UofR / Fulbright:** The office confirmed that a late application
-  and campus endorsement are still possible. Keep the **Friday, July 31,
-  3:00-3:30 PM** appointment, but do not submit Spain ETA as the default route.
-  Ask the adviser to identify a Study/Research or partnership award aligned
-  with CS, AI, data, quantum, bioinformatics, or CS education.
+  and campus endorsement are still possible. The official invitation is
+  accepted for **Friday, July 31, 3:00-4:00 PM** in Dewey Hall 4-209B. Do not
+  submit Spain ETA as the default route. Ask the adviser to identify and
+  verify a Study/Research or partnership award aligned with CS, AI, data,
+  quantum, bioinformatics, or CS education before contacting recommenders.
 - [x] **Complete - Handshake / Health Data Max:** Submitted the targeted
   resume, cover letter, and combined unofficial transcripts on 2026-07-27.
   Check for a response on August 3.
@@ -126,10 +133,10 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 | P1 | Federal loan | Direct PLUS Loan application | Submission confirmation received 2026-06-30; RIT cannot apply additional aid or loans until full-time enrollment/FTE is confirmed | No separate application action. Monitor through the FTE and RIT Aid follow-up. |
 | P1 | Degree completion | Fall 2026 graduation application | RIT confirmed the application and stated that degree completion is on track if current courses are completed and the required GPA is maintained | Complete; recorded and unstarred on 2026-07-24. |
 | P2 | Campus logistics | 2026-27 parking permit | Reserved permits open 2026-08-10; general permits open **2026-08-12**. Local address must be current at least 24 hours before purchase, and the parking account must have a zero balance. | Decide whether a permit is needed. Keep starred only if a purchase is planned. |
-| Paused | Fellowship | [Carman International Fellowship](https://www.mosaicinfo.org/application/) | Misclassified using current requirements, older Carman descriptions, and the Luce placement model; the stated degree and international-experience expectations are not a clean match | No email or submission. Review the [funded-PhD reference recovery plan](../Fellowships/advisor-reference-recovery-plan.md) before contacting the three references. |
+| Closed | Fellowship | [Carman International Fellowship](https://www.mosaicinfo.org/application/) | Misclassified using current requirements, older Carman descriptions, and the Luce placement model; reference corrections were sent July 29 | No application, eligibility inquiry, letter check, acknowledgment chase, reminder, or submission remains. |
 | P1 | Job | VDart Data Scientist | July 23 screening reply confirmed in Sent; no recruiter response | Check once on 2026-08-03. Do not send a duplicate message or resume without the requested work terms. |
 | P0 | Research | ICNP 2026 paper #330 | Rejected; authenticated reviews identify writing, novelty, algorithm-definition, physical-grounding, and evaluation-scale gaps | Preserve the review source, meet with coauthors, and retarget only after the gaps are addressed. |
-| P0 | Security | Repository deletion and revoked token | GitHub Support ticket `4592214` remains open; a leaked token was revoked | Keep both alerts visible. Review the support portal, identify affected repositories/integrations, and follow [repository safety](../../REPOSITORY_SAFETY.md). |
+| P0 | Security | Repository deletion and implicated token | Ticket `4592214` remains open. EDU486 is active. Support-side restoration was requested July 29 for `DBSCAN`, `GAPP`, `Mobile-Detect`, `hello-express`, and `lodge-website`. The exact implicated `vm-repo-token` is expired, and no extra web session or matching local DataScience script was found. | Keep the Support ticket visible until all five repositories are restored and verified. Do not issue a replacement token until the responsible Python process is identified; any replacement must exclude repository-delete and administration permission. Follow [repository safety](../../REPOSITORY_SAFETY.md). |
 | P0 | Job | [Onward Search Creative Project Manager](https://www.indeed.com/viewjob?jk=03b29d4ec5d73a0b) | Live remote AI/ML project-management contract at $45-$50/hour | Verify weekly hours and time zone, then prepare the project-management resume if compatible with Fall study. |
 | P0 | Job | [Jobot ML Solution Architect](https://jobot.com/details/ml-solution-architect/47904ae801) | Live remote role; strong fit but six-year requirement is a stretch | Prepare one architecture-focused resume, then obtain action-time confirmation before applying. |
 | P1 | Job | Diverse Lynx AI Platform Architect | Advertised remote/full-time, but client and work terms are unverified | Screen client, authorization, hours/time zone, travel, stack, benefits, and interview process before sending a resume. |
@@ -142,7 +149,7 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 | P0 | Teaching certification | [DASA and SAVE registrations](https://www.gvboces.org/o/gvb/page/professional-learning) | The June 6 registrations were cancelled because the selected payment option was not available to this student. Current re-registration total is $203 including the card fee. | Piter completes the official form, payment, sensitive identity fields, and CAPTCHA. Finish both asynchronous courses within 30 days after login credentials arrive. |
 | P0 | Degree completion | EDU486 July 31 poster session | Template email and existing course plan confirm a **2026-07-31, 1:30-3:00 PM** poster fair in LeChase 215 | Finish from the [existing EDU486 poster draft](https://github.com/pzg8794/EDU486/blob/main/assignments/04-poster-fair/poster-proposal-draft.md) and attend. Keep the email starred until complete. |
 | Closed | Teaching development | [myHub 2026 Teaching Retreat](https://rochester.joinhandshake.com/stu/events/1956131) | Two-day August 10-11 event requires Tuesday attendance and conflicts with class | Registration and both calendar holds closed on July 28. |
-| Paused | Fellowship | [Fulbright Spain English Teaching Assistant](https://us.fulbrightonline.org/countries/europe-and-eurasia/spain/1768) | English-teaching and cultural-exchange assistantship; supporting science or technology classes taught in English does not make it a CS-teaching award | Keep the July 31 advising meeting, but do not submit this as the default route. Ask whether a Study/Research or other Fulbright award genuinely matches CS, AI, data, quantum, bioinformatics, or CS education. |
+| Paused | Fellowship | [Fulbright Spain English Teaching Assistant](https://us.fulbrightonline.org/countries/europe-and-eurasia/spain/1768) | English-teaching and cultural-exchange assistantship; supporting science or technology classes taught in English does not make it a CS-teaching award | Attend the accepted July 31, 3:00-4:00 PM advising meeting, but do not submit this as the default route. Continue only with a specifically verified Study/Research or other aligned award. |
 | P0 | Job | [Health Data Max Clinical Business Analyst Intern](https://rochester.joinhandshake.com/job-search/11219848) | Remote/hybrid, $20-$30/hour, 30 hours/week; tailored resume, cover letter, and transcripts submitted July 27 | Check for a response on **August 3** and confirm workable semester hours during screening. Official deadline is **2026-08-16 at 11:59 PM**. |
 | P0 | Job | LearningMate Subject Matter Expert | Targeted packet prepared; application not submitted | Upload both PDFs and submit by **2026-08-07 at 2:29 PM**. |
 | P0 | Job | Handshake AI Evaluation Specialist | Verified industry resume and documented CS/ML profile fields are complete | Piter reviews the legal agreements before `Next`, then completes government-ID verification. |
@@ -191,6 +198,14 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 
 ## Completed in This Pass
 
+- [x] July 29 reconciliation: closed Carman and reference follow-ups, discarded
+  the stale Teresa/Mosaic draft, cleared the remaining Carman stars and
+  waiting labels, removed three obsolete calendar items, accepted the official
+  3:00-4:00 PM Fulbright invitation, and made August 24 conditional.
+- [x] July 29 repository audit: verified EDU486 is active, identified the five
+  repositories requiring support-side restoration, replied to ticket
+  `4592214`, confirmed `vm-repo-token` is expired, reviewed web sessions, and
+  found no matching custom deletion script under DataScience.
 - [x] July 28 refresh: confirmed the Friday Fulbright advising appointment,
   attached the Spain ETA resume to the Prospective Applicant Form, and recorded
   the remaining applicant-only fields.
@@ -234,8 +249,9 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
   2026-07-25.
 - [x] Recorded the FTE form submission and corrected the stale `request sent`
   status; approval and the Registrar form are still pending.
-- [x] Replaced the stale Carman packet-follow-up task with the live application,
-  three-letter requirement, and July 31 internal submission target.
+- [x] Historical July 27 action: replaced the stale Carman packet-follow-up
+  with the live application and letter requirements. This was later reversed
+  and fully closed in the July 29 reconciliation.
 - [x] Verified the current Jobot ML architecture and healthcare-data roles and
   recovered the remote AI/ML Creative Project Manager lead from ProFellow.
 - [x] Recorded the ICNP rejection and public-safe revision themes without

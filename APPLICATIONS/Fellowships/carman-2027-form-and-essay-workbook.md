@@ -11,19 +11,22 @@ Official sources:
 - [Live application
   form](https://mosaic.jotform.com/251596735401863)
 
-**Paused:** Do not paste or submit these drafts. The application was prepared
+**Closed:** Do not paste, submit, or continue these drafts. The application was prepared
 after the opportunity was misclassified. The current official requirements are
 not a clean match for Piter's background, and several role details came from
 older fellow accounts rather than the current posting. See the
 [source correction](./carman-2027-source-correction.md).
 
+The form was not submitted. Reference obligations were withdrawn on
+2026-07-29, and no form, Mosaic, or recommender follow-up remains.
+
 The official overview says the next fellow begins a one-year placement in
 January 2027. The application and all three professional reference letters are
 due **2026-08-01**.
 
-Live-form status: verified contact, availability, academic, professional, and
-language fields are filled. The form is staged at the sensitive
-criminal-history and vulnerable-adult/child-safety questions.
+Historical live-form status: verified contact, availability, academic,
+professional, and language fields were filled before the route was closed.
+Do not reopen or complete the sensitive questions.
 
 ## Prepared Material
 

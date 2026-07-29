@@ -27,8 +27,8 @@ systems.
   Office meeting.
 - [ ] Add pronouns and the current resume, review the waiver/signature fields,
   and submit the staged Prospective Applicant Form by **Tuesday, July 28**.
-- [ ] Tell all three Carman references that the application is paused and that
-  no letter should be sent while eligibility is unresolved.
+- [x] Send correction replies to all three Carman references and confirm that
+  nothing is due. Completed July 29.
 - [x] Prepare one concise Guidepoint follow-up after no new career reply
   surfaced.
 - [x] Prepare one concise VDart follow-up after no recruiter reply surfaced.
@@ -54,7 +54,8 @@ systems.
 
 ### Wednesday, July 29
 
-- [ ] Confirm that all three Carman references received the pause notice.
+- [x] Verify the sent correction in all three threads. Do not ask for
+  acknowledgment and do not send another follow-up.
 - [ ] Check for the RIT Registrar FTE form; complete it immediately if it
   arrives.
 - [ ] Decide whether the July 29-30 UofR research-networking events are worth
@@ -73,8 +74,8 @@ systems.
 
 ### Friday, July 31
 
-- [x] Remove the Carman submission block from the Calendar. Do not submit
-  unless Mosaic confirms eligibility and Piter still wants the service role.
+- [x] Remove the Carman submission block from the Calendar. Carman is closed;
+  do not seek an eligibility exception or reopen the service route.
 - [ ] Finish the EDU486 poster and attend the **1:30-3:00 PM** session in
   LeChase 215.
 - [ ] Contact the upcoming Airbnb guest through the platform with access and
@@ -95,8 +96,8 @@ systems.
 
 ## Watch Every Day
 
-- **RIT:** Registrar FTE form, Carman pause acknowledgments, VDart reply,
-  GitHub Support ticket `4592214`, and any response to the revoked-token alert.
+- **RIT:** Registrar FTE form, VDart reply, GitHub Support ticket `4592214`,
+  and any response to the revoked-token alert. Carman is closed.
 - **UofR:** Fulbright meeting and intake confirmation, financial-aid
   enrollment-plan follow-up, NSF GRFP registration, and employer replies.
 - **Personal:** Guidepoint reply, credit-report alerts, returned-payment retry

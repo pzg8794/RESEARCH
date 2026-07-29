@@ -58,11 +58,10 @@ experience requirements.
 
 - [x] Preserve the Carman work as an audit trail.
 - [x] Remove Carman from the active submit-now queue.
-- [x] Freeze all reference outreach. No correction or redirect message has
-  been sent.
-- [ ] After Piter reviews the wording, ask the three advisers to remain in the
-  reference pool for verified funded PhD applications. Do not redirect them to
-  Fulbright Spain ETA.
-- [ ] Ask Mosaic one concise eligibility question only if Piter still wants
-  the international-service route.
+- [x] Close reference outreach and send correction replies to all three
+  advisers on 2026-07-29.
+- [x] Do not ask for acknowledgment and do not redirect the advisers within
+  the cleanup message.
+- [x] Cancel the Mosaic eligibility inquiry because the international-service
+  route is closed.
 - [ ] Prioritize the Luce eligibility check before preparing its application.

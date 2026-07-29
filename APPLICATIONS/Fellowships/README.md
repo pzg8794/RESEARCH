@@ -14,9 +14,9 @@ Use this folder when an opportunity comes from ProFellow, an external fellowship
 | Retracted Fulbright Spain ETA redirect, retained for audit | [fulbright-spain-eta-reference-recovery-plan.md](./fulbright-spain-eta-reference-recovery-plan.md) |
 | Luce official description, requirements, and eligibility gate | [luce-2027-2028-opportunity-dossier.md](./luce-2027-2028-opportunity-dossier.md) |
 | Carman source correction | [carman-2027-source-correction.md](./carman-2027-source-correction.md) |
-| Carman live-form workbook and essay drafts | [carman-2027-form-and-essay-workbook.md](./carman-2027-form-and-essay-workbook.md) |
-| Carman deadline and submission checklist | [carman-2027-application-checklist.md](./carman-2027-application-checklist.md) |
-| Carman contacted reference trio and evidence packet | [carman-2027-reference-packet.md](./carman-2027-reference-packet.md) |
+| Closed Carman live-form workbook, retained for audit only | [carman-2027-form-and-essay-workbook.md](./carman-2027-form-and-essay-workbook.md) |
+| Closed Carman checklist, with all follow-ups cancelled | [carman-2027-application-checklist.md](./carman-2027-application-checklist.md) |
+| Closed Carman reference packet and correction receipt | [carman-2027-reference-packet.md](./carman-2027-reference-packet.md) |
 | Retracted Fulbright Spain ETA intake checklist | [fulbright-italy-late-entry-checklist.md](./fulbright-italy-late-entry-checklist.md) |
 | Retracted Fulbright Spain ETA intake resume, retained for audit | [PDF](./application-materials/2026-07-27-fulbright-spain-eta-resume.pdf) and [LaTeX source](./application-materials/2026-07-27-fulbright-spain-eta-resume.tex) |
 | Current ProFellow capture queue | [profellow-opportunity-queue-2026-05-27.md](./profellow-opportunity-queue-2026-05-27.md) |

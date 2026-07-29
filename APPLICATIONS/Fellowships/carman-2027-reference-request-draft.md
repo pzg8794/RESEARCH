@@ -1,6 +1,9 @@
 # Carman Fellowship Reference Request Draft
 
-Status: ready to personalize; not sent
+Status: **Retracted historical artifact. Do not send or reuse.**
+
+The requests were sent on 2026-07-27, then withdrawn through correction
+replies on 2026-07-29. Nothing is due from any recommender.
 
 Subject: Time-sensitive reference request - Carman International Fellowship
 

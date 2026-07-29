@@ -1,6 +1,6 @@
 # University of Rochester Job and Career Email Log
 
-Last updated: 2026-07-28
+Last updated: 2026-07-29
 
 ## Refresh Status - 2026-07-28
 
@@ -8,8 +8,9 @@ Last updated: 2026-07-28
   assistantship, not a CS-teaching award. Do not submit the prefilled Spain ETA
   intake. Keep the July 31 appointment to evaluate a genuinely aligned
   Study/Research or partnership route.
-- The Fellowships Office confirmed the Fulbright advising meeting for
-  **Friday, July 31, 3:00-3:30 PM EDT**. The RIT Calendar entry is confirmed.
+- The official Fellowships Office invitation is accepted for **Friday,
+  July 31, 3:00-4:00 PM EDT** in Dewey Hall 4-209B. The duplicate RIT
+  Calendar hold was removed.
 - The Spain ETA resume is attached to the Prospective Applicant Form. The
   remaining fields are applicant-controlled pronouns, privacy choice, records
   waiver, signature, appointment acknowledgment, and submission.
@@ -134,7 +135,7 @@ the queue of unfinished work. Do not remove importance metadata automatically.
 
 | Date | Sender / organization | Subject or opportunity | Action | Status / follow-up |
 | --- | --- | --- | --- | --- |
-| 2026-07-28 | Student Fellowships Office | Fulbright advising appointment | Corrected the earlier scheduling messages and received confirmation for Friday, July 31, 3:00-3:30 PM EDT | **Confirmed.** Attend after the EDU486 poster fair and bring the Spain ETA intake record |
+| 2026-07-28 | Student Fellowships Office | Fulbright advising appointment | Corrected the earlier scheduling messages; accepted the official invitation for Friday, July 31, 3:00-4:00 PM EDT in Dewey Hall 4-209B | **Confirmed.** Attend after the EDU486 poster fair and ask the office to identify and verify a genuinely aligned award before any application or recommendation work |
 | 2026-07-28 | Student Fellowships Office | NSF-GRFP session conflict | Sent a request for the recording, slides, or eligibility materials because Thursday class prevents live attendance | **Waiting.** Review the materials when received; the live calendar event is removed |
 | 2026-07-28 | University of Rochester Financial Aid | Current missing documents | Verified that the Direct Loan MPN and in-person identity verification are the only currently listed requirements; asked the counselor for the correct in-person scheduling path | **P0 / secure handoff.** Complete the [graduate/professional Direct Loan MPN](https://studentaid.gov/mpn/) and follow the counselor's in-person appointment instructions |
 | 2026-07-28 | Handshake AI Team | Profile completion | Uploaded the verified industry resume and completed documented CS/ML expertise, education, graduation, LinkedIn, location, and referral fields | **P0 / legal and identity handoff.** Review agreements personally and complete government-ID verification |

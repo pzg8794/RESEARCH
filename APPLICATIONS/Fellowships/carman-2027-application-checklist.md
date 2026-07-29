@@ -7,13 +7,18 @@ Internal submission target: **2026-07-31**
 Application: [Mosaic Carman International Fellowship
 Application](https://www.mosaicinfo.org/application/)
 
-## Pause Notice
+## Closed Notice
 
-**Do not submit this application or send recommendation-letter drafts.** The
+**This application is closed. Do not submit it or send recommendation-letter
+drafts, reminders, or follow-ups.** The
 opportunity was misclassified using a mixture of current Carman requirements,
 older Carman fellow descriptions, and the Luce Scholars placement model. The
 current Carman qualifications are not a clean match for Piter's documented
 background. See the [source correction](./carman-2027-source-correction.md).
+
+Correction replies were sent to all three recommenders on 2026-07-29. Nothing
+is due, and no acknowledgment, letter, application, eligibility inquiry, or
+receipt check remains.
 
 ## Critical Path
 
@@ -37,32 +42,23 @@ background. See the [source correction](./carman-2027-source-correction.md).
   Google Drive storage, outside the public repository.
 - [x] Complete the first factual review of the Travis Desell, Daniel Krutz,
   and Zenon Borys samples and incorporate Piter's corrections on 2026-07-28.
-- [x] Freeze reference outreach. No correction or redirect message has been
-  sent.
-- [ ] Review the
+- [x] Close reference outreach and send correction replies to all three
+  recommenders.
+- [x] Review the
   [advisor reference recovery plan](./advisor-reference-recovery-plan.md) and
-  contact advisers only after Piter approves the message.
-- [ ] Ask Mosaic whether Piter's data science, computer science, and inclusive
-  teaching background satisfies the stated degree-focus and prior
-  international-setting requirements, but only if this service route remains
-  desirable.
-- [ ] Give final approval to the revised samples only if Mosaic confirms
-  eligibility and Piter decides the service role is still worthwhile.
-- [ ] By July 27, confirm that all three references accepted.
-- [ ] By July 29, confirm that each letter has been sent or is scheduled for
-  immediate delivery.
+  record the completed cleanup.
+- [x] Cancel the Mosaic eligibility inquiry; this service route is closed.
+- [x] Cancel sample-letter approval and delivery; no letters are due.
+- [x] Cancel reference acceptance and delivery checks.
 - [x] Draft the Experience, Motivation, Career Goals, and Communication
   answers from documented evidence.
 - [x] Fill the live form's verified identity/contact, January-December 2027
   availability, academic, professional, and language fields.
-- [ ] By July 30, add the missing faith or non-faith sentence and private
-  reference details. Cross-cultural evidence and January 1-December 31, 2027
-  availability are resolved in the workbook.
-- [ ] On July 31, review every legal, identity, background-check, certification,
-  signature, and consent field personally.
-- [ ] Submit on July 31 and preserve the confirmation.
-- [ ] On August 1, verify that the application and all three letters were
-  received.
+- [x] Cancel all remaining private-field and narrative completion.
+- [x] Cancel legal, background-check, certification, signature, and consent
+  review for this application.
+- [x] Cancel submission and confirmation checks.
+- [x] Cancel the August 1 application and letter receipt check.
 
 ## Reference Plan
 

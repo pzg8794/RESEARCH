@@ -1,6 +1,6 @@
 # RIT Career Email Log
 
-Last updated: 2026-07-27
+Last updated: 2026-07-29
 
 This is the public-safe record of job and career messages processed from the
 RIT Gmail account. It stores decisions and follow-up dates, not private message
@@ -37,6 +37,39 @@ bodies, phone numbers, or personal recruiter addresses.
 - An Adobe password-change notice requires verification through the official
   Adobe account if the change was not expected.
 
+## Correction And Cleanup - 2026-07-29
+
+- Carman is closed, not paused. Correction replies were sent to all three
+  recommenders, and nothing is due from them.
+- Discarded the stale unsent Teresa/Mosaic reply draft.
+- Cleared the remaining Angela and ProFellow Carman stars and marked those
+  processed messages read.
+- Archived the closed Angela automatic-reply and Teresa application-packet
+  threads.
+- Verified no Carman/Mosaic message remains in Drafts, Starred, `To respond`,
+  or `Awaiting Reply`.
+- Do not send another Carman, Mosaic, or recommender follow-up.
+
+## Repository Safety Follow-Up - 2026-07-29
+
+- Opened GitHub Support ticket `4592214` and the deleted-repositories page.
+- Verified that [EDU486](https://github.com/pzg8794/EDU486) is active. The
+  self-service Restore action reports that the repository already exists.
+- Confirmed that `DBSCAN`, `GAPP`, `Mobile-Detect`, `hello-express`, and
+  `lodge-website` are present but cannot be restored by the account owner.
+- Sent GitHub Support the exact five-repository list and requested
+  support-side restoration. The unresolved thread remains starred and is
+  labeled `Awaiting Reply`.
+- Verified that the exact fine-grained token named in Support's deletion logs,
+  `vm-repo-token`, is expired. No secret value was accessed or recorded.
+- Reviewed GitHub sessions. Only the current Henrietta Chrome web session and
+  the registered iPhone session were listed; no additional web session was
+  available to revoke.
+- A local scan found no `vm-repo-token` reference or custom repository-deletion
+  script under `/Users/pitergarcia/DataScience`. The responsible
+  `python-requests` process remains unidentified and must be found before any
+  replacement token is issued.
+
 ## Refresh Status - 2026-07-25 Evening
 
 - No new Registrar FTE form arrived after the submitted Google Form.
@@ -50,7 +83,7 @@ bodies, phone numbers, or personal recruiter addresses.
 
 | Date processed | Opportunity | Fit and constraints | Action | Status / follow-up |
 | --- | --- | --- | --- | --- |
-| 2026-07-27 | Carman International Fellowship | One-year international disability-services placement beginning January 2027; application and three letters due August 1 | Sent tailored reference requests to Travis Desell, Daniel Krutz, and Zen Borys; each was given the program link, deadline, direct-delivery requirement, and a distinct evidence lens | **P0 / references requested.** Check commitments July 28 and direct delivery July 29; the application still requires personal review of legal, background-check, signature, and consent fields |
+| 2026-07-27 | Carman International Fellowship | One-year international disability-services placement that was misclassified as the intended research opportunity | Sent requests on July 27, then sent correction replies to all three recommenders on July 29 | **Closed.** No letter, acknowledgment, eligibility inquiry, application, reminder, or receipt check remains |
 | 2026-07-27 | VDart - Data Scientist, AWS AI/ML and Advanced Analytics | Remote is advertised, but client, schedule, compensation, travel, and work terms remain unverified | Verified the existing July 23 sent reply already requests the client, pay, schedule, travel, and authorization details | **Waiting.** Do not duplicate the message; check once on August 3 and close if there is no substantive answer |
 | 2026-07-25 | [Jobot - ML Solution Architect](https://jobot.com/details/ml-solution-architect/47904ae801) | Remote; $150,000-$250,000; strong AI/ML, AWS, Python, pipelines, consulting, and GenAI fit. The stated six-year comparable-experience requirement makes this a stretch. | Verified the official listing is live and reviewed the application terms. | **P0 stretch / packet needed.** Tailor one architecture-focused resume, then obtain action-time confirmation before uploading it and applying. |
 | 2026-07-25 | [Jobot - ML Solutions Architect](https://jobot.com/details/ml-solutions-architect/79e0495906) | Remote; $160,000-$210,000; strong production ML, cloud, Python/Java/Scala, data pipelines, and MLOps fit. The listing asks for six years of relevant experience. | Verified the official listing is live. | **P1 stretch.** Reuse the architecture packet after the first Jobot application is ready. |
@@ -71,12 +104,12 @@ bodies, phone numbers, or personal recruiter addresses.
 | Federal loan | Direct PLUS Loan Application Confirmation | The application was successfully submitted on 2026-06-30. | No separate application action. Monitor through FTE and RIT Aid. |
 | Degree completion | Fall 2026 Application for Graduation Confirmed | RIT confirmed the graduation application and stated that completion is on track if current courses and the required GPA are completed. | Complete; star removed on 2026-07-24. |
 | Campus logistics | 2026-27 parking permits | Reserved permits open 2026-08-10 and general permits open **2026-08-12**. The local address must be current at least 24 hours before purchase, and the parking account must have a zero balance. | Keep only if a permit is needed; decide before 2026-08-09. |
-| Fellowship | [Carman International Fellowship application](https://www.mosaicinfo.org/application/) | A human reply provided the live application. The application and all three professional reference letters on letterhead must be received by **2026-08-01**. | Start the [Carman checklist](../Fellowships/carman-2027-application-checklist.md) now. Piter must review the sensitive legal, identity, background-check, signature, and final-submission fields. |
+| Fellowship | [Carman International Fellowship application](https://www.mosaicinfo.org/application/) | Historical only. The role was misclassified, the application was not submitted, and reference obligations were withdrawn on July 29. | Closed. Preserve the audit record, but do not reopen the form or contact Mosaic or the recommenders. |
 | Job | VDart Data Scientist | The July 23 screening reply is confirmed in Sent; no recruiter response has arrived. | Check once on 2026-08-03. Do not send another duplicate screening message. |
 | Research publication | ICNP 2026 submission #330 | Final decision is rejected. The authenticated review page records one weak accept, one reject, and one weak reject. Main revision needs are clearer algorithm definitions, allocator-policy semantics, physical grounding for threat models, stronger writing, and medium-scale evaluation. | Preserve the [authenticated reviews](https://icnp26.hotcrp.com/paper/330#r330A), schedule a coauthor revision decision, and retarget only after the review gaps are addressed. |
 | Thesis repository | [DSCI601 pull request #8](https://github.com/pzg8794/DSCI601-Project_Proposal/pull/8) | The PR was merged on 2026-05-06, but it added only a one-line context-spectrum notes placeholder. The PR itself says the full TeX replacement still needs to be applied. | Keep as a research todo: reconcile the intended Algorithm 2, EQUITAS, context-spectrum table, pagination, and cross-reference edits against the current thesis source before treating the wrap-up as complete. |
-| Repository safety | GitHub Support ticket 4592214 | GitHub Support sent an update on 2026-07-23 about repeated repository deletions and restoration. The issue remains unresolved. | Keep starred and review the support portal. Do not delete, overwrite, or re-clone any repository. |
-| Credential safety | GitHub personal access token alert | GitHub reports that a token found in a commit was revoked. | Keep starred until the affected repository and history are identified, remaining secrets are audited, and dependent integrations are confirmed or rotated. Never copy the token into RESEARCH. |
+| Repository safety | GitHub Support ticket 4592214 | EDU486 is active. A July 29 reply requested support-side restoration of `DBSCAN`, `GAPP`, `Mobile-Detect`, `hello-express`, and `lodge-website`, which GitHub says cannot be restored through self-service. | Keep the Support message starred until all five repositories are restored and verified. Do not delete, overwrite, recreate, or re-clone over any repository. |
+| Credential safety | GitHub fine-grained token incident | Support identified the expired `vm-repo-token` as the credential used by a `python-requests` process for the deletion events. No matching custom script was found under DataScience, and no additional web session appeared in GitHub's session list. | Do not regenerate this token. Identify the external or removed process before creating any replacement, and exclude repository-delete and administration permission. Never copy a token value into RESEARCH. |
 
 ## Reviewed and Closed
 

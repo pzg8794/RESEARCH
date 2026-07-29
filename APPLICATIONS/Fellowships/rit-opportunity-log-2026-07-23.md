@@ -10,7 +10,7 @@ produced a plausible lead.
 
 | Priority | Opportunity | Deadline | Funding / format | Fit | Status and next action |
 | --- | --- | --- | --- | --- | --- |
-| Paused | [2027 Carman International Fellowship](https://www.mosaicinfo.org/who-we-are/international/carman/) | **2026-08-01** | Current official page confirms a one-year international-service placement beginning January 2027; current compensation and support are not stated there | **Low / eligibility uncertain.** The current role is not an AI, quantum, bioinformatics, or CS-teaching fellowship. The stated international-development degree focus and prior international-setting experience are material gaps. | **Do not submit yet.** The earlier high-fit description combined current Carman requirements, older Carman fellow accounts, and the Luce placement model. See the [source correction](./carman-2027-source-correction.md). |
+| Closed | [2027 Carman International Fellowship](https://www.mosaicinfo.org/who-we-are/international/carman/) | Historical: **2026-08-01** | Current official page confirms a one-year international-service placement beginning January 2027; current compensation and support are not stated there | **Low / mismatch.** The current role is not an AI, quantum, bioinformatics, or CS-teaching fellowship. The stated international-development degree focus and prior international-setting experience are material gaps. | **Closed 2026-07-29.** Do not submit, ask about eligibility, contact recommenders, or check for letters. See the [source correction](./carman-2027-source-correction.md). |
 | P0 | [Jobot - Senior Data Scientist](https://jobot.com/details/senior-data-scientist/42da5e5206) | Rolling while live | Remote employment; $130,000-$170,000 | **High** for immediate financial stability and applied AI/ML work. | Tracked in the [job pipeline](../Jobs/job-pipeline.md); application is ready for personal-data/resume-upload approval. |
 | P1 | [E2 1 Hotels Fellowship](https://www.e2.org/fellowship/) | **Priority: 2026-08-15** | Flexible virtual fellowship, January-December 2027, about 10 hours/month; $10,000 project grant | **Conditional.** Eligible as a current graduate student or early/mid-career professional with U.S. work authorization, but the proposal must center sustainability, clean energy, food/agriculture, or environmental advocacy. | Decide by 2026-08-01 whether an honest environmental-justice or climate-education project exists. Application requires a resume, project pitch, 12-month roadmap, and preferably a partner letter. |
 | Gate | [Luce Scholars Program](https://www.lucescholars.org/) | **2026-09-08 at 5:00 PM ET** | Thirteen-month Asia leadership and cultural-immersion program: orientation, two months of funded language training, and one tailored 11-month professional placement; location-adjusted stipend and housing assistance are confirmed | **Potentially useful, not yet a target.** A placement could involve technology, science, education, public health, or disability policy, but no field or role is guaranteed. It is not a PhD or research fellowship. | Resolve the under-33-at-departure and recent-Asia-exposure gates first. Do not request recommendations. See the [official-source dossier](./luce-2027-2028-opportunity-dossier.md). |
@@ -50,8 +50,9 @@ produced a plausible lead.
 
 ## Deadlines at a Glance
 
-- **August 1:** Carman International Fellowship, paused pending eligibility
-  confirmation
+- **Closed July 29:** Carman International Fellowship; the August 1
+  application and all eligibility, reference, reminder, and receipt follow-ups
+  were cancelled after the source correction
 - **August 15:** E2 1 Hotels Fellowship priority deadline
 - **September 4:** CAORC Senegal seminar
 - **September 8:** Luce Scholars Program

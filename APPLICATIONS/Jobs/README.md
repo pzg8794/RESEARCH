@@ -25,8 +25,9 @@ applications, recruiter conversations, and follow-up work.
 | [Next-Week Watchlist: August 2-8](./next-week-watchlist-2026-08-02.md) | Carryover plan for submissions, replies, account dependencies, and next deadlines |
 | [2026-07-28 Linked Review Queue](./2026-07-28-linked-review-queue.md) | The four remaining legal, identity, privacy, or signature handoffs with direct links |
 | [RIT Google Calendar Queue](./rit-google-calendar-queue.md) | Verified events, deadlines, review blocks, source links, and calendar-sync status |
-| [RIT Calendar Source](./calendar-imports/2026-07-27-career-calendar.ics) | Reconciled 22-event calendar source after the July 28 class-conflict cleanup |
+| [RIT Calendar Source](./calendar-imports/2026-07-27-career-calendar.ics) | Reconciled 16-event calendar source after class-conflict and obsolete-follow-up cleanup |
 | [2026-07-28 Career Action Receipt](./2026-07-28-career-action-receipt.md) | Current confirmed messages, profile updates, calendar changes, response checks, and handoffs |
+| [2026-07-29 Follow-Up Reconciliation](./2026-07-29-follow-up-reconciliation.md) | Current source of truth for closed Carman/reference actions, corrected Fulbright scheduling, GitHub restoration status, and remaining follow-ups |
 | [2026-07-27 Career Action Receipt](./2026-07-27-career-action-receipt.md) | Confirmed submissions, messages, registrations, response checks, and genuine handoffs |
 | [2026-07-23 Session Summary](./2026-07-23-job-search-session-summary.md) | Completed work, expected responses, deadlines, and immediate next actions |
 | [Job Pipeline](./job-pipeline.md) | Active opportunities, fit, status, and next actions |

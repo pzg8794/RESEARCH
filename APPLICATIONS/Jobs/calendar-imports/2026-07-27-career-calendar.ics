@@ -1,29 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Piter Garcia Bautista//RESEARCH Career Calendar//EN
+PRODID:-//Piter Garcia//RESEARCH Career Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Career and Fellowship Actions
 X-WR-TIMEZONE:America/New_York
-BEGIN:VEVENT
-UID:20260728T090000-fulbright-intake@research.local
-DTSTAMP:20260727T120000Z
-DTSTART;TZID=America/New_York:20260728T090000
-DTEND;TZID=America/New_York:20260728T094500
-SUMMARY:DEADLINE WORK BLOCK - Fulbright Spain ETA intake
-DESCRIPTION:Finish the Prospective Applicant Form\, current resume\, and Planning Tool. Complete the waiver and signature only after direct review.
-STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:Fulbright Spain ETA intake tomorrow
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Fulbright Spain ETA intake in one hour
-END:VALARM
-END:VEVENT
 BEGIN:VEVENT
 UID:20260728T100000-nys-its@research.local
 DTSTAMP:20260727T120000Z
@@ -45,64 +26,6 @@ DESCRIPTION:NYS ITS session in one hour
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:20260728T150000-carman-reference-commitments@research.local
-DTSTAMP:20260727T120000Z
-DTSTART;TZID=America/New_York:20260728T150000
-DTEND;TZID=America/New_York:20260728T152000
-SUMMARY:REVIEW - Carman reference commitments
-DESCRIPTION:Confirm Travis Desell\, Daniel Krutz\, and Zen Borys can send their letters.
-STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:Carman reference review tomorrow
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Carman reference review in one hour
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:20260729T150000-carman-letter-delivery@research.local
-DTSTAMP:20260727T120000Z
-DTSTART;TZID=America/New_York:20260729T150000
-DTEND;TZID=America/New_York:20260729T152000
-SUMMARY:REVIEW - Carman letter delivery
-DESCRIPTION:Confirm each reference letter was sent directly to the program.
-STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:Carman letter review tomorrow
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Carman letter review in one hour
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:20260731T090000-carman-submit@research.local
-DTSTAMP:20260727T120000Z
-DTSTART;TZID=America/New_York:20260731T090000
-DTEND;TZID=America/New_York:20260731T103000
-SUMMARY:DEADLINE WORK BLOCK - Submit Carman Fellowship
-DESCRIPTION:Complete the sensitive-answer review\, legal terms\, and signature before the August 1 deadline.
-URL:https://www.mosaicinfo.org/who-we-are/international/carman/
-STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:Carman submission block tomorrow
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Carman submission block in one hour
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:20260731T133000-edu486-poster-fair@research.local
 DTSTAMP:20260727T120000Z
 DTSTART;TZID=America/New_York:20260731T133000
@@ -120,40 +43,6 @@ BEGIN:VALARM
 TRIGGER:-PT1H
 ACTION:DISPLAY
 DESCRIPTION:EDU486 Poster Fair in one hour
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:20260731T150000-fulbright-advising@research.local
-DTSTAMP:20260728T190000Z
-DTSTART;TZID=America/New_York:20260731T150000
-DTEND;TZID=America/New_York:20260731T153000
-SUMMARY:CONFIRMED - Fulbright advising appointment
-DESCRIPTION:Meet with the UofR Fellowships Office about the Spain ETA late-entry path.
-STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:Fulbright advising appointment tomorrow
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Fulbright advising appointment in one hour
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:20260801-carman-deadline@research.local
-DTSTAMP:20260727T120000Z
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260802
-SUMMARY:DEADLINE - Carman application and 3 letters
-DESCRIPTION:Verify Mosaic received the application and all three reference letters.
-URL:https://www.mosaicinfo.org/who-we-are/international/carman/
-STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:Carman deadline tomorrow
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -284,8 +173,8 @@ UID:20260824-fulbright-campus-packet@research.local
 DTSTAMP:20260727T120000Z
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
-SUMMARY:DEADLINE - Fulbright campus review packet
-DESCRIPTION:Have the revised application and recommendations ready for formal campus review.
+SUMMARY:CONDITIONAL - Fulbright campus review packet
+DESCRIPTION:Proceed only if the July 31 meeting identifies an aligned award. Do not request recommendations or submit before eligibility\, funding\, host\, application\, and recommendation rules are verified.
 STATUS:CONFIRMED
 BEGIN:VALARM
 TRIGGER:-P1D

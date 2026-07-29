@@ -24,10 +24,10 @@ official deadlines on their true dates and prepare earlier.
 - [x] Route the Carman packet request to the alternate contact after the primary
   contact's July 31 out-of-office reply.
 - [x] Receive the live Carman application link and reference instructions.
-- [x] Start the
-  [Carman application checklist](./carman-2027-application-checklist.md) now;
-  three professional letters on letterhead are due with the application by
-  **August 1**.
+- [x] Archive the
+  [Carman application checklist](./carman-2027-application-checklist.md) as a
+  closed historical record; the former August 1 letter requirement no longer
+  creates any action.
 - [x] Inventory the live Carman form and prepare the
   [form and essay workbook](./carman-2027-form-and-essay-workbook.md).
 - [x] Prepare the [tailored Carman resume
@@ -49,7 +49,8 @@ official deadlines on their true dates and prepare earlier.
 - [ ] Do not submit the Spain ETA intake as the default route. Use the July 31
   advising meeting to identify a genuinely aligned Fulbright option, if one
   exists.
-- [x] Confirm the advising meeting for **Friday, July 31, 3:00-3:30 PM EDT**.
+- [x] Accept the official advising invitation for **Friday, July 31,
+  3:00-4:00 PM EDT** in Dewey Hall 4-209B.
 
 ## Carman: Closed After Source Mismatch
 
@@ -106,8 +107,8 @@ official deadlines on their true dates and prepare earlier.
 - [ ] Do not submit the Spain ETA intake as the default route. Use the July 31
   advising meeting to ask whether a Study/Research award or another verified
   route fits CS, AI, data, quantum, bioinformatics, or CS education.
-- [x] Confirm the meeting with the office for **Friday, July 31,
-  3:00-3:30 PM EDT**.
+- [x] Accept the official meeting invitation for **Friday, July 31,
+  3:00-4:00 PM EDT** in Dewey Hall 4-209B.
 - [ ] Attend the confirmed meeting with the corrected role assessment.
 - [ ] Continue in Fulbright only if the adviser identifies a genuinely aligned
   award.

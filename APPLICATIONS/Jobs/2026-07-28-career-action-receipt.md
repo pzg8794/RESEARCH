@@ -2,15 +2,18 @@
 
 Date: 2026-07-28
 
+Superseded for current follow-ups by the
+[July 29 reconciliation](./2026-07-29-follow-up-reconciliation.md).
+
 This public-safe receipt records completed actions without copying private
 message bodies, authenticated inbox links, reference contact details, identity
 data, or legal-form answers.
 
 ## Confirmed Complete
 
-- [x] Confirmed the Fulbright advising appointment for **Friday, July 31,
-  2026, 3:00-3:30 PM EDT** and changed the RIT Calendar event from tentative
-  to confirmed.
+- [x] Confirmed the Fulbright advising appointment. The live invitation was
+  later reconciled as **Friday, July 31, 2026, 3:00-4:00 PM EDT** in Dewey
+  Hall 4-209B and accepted on July 29.
 - [x] Attached the current Spain ETA resume to the Fulbright Prospective
   Applicant Form. Only applicant-controlled pronouns, privacy, waiver,
   signature, appointment acknowledgment, and submission fields remain.
@@ -55,12 +58,12 @@ data, or legal-form answers.
 
 ## Genuine Handoffs
 
-- [ ] [Carman source correction](../Fellowships/carman-2027-source-correction.md):
-  review the proposed funded-PhD reference-pool correction. No message has
-  been sent; Piter approves the wording before any advisor is contacted.
-- [ ] [Fulbright Prospective Applicant Form](https://form.jotform.com/90414762363153):
-  add pronouns, make the optional privacy choice, review the records waiver,
-  draw the signature, acknowledge the appointment requirement, and submit.
+- [x] [Carman source correction](../Fellowships/carman-2027-source-correction.md):
+  completed July 29. Correction replies were sent to all three recommenders;
+  nothing is due and no further follow-up remains.
+- [x] **Closed as framed:** Do not continue the Spain ETA Prospective Applicant
+  Form as the default route. Use the July 31 meeting to identify a specific
+  aligned award before any new application or recommendation work.
 - [ ] [Handshake AI onboarding](https://ai.joinhandshake.com/fellow/onboarding):
   personally review the Terms, Privacy Policy, and Contractor Agreement, then
   complete identity verification.

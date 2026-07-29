@@ -17,8 +17,8 @@ earlier.
 
 - [ ] Complete the Airbnb guest arrival handoff through the platform and
   resolve any same-day access issue.
-- [ ] Verify that the three Carman references received the pause notice. Do
-  not chase letters or an application receipt.
+- [x] Carman reference cleanup completed before this week. Do not check for an
+  acknowledgment, letter, application, or receipt.
 - [ ] Reconcile any still-pending personal payment retry before initiating a
   new transaction.
 
@@ -28,6 +28,10 @@ earlier.
   meeting time.
 - [ ] Check Guidepoint after the July 27 follow-up and VDart after its confirmed
   July 23 screening reply; close either lead if there is no substantive answer.
+- [ ] Check GitHub Support ticket `4592214` for restoration of `DBSCAN`,
+  `GAPP`, `Mobile-Detect`, `hello-express`, and `lodge-website`. Verify each
+  remote before closing the ticket; do not recreate or re-clone over a
+  repository while Support is restoring it.
 - [ ] Check Handshake for Health Data Max, Solu, LearningMate, Handshake AI,
   Carney Sandoe, Stride, Cardinal Education, Epic, and Ampact responses.
 - [ ] Review any Health Data Max response and confirm workable semester hours
@@ -72,8 +76,10 @@ earlier.
 
 ## Watch Every Day
 
-- **RIT:** FTE/Registrar response, Carman pause acknowledgment, VDart, GitHub
-  Support ticket `4592214`, and revoked-token follow-up.
+- **RIT:** FTE/Registrar response, VDart, and GitHub Support ticket `4592214`.
+  The implicated `vm-repo-token` is expired; do not replace it until the
+  responsible Python process is identified. Carman and recommender
+  acknowledgments are closed.
 - **UofR:** Fulbright intake/meeting, Health Data Max, LearningMate, financial
   aid, teaching certification, and employer replies.
 - **Personal:** Guidepoint, official-account payment retries, credit alerts,
@@ -86,7 +92,8 @@ earlier.
 - **August 15:** RIT Fall 2026 statement due; aid still depends on FTE.
 - **August 16 at 11:59 PM:** Health Data Max official deadline.
 - **August 19:** survivorship symposium abstract, only with a genuine project.
-- **August 24:** Fulbright revised application and recommendations ready for
-  campus review.
+- **August 24:** Conditional Fulbright campus checkpoint. It applies only if
+  the July 31 meeting identifies a genuinely aligned award and verifies the
+  eligibility, application, and recommendation rules.
 - **August 27:** IBM Dev Day was screened out because its Thursday daytime
   schedule conflicts with class; no registration or calendar hold remains.

@@ -2,7 +2,7 @@
 
 Calendar account: `pzg8794@g.rit.edu`
 
-Updated: 2026-07-28
+Updated: 2026-07-29
 
 This queue mirrors verified application deadlines, review blocks,
 appointments, and registered events. Every entry should include its source
@@ -21,11 +21,9 @@ Calendar permits them.
 
 | Date and time (EDT) | Calendar title | Status | Source / action |
 | --- | --- | --- | --- |
-| 2026-07-28, 9:00-9:45 AM | RETRACTED - Fulbright Spain ETA intake | Corrected after review | Spain ETA is an English-teaching assistantship, not a CS-teaching award; do not submit it as the default route |
 | 2026-07-28, 10:00-10:30 AM | NYS ITS Virtual Career Information Session | Registered; synced | Join through [Handshake](https://rochester.joinhandshake.com/stu/events/1963665) five minutes early |
-| 2026-07-28, 3:00-3:20 PM | REVIEW - Funded PhD reference recovery plan | Corrected; synced | Review the Carman correction and proposal to preserve Travis Desell, Daniel Krutz, and Zenon Borys for verified funded PhD applications; do not email advisors until Piter approves the [recovery plan](../Fellowships/advisor-reference-recovery-plan.md) |
 | 2026-07-31, 1:30-3:00 PM | EDU486 Poster Fair | Confirmed; synced | LeChase 215; finish from the existing poster draft |
-| 2026-07-31, 3:00-3:30 PM | CONFIRMED - Fulbright advising appointment | Confirmed; synced | Meet with the UofR Fellowships Office about the Spain ETA late-entry path |
+| 2026-07-31, 3:00-4:00 PM | Piter Garcia, Fulbright initial meeting | Official invitation accepted | Dewey Hall 4-209B; identify a genuinely aligned award and verify eligibility, funding, host, application, and recommendation rules |
 | 2026-08-03, 9:00-9:45 AM | REVIEW - Career application responses | Synced | Check Guidepoint, VDart, Health Data Max, UofR Fulbright advising, and Handshake responses |
 
 ## August and Later
@@ -38,7 +36,7 @@ Calendar permits them.
 | 2026-08-09, 6:00-6:20 PM | REVIEW - RIT parking permit readiness | Synced | Confirm local address, account balance, and whether a permit is needed before reserved/general sales open |
 | 2026-08-15, all day | DEADLINE - RIT Fall statement | Synced | Recheck billing after FTE and aid updates |
 | 2026-08-22, all day | DEADLINE - Financial statement review/payment | Synced | Review the official account and pay or arrange before the due date |
-| 2026-08-24, all day | DEADLINE - Fulbright campus review packet | Synced | Revised application and recommendations ready for formal campus review |
+| 2026-08-24, all day | CONDITIONAL - Fulbright campus review packet | Corrected; synced | Proceed only if the July 31 meeting identifies an aligned award; do not request recommendations or submit before requirements are verified |
 | 2026-09-14, 9:00-9:30 AM | ACTION - Complete UofR health insurance enrollment/waiver | Synced | Finish the secure process one day before the Tuesday deadline |
 | 2026-09-15, all day | DEADLINE - UofR health insurance enrollment/waiver | Synced | Complete the mandatory secure UHS process |
 | 2026-10-05, 9:00-10:00 AM | FINAL REVIEW - Fulbright national application | Synced | Finish final review one day before the Tuesday deadline |
@@ -48,6 +46,13 @@ Calendar permits them.
 
 ## Calendar Sync Status
 
+- [x] Reconciled the live calendar on 2026-07-29: removed the obsolete
+  reference-recovery event, retracted Spain ETA work block, and duplicate
+  3:00-3:30 PM Fulbright hold.
+- [x] Accepted the official UofR invitation for Friday, July 31,
+  3:00-4:00 PM in Dewey Hall 4-209B.
+- [x] Changed the August 24 Fulbright event to a conditional checkpoint with
+  an explicit no-recommender/no-submission boundary until an award is verified.
 - [x] Corrected the Carman source mix-up on 2026-07-28. Removed the letter
   delivery, submission work block, and submission deadline events; changed the
   remaining block to review-only planning for funded PhD references.
@@ -67,7 +72,9 @@ Calendar permits them.
 - [x] Recorded the adjustment in the
   [July 28 career action receipt](./2026-07-28-career-action-receipt.md).
 
-Durable import source:
+Durable primary-calendar source:
 [2026-07-27-career-calendar.ics](./calendar-imports/2026-07-27-career-calendar.ics).
-The file now reflects the reconciled 22-event schedule; the original live
-import receipt remains 23 out of 23 before the July 28 deletions and additions.
+The file now contains the 16 surviving primary-calendar events. The accepted
+UofR invitation is supplied by the shared UofR calendar and is not duplicated
+in the import file. The original live import receipt remains 23 out of 23
+before the July 28 and July 29 reconciliation.

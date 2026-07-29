@@ -3,9 +3,9 @@
 Date: 2026-07-27
 
 Historical snapshot: use the
-[July 28 action receipt](./2026-07-28-career-action-receipt.md) for the current
-Friday Fulbright appointment, financial-aid requirements, Handshake AI profile,
-and Tuesday/Thursday calendar cleanup.
+[July 29 reconciliation](./2026-07-29-follow-up-reconciliation.md) for the
+current Friday Fulbright appointment, reference cleanup, and live-system
+follow-ups.
 
 This is the public-safe receipt for actions completed in the signed-in career,
 school-email, and application systems. It omits private message bodies,
@@ -53,26 +53,24 @@ reference contact details, identity data, and legal-form answers.
 
 ## Waiting for Responses
 
-- **2026-07-28:** Carman reference commitments.
-- **2026-07-29:** Carman letter delivery target.
-- **Before 2026-07-31:** UofR Fulbright advising appointment.
+- **Closed 2026-07-29:** Carman reference commitments and letter delivery.
+  Corrections were sent; nothing is due and no acknowledgment should be
+  chased.
+- **Accepted:** UofR Fulbright advising appointment is July 31,
+  3:00-4:00 PM in Dewey Hall 4-209B.
 - **2026-08-03:** Guidepoint, VDart, and Health Data Max response check.
 
 ## Genuine Handoffs
 
-- [ ] Carman application: answer the sensitive background questions, add the
-  private faith/non-faith statement and reference contact details, then review
-  legal, background-check, certification, signature, and consent fields before
-  final submission.
+- [x] Carman application closed after the source mismatch. Do not complete,
+  submit, or follow up on the form or letters.
 - [ ] IBM Dev Day: Bob in Action + Hackathon: acceptance of IBM and BeMyApp
   terms before external registration.
 - [ ] UofR Teaching Retreat: the registration requires a truthful
   dietary-restriction answer that is not documented in the repository.
-- [ ] Fulbright Prospective Applicant Form: enter pronouns, upload
-  [the Spain ETA resume](../Fellowships/application-materials/2026-07-27-fulbright-spain-eta-resume.pdf),
-  choose the optional anonymized-essay preference, review the FERPA/records
-  waiver, draw the signature, check the appointment acknowledgment, and
-  submit.
+- [x] Spain ETA Prospective Applicant Form closed as the default route. Keep
+  the July 31 advising meeting and continue only with a specifically verified
+  aligned award.
 
 ## Source Links
 
