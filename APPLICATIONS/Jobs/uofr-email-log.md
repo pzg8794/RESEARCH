@@ -1,5 +1,29 @@
 # University of Rochester Job and Career Email Log
 
+## Refresh Status - 2026-07-31
+
+- Submitted two current remote applications discovered through the UofR
+  Handshake account: Tech Rise Solutions Data Scientist and Recovery Audit
+  Solutions Data Analytics and Web Development Intern. Handshake displayed
+  `Applied on July 31, 2026` for both, and both email receipts were received.
+- Created, compiled, and visually verified a one-page Data Scientist resume
+  under `Piter Garcia`; uploaded it to Handshake and replaced the unrelated
+  quantum-compiler resume as the default job-search document.
+- Replied to Veronica Zamora, Brenden Godino, and Geneva Hauser with direct
+  thanks, the verified December graduation/relocation boundary, and relevant
+  next steps.
+- Preserved the HHS USAJobs webinar as unfinished. The form is prefilled for
+  August 19, 2:00-3:00 PM EDT, but Piter must supply self-identification and
+  citizenship selections and accept the Microsoft Event Terms before
+  registration and calendar sync.
+- Confirmed that Zen Borys had already received a direct thank-you. Removed the
+  completed thread's star and `To respond` label and archived it; no duplicate
+  reply was sent.
+- Marked both application receipts read and archived them. Cleared the
+  processed recruiter digest, weekly jobs roundup, profile marketing notice,
+  onsite teaching digest, and duplicate recruiter email. The HHS message stays
+  starred until registration is complete.
+
 Last updated: 2026-07-29
 
 ## Refresh Status - 2026-07-28
@@ -135,6 +159,12 @@ the queue of unfinished work. Do not remove importance metadata automatically.
 
 | Date | Sender / organization | Subject or opportunity | Action | Status / follow-up |
 | --- | --- | --- | --- | --- |
+| 2026-07-31 | Handshake / Recovery Audit Solutions | Data Analytics and Web Development Intern | Submitted the tailored Data Scientist resume; verified the remote, 10-hour/week, $20-$30/hour, August 15-December 15 schedule | **Submitted.** Send the staged availability note after Handshake messaging consent, then check for a response on August 7 |
+| 2026-07-31 | Handshake / Tech Rise Solutions | Data Scientist | Submitted the [tailored resume](./application-materials/2026-07-31-tech-rise-data-scientist-resume.pdf), set it as the default data-science resume, and verified the Handshake and email receipts | **Submitted.** Check for a response on August 7 and screen full-time start date/hours against the final semester |
+| 2026-07-31 | U.S. Department of Health and Human Services | Navigating the Federal Hiring Process: USAJobs | Thanked Geneva Hauser, reviewed the federal early-career resources, and prefilled the official webinar registration | **P0 / direct handoff.** Piter supplies self-identification and citizenship, reviews the Microsoft terms, and submits; then add August 19, 2:00-3:00 PM to the RIT calendar |
+| 2026-07-31 | Gwinnett County Public Schools | Middle-school teaching recruitment | Thanked Veronica Zamora and confirmed that relocation is available after December for January 2027 or 2027-28 CS, technology, and STEM roles | **Future / waiting.** No current onsite application |
+| 2026-07-31 | Carney, Sandoe and Associates | Independent-school placement support | Thanked Brenden Godino for the clarification and confirmed nationwide relocation after December | **Future.** Review January 2027 and 2027-28 CS, technology, STEM, and inclusive-education openings |
+| 2026-07-31 | Zen Borys | EDU486 poster support | Verified that Piter had already thanked him; removed the completed star and stale `To respond` label and archived the thread | **Complete.** No additional message needed |
 | 2026-07-28 | Student Fellowships Office | Fulbright advising appointment | Corrected the earlier scheduling messages; accepted the official invitation for Friday, July 31, 3:00-4:00 PM EDT in Dewey Hall 4-209B | **Confirmed.** Attend after the EDU486 poster fair and ask the office to identify and verify a genuinely aligned award before any application or recommendation work |
 | 2026-07-28 | Student Fellowships Office | NSF-GRFP session conflict | Sent a request for the recording, slides, or eligibility materials because Thursday class prevents live attendance | **Waiting.** Review the materials when received; the live calendar event is removed |
 | 2026-07-28 | University of Rochester Financial Aid | Current missing documents | Verified that the Direct Loan MPN and in-person identity verification are the only currently listed requirements; asked the counselor for the correct in-person scheduling path | **P0 / secure handoff.** Complete the [graduate/professional Direct Loan MPN](https://studentaid.gov/mpn/) and follow the counselor's in-person appointment instructions |
@@ -179,6 +209,8 @@ the queue of unfinished work. Do not remove importance metadata automatically.
 
 - Unresolved financial-aid, certification, insurance, degree-completion,
   Fulbright, and security/account items remain starred.
+- The HHS USAJobs webinar message remains starred until official registration
+  and RIT Google Calendar sync are confirmed.
 - The Fulbright thread remains starred because the reply draft, intake
   materials, and initial meeting are not complete.
 - Routine marketing and fully processed digests may be unstarred only after

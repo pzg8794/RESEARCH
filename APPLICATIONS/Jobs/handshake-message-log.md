@@ -1,9 +1,27 @@
 # Handshake Message Log
 
-Last updated: 2026-07-28
+Last updated: 2026-07-31
 
 Privacy note: this public repository stores concise professional summaries, not
 private message bodies, recruiter email addresses, or authenticated inbox URLs.
+
+## July 31 Refresh
+
+- Replied to Veronica Zamora at Gwinnett County Public Schools with the
+  verified graduation and relocation timeline; current onsite work is not
+  viable, but January 2027 and 2027-28 CS, technology, or STEM roles are.
+- Replied to Brenden Godino at Carney, Sandoe and Associates after he clarified
+  the placement route; thanked him and confirmed nationwide relocation after
+  December 2026.
+- Thanked Geneva Hauser at HHS for the USAJobs webinar and student/recent
+  graduate resources. Official registration is prefilled but still requires
+  Piter's self-identification, citizenship, and Microsoft-terms decisions.
+- Submitted the remote Tech Rise Solutions Data Scientist application and the
+  remote, 10-hour/week Recovery Audit Solutions Data Analytics and Web
+  Development Intern application. Handshake and email receipts were verified.
+- The Recovery Audit Solutions availability message is staged behind
+  Handshake's one-time messaging-guide consent; it has not been represented as
+  sent.
 
 ## July 28 Refresh
 
@@ -32,6 +50,11 @@ private message bodies, recruiter email addresses, or authenticated inbox URLs.
 
 | Date received | Employer / sender | Opportunity | Decision and action | Current status |
 | --- | --- | --- | --- | --- |
+| 2026-07-31 | Recovery Audit Solutions / Evan Lenahan | [Data Analytics and Web Development Intern](https://rochester.joinhandshake.com/job-search/11243659) | Submitted with the tailored Data Scientist resume; verified remote, 10 hours/week, $20-$30/hour, August 15-December 15, and strong healthcare/Python/SQL/AI fit | **Submitted.** Availability note staged for send after one-time messaging consent; check on 2026-08-07 |
+| 2026-07-31 | Tech Rise Solutions | [Data Scientist](https://rochester.joinhandshake.com/job-search/11241730) | Submitted with the tailored Data Scientist resume and set that document as the default job-search resume | **Submitted.** Handshake and email receipts verified; check on 2026-08-07 |
+| 2026-07-30 | U.S. Department of Health and Human Services / Geneva Hauser | USAJobs webinar and federal early-career resources | Sent a direct thank-you and confirmed the relevance of USAJobs, Pathways, WRP, ORISE, CyberCorps, and U.S. Digital Corps to the data/AI/research search | **Registration prefilled, not submitted.** Piter completes self-identification, citizenship, and Microsoft-terms fields |
+| 2026-07-30 | Gwinnett County Public Schools / Veronica Zamora | Current middle-school teaching recruitment | Thanked the recruiter, declined relocation before December, and asked to remain connected for January 2027 or 2027-28 CS, technology, or STEM roles | Future / waiting for an aligned start date |
+| 2026-07-30 | Carney, Sandoe and Associates / Brenden Godino | Independent-school placement support | Thanked him for clarifying the placement process and confirmed nationwide relocation after December for CS, technology, STEM, or inclusive-education roles | Future / review January 2027 and 2027-28 openings |
 | 2026-07-28 | Bronx Arts and Science Charter School recruiter | Math, CS, or STEAM teaching | Replied with remote-through-December availability and a January 2027 onsite or relocation start | Waiting for a compatible remote role or January 2027 opening |
 | 2026-07-28 | Gestalt Community Schools recruiter | High School Math Teacher | Replied that the current onsite role conflicts with the final semester, but January 2027 relocation is viable | Closed for Fall 2026; waiting only for a future-start option |
 | 2026-07-28 | Ampact recruiter | Duplicate service-program outreach | Compared the message with the prior reply and avoided a duplicate response | No current application; revisit only for remote CS/data/education work |

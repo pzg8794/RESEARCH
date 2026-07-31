@@ -2,7 +2,7 @@
 
 Calendar account: `pzg8794@g.rit.edu`
 
-Updated: 2026-07-29
+Updated: 2026-07-31
 
 This queue mirrors verified application deadlines, review blocks,
 appointments, and registered events. Every entry should include its source
@@ -36,6 +36,7 @@ Calendar permits them.
 | 2026-08-07, 12:00-4:00 PM | UofR Graduate Writing Retreat - Day 3 | Registered; synced | Complete the retreat commitment |
 | 2026-08-09, 6:00-6:20 PM | REVIEW - RIT parking permit readiness | Synced | Confirm local address, account balance, and whether a permit is needed before reserved/general sales open |
 | 2026-08-15, all day | DEADLINE - RIT Fall statement | Synced | Recheck billing after FTE and aid updates |
+| 2026-08-19, 2:00-3:00 PM | HHS - Navigating the Federal Hiring Process: USAJobs | Registration prefilled; calendar sync pending | Complete the applicant-controlled fields in the official registration, verify the receipt, then add the [Handshake event](https://rochester.joinhandshake.com/stu/events/1982973) to this calendar |
 | 2026-08-22, all day | DEADLINE - Financial statement review/payment | Synced | Review the official account and pay or arrange before the due date |
 | 2026-08-24, all day | CONDITIONAL - Fulbright campus review packet | Corrected; synced | Proceed only if the July 31 meeting identifies an aligned award; do not request recommendations or submit before requirements are verified |
 | 2026-09-14, 9:00-9:30 AM | ACTION - Complete UofR health insurance enrollment/waiver | Synced | Finish the secure process one day before the Tuesday deadline |
@@ -47,6 +48,9 @@ Calendar permits them.
 
 ## Calendar Sync Status
 
+- [ ] Complete the HHS USAJobs registration, then add the August 19,
+  2:00-3:00 PM event to the primary RIT calendar. Do not mark synced until both
+  the registration receipt and live calendar entry are visible.
 - [x] Reconciled the live calendar on 2026-07-29: removed the obsolete
   reference-recovery event, retracted Spain ETA work block, and duplicate
   3:00-3:30 PM Fulbright hold.

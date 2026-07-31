@@ -2,7 +2,7 @@
 
 Week: **Sunday, August 2 through Saturday, August 8, 2026**
 
-This public-safe carryover list follows the July 27 account review. Private
+This public-safe carryover list includes the July 31 UofR/Handshake pass. Private
 balances, identity data, health information, reference contact details, and
 legal-form answers stay in their secure systems.
 
@@ -15,6 +15,11 @@ earlier.
 
 ### Sunday, August 2
 
+- [ ] Accept Handshake's one-time messaging guide and send Recovery Audit
+  Solutions the staged 10-hour/week and August 15 availability note.
+- [ ] Complete the prefilled HHS USAJobs webinar registration fields that
+  require applicant-controlled self-identification, citizenship, and terms
+  review; after submission, add the August 19 event to the RIT calendar.
 - [ ] Complete the Airbnb guest arrival handoff through the platform and
   resolve any same-day access issue.
 - [x] Carman reference cleanup completed before this week. Do not check for an
@@ -34,6 +39,8 @@ earlier.
   repository while Support is restoring it.
 - [ ] Check Handshake for Health Data Max, Solu, LearningMate, Handshake AI,
   Carney Sandoe, Stride, Cardinal Education, Epic, and Ampact responses.
+- [ ] Confirm that the Tech Rise Solutions and Recovery Audit Solutions
+  applications remain visible as submitted; do not send duplicate applications.
 - [ ] Review any Health Data Max response and confirm workable semester hours
   during screening.
 - [ ] Finish the LearningMate upload instead of waiting for Friday.
@@ -61,6 +68,9 @@ earlier.
 
 ### Friday, August 7
 
+- [ ] Check once for Tech Rise Solutions and Recovery Audit Solutions replies.
+  Screen full-time hours against the final semester and respond promptly to any
+  interview or scheduling request.
 - [ ] Submit LearningMate no later than **2:29 PM** and preserve the Handshake
   confirmation.
 - [ ] Complete the final writing-retreat block.
@@ -80,8 +90,9 @@ earlier.
   The implicated `vm-repo-token` is expired; do not replace it until the
   responsible Python process is identified. Carman and recommender
   acknowledgments are closed.
-- **UofR:** Fulbright intake/meeting, Health Data Max, LearningMate, financial
-  aid, teaching certification, and employer replies.
+- **UofR:** Fulbright follow-up, Health Data Max, LearningMate, Tech Rise,
+  Recovery Audit Solutions, HHS registration, financial aid, teaching
+  certification, and employer replies.
 - **Personal:** Guidepoint, official-account payment retries, credit alerts,
   medical statement, utility continuity, and the August 22 statement.
 - **MLADIS:** August 2 guest operations, payout reconciliation, and business
@@ -92,6 +103,8 @@ earlier.
 - **August 15:** RIT Fall 2026 statement due; aid still depends on FTE.
 - **August 16 at 11:59 PM:** Health Data Max official deadline.
 - **August 19:** survivorship symposium abstract, only with a genuine project.
+- **August 19, 2:00-3:00 PM:** HHS USAJobs webinar; registration and RIT
+  calendar sync remain pending until applicant-controlled fields are completed.
 - **August 24:** Conditional Fulbright campus checkpoint. It applies only if
   the July 31 meeting identifies a genuinely aligned award and verifies the
   eligibility, application, and recommendation rules.

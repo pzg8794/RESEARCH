@@ -20,6 +20,7 @@ applications, recruiter conversations, and follow-up work.
 
 | File | Purpose |
 | --- | --- |
+| [2026-07-31 UofR Opportunity Pass](./2026-07-31-uofr-opportunity-pass.md) | Verified Tech Rise and Recovery Audit Solutions applications, recruiter/program replies, supporter cleanup, HHS registration handoff, and mailbox actions |
 | [Email Action Queue](./school-email-action-queue.md) | Current cross-account career, funding, registration, financial, and follow-up todo list |
 | [Next-Week Watchlist: July 26-August 1](./next-week-watchlist-2026-07-26.md) | Dated daily execution plan and mailbox watch items for the coming week |
 | [Next-Week Watchlist: August 2-8](./next-week-watchlist-2026-08-02.md) | Carryover plan for submissions, replies, account dependencies, and next deadlines |

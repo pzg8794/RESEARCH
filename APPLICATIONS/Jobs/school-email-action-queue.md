@@ -1,6 +1,6 @@
 # Email Action Queue
 
-Updated: 2026-07-29
+Updated: 2026-07-31
 
 This is the public-safe todo list for important career, funding, registration,
 degree-completion, and financial email from the RIT, University of Rochester,
@@ -27,6 +27,18 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 
 ## Do First
 
+- [x] **Complete - Handshake / Tech Rise Solutions:** Submitted the remote
+  Data Scientist application with the tailored one-page resume on July 31;
+  Handshake and email receipts are verified. Check on August 7.
+- [x] **Complete - Handshake / Recovery Audit Solutions:** Submitted the
+  remote, 10-hour/week Data Analytics and Web Development Intern application
+  on July 31; Handshake and email receipts are verified.
+- [ ] **P0 - Recovery Audit Solutions message:** Accept Handshake's one-time
+  messaging guide, then send the [staged availability note](./2026-07-31-uofr-opportunity-pass.md#recovery-audit-solutions-hiring-lead-note).
+- [ ] **P0 - HHS USAJobs webinar:** Complete the prefilled registration by
+  selecting the applicant-controlled self-identification and citizenship
+  fields and reviewing the Microsoft Event Terms. After the receipt appears,
+  add **2026-08-19, 2:00-3:00 PM EDT** to the primary RIT Google Calendar.
 - [x] **Closed - MLADIS / Airbnb:** The July 25 reservation request expired at
   3:13 PM without a response; there is no remaining accept-or-decline action.
 - [ ] **P0 - MLADIS / Airbnb:** Review the active reservation message and send
@@ -147,6 +159,9 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 
 | Priority | Category | Item | Current status | Next action |
 | --- | --- | --- | --- | --- |
+| P0 | Job | [Recovery Audit Solutions Data Analytics and Web Development Intern](https://rochester.joinhandshake.com/job-search/11243659) | Remote, $20-$30/hour, 10 hours/week, August 15-December 15; submitted July 31 with verified Handshake and email receipts | Send the staged availability note after the one-time messaging consent; check for a response on August 7. |
+| P0 | Job | [Tech Rise Solutions Data Scientist](https://rochester.joinhandshake.com/job-search/11241730) | Remote, full-time, targeted at 2025/2026 master's graduates; submitted July 31 with the tailored resume and verified receipts | Check for a response on August 7 and confirm that any start date/hours fit the final semester. |
+| P0 | Career event | [HHS Navigating the Federal Hiring Process: USAJobs](https://rochester.joinhandshake.com/stu/events/1982973) | Wednesday, August 19, 2:00-3:00 PM EDT; official registration prefilled but not submitted | Piter completes self-identification, citizenship, and Microsoft-terms decisions; then submit and add to the RIT calendar. |
 | P0 | Financial aid | Direct Loan MPN and identity verification | The July 28 notice lists the graduate/professional Direct Loan MPN and in-person identity check; the Aid Enrollment Plan is no longer listed | Complete the [MPN](https://studentaid.gov/mpn/) after reviewing its legal terms, then follow the counselor's response for the in-person appointment. Keep starred until both are confirmed. |
 | P0 | Teaching certification | [DASA and SAVE registrations](https://www.gvboces.org/o/gvb/page/professional-learning) | The June 6 registrations were cancelled because the selected payment option was not available to this student. Current re-registration total is $203 including the card fee. | Piter completes the official form, payment, sensitive identity fields, and CAPTCHA. Finish both asynchronous courses within 30 days after login credentials arrive. |
 | P0 | Degree completion | EDU486 July 31 poster session | Template email and existing course plan confirm a **2026-07-31, 1:30-3:00 PM** poster fair in LeChase 215. The accepted Fulbright meeting begins at 3:00 PM in Dewey Hall 4-209B. | Finish from the [existing EDU486 poster draft](https://github.com/pzg8794/EDU486/blob/main/assignments/04-poster-fair/poster-proposal-draft.md), arrange coverage, and leave by 2:45 PM. Keep the email starred until complete. |
@@ -200,6 +215,14 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 
 ## Completed in This Pass
 
+- [x] July 31 UofR/Handshake pass: sent the Gwinnett, Carney Sandoe, and HHS
+  replies; submitted Tech Rise Solutions and Recovery Audit Solutions with a
+  new one-page Data Scientist resume; verified both receipts; cleaned the
+  processed emails; and preserved only the genuine consent/personal-attestation
+  handoffs.
+- [x] July 31 supporter cleanup: confirmed Zen Borys had already received a
+  direct thank-you, then unstarred, removed `To respond`, and archived the
+  completed thread without sending a duplicate message.
 - [x] July 29 reconciliation: closed Carman and reference follow-ups, discarded
   the stale Teresa/Mosaic draft, cleared the remaining Carman stars and
   waiting labels, removed three obsolete calendar items, accepted the official
