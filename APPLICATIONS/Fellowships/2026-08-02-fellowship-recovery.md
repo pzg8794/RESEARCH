@@ -89,6 +89,11 @@ other high-stakes appointments.
 - **Applicant-controlled Prospective Applicant Form fields:** pronouns,
   optional anonymized-essay permission, FERPA and records waiver review,
   signature, final acknowledgement, and submission.
+- **Education correction:** the live form lists both current graduate programs,
+  the Farmingdale dual B.S. in Electrical Engineering and Computer Engineering
+  Technology, and the locked application GPA `3.3`. The intake resume source
+  and rebuilt local PDF use the same dual-degree and GPA convention; replacing
+  the older live form attachment remains pending applicant confirmation.
 - **Preliminary Questionnaire:** open and untouched. A prompt-by-prompt response
   bank now gathers candidate directions from Piter's existing work, excludes
   unsupported claims, and links the underlying sources. Piter must choose,

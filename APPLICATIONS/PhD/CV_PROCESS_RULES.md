@@ -114,7 +114,7 @@ Every CV that uses Awards & Recognition includes these in this order:
 
 | Degree | Institution | GPA |
 |---|---|---|
-| B.S. Computer Engineering Technology | Farmingdale State College | **3.3** |
+| Dual B.S. Electrical Engineering / Computer Engineering Technology | Farmingdale State College | **3.3** |
 | M.S. Computer Science | RIT | **3.2** |
 | M.S. Data Science | RIT | **3.9** |
 | M.S. track Teaching CS K–12 | UofR Warner School | **4.0** |

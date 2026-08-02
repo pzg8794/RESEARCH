@@ -42,6 +42,10 @@
   new one-page intake resume under `Piter Garcia`. The live form remains open
   only for pronouns, privacy/waiver review, signature, acknowledgement, and
   submission.
+- Corrected the education record to include both current M.S. programs, the
+  Farmingdale dual B.S. in Electrical Engineering and Computer Engineering
+  Technology, and the canonical application GPA `3.3`; the resume source and
+  local PDF were rebuilt to match, with live-attachment replacement pending.
 - Saved a full reply-all draft to Juliet in the original thread. It apologizes
   for the missed meeting, thanks the office for its patience and NSF GRFP
   recording, confirms the Monday 9:00 AM form target, and requests a new
