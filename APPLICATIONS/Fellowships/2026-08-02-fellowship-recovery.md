@@ -85,15 +85,23 @@ other high-stakes appointments.
   Garcia`. A new one-page intake resume was compiled, visually verified, and
   uploaded to the form from
   [application-materials/2026-08-02-fellowship-intake-resume.pdf](./application-materials/2026-08-02-fellowship-intake-resume.pdf),
-  and the uploaded filename is visible in the form. The form is not submitted.
-- **Applicant-controlled Prospective Applicant Form fields:** pronouns,
-  optional anonymized-essay permission, FERPA and records waiver review,
-  signature, final acknowledgement, and submission.
+  and the upload is marked successful. A final 2026-08-02 audit found no
+  incomplete visible required fields or visible validation errors, and the
+  submit button is enabled. The form is not submitted.
+- **Applicant-controlled Prospective Applicant Form fields:** the live form
+  contains Piter's pronouns, selected anonymized-essay permission, detected
+  signature, and checked final acknowledgement. Codex did not click `Submit`.
 - **Education correction:** the live form lists both current graduate programs,
   the Farmingdale dual B.S. in Electrical Engineering and Computer Engineering
   Technology, and the locked application GPA `3.3`. The intake resume source
   and rebuilt local PDF use the same dual-degree and GPA convention. The current
   `2026-08-02` intake resume is now attached to the live form.
+- **Final field corrections:** the permanent post-graduation email is
+  `garciapiterz@gmail.com`; the undergraduate degrees use the locked titles;
+  NSF GRFP is deselected because the completed master's degree is a hard
+  exclusion; and `Other` contains NIH Oxford-Cambridge, DOE CSGF, DoD NDSEG,
+  GEM PhD, and DAAD RISE Professional. The selected listed awards are
+  `Exploratory`, `Fulbright`, and `Gates Cambridge`.
 - **Preliminary Questionnaire:** open and untouched. A prompt-by-prompt response
   bank now gathers candidate directions from Piter's existing work, excludes
   unsupported claims, and links the underlying sources. Piter must choose,
