@@ -11,13 +11,16 @@ is true, rewrite the selected material in his own voice, and enter it himself.
 
 - Use only the name **Piter Garcia**.
 - Do not paste these drafts into the questionnaire as submitted answers.
-- Do not use the unsupported percentages or mentoring totals found in older
-  scholarship drafts. No primary evidence was located for those figures.
+- Do not silently discard the percentages or mentoring totals found in older
+  scholarship drafts. They are preserved in the private ranked review packet,
+  labeled with their exact source and current verification status, so Piter can
+  judge whether a supporting analysis exists and whether to use them.
 - Do not describe the 2015 RIT ASL recognition thesis as an undergraduate
   project. It belongs to the completed RIT M.S. in Computer Science.
-- Treat the 2012 undergraduate capstone as real but incompletely documented:
-  the award is recorded, but the capstone title, methods, and result still need
-  confirmation.
+- The 2011 undergraduate capstone is now documented as the Smart Meter Home
+  Application, using ZigBee, C, and a PIC microcontroller to manage power for
+  devices on a network. The 2012 STEP/CSTEP second-place recognition is also
+  recorded. Team composition and supervisor still need confirmation if asked.
 - Label course papers, project reports, and active manuscripts accurately. Do
   not call them peer-reviewed publications unless publication is verified.
 
@@ -57,29 +60,30 @@ is true, rewrite the selected material in his own voice, and enter it himself.
 
 ### Undergraduate Honors Thesis or Senior Project
 
-**Do not draft a final answer yet.** The repository confirms a 2012 capstone
-received second-place recognition through New York State STEP/CSTEP, but it
-does not verify the capstone title, question, methodology, or outcome. The ASL
-recognition project was a 2015 RIT master's thesis and must not be used here.
+**Recovered source-grounded direction:**
 
-**Safe temporary note:**
-
-I completed an undergraduate capstone in 2012 that received second-place
-technology recognition through the New York State STEP/CSTEP program. Before I
-describe the project, I need to confirm its exact title, methods, and outcome
-from my original records.
+The 2024 CV identifies the 2011 capstone as the *Smart Meter Home
+Application*: a ZigBee/C/PIC prototype for managing the power of devices on a
+network. The same CV records second-place technology recognition through New
+York State STEP/CSTEP in 2012. The private ranked packet includes a full
+accessible version, a concise version, and an award-led version. The ASL
+recognition project remains correctly classified as 2015 RIT master's work.
 
 ### Other Undergraduate Research or Major Projects
 
-No sufficiently detailed undergraduate project record was located. Leave this
-blank until an original capstone report, transcript, portfolio, or contemporary
-resume confirms the project details.
+The older CV documents Farmingdale Engineering Group and STEP/CSTEP project-
+development participation from 2009 to 2012. It also lists several RIT projects
+in 2012 whose undergraduate/graduate classification needs confirmation. The
+private ranked packet preserves both versions and labels the chronology issue.
 
 ### Undergraduate Internships or Professional Development
 
-No source currently separates college-era internships from later professional
-employment. Do not move VIOME, VEDADATA, Samasta, or the RIT graduate work into
-this section.
+No separate undergraduate internship is documented. College-era professional
+development is documented through the Engineering Group, STEP/CSTEP project
+development, the Latin American Student Organization, and IEEE participation
+from 2009 to 2012. A prior self-authored statement also records working
+multiple jobs while completing the dual degree but does not name employers or
+supervisors; that alternate is retained and status-labeled privately.
 
 ### Merit Awards and Recognition
 
@@ -277,9 +281,10 @@ chronology.
 
 ### Talents, Hobbies, and Special Interests
 
-No reliable personal-hobby inventory was located. Do not turn professional
-interests in AI, teaching, or advocacy into hobbies unless Piter personally
-describes them that way.
+A private 2026 field guide documents hiking and regional trail planning as a
+current interest. An older CV documents an Art Scholarship for art and
+creativity. Both are preserved as ranked options in the private review packet;
+present-day frequency remains for Piter to confirm.
 
 ## Awards and Recognitions
 
@@ -379,7 +384,8 @@ eligibility requirements have been verified.
 
 Piter still needs to supply or decide:
 
-- exact undergraduate capstone title, methods, and result;
+- whether the undergraduate capstone was individual or team based and whether
+  to name a supervisor;
 - college-era internships, if any;
 - international chronology and impact;
 - hobbies or interests outside academic/professional work;
@@ -388,6 +394,15 @@ Piter still needs to supply or decide:
 - final award order;
 - every final response in his own voice;
 - the acknowledgement and submission.
+
+## Private Ranked Review Status
+
+A private, source-labeled review packet was completed on 2026-08-02 for all 24
+narrative prompts. It ranks the best-fit response first, retains every
+materially different alternate located in prior records, and includes the
+older numerical and higher-disclosure versions for Piter's judgment. The full
+packet remains outside this public repository because it contains family,
+health, disability, immigration, and other application-sensitive material.
 
 ## Primary Source Set
 

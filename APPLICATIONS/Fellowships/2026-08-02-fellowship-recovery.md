@@ -32,8 +32,9 @@ until the exact meeting start.
    [Fellowships Preliminary Questionnaire](https://form.jotform.com/261656303618155)
    in Piter's own words. The form explicitly prohibits generative-AI writing, so
    use the [source-grounded response bank](./2026-08-02-preliminary-questionnaire-response-bank.md)
-   only to evaluate verified evidence and possible directions. Piter must choose,
-   rewrite, and enter every final response himself.
+   and the private ranked review packet only to evaluate recovered evidence and
+   possible directions. Piter must choose, rewrite, and enter every final
+   response himself.
 3. Submit both forms by **Monday, August 3 at 9:00 AM** and preserve the receipts.
 4. Reply to the Fellowships Office only after the forms are submitted, apologize
    for the missed meeting, thank the office for its support and NSF GRFP
@@ -111,6 +112,12 @@ other high-stakes appointments.
   the form explicitly prohibits generative-AI-written answers. The first
   narrative field is in view for guided completion in Piter's own words. The
   form has not been saved or submitted.
+- **Ranked narrative review:** completed for all 24 narrative prompts in the
+  private mounted Research workspace. Each prompt has a recommended best fit,
+  source/status notes, and materially different alternatives. Older numerical
+  claims and higher-disclosure family, health, disability, and immigration
+  versions were retained for Piter to judge. The private packet was not copied
+  into this public repository and no narrative text was entered in the form.
 - **Recovery reply:** a complete reply-all draft is saved in the existing Gmail
   thread. It has not been sent. Preserve the draft and thread state until Piter
   approves the exact message.
