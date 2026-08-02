@@ -1,6 +1,6 @@
 # Portfolio Index — Piter Garcia
 
-Updated: 2026-05-30
+Updated: 2026-08-02
 
 This file is the canonical navigation index for the "Portafolio" legacy Drive folder, the portfolio GitHub repo, and all associated evidence artifacts. Use it to locate project code, publications, resume versions, and industry work evidence for PhD, fellowship, and other application packets.
 
@@ -9,7 +9,7 @@ This file is the canonical navigation index for the "Portafolio" legacy Drive fo
 **Google Drive — Portafolio folder**
 `https://drive.google.com/drive/u/0/folders/1YuT0Zl11GJgz0nGuqTAxvNCrWmDK6F9d`
 
-Contains all legacy project code, academic publications, industry work samples, resume materials, and portfolio brand documents going back to 2015.
+Contains legacy project code, academic reports, industry work samples, resume materials, and portfolio brand documents going back to at least 2009.
 
 ## GitHub Portfolio Repo
 
@@ -17,6 +17,22 @@ Contains all legacy project code, academic publications, industry work samples, 
 `https://github.com/pzg8794/portfolio`
 
 Public repo with organized index and README pointing to Drive sources for private/large artifacts. Add code files from Drive incrementally as needed for applications.
+
+---
+
+## Verified Undergraduate Evidence Map
+
+The `old Portafolio` archive must be checked directly for any application question about undergraduate research or major projects. Earlier portfolio indexes sometimes treated repository migration/import dates as project dates. Do **not** use those dates for academic chronology. Classify work using embedded artifact dates and the [official Farmingdale transcript](../APPLICATIONS/PhD/application-materials/farmingdale-state-college-official-transcript-2012-05-24.pdf).
+
+| Period | Verified project area | Direct evidence | Application use |
+|---|---|---|---|
+| Fall 2009 | C++ cascaded-amplifier analysis tool | [`opc-eets`](https://github.com/pzg8794/opc-eets) source dated Nov. 5, 2009; EET 222/223 transcript entries | Named computing/engineering project with method and software product |
+| Spring-Fall 2010 | Communications, advanced-electronics, network-analysis, and industrial-electronics investigations | [`opc-eets`](https://github.com/pzg8794/opc-eets) reports, calculations, waveforms, and simulation artifacts; EET 225/228/311/317 transcript entries | Research-style laboratory sequence with controlled inputs, measurements, and theory comparison |
+| Fall 2010-Spring 2011 | C++ data-processing and Unix shell projects | [`opc-labs-undergrad`](https://github.com/pzg8794/opc-labs-undergrad) code, reports, and captured output; BCS 120/215/230 transcript entries | Software-development project evidence |
+| Spring-Fall 2011 | Data-communications and advanced-networking design/configuration | [`opc-eets`](https://github.com/pzg8794/opc-eets) network summary, diagrams, and ping-test images; EET 440/441 transcript entries | Systems/networking project evidence |
+| Fall 2011-Spring 2012 | Smart Meter Home Application capstone | [`opc-final-bs-project`](https://github.com/pzg8794/opc-final-bs-project) and [`opc-senior-project`](https://github.com/pzg8794/opc-senior-project); EET 450/452 transcript entries | Senior-project answer; do not count the two repository mirrors as separate projects |
+
+Primary Drive navigation: [old Portafolio root](https://drive.google.com/drive/folders/1YuT0Zl11GJgz0nGuqTAxvNCrWmDK6F9d) and [Projects-Code](https://drive.google.com/drive/folders/1hcQBQDRzhHNFMDCBEGQkXnrnX1EKanBJ).
 
 ---
 
@@ -30,27 +46,27 @@ Public repo with organized index and README pointing to Drive sources for privat
 
 | Folder | Language/Area | Era | Application Relevance |
 |---|---|---|---|
-| `C++` | C++ systems programming | 2017 | **HIGH** — NTNU requires C/C++ working proficiency |
-| `CPP_OOP` | C++ OOP | 2017 | **HIGH** — NTNU C++ requirement |
-| `Computer Graphics` | Graphics/OpenGL | 2017 | Medium — computing background |
-| `Cryptography` | Security/crypto algorithms | 2017 | Medium — systems background |
-| `JAVA_OOP` | Java OOP | 2017 | Background |
-| `Python` | Python scripting | 2017 | Background (Python is research-current) |
-| `Algo` | Algorithms | 2017 | Medium — theory background |
-| `Data Mining` | Data mining/ML | 2017 | Medium — ML background |
-| `Unix programming` | Unix/shell | 2017 | Medium — systems background |
-| `Matlab` | MATLAB | 2017 | Background |
-| `CSharp` | C# | 2017 | Background |
-| `3DPONG` | 3D game (early project) | 2015 | Background |
-| `EETS` / `EETS-2` | EE/ECE topics | 2017/2025 | Background |
-| `FCT` | Formal computation theory | 2017 | Background |
-| `Senior Project` | Undergraduate capstone | 2017 | Medium — demonstrates CS program completion |
-| `Final BS Project` | BS final project | 2017 | Medium |
-| `Labs- Undergrad` | Undergrad lab collection | 2017 | Background |
-| `APGV` | Graphics/vision | 2019 | Medium |
-| `KLM` | Unknown | 2019 | — |
-| `Projects Workspace` | Mixed active | 2025 | Verify content — may have newer code |
-| `Work Project` | Industry code sample | 2017 | Medium |
+| `C++` | C++ systems programming | Mixed legacy; verify artifact date | **HIGH** — NTNU requires C/C++ working proficiency |
+| `CPP_OOP` | C++ OOP | Mixed legacy; verify artifact date | **HIGH** — NTNU C++ requirement |
+| `Computer Graphics` | Graphics/OpenGL | Mixed legacy; verify artifact date | Medium — computing background |
+| `Cryptography` | Security/crypto algorithms | Mixed legacy; verify artifact date | Medium — systems background |
+| `JAVA_OOP` | Java OOP | Mixed legacy; verify artifact date | Background |
+| `Python` | Python scripting | Mixed legacy; verify artifact date | Background (Python is research-current) |
+| `Algo` | Algorithms | Mixed legacy; verify artifact date | Medium — theory background |
+| `Data Mining` | Data mining/ML | Mixed legacy; verify artifact date | Medium — ML background |
+| `Unix programming` | Unix/shell | Undergraduate evidence in 2011; verify each folder | Medium — systems background |
+| `Matlab` | MATLAB | Mixed legacy; verify artifact date | Background |
+| `CSharp` | C# | Mixed legacy; verify artifact date | Background |
+| `3DPONG` | 3D game (early project) | Verify artifact and course date | Background |
+| `EETS` / `EETS-2` | EE/ECE topics | Verified undergraduate artifacts, 2009-2011 | Strong undergraduate project evidence |
+| `FCT` | Formal computation theory | Verify artifact and course date | Background |
+| `Senior Project` | Undergraduate capstone | 2011-2012 | Smart Meter capstone mirror |
+| `Final BS Project` | BS final project | 2011-2012 | Smart Meter capstone mirror |
+| `Labs- Undergrad` | Undergrad lab collection | Verified undergraduate artifacts, 2010-2011 | C++ and Unix project evidence |
+| `APGV` | Graphics/vision | Verify artifact and course date | Medium |
+| `KLM` | Unknown | Verify before use | — |
+| `Projects Workspace` | Mixed active | Mixed; verify each artifact | Verify content — may combine multiple academic periods |
+| `Work Project` | Industry code sample | Verify employment and artifact date | Medium |
 
 **Key action for NTNU:** Download `C++` and `CPP_OOP` folders from Drive and push to GitHub portfolio repo `projects/code/cpp/`. These directly address NTNU's required C/C++ proficiency.
 

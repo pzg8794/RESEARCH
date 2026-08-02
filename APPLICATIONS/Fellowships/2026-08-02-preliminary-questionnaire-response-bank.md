@@ -62,19 +62,51 @@ is true, rewrite the selected material in his own voice, and enter it himself.
 
 **Recovered source-grounded direction:**
 
-The 2024 CV identifies the 2011 capstone as the *Smart Meter Home
-Application*: a ZigBee/C/PIC prototype for managing the power of devices on a
-network. The same CV records second-place technology recognition through New
-York State STEP/CSTEP in 2012. The private ranked packet includes a full
-accessible version, a concise version, and an award-led version. The ASL
-recognition project remains correctly classified as 2015 RIT master's work.
+The old Portafolio report and official transcript establish that the *Smart
+Meter Home Application* was a three-person capstone developed across 2011 and
+completed in Spring 2012. It used ZigBee communication, microcontroller
+hardware, C/Arduino code, an LCD, and a smart plug for networked power control.
+The report directly attributes final-project code dated May 2, 2012 and the
+STEP/CSTEP competition presentation to Piter Garcia; it records successful
+device discovery, API-frame transmission, smart-plug control, LCD feedback,
+and second-place poster recognition. The two preserved capstone repositories
+are mirrors of the same project, not separate experiences. The private ranked
+packet includes the full, concise, and award-led versions. The ASL recognition
+project remains correctly classified as 2015 RIT master's work.
+
+**Sources:** [`opc-final-bs-project`](https://github.com/pzg8794/opc-final-bs-project),
+[`opc-senior-project`](https://github.com/pzg8794/opc-senior-project), and
+[Farmingdale transcript](../PhD/application-materials/farmingdale-state-college-official-transcript-2012-05-24.pdf).
 
 ### Other Undergraduate Research or Major Projects
 
-The older CV documents Farmingdale Engineering Group and STEP/CSTEP project-
-development participation from 2009 to 2012. It also lists several RIT projects
-in 2012 whose undergraduate/graduate classification needs confirmation. The
-private ranked packet preserves both versions and labels the chronology issue.
+The old Portafolio archive is a primary source for this prompt and was reviewed
+alongside the official Farmingdale transcript. Beyond the separately described
+Smart Meter capstone, it directly preserves four undergraduate project areas:
+
+- **Fall 2009:** a C++ cascaded-amplifier analysis tool that converted measured
+  circuit values into voltage gain, decibel gain, and input/output impedance.
+- **Spring and Fall 2010:** electronics, communications, and power-systems
+  investigations using theory, circuit construction or simulation, controlled
+  input changes, instrument measurements, and theory-versus-result comparison.
+  Preserved results include a superposition experiment whose five measured
+  node values matched the summed responses and a modulation experiment with
+  reported errors from 0 to 4.6 percent.
+- **Fall 2010 through Spring 2011:** C++ data-processing programs and Unix shell
+  tools using arrays, structures, classes, files, loops, menus, permissions,
+  processes, input validation, and captured test output.
+- **Spring and Fall 2011:** IPv4 network design, subnetting/VLSM, routing,
+  switching, VLAN, access-control, and connectivity-testing work documented in
+  diagrams, configuration notes, and ping-test images.
+
+**Sources:** [old Portafolio Drive root](https://drive.google.com/drive/folders/1YuT0Zl11GJgz0nGuqTAxvNCrWmDK6F9d),
+[EET/EE artifact repository](https://github.com/pzg8794/opc-eets),
+[undergraduate programming and Unix repository](https://github.com/pzg8794/opc-labs-undergrad),
+and [Farmingdale transcript](../PhD/application-materials/farmingdale-state-college-official-transcript-2012-05-24.pdf).
+The private ranked packet contains comprehensive, research-oriented, and
+computing-oriented answer versions. It also retains the earlier Engineering
+Group/STEP-CSTEP version and the RIT-2012 chronology-caution version for Piter
+to judge; neither was deleted.
 
 ### Undergraduate Internships or Professional Development
 
