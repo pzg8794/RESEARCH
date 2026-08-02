@@ -102,10 +102,15 @@ other high-stakes appointments.
   exclusion; and `Other` contains NIH Oxford-Cambridge, DOE CSGF, DoD NDSEG,
   GEM PhD, and DAAD RISE Professional. The selected listed awards are
   `Exploratory`, `Fulbright`, and `Gates Cambridge`.
-- **Preliminary Questionnaire:** open and untouched. A prompt-by-prompt response
-  bank now gathers candidate directions from Piter's existing work, excludes
-  unsupported claims, and links the underlying sources. Piter must choose,
-  rewrite, enter, and submit the final responses himself.
+- **Preliminary Questionnaire:** open in the live browser. Verified objective
+  fields are prefilled for Piter Garcia, including contact information, award
+  priorities, current graduate degrees, starting terms, and the completed RIT
+  M.S. in Computer Science. Fulbright, Gates Cambridge, and NDSEG are selected;
+  NIH Oxford-Cambridge, DOE CSGF, GEM PhD, and DAAD RISE Professional are listed
+  as additional interests. Every narrative response remains untouched because
+  the form explicitly prohibits generative-AI-written answers. The first
+  narrative field is in view for guided completion in Piter's own words. The
+  form has not been saved or submitted.
 - **Recovery reply:** a complete reply-all draft is saved in the existing Gmail
   thread. It has not been sent. Preserve the draft and thread state until Piter
   approves the exact message.

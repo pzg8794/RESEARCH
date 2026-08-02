@@ -30,10 +30,12 @@ is true, rewrite the selected material in his own voice, and enter it himself.
 | UofR email | `pgarcia8@u.rochester.edu` |
 | Permanent email | `garciapiterz@gmail.com` |
 | First award | Fulbright |
-| Second award | NSF |
-| Third award | Leave blank pending advising unless Piter independently chooses one |
+| Second award | Gates Cambridge (Study in UK) |
+| Third award | NDSEG |
+| Additional awards | NIH Oxford-Cambridge Scholars Program; DOE Computational Science Graduate Fellowship; GEM PhD Fellowship; DAAD RISE Professional |
 | Current graduate degrees | M.S. Data Science, Rochester Institute of Technology; M.S. Teaching Computer Science K-12, University of Rochester |
 | Degree completed? | No, for the two current degrees |
+| Starting terms | Spring 2024 (RIT Data Science); Spring 2025 (University of Rochester Teaching Computer Science K-12) |
 | Expected completion | December 2026 |
 | Other graduate degree | M.S. Computer Science, Rochester Institute of Technology, 2015 |
 
@@ -41,14 +43,14 @@ is true, rewrite the selected material in his own voice, and enter it himself.
 
 ### Institution, Major, and Motivation
 
-**Working response to evaluate:**
+**Verified facts and directions for Piter's own response:**
 
-I completed a B.S. in Computer Engineering Technology at Farmingdale State
-College in 2012. The program gave me a foundation in programming, electronics,
-systems, and problem solving. I was drawn to computing because it allowed me to
-turn technical ideas into tools that could address practical human needs. That
-interest later developed into graduate work in artificial intelligence, data
-science, healthcare analytics, and accessible technology.
+- Farmingdale State College, completed 2012.
+- Dual B.S. in Computer Engineering Technology and Electrical Engineering.
+- No undergraduate minor is documented; do not invent one.
+- Existing records connect these fields to programming, electronics, systems,
+  and practical problem solving. Piter must explain the original motivation in
+  his own words.
 
 **Sources:** [intake resume](./application-materials/2026-08-02-fellowship-intake-resume.pdf),
 [intended area of study](https://github.com/pzg8794/CV_Piter-Garcia/blob/main/materials/scholarships/intended_area_of_study.md).
