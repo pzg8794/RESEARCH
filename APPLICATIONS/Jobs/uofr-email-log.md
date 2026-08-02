@@ -37,11 +37,11 @@
   `To respond` label until both form receipts, the exact reply, and the
   rescheduling request are verified.
 - Prefilled the non-legal Prospective Applicant Form fields using verified
-  profile, education, citizenship, recommender, and award-interest records.
-  Prepared, compiled, and visually checked a new one-page intake resume under
-  `Piter Garcia`. The browser file chooser did not complete the upload, so the
-  live form remains open for that file selection plus pronouns, permanent
-  address, privacy/waiver review, signature, acknowledgement, and submission.
+  profile, education, citizenship, permanent-residency, recommender, and
+  award-interest records. Prepared, compiled, visually checked, and uploaded a
+  new one-page intake resume under `Piter Garcia`. The live form remains open
+  only for pronouns, privacy/waiver review, signature, acknowledgement, and
+  submission.
 - Saved a full reply-all draft to Juliet in the original thread. It apologizes
   for the missed meeting, thanks the office for its patience and NSF GRFP
   recording, confirms the Monday 9:00 AM form target, and requests a new
@@ -136,8 +136,9 @@ Last updated: 2026-07-29
   The corrected Spain ETA reply and the advising appointment request were sent
   and verified on July 27. The Spain ETA Planning Tool was also submitted and
   Jotform confirmed receipt. The Prospective Applicant Form is prefilled and
-  remains open only for pronouns, resume upload, the applicant's
-  waiver/permission choices, signature, acknowledgment, and submission.
+  includes the verified resume upload. It remains open only for pronouns, the
+  applicant's waiver/permission choices, signature, acknowledgment, and
+  submission.
 
 ## Refresh Status - 2026-07-25
 

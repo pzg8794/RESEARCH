@@ -80,16 +80,15 @@ other high-stakes appointments.
 ## Current Status
 
 - **Prospective Applicant Form:** objective profile, education, citizenship,
-  approved recommender pool, and award-interest fields are prefilled in the
-  live browser tab. A new one-page intake resume was compiled and visually
-  verified at
+  verified permanent-residency details, approved recommender pool, and
+  award-interest fields are prefilled in the live browser tab under `Piter
+  Garcia`. A new one-page intake resume was compiled, visually verified, and
+  uploaded to the form from
   [application-materials/2026-08-02-fellowship-intake-resume.pdf](./application-materials/2026-08-02-fellowship-intake-resume.pdf),
-  but the browser file chooser did not accept the automated upload. The form is
-  not submitted.
+  and the uploaded filename is visible in the form. The form is not submitted.
 - **Applicant-controlled Prospective Applicant Form fields:** pronouns,
-  permanent address/city/state, optional anonymized-essay permission, FERPA and
-  records waiver review, signature, final acknowledgement, resume-file chooser,
-  and submission.
+  optional anonymized-essay permission, FERPA and records waiver review,
+  signature, final acknowledgement, and submission.
 - **Preliminary Questionnaire:** open and untouched. A prompt-by-prompt response
   bank now gathers candidate directions from Piter's existing work, excludes
   unsupported claims, and links the underlying sources. Piter must choose,
