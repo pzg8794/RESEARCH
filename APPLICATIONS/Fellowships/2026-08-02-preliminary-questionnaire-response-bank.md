@@ -51,7 +51,7 @@ interest later developed into graduate work in artificial intelligence, data
 science, healthcare analytics, and accessible technology.
 
 **Sources:** [intake resume](./application-materials/2026-08-02-fellowship-intake-resume.pdf),
-[intended area of study](/Users/pitergarcia/DataScience/Semester5/Scholarship/Intended%20Area%20of%20Study.md).
+[intended area of study](https://github.com/pzg8794/CV_Piter-Garcia/blob/main/materials/scholarships/intended_area_of_study.md).
 
 ### Undergraduate Honors Thesis or Senior Project
 
@@ -113,7 +113,7 @@ VEDADATA from 2022 to 2024. These experiences moved my interests from building
 individual models toward designing reliable data systems and evaluating how
 technical decisions affect people in healthcare and education.
 
-**Sources:** [profile master source](/Users/pitergarcia/DataScience/Semester5/Scholarship/CV_Piter-Garcia/materials/linkedin/profile_master_source.md),
+**Sources:** [profile master source](https://github.com/pzg8794/CV_Piter-Garcia/blob/main/materials/linkedin/profile_master_source.md),
 [intake resume](./application-materials/2026-08-02-fellowship-intake-resume.pdf).
 
 ### Main Academic Interests and Their Evolution
@@ -134,7 +134,8 @@ represented in data or design decisions?
 
 **Sources:** [statement theme library](../../STATEMENTS/statement-theme-library.md),
 [research index](../../MASTER_RESEARCH_INDEX.md),
-[Puzzle Plan](/Users/pitergarcia/DataScience/Semester5/Scholarship/The%20Puzzle%20Plan_%20An%20Interdisciplinary%20Framework%20for%20Equitable%20Diagnostics%20and%20Advocacy-Driven%20Research.md).
+[research-index Puzzle Plan documentation](../../MASTER_RESEARCH_INDEX.md).
+Local full source: `/Users/pitergarcia/DataScience/Semester5/Scholarship/The Puzzle Plan_ An Interdisciplinary Framework for Equitable Diagnostics and Advocacy-Driven Research.md`.
 
 ### Career and Intended Contribution
 
@@ -161,7 +162,7 @@ recognition methods for interpreting signed communication. The project is an
 early example of my interest in combining technical computing with access and
 communication needs.
 
-**Source:** [profile master source](/Users/pitergarcia/DataScience/Semester5/Scholarship/CV_Piter-Garcia/materials/linkedin/profile_master_source.md).
+**Source:** [profile master source](https://github.com/pzg8794/CV_Piter-Garcia/blob/main/materials/linkedin/profile_master_source.md).
 
 ### Current Thesis or Capstone
 
@@ -178,7 +179,7 @@ group-level outcomes in both simulation families, while treating those results
 as evidence to be validated rather than as a finished claim.
 
 **Sources:** [public thesis draft](https://github.com/pzg8794/DSCI601-Project_Proposal/blob/main/rough_draft_report/rough_draft_report.pdf),
-[local final-proposal source](/Users/pitergarcia/DataScience/Semester5/DSCI601-Project_Proposal_Final/main.tex),
+[final-proposal source](https://github.com/pzg8794/DSCI601-Project_Proposal_Final/blob/main/main.tex),
 [research-index entry](../../MASTER_RESEARCH_INDEX.md).
 
 ### Publications, Presentations, and Exhibitions
@@ -198,7 +199,8 @@ as evidence to be validated rather than as a finished claim.
   through the University of Rochester teaching placement, 2026.
 
 **Sources:** [research index](../../MASTER_RESEARCH_INDEX.md),
-[teaching-placement presentation source](/Users/pitergarcia/DataScience/Semester5/Semester3(UofR)/TeachingPlacement/docs/impacting-practice-presentation.tex).
+[teaching-placement presentation source](https://github.com/pzg8794/teaching-placement/blob/teaching_placement_shared/docs/impacting-practice-presentation.tex)
+(private repository; authorized access required).
 
 ### Faculty and Professional Mentors
 
@@ -249,8 +251,9 @@ including support for neurodivergent and underrepresented learners. These
 experiences have strengthened my ability to explain complex ideas, revise
 instruction from evidence, and treat inclusion as part of technical quality.
 
-**Sources:** [teaching-placement hub](/Users/pitergarcia/DataScience/Semester5/Semester3(UofR)/TeachingPlacement/teaching-placement-notes.md),
-[CPAST self-evaluation](/Users/pitergarcia/DataScience/Semester5/Semester3(UofR)/TeachingPlacement/coursework/tasks/cpast-self-evaluation-piter-garcia.md).
+**Sources:** [teaching-placement hub](https://github.com/pzg8794/teaching-placement/blob/teaching_placement_shared/teaching-placement-notes.md),
+[CPAST self-evaluation](https://github.com/pzg8794/teaching-placement/blob/teaching_placement_shared/coursework/tasks/cpast-self-evaluation-piter-garcia.md)
+(private repository; authorized access required).
 
 ### Non-Research, Non-Academic Graduate Internships
 
@@ -299,7 +302,8 @@ not clear enough. The ongoing impact is a documented set of reusable lesson
 resources and a stronger practice of designing inclusion and assessment into
 technical lessons from the beginning.
 
-**Source:** [CPAST self-evaluation](/Users/pitergarcia/DataScience/Semester5/Semester3(UofR)/TeachingPlacement/coursework/tasks/cpast-self-evaluation-piter-garcia.md).
+**Source:** [CPAST self-evaluation](https://github.com/pzg8794/teaching-placement/blob/teaching_placement_shared/coursework/tasks/cpast-self-evaluation-piter-garcia.md)
+(private repository; authorized access required).
 
 ### Meaningful Public Service Within the Past Three Years
 
@@ -355,7 +359,7 @@ substitute for evidence, but they help explain why I care so strongly about
 building systems and classrooms that recognize more than one way of learning,
 communicating, and contributing.
 
-**Source:** [leadership writing](/Users/pitergarcia/DataScience/Semester5/Scholarship/Leadership%20Experiences%20at%20RIT-Essay.md).
+**Source:** [leadership writing](https://github.com/pzg8794/CV_Piter-Garcia/blob/main/materials/scholarships/leadership_essay.md).
 
 ### Fellowship Concerns
 
@@ -389,8 +393,9 @@ Piter still needs to supply or decide:
 2. [Public DSCI601 thesis draft](https://github.com/pzg8794/DSCI601-Project_Proposal/blob/main/rough_draft_report/rough_draft_report.pdf)
 3. [Master research index](../../MASTER_RESEARCH_INDEX.md)
 4. [Statement theme library](../../STATEMENTS/statement-theme-library.md)
-5. [Teaching-placement hub](/Users/pitergarcia/DataScience/Semester5/Semester3(UofR)/TeachingPlacement/teaching-placement-notes.md)
-6. [CPAST evidence-based self-evaluation](/Users/pitergarcia/DataScience/Semester5/Semester3(UofR)/TeachingPlacement/coursework/tasks/cpast-self-evaluation-piter-garcia.md)
-7. [Puzzle Plan](/Users/pitergarcia/DataScience/Semester5/Scholarship/The%20Puzzle%20Plan_%20An%20Interdisciplinary%20Framework%20for%20Equitable%20Diagnostics%20and%20Advocacy-Driven%20Research.md)
-8. [Existing leadership writing](/Users/pitergarcia/DataScience/Semester5/Scholarship/Leadership%20Experiences%20at%20RIT-Essay.md)
-9. [Profile master source](/Users/pitergarcia/DataScience/Semester5/Scholarship/CV_Piter-Garcia/materials/linkedin/profile_master_source.md)
+5. [Teaching-placement hub](https://github.com/pzg8794/teaching-placement/blob/teaching_placement_shared/teaching-placement-notes.md) (private)
+6. [CPAST evidence-based self-evaluation](https://github.com/pzg8794/teaching-placement/blob/teaching_placement_shared/coursework/tasks/cpast-self-evaluation-piter-garcia.md) (private)
+7. [Existing leadership writing](https://github.com/pzg8794/CV_Piter-Garcia/blob/main/materials/scholarships/leadership_essay.md)
+8. [Profile master source](https://github.com/pzg8794/CV_Piter-Garcia/blob/main/materials/linkedin/profile_master_source.md)
+9. [Final DSCI601 proposal source](https://github.com/pzg8794/DSCI601-Project_Proposal_Final/blob/main/main.tex)
+10. Local-only Puzzle Plan source: `/Users/pitergarcia/DataScience/Semester5/Scholarship/The Puzzle Plan_ An Interdisciplinary Framework for Equitable Diagnostics and Advocacy-Driven Research.md`
