@@ -8,6 +8,7 @@ Use this folder when an opportunity comes from ProFellow, an external fellowship
 
 | Need | File |
 | --- | --- |
+| Eligibility-first Puzzle Plan evaluation of every fellowship-intake option | [2026-08-02-puzzle-plan-opportunity-evaluation.md](./2026-08-02-puzzle-plan-opportunity-evaluation.md) |
 | August 2 missed-appointment recovery, form links, and scheduling controls | [2026-08-02-fellowship-recovery.md](./2026-08-02-fellowship-recovery.md) |
 | Source-grounded preliminary-questionnaire response bank for Piter's review | [2026-08-02-preliminary-questionnaire-response-bank.md](./2026-08-02-preliminary-questionnaire-response-bank.md) |
 | RIT opportunity review and verified deadlines | [rit-opportunity-log-2026-07-23.md](./rit-opportunity-log-2026-07-23.md) |
