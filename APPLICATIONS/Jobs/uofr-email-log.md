@@ -1,5 +1,55 @@
 # University of Rochester Job and Career Email Log
 
+## Refresh Status - 2026-08-02
+
+- Reopened and preserved the missed fellowship thread. The Fellowships Office
+  invited Piter to reschedule and requested the Prospective Applicant Form and
+  Preliminary Questionnaire by **Monday, August 3 at 9:00 AM**.
+- Verified the calendar failure: the EDU486 Poster Fair ended at 3:00 PM in
+  LeChase while the fellowship appointment began at 3:00 PM in Dewey, and the
+  appointment had only a ten-minute reminder. The prior transition block was
+  not a viable buffer.
+- Added urgent completion and deadline events to the UofR calendar and invited
+  `pzg8794@g.rit.edu`; added multiple reminders. Do not treat RIT sync as
+  complete until the invitations are accepted and visible there.
+- Verified that the Preliminary Questionnaire explicitly prohibits generative
+  AI. A separate prompt-by-prompt response bank now organizes Piter's existing
+  writing, project evidence, and possible directions for his evaluation. It is
+  not entered into the form; Piter must choose and write the final responses in
+  his own voice.
+- Verified the Friday, August 7 at 9:00 AM financial-aid identity appointment
+  and strengthened its reminders to one day, two hours, and ten minutes.
+- Added a 7:45-9:00 AM preparation-and-travel block immediately before the
+  financial-aid appointment, with one-day, two-hour, thirty-minute, and
+  ten-minute alerts. This prevents another back-to-back transition failure.
+- Reopened the July 27 writing-retreat receipt, verified the August 5-7
+  noon-4:00 PM registration, and restored the Wednesday and Friday sessions to
+  the live calendar with multiple reminders and RIT invitations. Thursday
+  remains clear because of class.
+- Restored the documented Friday 10:00-11:00 AM LearningMate submission block
+  to the live calendar and invited the RIT account; the official deadline is
+  2:29 PM that day.
+- Detected that the Monday career-response review had been scheduled to begin
+  at the exact 9:00 AM fellowship deadline. Moved that flexible review to
+  10:00-10:45 AM, added three alerts, and invited the RIT account so receipts
+  and the fellowship follow-up have a full hour of protected recovery time.
+- No fellowship reply has been sent yet. Preserve the star, inbox state, and
+  `To respond` label until both form receipts, the exact reply, and the
+  rescheduling request are verified.
+- Prefilled the non-legal Prospective Applicant Form fields using verified
+  profile, education, citizenship, recommender, and award-interest records.
+  Prepared, compiled, and visually checked a new one-page intake resume under
+  `Piter Garcia`. The browser file chooser did not complete the upload, so the
+  live form remains open for that file selection plus pronouns, permanent
+  address, privacy/waiver review, signature, acknowledgement, and submission.
+- Saved a full reply-all draft to Juliet in the original thread. It apologizes
+  for the missed meeting, thanks the office for its patience and NSF GRFP
+  recording, confirms the Monday 9:00 AM form target, and requests a new
+  appointment for genuinely aligned research or CS-education opportunities.
+  The draft is **not sent**.
+- See the complete
+  [fellowship recovery record](../Fellowships/2026-08-02-fellowship-recovery.md).
+
 ## Refresh Status - 2026-07-31
 
 - Submitted two current remote applications discovered through the UofR

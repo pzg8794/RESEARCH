@@ -9,12 +9,19 @@ legal-form answers stay in their secure systems.
 Scheduling rule: do not place meetings, events, or work blocks on Tuesdays or
 Thursdays. Thursday after 4:30 PM is a fallback only when Thursday is the sole
 option. Fixed deadlines may remain on those dates, with preparation completed
-earlier.
+earlier. High-stakes appointments also require a separate 60-minute preparation
+block, at least 30 minutes of same-campus travel time, and multiple alerts.
 
 ## Daily Plan
 
 ### Sunday, August 2
 
+- [ ] **P0: Complete the fellowship Prospective Applicant Form and the
+  no-generative-AI Preliminary Questionnaire before tonight's work block ends.**
+  The questionnaire answers must be written directly by Piter.
+- [x] Added a 3:30-7:00 PM fellowship completion block and a Monday 7:30-9:00 AM
+  deadline block to the UofR calendar; invited `pzg8794@g.rit.edu` and added
+  multiple alerts. RIT acceptance still needs verification.
 - [ ] Accept Handshake's one-time messaging guide and send Recovery Audit
   Solutions the staged 10-hour/week and August 15 availability note.
 - [ ] Complete the prefilled HHS USAJobs webinar registration fields that
@@ -29,8 +36,14 @@ earlier.
 
 ### Monday, August 3
 
-- [ ] Check the UofR Fellowships Office for intake receipt and the earliest
-  meeting time.
+- [ ] **Submit both fellowship forms by 9:00 AM, preserve both receipts, and
+  then send the recovery/rescheduling reply to the Fellowships Office.**
+- [x] Moved the flexible career-response review to 10:00-10:45 AM, leaving a
+  full hour after the fellowship deadline block. Added one-hour,
+  thirty-minute, and ten-minute alerts and sent an RIT calendar invitation.
+- [ ] Check the UofR Fellowships Office for the earliest viable meeting time.
+  Accept only after checking every calendar and reserving preparation plus
+  travel buffers.
 - [ ] Check Guidepoint after the July 27 follow-up and VDart after its confirmed
   July 23 screening reply; close either lead if there is no substantive answer.
 - [ ] Check GitHub Support ticket `4592214` for restoration of `DBSCAN`,
@@ -53,8 +66,9 @@ earlier.
 
 ### Wednesday, August 5
 
-- [ ] Begin the registered UofR graduate writing retreat and protect the
-  noon-4:00 PM block for the thesis.
+- [ ] Begin the registered UofR graduate writing retreat and use the now-synced
+  noon-4:00 PM block for the thesis. The event has one-day, one-hour, and
+  ten-minute alerts and an RIT calendar invitation.
 - [ ] Recheck RIT aid, Fall billing, HESC, and TEACH Grant dependencies through
   their official accounts.
 - [ ] Verify the already-submitted Solu application before its Thursday
@@ -68,12 +82,16 @@ earlier.
 
 ### Friday, August 7
 
+- [ ] Attend the confirmed 9:00 AM in-person financial-aid identity-verification
+  appointment at Wallis Hall. The 7:45-9:00 AM preparation-and-travel block is
+  protected; bring visible student ID and use the multiple alerts already added.
 - [ ] Check once for Tech Rise Solutions and Recovery Audit Solutions replies.
   Screen full-time hours against the final semester and respond promptly to any
   interview or scheduling request.
 - [ ] Submit LearningMate no later than **2:29 PM** and preserve the Handshake
   confirmation.
-- [ ] Complete the final writing-retreat block.
+- [ ] Complete the final noon-4:00 PM writing-retreat block. It is now live on
+  the UofR calendar with an RIT invitation and multiple alerts.
 - [ ] Review any UofR Fellowships Office instructions received during the week
   and schedule the next Fulbright drafting milestone.
 

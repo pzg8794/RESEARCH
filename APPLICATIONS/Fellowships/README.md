@@ -8,6 +8,8 @@ Use this folder when an opportunity comes from ProFellow, an external fellowship
 
 | Need | File |
 | --- | --- |
+| August 2 missed-appointment recovery, form links, and scheduling controls | [2026-08-02-fellowship-recovery.md](./2026-08-02-fellowship-recovery.md) |
+| Source-grounded preliminary-questionnaire response bank for Piter's review | [2026-08-02-preliminary-questionnaire-response-bank.md](./2026-08-02-preliminary-questionnaire-response-bank.md) |
 | RIT opportunity review and verified deadlines | [rit-opportunity-log-2026-07-23.md](./rit-opportunity-log-2026-07-23.md) |
 | August-September execution checklist | [august-september-2026-action-plan.md](./august-september-2026-action-plan.md) |
 | Correct advisor reference recovery plan for funded PhD applications | [advisor-reference-recovery-plan.md](./advisor-reference-recovery-plan.md) |
@@ -37,6 +39,9 @@ Use this folder when an opportunity comes from ProFellow, an external fellowship
 6. For Fulbright, use the queue file as the durable bookmark layer because the official site does not provide the same account-bookmark workflow as ProFellow.
 7. Do not contact or register recommenders until hard eligibility requirements
    and the current official opportunity description are verified.
+8. Before accepting an interview or advising appointment, check all course and
+   calendar commitments, preserve at least 30 minutes for campus travel, and
+   create a separate 60-minute preparation block with multiple alerts.
 
 ## Folder intent
 

@@ -2,7 +2,7 @@
 
 Calendar account: `pzg8794@g.rit.edu`
 
-Updated: 2026-07-31
+Updated: 2026-08-02
 
 This queue mirrors verified application deadlines, review blocks,
 appointments, and registered events. Every entry should include its source
@@ -16,6 +16,11 @@ Calendar permits them.
 - Keep fixed official deadlines on their true dates. When a deadline falls on
   Tuesday or Thursday, schedule preparation or final review on an earlier
   Monday, Wednesday, or Friday.
+- Never schedule a critical appointment at the exact end of another obligation.
+- Reserve at least 30 minutes for same-campus travel and a separate 60-minute
+  preparation block for high-stakes appointments.
+- Use multiple alerts: normally one day, two hours, thirty minutes, and ten
+  minutes before the appointment.
 
 ## Immediate
 
@@ -25,15 +30,19 @@ Calendar permits them.
 | 2026-07-31, 1:30-3:00 PM | EDU486 Poster Fair | Confirmed; synced | LeChase 215; finish from the existing poster draft |
 | 2026-07-31, 2:45-3:00 PM | TRANSITION - Leave EDU486 Poster Fair for Fulbright | Added live and synced to source | Arrange poster coverage or notify the course team, then leave LeChase 215 for Dewey Hall 4-209B |
 | 2026-07-31, 3:00-4:00 PM | Piter Garcia, Fulbright initial meeting | Official invitation accepted | Dewey Hall 4-209B; identify a genuinely aligned award and verify eligibility, funding, host, application, and recommendation rules |
-| 2026-08-03, 9:00-9:45 AM | REVIEW - Career application responses | Synced | Check Guidepoint, VDart, Health Data Max, UofR Fulbright advising, and Handshake responses |
+| 2026-08-02, 3:30-7:00 PM | URGENT: Finish Fellowship Forms | Saved on UofR calendar; RIT invitation sent | Complete both [fellowship intake forms](../Fellowships/2026-08-02-fellowship-recovery.md); 30-minute and 10-minute alerts |
+| 2026-08-03, 7:30-9:00 AM | DEADLINE 9 AM: Fellowship Forms + Juliet Follow-Up | Saved on UofR calendar; RIT invitation sent | Final check, submit both forms, preserve receipts, then send recovery reply; 12-hour, 2-hour, and 30-minute alerts |
+| 2026-08-03, 10:00-10:45 AM | REVIEW: Career Application Responses | Saved on UofR calendar; RIT invitation sent | Check Guidepoint, VDart, Health Data Max, Tech Rise, Recovery Audit Solutions, and Handshake only after fellowship receipts and follow-up are complete; 1-hour, 30-minute, and 10-minute alerts |
 
 ## August and Later
 
 | Date and time (EDT) | Calendar title | Status | Source / action |
 | --- | --- | --- | --- |
-| 2026-08-05, 12:00-4:00 PM | UofR Graduate Writing Retreat - Day 1 | Registered; synced | Bring the RIT data-science thesis/manuscript |
-| 2026-08-07, 10:00-11:00 AM | DEADLINE WORK BLOCK - LearningMate SME | Synced | Upload the targeted resume and cover letter before the 2:29 PM deadline |
-| 2026-08-07, 12:00-4:00 PM | UofR Graduate Writing Retreat - Day 3 | Registered; synced | Complete the retreat commitment |
+| 2026-08-05, 12:00-4:00 PM | UofR Graduate Writing Retreat - Day 1 | Registered; saved on UofR calendar; RIT invitation sent | Bring the RIT data-science thesis/manuscript; 1-day, 1-hour, and 10-minute alerts |
+| 2026-08-07, 7:45-9:00 AM | PREP + TRAVEL: Financial Aid Appointment | Saved on UofR calendar; RIT invitation sent | Prepare visible student ID, review the verification email, travel to Wallis Hall, and arrive before 9:00 AM; 1-day, 2-hour, 30-minute, and 10-minute alerts |
+| 2026-08-07, 9:00-9:15 AM | In-person identity verification appointment for 2026-27 aid | Official invitation accepted; alerts strengthened | Wallis Hall; arrive early with visible student ID; one-day, two-hour, and ten-minute alerts |
+| 2026-08-07, 10:00-11:00 AM | DEADLINE WORK BLOCK: LearningMate SME | Saved on UofR calendar; RIT invitation sent | Upload the targeted resume and cover letter before the 2:29 PM deadline; 1-day, 1-hour, and 10-minute alerts |
+| 2026-08-07, 12:00-4:00 PM | UofR Graduate Writing Retreat - Day 3 | Registered; saved on UofR calendar; RIT invitation sent | Complete the retreat commitment; 1-day, 1-hour, and 10-minute alerts |
 | 2026-08-09, 6:00-6:20 PM | REVIEW - RIT parking permit readiness | Synced | Confirm local address, account balance, and whether a permit is needed before reserved/general sales open |
 | 2026-08-15, all day | DEADLINE - RIT Fall statement | Synced | Recheck billing after FTE and aid updates |
 | 2026-08-19, 2:00-3:00 PM | HHS - Navigating the Federal Hiring Process: USAJobs | Registration prefilled; calendar sync pending | Complete the applicant-controlled fields in the official registration, verify the receipt, then add the [Handshake event](https://rochester.joinhandshake.com/stu/events/1982973) to this calendar |
@@ -48,6 +57,26 @@ Calendar permits them.
 
 ## Calendar Sync Status
 
+- [ ] Verify that the two August 2-3 fellowship invitations are accepted and
+  visible on the primary RIT calendar. They are already saved on the UofR
+  calendar and invitations were sent to `pzg8794@g.rit.edu`.
+- [ ] Verify RIT acceptance of the August 5 and August 7 writing-retreat
+  invitations, the August 7 financial-aid preparation/travel invitation, and
+  the August 7 LearningMate work-block invitation. All four are saved and
+  visible on the UofR calendar.
+- [x] Moved the flexible August 3 career-response review from 9:00 AM to
+  10:00-10:45 AM, leaving one hour after the fellowship deadline block for
+  receipts and follow-up. The corrected event is live on the UofR calendar and
+  invited to RIT.
+- [x] Verified the July 27 writing-retreat registration receipt and restored the
+  missing Wednesday and Friday noon-4:00 PM blocks to the live calendar. The
+  Thursday session remains unscheduled because of class.
+- [x] Audited the missed July 31 fellowship appointment. The Poster Fair ended
+  at 3:00 PM in LeChase and the appointment began at 3:00 PM in Dewey, while
+  the appointment had only a ten-minute alert. Record this as an invalid
+  schedule, not as a workable transition.
+- [x] Strengthened the August 7 financial-aid appointment reminders to one day,
+  two hours, and ten minutes.
 - [ ] Complete the HHS USAJobs registration, then add the August 19,
   2:00-3:00 PM event to the primary RIT calendar. Do not mark synced until both
   the registration receipt and live calendar entry are visible.
@@ -58,9 +87,9 @@ Calendar permits them.
   3:00-4:00 PM in Dewey Hall 4-209B.
 - [x] Changed the August 24 Fulbright event to a conditional checkpoint with
   an explicit no-recommender/no-submission boundary until an award is verified.
-- [x] Added a Friday, July 31, 2:45-3:00 PM transition reminder after detecting
-  that the Poster Fair ends when the Fulbright meeting begins in another
-  building.
+- [x] Added a Friday, July 31, 2:45-3:00 PM transition reminder, but the later
+  audit confirms this was insufficient because the required Poster Fair could
+  continue until the exact appointment start in another building.
 - [x] Corrected the Carman source mix-up on 2026-07-28. Removed the letter
   delivery, submission work block, and submission deadline events; changed the
   remaining block to review-only planning for funded PhD references.
