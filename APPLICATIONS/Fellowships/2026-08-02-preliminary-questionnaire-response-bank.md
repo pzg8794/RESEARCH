@@ -298,51 +298,49 @@ produce strong technical methods, but also something more immediate: better
 decisions, earlier support, and systems that listen before they dismiss the
 people affected by them.
 
-### Completed Master's Degree
+### Completed and Current Master's Degrees
 
 **Working response to evaluate:**
 
-My 2015 M.S. in Computer Science at Rochester Institute of Technology provides
-the technical foundation for my current work on equitable artificial
-intelligence, communication access, and decision-making under uncertainty. I
-focused on artificial intelligence, big-data analytics, and computer graphics,
-with two projects that shaped my direction: Big Data Medical Diagnosis and a
-culminating project integrating Microsoft Kinect and Leap Motion sensors for
-sign-language recognition.
+I previously completed an M.S. in Computer Science at Rochester Institute of
+Technology in 2015. I am now completing an M.S. in Data Science at RIT and an
+M.S. in Teaching Computer Science K-12 at the University of Rochester, both
+expected in December 2026. These current programs are the center of my graduate
+work because they allow me to connect equitable artificial-intelligence
+research with inclusive computer-science education.
 
-For the sign-language project, I investigated whether combining full-body,
-depth, hand, and finger data could represent communication more completely than
-either sensor alone. I implemented feature extraction and normalization,
-recording and testing controls, and checks for missing or noisy sensor frames. I
-also investigated Hidden Markov Models and Support Vector Machines as potential
-classifiers. The project produced the feature-extraction, normalization, and
-testing foundation, although the full classification and monitoring pipeline
-remained unfinished.
+My RIT Data Science thesis, *Fairness-Aware Bandits for Network Routing in
+Quantum and Clinical Settings*, examines how artificial-intelligence systems
+should allocate scarce resources when information is incomplete, delayed,
+noisy, or unevenly available across groups. I developed a shared simulation and
+evaluation framework that compares non-contextual, contextual, and fairness-
+mediated bandit policies in quantum-network routing and clinical decision
+settings. I evaluate utility, reliability, latency, and group-level disparities.
+Preliminary results suggest that fairness mediation can improve group-level
+outcomes while preserving useful system performance; these findings remain
+under validation.
 
-The project showed me how quickly an assistive system can fail when evidence is
-incomplete, noisy, or outside its expected patterns. My medical-diagnosis work
-raised the same concern in healthcare. Later, living with chronic illness,
-depression, neurodivergence, and misdiagnosis made the consequences of those
-technical limitations personal. I experienced how medical and educational
-institutions can also dismiss incomplete or unexpected evidence, affecting
-whether a person receives understanding, care, accommodation, or support.
+My University of Rochester Teaching Computer Science K-12 program focuses on
+how disability, neurodivergence, communication access, and learner agency shape
+computer-science education. Through K-5 student teaching, disability and
+inclusive-practices coursework, lesson design, and Noyce-supported preparation
+for high-need schools, I examine how multiple ways of accessing instruction,
+communicating, and demonstrating knowledge can preserve technical rigor while
+expanding participation.
 
-That connection now drives my graduate research and teaching. The Puzzle Plan
-is my interdisciplinary framework for connecting engineering, artificial
-intelligence, bioinformatics, disability inclusion, lived experience, and
-computer-science education around this shared problem. Within it, EQUITAS, or
-Equity-Quantified Integrated Trauma-Aware Systems, is my fairness-aware
-evaluation and decision-mediation framework for studying whether systems remain
-useful and equitable when evidence is missing, delayed, noisy, or unevenly
-available across groups. This foundation now supports my goal of combining
-doctoral research, applied data science, and inclusive computer-science
-teaching to build clinical, bioinformatics, quantum-computing, and educational
-systems that recognize varied human evidence and respond before people are
-dismissed.
+I connect both degrees through the Puzzle Plan, my interdisciplinary framework
+for joining engineering, artificial intelligence, bioinformatics, disability
+inclusion, lived experience, and computer-science education, and through
+EQUITAS, or Equity-Quantified Integrated Trauma-Aware Systems, my fairness-aware
+framework for evaluating decisions under incomplete or uneven evidence. Their
+shared purpose is to develop computational systems and learning environments
+that recognize the evidence people bring, identify who may be missed, and
+provide support before people are dismissed. Both degrees remain in progress,
+so I treat the research findings and teaching conclusions as provisional.
 
-**Sources:** [profile master source](https://github.com/pzg8794/CV_Piter-Garcia/blob/main/materials/linkedin/profile_master_source.md),
-[statement theme library](../../STATEMENTS/statement-theme-library.md), and
-[research index](../../MASTER_RESEARCH_INDEX.md).
+**Sources:** [public thesis draft](https://github.com/pzg8794/DSCI601-Project_Proposal/blob/main/rough_draft_report/rough_draft_report.pdf),
+[research index](../../MASTER_RESEARCH_INDEX.md), and current RIT/UofR degree
+and teaching records documented in the private Research workspace.
 
 ### Current Thesis or Capstone
 
