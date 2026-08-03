@@ -315,16 +315,23 @@ These current programs are the center of my graduate work because they allow me
 to connect equitable artificial-intelligence research with inclusive computer-
 science education.
 
-My RIT Data Science thesis, *Fairness-Aware Bandits for Network Routing in
-Quantum and Clinical Settings*, examines how artificial-intelligence systems
-should allocate scarce resources when information is incomplete, delayed,
-noisy, or unevenly available across groups. I developed a shared simulation and
-evaluation framework that compares non-contextual, contextual, and fairness-
-mediated bandit policies in quantum-network routing and clinical decision
-settings. I evaluate utility, reliability, latency, and group-level disparities.
-Current simulation results indicate that fairness mediation improves group-
-level outcomes while preserving useful system performance, and I am continuing
-to validate these results across scenarios.
+My current RIT Data Science thesis studies a familiar problem: how to make
+repeated decisions fairly when resources are limited and the system does not
+have the full picture. In healthcare, those decisions include who receives a
+diagnostic test, who is retested or escalated, and who may be missed because
+important context is incomplete; missing context can become a missed diagnosis.
+In a quantum network, the comparable decision is which communication path or
+user receives scarce, unreliable resources. I use bandit methods, which learn
+from repeated choices: the system selects an action, observes only what happened
+after that choice, and uses that result to guide the next decision. I built a
+shared simulation and evaluation framework to compare policies that use no
+context, available context, or additional predictive context, then measure both
+overall performance and whether some groups or network flows repeatedly receive
+worse outcomes. The central concern is simple: a system can look successful on
+average while still delaying care for a vulnerable group or consistently giving
+some users worse service. Current simulations test whether fairness-aware
+mediation can reduce those gaps while preserving useful performance, and I am
+continuing the evaluation across additional clinical and quantum scenarios.
 
 My University of Rochester Teaching Computer Science K-12 program focuses on
 how disability, neurodivergence, communication access, and learner agency shape
@@ -344,8 +351,9 @@ environments that recognize the evidence people bring, identify who may be
 missed, and provide support before people are dismissed.
 
 **Sources:** [public thesis draft](https://github.com/pzg8794/DSCI601-Project_Proposal/blob/main/rough_draft_report/rough_draft_report.pdf),
-[research index](../../MASTER_RESEARCH_INDEX.md), and current RIT/UofR degree
-and teaching records documented in the private Research workspace.
+[DSCI601 source and transcripts](https://github.com/pzg8794/DSCI601),
+[research index](../../MASTER_RESEARCH_INDEX.md), and current RIT/UofR degree and
+teaching records documented in the private Research workspace.
 
 ### Current Thesis or Capstone
 
