@@ -80,38 +80,31 @@ other high-stakes appointments.
 
 ## Current Status
 
-- **Prospective Applicant Form:** objective profile, education, citizenship,
-  verified permanent-residency details, approved recommender pool, and
-  award-interest fields are prefilled in the live browser tab under `Piter
-  Garcia`. A new one-page intake resume was compiled, visually verified, and
-  uploaded to the form from
-  [application-materials/2026-08-02-fellowship-intake-resume.pdf](./application-materials/2026-08-02-fellowship-intake-resume.pdf),
-  and the upload is marked successful. A final 2026-08-02 audit found no
-  incomplete visible required fields or visible validation errors, and the
-  submit button is enabled. The form is not submitted.
-- **Applicant-controlled Prospective Applicant Form fields:** the live form
-  contains Piter's pronouns, selected anonymized-essay permission, detected
-  signature, and checked final acknowledgement. Codex did not click `Submit`.
-- **Education correction:** the live form lists both current graduate programs,
+- **Fulbright Planning Tool:** submitted and receipt-confirmed on 2026-07-27.
+- **Prospective Applicant Form:** Piter completed the applicant-controlled
+  fields and proceeded to the next form after the final audit. Treat it as
+  **user-reported submitted on 2026-08-03** and do not reopen or duplicate it.
+  The submission receipt was not preserved in the browser or tracker, so the
+  Fellowships Office acknowledgement remains the confirmation source.
+- **Prospective Applicant Form contents:** the submitted version listed both
+  current graduate programs,
   the Farmingdale dual B.S. in Electrical Engineering and Computer Engineering
   Technology, and the locked application GPA `3.3`. The intake resume source
-  and rebuilt local PDF use the same dual-degree and GPA convention. The current
-  `2026-08-02` intake resume is now attached to the live form.
-- **Final field corrections:** the permanent post-graduation email is
+  and rebuilt local PDF use the same dual-degree and GPA convention. It used
+  the permanent post-graduation email
   `garciapiterz@gmail.com`; the undergraduate degrees use the locked titles;
   NSF GRFP is deselected because the completed master's degree is a hard
   exclusion; and `Other` contains NIH Oxford-Cambridge, DOE CSGF, DoD NDSEG,
   GEM PhD, and DAAD RISE Professional. The selected listed awards are
   `Exploratory`, `Fulbright`, and `Gates Cambridge`.
-- **Preliminary Questionnaire:** open in the live browser. Verified objective
-  fields are prefilled for Piter Garcia, including contact information, award
-  priorities, current graduate degrees, starting terms, and the completed RIT
-  M.S. in Computer Science. Fulbright, Gates Cambridge, and NDSEG are selected;
-  NIH Oxford-Cambridge, DOE CSGF, GEM PhD, and DAAD RISE Professional are listed
-  as additional interests. Every narrative response remains untouched because
-  the form explicitly prohibits generative-AI-written answers. The first
-  narrative field is in view for guided completion in Piter's own words. The
-  form has not been saved or submitted.
+- **Preliminary Questionnaire:** submitted on 2026-08-03. The live browser
+  displayed Jotform's `Thank You! Your submission has been received.` page,
+  providing direct submission confirmation. Piter reviewed, revised, and
+  approved the narrative responses before submission.
+- **Intake queue:** all three items previously described as forms are complete:
+  the Planning Tool, Prospective Applicant Form, and Preliminary Questionnaire.
+  The Planning Tool and Preliminary Questionnaire have direct confirmation;
+  only the Prospective Applicant Form receipt still needs office confirmation.
 - **Ranked narrative review:** completed for all 24 narrative prompts in the
   private mounted Research workspace. Each prompt has a recommended best fit,
   source/status notes, and materially different alternatives. Older numerical
