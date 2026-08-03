@@ -1,9 +1,19 @@
 # Handshake Message Log
 
-Last updated: 2026-07-31
+Last updated: 2026-08-03
 
 Privacy note: this public repository stores concise professional summaries, not
 private message bodies, recruiter email addresses, or authenticated inbox URLs.
+
+## August 3 Refresh
+
+- Replied to Mhelody Cadelina after her Brains & Motion follow-up. The current
+  onsite Brooklyn fitness-instructor schedule is incompatible with graduate
+  study in Rochester through December. The reply preserves the relationship
+  for remote CS or technology-education work this fall and New York City-area
+  K-12 CS roles beginning in January 2027.
+- Did not mute the employer or New York City because future aligned roles may
+  still be useful.
 
 ## July 31 Refresh
 
@@ -50,6 +60,7 @@ private message bodies, recruiter email addresses, or authenticated inbox URLs.
 
 | Date received | Employer / sender | Opportunity | Decision and action | Current status |
 | --- | --- | --- | --- | --- |
+| 2026-08-02 | Brains & Motion Education / Mhelody Cadelina | Structured Recess and After-School Fitness Instructor | Replied on August 3 that the onsite Brooklyn schedule is incompatible through December and requested remote CS/technology-education or January 2027 NYC-area K-12 CS opportunities | Closed for the current role; future aligned roles remain welcome |
 | 2026-07-31 | Recovery Audit Solutions / Evan Lenahan | [Data Analytics and Web Development Intern](https://rochester.joinhandshake.com/job-search/11243659) | Submitted with the tailored Data Scientist resume; verified remote, 10 hours/week, $20-$30/hour, August 15-December 15, and strong healthcare/Python/SQL/AI fit | **Submitted.** Availability note staged for send after one-time messaging consent; check on 2026-08-07 |
 | 2026-07-31 | Tech Rise Solutions | [Data Scientist](https://rochester.joinhandshake.com/job-search/11241730) | Submitted with the tailored Data Scientist resume and set that document as the default job-search resume | **Submitted.** Handshake and email receipts verified; check on 2026-08-07 |
 | 2026-07-30 | U.S. Department of Health and Human Services / Geneva Hauser | USAJobs webinar and federal early-career resources | Sent a direct thank-you and confirmed the relevance of USAJobs, Pathways, WRP, ORISE, CyberCorps, and U.S. Digital Corps to the data/AI/research search | **Registration prefilled, not submitted.** Piter completes self-identification, citizenship, and Microsoft-terms fields |

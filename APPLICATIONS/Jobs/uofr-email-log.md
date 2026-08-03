@@ -10,6 +10,11 @@
   thread at 12:42 AM. It confirms both forms, requests a Monday, Wednesday, or
   Friday appointment for an aligned opportunity, and asks the office to state
   explicitly whether the meeting is in person or on Zoom.
+- Replied to the Brains & Motion recruiter follow-up. The September 8 onsite
+  Brooklyn fitness-instructor schedule is incompatible with the final semester
+  in Rochester; the response asks to remain connected for remote CS or
+  technology-education work this fall and NYC-area K-12 CS work beginning in
+  January 2027.
 - Keep the original Fellowships Office thread starred and labeled `To respond`
   until an appointment is offered, checked against every calendar, accepted,
   and protected with preparation, travel, and multiple reminders. The two

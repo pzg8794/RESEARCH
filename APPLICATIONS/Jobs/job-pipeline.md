@@ -1,6 +1,6 @@
 # Job Pipeline
 
-Last updated: 2026-07-31
+Last updated: 2026-08-03
 
 ## Immediate Queue
 
@@ -32,7 +32,7 @@ Last updated: 2026-07-31
 | Employer / role | Reason closed | Action |
 | --- | --- | --- |
 | iLearn - Mathematics Teacher, grades 4-8 | Full-time onsite in New York; incompatible with the remote-through-December requirement | Closed on 2026-07-27; reconsider only for a post-December relocation if the role is still open |
-| Brains & Motion - Structured Recess / Fitness Instructor | Seasonal part-time role in Brooklyn; onsite and outside the priority CS/data fields | Closed on 2026-07-27 |
+| Brains & Motion - Structured Recess / Fitness Instructor | Seasonal part-time role in Brooklyn; onsite and outside the priority CS/data fields | Closed; recruiter follow-up answered on 2026-08-03 with the remote-through-December and January 2027 availability boundary |
 | Gestalt Community Schools - High School Math Teacher | Onsite in Memphis; incompatible with the current location constraint | Closed for Fall 2026; recruiter was told on 2026-07-28 that January 2027 relocation is viable |
 | Handshake teaching contact - in-person roles only | Employer confirmed that it does not offer remote teaching roles; remote work is required through December 2026 | Closed on 2026-07-25; reconsider only for a January 2027 relocation |
 | [DeepBrain - Research Scientist / Research Fellow, AI for Education and Game Intelligence](https://rochester.joinhandshake.com/job-search/11128588?page=1&per_page=25) | Domain fit is good, but the August 14 posting requires a completed PhD and a strong PhD/postdoc publication record | Reviewed and skipped on 2026-07-23 |
