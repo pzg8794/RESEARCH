@@ -6,6 +6,8 @@ Repo: https://github.com/pzg8794/RESEARCH
 
 This is the canonical multi-country deadline tracker for all PhD, fellowship, and research applications. Update this file every time a new opportunity is found or a deadline is confirmed.
 
+> **Fall 2027 US PhD applications:** use the [current Fall 2027 dashboard](./fall-2027/README.md) for verified deadlines, application status, funding, and next actions. Several US rows later in this older tracker were planning estimates and must not be used without checking the official program page.
+
 ---
 
 ## How to use this file
