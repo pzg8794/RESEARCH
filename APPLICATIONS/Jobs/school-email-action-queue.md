@@ -33,8 +33,10 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 - [x] **Complete - Handshake / Recovery Audit Solutions:** Submitted the
   remote, 10-hour/week Data Analytics and Web Development Intern application
   on July 31; Handshake and email receipts are verified.
-- [ ] **P0 - Recovery Audit Solutions message:** Accept Handshake's one-time
-  messaging guide, then send the [staged availability note](./2026-07-31-uofr-opportunity-pass.md#recovery-audit-solutions-hiring-lead-note).
+- [x] **Complete - Recovery Audit Solutions message:** Accepted Handshake's
+  one-time messaging guide and sent the documented 10-hour/week, August 15,
+  and Monday/Wednesday/Friday availability note on August 3. Check on August 7;
+  do not send a duplicate.
 - [ ] **P0 - HHS USAJobs webinar:** Complete the prefilled registration by
   selecting the applicant-controlled self-identification and citizenship
   fields and reviewing the Microsoft Event Terms. After the receipt appears,
@@ -73,11 +75,12 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
   Loan Master Promissory Note and the required in-person identity
   verification. The newest notice no longer lists the Aid Enrollment Plan.
   The counselor has been asked for the correct in-person scheduling path.
-- [ ] **P0 - UofR / teaching certification:** Re-register for DASA and SAVE
-  using the credit-card option. The prior registrations were cancelled because
-  an ineligible payment option was selected. The current combined cost is
-  **$203**, including the card fee, so Piter must complete the payment and
-  sensitive-data portion.
+- [ ] **P0 - UofR / teaching certification:** Finish the corrected DASA and
+  SAVE form using `Purchase Order`; Warner's official instructions state that
+  the school pays the one-time registration fee. Program, school, course, and
+  billing fields are prefilled. Piter supplies date of birth, final five SSN
+  digits, CAPTCHA, and final submission, then completes both asynchronous
+  courses within 30 days after credentials arrive.
 - [ ] **P0 - UofR / EDU486:** Finish the poster and attend the **2026-07-31**
   session. Continue from the
   [existing EDU486 poster draft](https://github.com/pzg8794/EDU486/blob/main/assignments/04-poster-fair/poster-proposal-draft.md).
@@ -89,9 +92,10 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 - [ ] **P0 - RIT / StudentAid.gov:** Open `My Activity` and review the July 1
   TEACH Grant update. Record any certification, agreement-to-serve, counseling,
   or deadline requirement.
-- [x] **Closed - UofR / teaching retreat:** The two-day August 10-11 program
-  requires Tuesday attendance and conflicts with class. Registration and both
-  calendar holds were closed.
+- [ ] **P1 - UofR / teaching retreat:** The Monday program is a strong fit, but
+  Tuesday conflicts with class. An email was sent on August 3 asking whether
+  full Monday-only attendance is permitted. Follow up August 5 if no answer;
+  register and calendar Monday only if approved.
 - [ ] **P0 - UofR / fellowship rescheduling:** Both requested forms are
   submitted with direct receipts, and the completion/rescheduling reply was
   sent at 12:42 AM on August 3. Keep the original thread starred and labeled
@@ -104,12 +108,15 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 - [ ] **P0 - Jobot:** Confirm transmission of contact information and the
   prepared resume, provide the correct ZIP code, select `No` for SMS, and
   submit the live Senior Data Scientist application.
-- [ ] **P0 - Handshake / LearningMate:** Upload the prepared resume and cover
-  letter and submit by **2026-08-07 at 2:29 PM**.
+- [x] **Complete - Handshake / LearningMate:** Submitted the prepared resume
+  and cover letter on August 3. Handshake displayed `Application submitted!`
+  and `Applied on August 3, 2026`. Monitor for an employer response and confirm
+  hours during screening.
 - [ ] **P0 - Handshake AI:** The verified industry resume and documented
-  Computer Science, ML, database, algorithms, Python, RIT master's, 2026,
-  LinkedIn, and New York fields are complete. Review the legal agreements
-  personally, click `Next`, and complete government-ID verification.
+  Computer Science, Machine Learning, Data Scientist, RIT, master's, 2026,
+  LinkedIn, United States, New York, and Handshake-source fields are complete.
+  Piter reviews and accepts the Terms, Privacy Policy, and Contractor Agreement,
+  clicks `Next`, and completes government-ID verification.
 - [ ] **P0 - Personal / scheduled payment:** Before **2026-07-26**, verify
   funding and status for the scheduled installment payment. Contact the
   provider before processing if an arrangement is needed.
@@ -163,20 +170,20 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 | Priority | Category | Item | Current status | Next action |
 | --- | --- | --- | --- | --- |
 | P0 | Fellowship | UofR Fellowships Office advising | Prospective Applicant Form and Preliminary Questionnaire submitted with direct receipts; recovery and rescheduling reply sent August 3 | Wait for an appointment offer, check every calendar before accepting, confirm in-person or Zoom, and discuss only a verified Study/Research or other aligned award. |
-| P0 | Job | [Recovery Audit Solutions Data Analytics and Web Development Intern](https://rochester.joinhandshake.com/job-search/11243659) | Remote, $20-$30/hour, 10 hours/week, August 15-December 15; submitted July 31 with verified Handshake and email receipts | Send the staged availability note after the one-time messaging consent; check for a response on August 7. |
+| P0 | Job | [Recovery Audit Solutions Data Analytics and Web Development Intern](https://rochester.joinhandshake.com/job-search/11243659) | Remote, $20-$30/hour, 10 hours/week, August 15-December 15; submitted July 31; availability note sent August 3 | Check for a response on August 7; do not send a duplicate. |
 | P0 | Job | [Tech Rise Solutions Data Scientist](https://rochester.joinhandshake.com/job-search/11241730) | Remote, full-time, targeted at 2025/2026 master's graduates; submitted July 31 with the tailored resume and verified receipts | Check for a response on August 7 and confirm that any start date/hours fit the final semester. |
 | P0 | Career event | [HHS Navigating the Federal Hiring Process: USAJobs](https://rochester.joinhandshake.com/stu/events/1982973) | Wednesday, August 19, 2:00-3:00 PM EDT; official registration prefilled but not submitted | Piter completes self-identification, citizenship, and Microsoft-terms decisions; then submit and add to the RIT calendar. |
 | P0 | Financial aid | Direct Loan MPN and identity verification | The July 28 notice lists the graduate/professional Direct Loan MPN and in-person identity check; the Aid Enrollment Plan is no longer listed | Complete the [MPN](https://studentaid.gov/mpn/) after reviewing its legal terms, then follow the counselor's response for the in-person appointment. Keep starred until both are confirmed. |
-| P0 | Teaching certification | [DASA and SAVE registrations](https://www.gvboces.org/o/gvb/page/professional-learning) | The June 6 registrations were cancelled because the selected payment option was not available to this student. Current re-registration total is $203 including the card fee. | Piter completes the official form, payment, sensitive identity fields, and CAPTCHA. Finish both asynchronous courses within 30 days after login credentials arrive. |
+| P0 | Teaching certification | [DASA and SAVE registrations](https://www.warner.rochester.edu/students/support/certification/workshops) | Corrected form is prefilled for both courses and uses `Purchase Order`; Warner pays the one-time registration fee | Piter supplies date of birth, final five SSN digits, CAPTCHA, and final submission. Finish both asynchronous courses within 30 days after credentials arrive. |
 | P0 | Degree completion | EDU486 July 31 poster session | Template email and existing course plan confirm a **2026-07-31, 1:30-3:00 PM** poster fair in LeChase 215. The accepted Fulbright meeting begins at 3:00 PM in Dewey Hall 4-209B. | Finish from the [existing EDU486 poster draft](https://github.com/pzg8794/EDU486/blob/main/assignments/04-poster-fair/poster-proposal-draft.md), arrange coverage, and leave by 2:45 PM. Keep the email starred until complete. |
-| Closed | Teaching development | [myHub 2026 Teaching Retreat](https://rochester.joinhandshake.com/stu/events/1956131) | Two-day August 10-11 event requires Tuesday attendance and conflicts with class | Registration and both calendar holds closed on July 28. |
+| P1 | Teaching development | [myHub 2026 Teaching Retreat](https://rochester.joinhandshake.com/stu/events/1956131) | Monday is aligned; Tuesday conflicts with class; organizer was asked on August 3 whether Monday-only attendance is permitted | Follow up August 5 if needed; register and calendar Monday only if approved. |
 | Paused | Fellowship | [Fulbright Spain English Teaching Assistant](https://us.fulbrightonline.org/countries/europe-and-eurasia/spain/1768) | English-teaching and cultural-exchange assistantship; supporting science or technology classes taught in English does not make it a CS-teaching award | Attend the accepted July 31, 3:00-4:00 PM advising meeting, but do not submit this as the default route. Continue only with a specifically verified Study/Research or other aligned award. |
 | P0 | Job | [Health Data Max Clinical Business Analyst Intern](https://rochester.joinhandshake.com/job-search/11219848) | Remote/hybrid, $20-$30/hour, 30 hours/week; tailored resume, cover letter, and transcripts submitted July 27 | Check for a response on **August 3** and confirm workable semester hours during screening. Official deadline is **2026-08-16 at 11:59 PM**. |
-| P0 | Job | LearningMate Subject Matter Expert | Targeted packet prepared; application not submitted | Upload both PDFs and submit by **2026-08-07 at 2:29 PM**. |
-| P0 | Job | Handshake AI Evaluation Specialist | Verified industry resume and documented CS/ML profile fields are complete | Piter reviews the legal agreements before `Next`, then completes government-ID verification. |
+| Complete | Job | LearningMate Subject Matter Expert | Targeted resume and cover letter submitted August 3; live Handshake confirmation verified | Monitor for a response and confirm hours during screening. |
+| P0 | Job | Handshake AI Evaluation Specialist | Verified industry resume and all documented non-sensitive profile fields are complete | Piter reviews and accepts the Terms, Privacy Policy, and Contractor Agreement before `Next`, then completes government-ID verification. |
 | P1 | Health insurance / billing | [Fall health-insurance enrollment or waiver](https://www.rochester.edu/uhs/primary-care/mandatory-health-fee/health-insurance-for-full-time-students/) | Annual online process is mandatory for full-time students; final deadline is **2026-09-15** | Piter decides whether to enroll or waive with eligible coverage and completes the secure UHS process before automatic enrollment and billing. |
 | P1 | Account continuity | Handshake personal email | Personal email was added | Verify it from the personal Gmail inbox. |
-| P1 | Job follow-up | Solu, Carney Sandoe, Stride, Cardinal Education, Epic, and Ampact | Submitted, joined, or waiting as documented in the job pipeline | Check for replies on **2026-07-30** and respond promptly. |
+| P1 | Job follow-up | Solu, Carney Sandoe, Stride, Cardinal Education, and Epic | Submitted, joined, or waiting as documented in the job pipeline; no unread employer reply was present on August 3 | Continue monitoring. Ampact is closed for Fall 2026 after the final remote-work boundary response. |
 | P1 | Career event | [NYS ITS virtual information session](https://rochester.joinhandshake.com/stu/events/1963665) | Registered for **2026-07-28, 10:00-10:30 AM EDT** | Join through Handshake five minutes early and note relevant public-service data/AI roles. |
 | P2 | Research event | Applied genomics seminar | Genomic biomarkers of aging seminar is **2026-07-27, noon-1:00 PM**, Wegmans Hall 1005 | Optional: attend only if it supports the bioinformatics/research path. No registration action was stated. |
 | P2 | Research funding | Survivorship Symposium abstract | Cancer-survivorship abstracts are due **2026-08-19** for the 2026-10-09 symposium | Apply only if there is a defensible existing cancer-survivorship project; otherwise close. |
@@ -219,6 +226,11 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 
 ## Completed in This Pass
 
+- [x] August 3 UofR/Handshake continuation: submitted LearningMate; sent the
+  Recovery Audit availability note; closed Ampact after a final boundary
+  response; prefilled the documented Handshake AI and HHS fields; corrected
+  DASA/SAVE to Warner-funded Purchase Order; asked about Monday-only Teaching
+  Retreat attendance; and cleared only fully processed mailbox items.
 - [x] July 31 UofR/Handshake pass: sent the Gwinnett, Carney Sandoe, and HHS
   replies; submitted Tech Rise Solutions and Recovery Audit Solutions with a
   new one-page Data Scientist resume; verified both receipts; cleaned the
@@ -310,8 +322,9 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 - [x] Reviewed and classified the UofR financial-aid instructions, DASA/SAVE
   cancellation, health-insurance enrollment, EDU486 poster template, teaching
   retreat, Fulbright Italy notice, research digest, and Google Cloud notices.
-- [x] Staged the myHub Teaching Retreat registration through Handshake; final
-  submission is waiting only for Piter's dietary-restriction answer.
+- [x] Historical July 24 action: staged the myHub Teaching Retreat registration.
+  The current August 3 status supersedes that draft: Tuesday conflicts with
+  class, and registration now waits on the organizer's Monday-only answer.
 - [x] Sent a UofR Fulbright late-entry inquiry to the Student Fellowships
   Office on 2026-07-24 and preserved the original opportunity email as
   unresolved.

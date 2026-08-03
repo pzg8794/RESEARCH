@@ -9,7 +9,8 @@ bodies or authenticated inbox links.
 | Opportunity | Fit and schedule | Action | Receipt / follow-up |
 | --- | --- | --- | --- |
 | [Tech Rise Solutions - Data Scientist](https://rochester.joinhandshake.com/job-search/11241730) | Remote, full-time; explicitly seeks 2025/2026 master's graduates; Python, ML, SQL, cloud, visualization, and GitHub fit | Submitted on 2026-07-31 with the tailored [resume](./application-materials/2026-07-31-tech-rise-data-scientist-resume.pdf) | Handshake displayed `Applied on July 31, 2026`, and the UofR mailbox received the application receipt. Check for a response on August 7. |
-| [Recovery Audit Solutions - Data Analytics and Web Development Intern](https://rochester.joinhandshake.com/job-search/11243659) | Remote, 10 hours/week, $20-$30/hour, August 15-December 15; strong healthcare, Python, SQL, AI, Docker, Git, and final-semester schedule fit | Submitted on 2026-07-31 with the tailored Data Scientist resume | Handshake displayed `Applied on July 31, 2026`, and the UofR mailbox received the application receipt. Send the staged availability note after the one-time messaging consent, then check for a response on August 7. |
+| [Recovery Audit Solutions - Data Analytics and Web Development Intern](https://rochester.joinhandshake.com/job-search/11243659) | Remote, 10 hours/week, $20-$30/hour, August 15-December 15; strong healthcare, Python, SQL, AI, Docker, Git, and final-semester schedule fit | Submitted on 2026-07-31 with the tailored Data Scientist resume; availability note sent on 2026-08-03 | Handshake displayed `Applied on July 31, 2026`, the UofR mailbox received the application receipt, and the hiring-lead conversation displayed `Message sent`. Check for a response on August 7; do not send a duplicate. |
+| [LearningMate - Subject Matter Expert](https://rochester.joinhandshake.com/job-search/11187941?page=1&per_page=25) | Remote, $25-$35/hour; strong K-12 STEM, inclusive-curriculum, and AI-assisted-learning fit | Submitted on 2026-08-03 with the targeted [resume](./application-materials/2026-07-23-learningmate-sme-resume.pdf) and [cover letter](./application-materials/2026-07-23-learningmate-sme-cover-letter.pdf) | Handshake displayed `Application submitted!` and `Applied on August 3, 2026`. Monitor for a response and confirm hours because the posting description says freelance/part-time while its summary shows a full-time date range. |
 
 ## Replies Sent
 
@@ -54,8 +55,8 @@ bodies or authenticated inbox links.
 ### Recovery Audit Solutions Hiring-Lead Note
 
 The application form requested availability but provided no availability
-field. The following note is ready for Evan Lenahan after Piter accepts
-Handshake's one-time messaging guide:
+field. Piter accepted Handshake's one-time messaging guide, and the following
+note was sent to Evan Lenahan on 2026-08-03:
 
 > Hi Evan,
 >
@@ -89,3 +90,58 @@ This pass covers the authenticated UofR account. The in-app browser currently
 shows the RIT, personal, and MLADIS Google accounts as signed out. Continue
 their separate logs only after each account is authenticated in this browser;
 do not merge their mailbox status into the UofR record.
+
+## August 3 Continuation
+
+### Completed Actions
+
+- Submitted the LearningMate Subject Matter Expert application with its
+  targeted resume and cover letter; verified the live Handshake confirmation.
+- Sent Recovery Audit Solutions the documented 10-hour/week, August 15, and
+  Monday/Wednesday/Friday availability note; Handshake confirmed it was sent.
+- Sent Ampact a final response explaining the remote-through-December boundary,
+  requested consideration for remote CS, data/AI, education-technology, or
+  tutoring roles, and marked the onsite tutor role not interested.
+- Confirmed that Handshake contained no unread employer reply requiring a new
+  response at the end of the pass.
+
+### Prepared Handoffs
+
+- **Handshake AI:** the industry resume is attached and the documented
+  professional, education, graduation, LinkedIn, location, and referral fields
+  are complete. Piter must review and accept the Terms, Privacy Policy, and
+  Contractor Agreement before `Next`, then complete government-ID verification.
+- **HHS USAJobs webinar:** first name, last name, UofR email, current-student
+  status, and Handshake referral source are complete. Piter supplies the
+  self-identification and citizenship selections, accepts the Microsoft Event
+  Terms, and submits. Add August 19, 2:00-3:00 PM EDT to the RIT calendar only
+  after the receipt appears.
+- **DASA and SAVE:** Warner's official instructions confirm that the school
+  pays the one-time registration fee. The corrected form uses `Purchase Order`
+  and identifies Piter as a current Teaching Computer Science K-12 student.
+  Date of birth, the final five SSN digits, CAPTCHA, and final submission remain
+  direct secure handoffs. Complete both asynchronous courses within 30 days of
+  receiving credentials.
+- **Fall health insurance:** the annual enroll-or-waive decision remains open
+  through September 15. Piter must choose coverage and attest in the secure
+  portal before automatic enrollment and billing.
+
+### Schedule-Safe Follow-Up
+
+- The August 10-11 Teaching Retreat is aligned with inclusive teaching but the
+  Tuesday session conflicts with class. An email was sent on August 3 asking
+  whether Monday-only attendance is permitted. Follow up on August 5 if no
+  answer; register and calendar Monday only if approved.
+- IBM Dev Day remains closed because its Thursday 11:00 AM-2:30 PM schedule
+  conflicts with class.
+- Keep the Fellowship Office recovery thread starred until a new appointment
+  is offered, checked against every calendar, and protected with preparation,
+  travel, and multiple alerts.
+
+### Mailbox Cleanup
+
+Processed confirmations, expired events, duplicate notices, superseded
+fellowship material, and closed recruiter outreach were marked read, unstarred,
+and archived only after their outcome was recorded. The unresolved Fellowship
+Office, HHS, Handshake AI, Teaching Retreat, financial-aid, health-insurance,
+and DASA/SAVE messages remain visible for action.

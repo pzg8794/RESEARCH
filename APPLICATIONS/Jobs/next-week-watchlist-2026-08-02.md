@@ -22,8 +22,9 @@ block, at least 30 minutes of same-campus travel time, and multiple alerts.
 - [x] Added a 3:30-7:00 PM fellowship completion block and a Monday 7:30-9:00 AM
   deadline block to the UofR calendar; invited `pzg8794@g.rit.edu` and added
   multiple alerts. RIT acceptance still needs verification.
-- [ ] Accept Handshake's one-time messaging guide and send Recovery Audit
-  Solutions the staged 10-hour/week and August 15 availability note.
+- [x] Accepted Handshake's one-time messaging guide and sent Recovery Audit
+  Solutions the 10-hour/week, August 15, and Monday/Wednesday/Friday
+  availability note on August 3. Handshake confirmed it was sent.
 - [ ] Complete the prefilled HHS USAJobs webinar registration fields that
   require applicant-controlled self-identification, citizenship, and terms
   review; after submission, add the August 19 event to the RIT calendar.
@@ -50,13 +51,22 @@ block, at least 30 minutes of same-campus travel time, and multiple alerts.
   `GAPP`, `Mobile-Detect`, `hello-express`, and `lodge-website`. Verify each
   remote before closing the ticket; do not recreate or re-clone over a
   repository while Support is restoring it.
-- [ ] Check Handshake for Health Data Max, Solu, LearningMate, Handshake AI,
-  Carney Sandoe, Stride, Cardinal Education, Epic, and Ampact responses.
-- [ ] Confirm that the Tech Rise Solutions and Recovery Audit Solutions
+- [x] Checked Handshake for Health Data Max, Solu, LearningMate, Handshake AI,
+  Carney Sandoe, Stride, Cardinal Education, Epic, and Ampact responses. No
+  unread employer reply required a new response.
+- [x] Confirmed that the Tech Rise Solutions and Recovery Audit Solutions
   applications remain visible as submitted; do not send duplicate applications.
 - [ ] Review any Health Data Max response and confirm workable semester hours
   during screening.
-- [ ] Finish the LearningMate upload instead of waiting for Friday.
+- [x] Submitted LearningMate with the targeted resume and cover letter;
+  Handshake displayed both confirmation messages.
+- [x] Sent Ampact a final remote-through-December boundary response and marked
+  the repeated onsite tutor role not interested.
+- [x] Prefilled all documented non-sensitive Handshake AI and HHS registration
+  fields. Keep the legal-agreement, identity, self-identification, citizenship,
+  and final-submission decisions with Piter.
+- [x] Asked the Teaching Retreat organizer whether Monday-only attendance is
+  permitted because Tuesday conflicts with class.
 - [ ] Complete the RIT Registrar FTE form immediately if it arrives.
 
 ### Tuesday, August 4
@@ -73,6 +83,8 @@ block, at least 30 minutes of same-campus travel time, and multiple alerts.
   their official accounts.
 - [ ] Verify the already-submitted Solu application before its Thursday
   deadline; no Thursday work block is needed.
+- [ ] Follow up once on the Teaching Retreat Monday-only request if the
+  organizer has not replied. Register and calendar Monday only if approved.
 
 ### Thursday, August 6
 
@@ -88,8 +100,9 @@ block, at least 30 minutes of same-campus travel time, and multiple alerts.
 - [ ] Check once for Tech Rise Solutions and Recovery Audit Solutions replies.
   Screen full-time hours against the final semester and respond promptly to any
   interview or scheduling request.
-- [ ] Submit LearningMate no later than **2:29 PM** and preserve the Handshake
-  confirmation.
+- [x] LearningMate was submitted and receipt-confirmed on August 3, before the
+  **2:29 PM** deadline. Monitor for a response; no Friday submission action
+  remains.
 - [ ] Complete the final noon-4:00 PM writing-retreat block. It is now live on
   the UofR calendar with an RIT invitation and multiple alerts.
 - [ ] Review any UofR Fellowships Office instructions received during the week
@@ -128,3 +141,5 @@ block, at least 30 minutes of same-campus travel time, and multiple alerts.
   eligibility, application, and recommendation rules.
 - **August 27:** IBM Dev Day was screened out because its Thursday daytime
   schedule conflicts with class; no registration or calendar hold remains.
+- **September 15:** Complete the UofR health-insurance enroll-or-waive decision
+  in the secure portal to avoid automatic enrollment and billing.

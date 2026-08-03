@@ -2,6 +2,38 @@
 
 ## Refresh Status - 2026-08-03
 
+- Submitted the remote LearningMate Subject Matter Expert application with the
+  targeted resume and cover letter. Handshake displayed both `Application
+  submitted!` and `Applied on August 3, 2026`.
+- Sent Recovery Audit Solutions the documented final-semester availability
+  note. It confirms a remote 10-hour/week commitment beginning August 15 and
+  strongest availability on Monday, Wednesday, and Friday. Handshake displayed
+  `Message sent`; do not send a duplicate.
+- Answered Ampact's repeated onsite tutor outreach with the remote-through-
+  December boundary, asked to remain in consideration for remote CS, data/AI,
+  education-technology, or tutoring roles, and marked the current role not
+  interested.
+- Completed every non-sensitive Handshake AI onboarding field supported by the
+  record and retained only the Terms, Privacy Policy, Contractor Agreement,
+  `Next`, and government-ID verification as direct applicant handoffs.
+- Prefilled the HHS USAJobs webinar registration with name, UofR email,
+  current-student status, and Handshake referral source. Self-identification,
+  citizenship, Microsoft Event Terms, and final registration remain direct
+  applicant decisions.
+- Reopened the August 10-11 Teaching Retreat because the Monday program is a
+  strong inclusive-teaching fit. Emailed the organizer to ask whether full
+  Monday-only attendance is permitted; keep the notice starred while waiting
+  and follow up on August 5 if needed. Tuesday remains blocked for class.
+- Corrected the DASA/SAVE plan against Warner's official instructions: Warner
+  pays the one-time registration fee, so the form now uses `Purchase Order`
+  with the current Teaching Computer Science K-12 student note. Date of birth,
+  final five SSN digits, CAPTCHA, and final submission remain secure handoffs.
+- Verified the September 15 health-insurance enroll-or-waive deadline. Keep the
+  notice starred until Piter makes the coverage decision and completes the
+  secure attestation.
+- Cleared only processed confirmations, expired events, duplicate notices,
+  superseded fellowship material, and closed recruiter outreach. Handshake had
+  no unread employer reply requiring a new response at the end of this pass.
 - Opened and verified the 47-minute NSF GRFP recording shared by the
   Fellowships Office. The Drive viewer provides no transcript or captions.
 - Checked the current NSF 25-547 solicitation rather than carrying forward the
@@ -242,7 +274,10 @@ the queue of unfinished work. Do not remove importance metadata automatically.
 
 | Date | Sender / organization | Subject or opportunity | Action | Status / follow-up |
 | --- | --- | --- | --- | --- |
-| 2026-07-31 | Handshake / Recovery Audit Solutions | Data Analytics and Web Development Intern | Submitted the tailored Data Scientist resume; verified the remote, 10-hour/week, $20-$30/hour, August 15-December 15 schedule | **Submitted.** Send the staged availability note after Handshake messaging consent, then check for a response on August 7 |
+| 2026-08-03 | Handshake / LearningMate | Subject Matter Expert | Submitted the targeted [resume](./application-materials/2026-07-23-learningmate-sme-resume.pdf) and [cover letter](./application-materials/2026-07-23-learningmate-sme-cover-letter.pdf); verified both live Handshake confirmation messages | **Submitted.** Monitor for a response and confirm hours during screening because the posting's freelance/part-time description differs from its full-time summary |
+| 2026-08-03 | Handshake / Ampact | Early Learning Corps Tutor | Sent a final remote-through-December boundary response and marked the repeated onsite tutor lead not interested | **Closed for Fall 2026.** Remain available for remote CS, data/AI, education-technology, or tutoring work and location-based roles after December |
+| 2026-08-03 | myHub / University of Rochester | 2026 Teaching Retreat | Reopened the aligned Monday program and asked the organizer whether full Monday-only attendance is allowed because Tuesday conflicts with class | **Waiting.** Follow up August 5 if no reply; register and add Monday only to the calendar if approved |
+| 2026-07-31 | Handshake / Recovery Audit Solutions | Data Analytics and Web Development Intern | Submitted the tailored Data Scientist resume; verified the remote, 10-hour/week, $20-$30/hour, August 15-December 15 schedule; sent the hiring lead the documented availability note on August 3 | **Submitted / waiting.** Handshake confirmed the message was sent. Check for a response on August 7; do not send a duplicate |
 | 2026-07-31 | Handshake / Tech Rise Solutions | Data Scientist | Submitted the [tailored resume](./application-materials/2026-07-31-tech-rise-data-scientist-resume.pdf), set it as the default data-science resume, and verified the Handshake and email receipts | **Submitted.** Check for a response on August 7 and screen full-time start date/hours against the final semester |
 | 2026-07-31 | U.S. Department of Health and Human Services | Navigating the Federal Hiring Process: USAJobs | Thanked Geneva Hauser, reviewed the federal early-career resources, and prefilled the official webinar registration | **P0 / direct handoff.** Piter supplies self-identification and citizenship, reviews the Microsoft terms, and submits; then add August 19, 2:00-3:00 PM to the RIT calendar |
 | 2026-07-31 | Gwinnett County Public Schools | Middle-school teaching recruitment | Thanked Veronica Zamora and confirmed that relocation is available after December for January 2027 or 2027-28 CS, technology, and STEM roles | **Future / waiting.** No current onsite application |
@@ -252,7 +287,7 @@ the queue of unfinished work. Do not remove importance metadata automatically.
 | 2026-08-03 | Student Fellowships Office | NSF-GRFP recording and eligibility review | Opened the shared 47-minute recording and checked the current NSF 25-547 graduate-status rules | **Closed / ineligible.** Piter's completed 2015 M.S. and current graduate enrollment fall outside the first-year-of-first-graduate-program requirement; no application or further reply |
 | 2026-07-28 | Student Fellowships Office | NSF-GRFP session conflict | Sent a request for the recording, slides, or eligibility materials because Thursday class prevents live attendance | **Resolved 2026-08-03.** Recording received and current eligibility checked; live calendar event remains removed |
 | 2026-07-28 | University of Rochester Financial Aid | Current missing documents | Verified that the Direct Loan MPN and in-person identity verification are the only currently listed requirements; asked the counselor for the correct in-person scheduling path | **P0 / secure handoff.** Complete the [graduate/professional Direct Loan MPN](https://studentaid.gov/mpn/) and follow the counselor's in-person appointment instructions |
-| 2026-07-28 | Handshake AI Team | Profile completion | Uploaded the verified industry resume and completed documented CS/ML expertise, education, graduation, LinkedIn, location, and referral fields | **P0 / legal and identity handoff.** Review agreements personally and complete government-ID verification |
+| 2026-07-28 | Handshake AI Team | Profile completion | Uploaded the verified industry resume and completed Computer Science, Machine Learning, Data Scientist, RIT, master's, 2026, LinkedIn, United States, New York, and Handshake-source fields | **P0 / legal and identity handoff.** Review and accept the Terms, Privacy Policy, and Contractor Agreement before `Next`, then complete government-ID verification |
 | 2026-07-27 | Handshake / Health Data Max | Clinical Business Analyst Intern | Submitted the [complete targeted packet](./application-materials/2026-07-27-health-data-max-packet.md), including resume, cover letter, and unofficial transcripts; verified Handshake's confirmation | **Submitted.** Check for an employer response on August 3 and confirm workable semester hours during screening |
 | 2026-07-27 | NYS Office of Information Technology Services / Handshake | Virtual Information Session: Explore Careers in NYS Information Technology Services | Registered for the 2026-07-28, 10:00-10:30 AM EDT virtual session; Handshake displayed `You're registered!` | **Registered.** Join through Handshake five minutes before the event |
 | 2026-07-27 | UofR Graduate Writing Project | Graduate student academic writing retreat | Submitted the Google Form for the 2026-08-05 through 2026-08-07, noon-4:00 PM retreat and received the registration confirmation | **Registered.** Attend Wednesday and Friday with the RIT data-science thesis/manuscript; Thursday conflicts with class and was removed from the calendar |
@@ -269,16 +304,16 @@ the queue of unfinished work. Do not remove importance metadata automatically.
 | 2026-07-25 | University of Rochester digest | Kearns Summer Research Symposium and Medallion dinner | Recorded July 29-30 networking options | **P2 optional.** Attend only if they do not displace application or thesis deadlines |
 | 2026-07-25 | Student Fellowships Office | Fulbright Italy late-entry inquiry | Earlier check found no reply; superseded by the 8:01 PM response recorded above | **Superseded.** Follow the intake-material, meeting, and August 24 endorsement path above |
 | 2026-07-24 | University of Rochester Financial Aid | Financial Aid Application Instructions | Reviewed the earlier missing Aid Enrollment Plan form and in-person identity-verification requirement | **Superseded 2026-07-28.** The newest notice no longer lists the enrollment plan; current missing items are the Direct Loan MPN and in-person identity verification |
-| 2026-07-24 | Genesee Valley BOCES | June 6 DASA and SAVE Course Registrations | Verified that the registrations were cancelled because an ineligible payment option was used; checked the current official form and pricing | **P0 / payment handoff.** Re-register by credit card; current combined total is $203 including the fee. Sensitive identity, payment, CAPTCHA, and final submission remain with Piter |
+| 2026-07-24 | Genesee Valley BOCES / Warner School | June 6 DASA and SAVE Course Registrations | Verified the cancellation, then corrected the replacement form against [Warner's certification instructions](https://www.warner.rochester.edu/students/support/certification/workshops). Warner pays the one-time registration fee, so `Purchase Order` and the current Teaching Computer Science K-12 student note are selected | **P0 / secure handoff.** Piter supplies date of birth, final five SSN digits, CAPTCHA, and final submission. Finish both asynchronous courses within 30 days after credentials arrive |
 | 2026-07-24 | EDU486 / University of Rochester | Poster Template for Session on July 31 | Matched the template email to the [existing course plan and draft](https://github.com/pzg8794/EDU486/blob/main/assignments/04-poster-fair/poster-proposal-draft.md) | **P0.** Finish the poster and attend the 2026-07-31, 1:30-3:00 PM fair in LeChase 215; preserve the course attachment in the course workspace rather than the public RESEARCH repo |
-| 2026-07-24 | myHub / University of Rochester | 2026 Teaching Retreat | Reviewed the free two-day August 10-11 program and opened the Handshake registration | **Screened out 2026-07-28.** The required Tuesday session conflicts with class; registration and both calendar holds closed |
+| 2026-07-24 | myHub / University of Rochester | 2026 Teaching Retreat | Reviewed the free August 10-11 program; on August 3, asked whether full Monday-only attendance is permitted | **Waiting.** Tuesday remains blocked for class. Follow up August 5 if the organizer has not replied; register and calendar Monday only if approved |
 | 2026-07-24 | University Health Service | Fall health-insurance open enrollment | Reviewed the mandatory annual enroll-or-waive process | **P1 / secure action.** Complete the UHS process by **2026-09-15** to avoid automatic enrollment and billing; keep starred |
 | 2026-07-24 | Student Fellowships Office | Fulbright Student Grant to Italy in Deafness Studies | Checked the current award and UofR campus calendar; sent a late-entry inquiry to `fellowships@rochester.edu` | **Superseded and screened out.** The Italy award requires intermediate ASL, which is not documented; the active route is Spain ETA |
 | 2026-07-24 | University of Rochester digest | Genomic biomarkers seminar and Survivorship Symposium | Recorded the July 27 genomics seminar and August 19 abstract deadline | **P2 conditional.** Seminar is optional; submit a symposium abstract only if an existing cancer-survivorship project honestly fits |
 | 2026-07-24 | Google Cloud | BigQuery transfer labels and 2-step verification | Recorded current account and code-maintenance deadlines | **P2 conditional.** Audit affected scripts by **2026-08-11** and complete Cloud Console 2-step verification by **2026-10-20** |
 | 2026-07-24 | Warner School | Student Teacher Confirmation | Confirmed Fall 2026 Computer Science-Technology student-teaching placement beginning in the 2026-27 school year | **Complete/current.** Preserve as degree and teaching-career evidence; no new application action |
 | 2026-07-23 | Handshake / Solü Technology Partners | Data Science Intern | Reviewed the posting and submitted the Handshake application | Submitted; follow up by 2026-07-30 if contacted |
-| 2026-07-23 | Handshake / LearningMate | Subject Matter Expert | Reviewed the live posting and prepared a targeted resume and cover letter | Manual upload and submission required by 2026-08-07 at 2:29 PM |
+| 2026-07-23 | Handshake / LearningMate | Subject Matter Expert | Reviewed the live posting, prepared a targeted resume and cover letter, and submitted both on August 3 | **Submitted and receipt-confirmed 2026-08-03**, before the August 7 at 2:29 PM deadline |
 | 2026-07-23 | Handshake / Epic | Talent Community reminder and recruiter outreach | Replied to recruiter, attached the targeted resume, and submitted the Talent Community profile | Joined; monitor for roles compatible with a January 2027 start |
 | 2026-07-23 | Handshake | Account access after graduation | Added a personal email address and cleared five duplicate reminder stars | Verification remains pending in the personal Gmail inbox |
 | 2026-07-23 | Handshake | Recruiter messages and job-recommendation digests | Read and classified all 49 remaining starred Handshake-domain conversations; unavailable and low-fit jobs were closed | Complete; all 49 stars removed |
