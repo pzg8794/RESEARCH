@@ -329,8 +329,8 @@ context, available context, or additional predictive context, then measure both
 overall performance and whether some groups or network flows repeatedly receive
 worse outcomes. The central concern is simple: a system can look successful on
 average while still delaying care for a vulnerable group or consistently giving
-some users worse service. Current simulations test whether a fairness-aware
-decision step can reduce those gaps while preserving useful performance, and I am
+some users worse service. Current simulations test whether fairness-aware
+mediation can reduce those gaps while preserving useful performance, and I am
 continuing the evaluation across additional clinical and quantum scenarios.
 
 My University of Rochester Teaching Computer Science K-12 program focuses on
@@ -359,15 +359,23 @@ teaching records documented in the private Research workspace.
 
 **Working response to evaluate:**
 
-My current data-science thesis examines fairness-aware bandit methods for
-routing scarce resources under uncertainty in quantum networks and clinical
-settings. A bandit policy learns which action to take from incomplete feedback;
-my project asks what happens when the available information is delayed, noisy,
-or systematically weaker for some groups or network flows. I built a shared
-evaluation framework for comparing non-contextual, contextual, and fairness-
-mediated policies. The draft reports preliminary improvements in utility and
-group-level outcomes in both simulation families, while treating those results
-as evidence to be validated rather than as a finished claim.
+My current RIT Data Science thesis studies a familiar problem: how to make
+repeated decisions fairly when resources are limited and the system does not
+have the full picture. In healthcare, those decisions include who receives a
+diagnostic test, who is retested or escalated, and who may be missed because
+important context is incomplete; missing context can become a missed diagnosis.
+In a quantum network, the comparable decision is which communication path or
+user receives scarce, unreliable resources. I use bandit methods, which learn
+from repeated choices: the system selects an action, observes only what happened
+after that choice, and uses that result to guide the next decision. I built a
+shared simulation and evaluation framework to compare policies that use no
+context, available context, or additional predictive context, then measure both
+overall performance and whether some groups or network flows repeatedly receive
+worse outcomes. The central concern is simple: a system can look successful on
+average while still delaying care for a vulnerable group or consistently giving
+some users worse service. Current simulations test whether a fairness-aware
+decision step can reduce those gaps while preserving useful performance, and I
+am continuing the evaluation across additional clinical and quantum scenarios.
 
 **Sources:** [public thesis draft](https://github.com/pzg8794/DSCI601-Project_Proposal/blob/main/rough_draft_report/rough_draft_report.pdf),
 [final-proposal source](https://github.com/pzg8794/DSCI601-Project_Proposal_Final/blob/main/main.tex),
