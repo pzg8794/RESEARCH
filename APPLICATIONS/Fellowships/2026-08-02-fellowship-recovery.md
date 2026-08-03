@@ -81,11 +81,9 @@ other high-stakes appointments.
 ## Current Status
 
 - **Fulbright Planning Tool:** submitted and receipt-confirmed on 2026-07-27.
-- **Prospective Applicant Form:** Piter completed the applicant-controlled
-  fields and proceeded to the next form after the final audit. Treat it as
-  **user-reported submitted on 2026-08-03** and do not reopen or duplicate it.
-  The submission receipt was not preserved in the browser or tracker, so the
-  Fellowships Office acknowledgement remains the confirmation source.
+- **Prospective Applicant Form:** submitted on 2026-08-02. The direct Jotform
+  receipt arrived at 5:18 PM and states that the Fellowships Office received
+  the form. Do not reopen or duplicate it.
 - **Prospective Applicant Form contents:** the submitted version listed both
   current graduate programs,
   the Farmingdale dual B.S. in Electrical Engineering and Computer Engineering
@@ -99,21 +97,24 @@ other high-stakes appointments.
   `Exploratory`, `Fulbright`, and `Gates Cambridge`.
 - **Preliminary Questionnaire:** submitted on 2026-08-03. The live browser
   displayed Jotform's `Thank You! Your submission has been received.` page,
-  providing direct submission confirmation. Piter reviewed, revised, and
+  and the direct receipt arrived at 12:27 AM. Piter reviewed, revised, and
   approved the narrative responses before submission.
 - **Intake queue:** all three items previously described as forms are complete:
   the Planning Tool, Prospective Applicant Form, and Preliminary Questionnaire.
-  The Planning Tool and Preliminary Questionnaire have direct confirmation;
-  only the Prospective Applicant Form receipt still needs office confirmation.
+  All three now have direct confirmation. Only the Prospective Applicant Form
+  and Preliminary Questionnaire were part of the August 3 two-form request.
 - **Ranked narrative review:** completed for all 24 narrative prompts in the
   private mounted Research workspace. Each prompt has a recommended best fit,
   source/status notes, and materially different alternatives. Older numerical
   claims and higher-disclosure family, health, disability, and immigration
   versions were retained for Piter to judge. The private packet was not copied
   into this public repository and no narrative text was entered in the form.
-- **Recovery reply:** a complete reply-all draft is saved in the existing Gmail
-  thread. It has not been sent. Preserve the draft and thread state until Piter
-  approves the exact message.
+- **Recovery reply:** sent in the original thread on 2026-08-03 at 12:42 AM.
+  It confirms both forms are complete, asks the office to flag either missing
+  submission, requests the next Monday, Wednesday, or Friday appointment for
+  an aligned opportunity, and asks for explicit confirmation of in-person or
+  Zoom format. Keep the thread starred and labeled `To respond` until the
+  office replies and the accepted appointment is protected on the calendar.
 - **Rescheduled appointment:** not yet offered or accepted.
 - **Award fit:** pending official advising; no specific Fulbright award is
   currently treated as verified.

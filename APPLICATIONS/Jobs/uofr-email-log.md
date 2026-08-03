@@ -1,5 +1,20 @@
 # University of Rochester Job and Career Email Log
 
+## Refresh Status - 2026-08-03
+
+- Verified the direct Jotform receipt for the Prospective Applicant Form,
+  received on 2026-08-02 at 5:18 PM.
+- Verified the live confirmation page and direct 12:27 AM receipt for the
+  Fellowship Preliminary Questionnaire.
+- Sent the recovery and rescheduling reply in the original Fellowships Office
+  thread at 12:42 AM. It confirms both forms, requests a Monday, Wednesday, or
+  Friday appointment for an aligned opportunity, and asks the office to state
+  explicitly whether the meeting is in person or on Zoom.
+- Keep the original Fellowships Office thread starred and labeled `To respond`
+  until an appointment is offered, checked against every calendar, accepted,
+  and protected with preparation, travel, and multiple reminders. The two
+  receipt messages can be cleared after this record is committed.
+
 ## Refresh Status - 2026-08-02
 
 - Reopened and preserved the missed fellowship thread. The Fellowships Office

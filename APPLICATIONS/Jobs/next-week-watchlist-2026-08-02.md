@@ -16,7 +16,7 @@ block, at least 30 minutes of same-campus travel time, and multiple alerts.
 
 ### Sunday, August 2
 
-- [ ] **P0: Complete the fellowship Prospective Applicant Form and the
+- [x] **P0: Complete the fellowship Prospective Applicant Form and the
   no-generative-AI Preliminary Questionnaire before tonight's work block ends.**
   The questionnaire answers must be written directly by Piter.
 - [x] Added a 3:30-7:00 PM fellowship completion block and a Monday 7:30-9:00 AM
@@ -36,7 +36,7 @@ block, at least 30 minutes of same-campus travel time, and multiple alerts.
 
 ### Monday, August 3
 
-- [ ] **Submit both fellowship forms by 9:00 AM, preserve both receipts, and
+- [x] **Submit both fellowship forms by 9:00 AM, preserve both receipts, and
   then send the recovery/rescheduling reply to the Fellowships Office.**
 - [x] Moved the flexible career-response review to 10:00-10:45 AM, leaving a
   full hour after the fellowship deadline block. Added one-hour,

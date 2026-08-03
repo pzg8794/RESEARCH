@@ -1,6 +1,6 @@
 # Email Action Queue
 
-Updated: 2026-07-31
+Updated: 2026-08-03
 
 This is the public-safe todo list for important career, funding, registration,
 degree-completion, and financial email from the RIT, University of Rochester,
@@ -92,12 +92,12 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 - [x] **Closed - UofR / teaching retreat:** The two-day August 10-11 program
   requires Tuesday attendance and conflicts with class. Registration and both
   calendar holds were closed.
-- [ ] **P0 - UofR / Fulbright:** The office confirmed that a late application
-  and campus endorsement are still possible. The official invitation is
-  accepted for **Friday, July 31, 3:00-4:00 PM** in Dewey Hall 4-209B. Do not
-  submit Spain ETA as the default route. Ask the adviser to identify and
-  verify a Study/Research or partnership award aligned with CS, AI, data,
-  quantum, bioinformatics, or CS education before contacting recommenders.
+- [ ] **P0 - UofR / fellowship rescheduling:** Both requested forms are
+  submitted with direct receipts, and the completion/rescheduling reply was
+  sent at 12:42 AM on August 3. Keep the original thread starred and labeled
+  `To respond` until the office offers a time. Before accepting, check every
+  calendar, prefer Monday/Wednesday/Friday, confirm in-person or Zoom, and add
+  preparation, travel, and multiple reminders.
 - [x] **Complete - Handshake / Health Data Max:** Submitted the targeted
   resume, cover letter, and combined unofficial transcripts on 2026-07-27.
   Check for a response on August 3.
@@ -159,6 +159,7 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 
 | Priority | Category | Item | Current status | Next action |
 | --- | --- | --- | --- | --- |
+| P0 | Fellowship | UofR Fellowships Office advising | Prospective Applicant Form and Preliminary Questionnaire submitted with direct receipts; recovery and rescheduling reply sent August 3 | Wait for an appointment offer, check every calendar before accepting, confirm in-person or Zoom, and discuss only a verified Study/Research or other aligned award. |
 | P0 | Job | [Recovery Audit Solutions Data Analytics and Web Development Intern](https://rochester.joinhandshake.com/job-search/11243659) | Remote, $20-$30/hour, 10 hours/week, August 15-December 15; submitted July 31 with verified Handshake and email receipts | Send the staged availability note after the one-time messaging consent; check for a response on August 7. |
 | P0 | Job | [Tech Rise Solutions Data Scientist](https://rochester.joinhandshake.com/job-search/11241730) | Remote, full-time, targeted at 2025/2026 master's graduates; submitted July 31 with the tailored resume and verified receipts | Check for a response on August 7 and confirm that any start date/hours fit the final semester. |
 | P0 | Career event | [HHS Navigating the Federal Hiring Process: USAJobs](https://rochester.joinhandshake.com/stu/events/1982973) | Wednesday, August 19, 2:00-3:00 PM EDT; official registration prefilled but not submitted | Piter completes self-identification, citizenship, and Microsoft-terms decisions; then submit and add to the RIT calendar. |
