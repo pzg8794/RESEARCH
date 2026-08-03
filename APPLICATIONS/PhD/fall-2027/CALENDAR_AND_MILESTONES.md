@@ -17,8 +17,19 @@ This file records both the planned calendar item and whether it has actually bee
 | Wed Aug 12, 2026 | 2:00-3:30 PM ET | PhD packet audit: transcripts, degree titles, GPA, GRE | Resolve evidence gaps before portals open | Created and verified; no live conflict; one-day reminder |
 | Wed Aug 19, 2026 | 2:00-4:00 PM ET | PhD faculty-fit shortlist | Confirm 3-4 faculty per program from official pages | Created and verified; no live conflict; one-day reminder |
 | Wed Aug 26, 2026 | 2:00-4:00 PM ET | Review PhD academic CV and research statement v1 | Approve the common packet before tailoring | Created and verified; no live conflict; one-day reminder |
-| Tue Sep 1, 2026 | 2:00-3:00 PM ET | Open UW iSchool Fall 2027 application | Record portal fields and missing materials | Created and verified; no live conflict; one-day reminder |
-| Wed Sep 30, 2026 | 2:00-4:00 PM ET | Open Fall 2027 PhD portals and prepare references | Inspect NYU and all available portals; do not send incomplete requests | Created and verified; no live conflict; one-day reminder |
+
+## Application portal launch sessions
+
+These are working appointments, not application deadlines. `Confirmed opening` means the official program or live portal names that date. `Planning date` means the portal has not published an exact Fall 2027 opening date, so the appointment is a check-and-start session.
+
+| Date | Time | Calendar title | Opening status | Calendar status |
+| --- | --- | --- | --- | --- |
+| Tue Sep 1, 2026 | 2:00-3:00 PM ET | Open UW iSchool Fall 2027 application | Confirmed opening: Sep 1 | Created and verified; no live conflict; one-week, one-day, and one-hour reminders |
+| Tue Sep 8, 2026 | 2:00-4:00 PM ET | START/CHECK: RIT and Rochester Fall 2027 PhD applications | Planning date; create RIT CIS, Rochester CS, and Rochester Statistics drafts if available | Created and verified; no live conflict; one-week, one-day, and one-hour reminders |
+| Tue Sep 15, 2026 | 2:00-3:30 PM ET | START: MIT EECS Fall 2027 PhD application | Confirmed by the live EECS 2027 portal: closed until Sep 15 | Created and verified; no timed conflict; one-week, one-day, and one-hour reminders |
+| Wed Sep 16, 2026 | 2:00-2:30 PM ET | CHECK/START: CMU HCII Fall 2027 PhD application | Planning date; HCII says only that the cycle reopens in Fall 2026 | Created and verified; no live conflict; one-week, one-day, and one-hour reminders |
+| Tue Sep 22, 2026 | 2:00-3:00 PM ET | FALLBACK: Retry RIT and Rochester PhD portals | Conditional retry; remove if all three drafts were created Sep 8 | Created and verified; no live conflict; one-week, one-day, and one-hour reminders |
+| Wed Sep 30, 2026 | 2:00-4:00 PM ET | START: NYU CDS and remaining Fall 2027 PhD applications | Planning date within NYU's stated late-September opening window; also recheck CMU, RIT, and Rochester | Created and verified; no live conflict; one-week, one-day, and one-hour reminders |
 
 ## Internal submission targets
 
@@ -47,6 +58,7 @@ This file records both the planned calendar item and whether it has actually bee
 ## Reminder standard
 
 - Preparation sessions: one-day reminder.
+- Application portal launch sessions: one-week, one-day, and one-hour reminders.
 - Internal submission targets: one-week and one-day reminders.
 - Official deadlines: two-week, one-week, and one-day reminders.
 - Add links to the relevant program brief and official page in each event description.
