@@ -329,8 +329,8 @@ context, available context, or additional predictive context, then measure both
 overall performance and whether some groups or network flows repeatedly receive
 worse outcomes. The central concern is simple: a system can look successful on
 average while still delaying care for a vulnerable group or consistently giving
-some users worse service. Current simulations test whether fairness-aware
-mediation can reduce those gaps while preserving useful performance, and I am
+some users worse service. Current simulations test whether a fairness-aware
+decision step can reduce those gaps while preserving useful performance, and I am
 continuing the evaluation across additional clinical and quantum scenarios.
 
 My University of Rochester Teaching Computer Science K-12 program focuses on
@@ -421,12 +421,12 @@ the people, risks, and resources involved.
 **Working response to evaluate:**
 
 Professor Travis Desell has supported my growth as both an instructor in
-Neural Networks and an adviser in DSCI 601, helping me strengthen machine-
+Neural Networks and an advisor in DSCI601, helping me strengthen machine-
 learning reasoning, research framing, technical writing, and response to
 feedback. Dr. Daniel Krutz has supported my software and data-systems research,
 including the rigor, reproducibility, documentation, and collaboration needed
 for my quantum and AI work. Dr. Zenon Borys has served as both a teacher and an
-adviser in my computer-science education program, helping me connect technical
+advisor in my computer-science education program, helping me connect technical
 knowledge with inclusive pedagogy, classroom reflection, and work with K-12
 learners. Dr. Qi Yu and Dr. Fernando Rodriguez have also shaped my work in
 responsible AI and computational biology. Keep only mentors whose relationship
@@ -510,7 +510,7 @@ One recent example is my Spring 2026 K-5 computer-science placement at Pine
 Brook Elementary. I helped turn technology-rich activities into clearer
 computer-science instruction by organizing lesson materials, connecting tools
 to learning targets, revising directions and rubrics, and supporting students
-through debugging and project development. I worked with teachers and advisers
+through debugging and project development. I worked with teachers and advisors
 instead of treating the placement as an individual project, and I revised the
 materials when feedback showed that instructions or assessment evidence were
 not clear enough. The ongoing impact is a documented set of reusable lesson
