@@ -12,10 +12,31 @@ bodies, phone numbers, or personal recruiter addresses.
   progress.
 - Rochester-area hybrid work is acceptable when it fits the school schedule.
 - Relocation is possible after December 2026.
+- Prefer afternoon meetings and work blocks; Tuesday and Thursday are available
+  again, subject to a live-calendar check. Prefer Zoom when it reduces travel
+  or health burden.
 - Priority fields are data science, AI/ML, quantum computing, research
   engineering, bioinformatics, inclusive CS teaching, and education technology.
 
 ## Refresh Status - 2026-08-03
+
+- Registered for New York Tech's August 6 Virtual Graduate Information Session
+  using the Computer Science Ph.D., New York City, Fall 2027 selections. The
+  official [Computer Science Ph.D. page](https://www.nyit.edu/academics/degrees/computer-science-phd/)
+  lists AI, machine learning, data science, and medical-informatics research
+  areas. The 5:30 PM preparation block and 6:00-7:00 PM event are live on the
+  RIT calendar with layered reminders; the processed invitation was unstarred.
+- Rechecked the VDart Data Scientist thread. The July 23 screening message is
+  present in Sent and no recruiter response has arrived. Do not duplicate the
+  message or send a resume; make one final status check August 10.
+- Moved the missed Jobot review from 11:00 AM to 6:30 PM to match the current
+  afternoon-first scheduling rule. The event now has 30-minute and 10-minute
+  alerts.
+- Screened a new Jobot Senior Software Engineer alert. The role is fully remote
+  at $150,000-$190,000 and connects to education technology, but it specifically
+  requires production LTI 1.1/1.3 and Scala experience not established in the
+  current record. Logged as a secondary stretch; it should not displace the
+  stronger AI/ML, healthcare-data, teaching, or internship applications.
 
 - Verified that Adobe Sign records all parties finished the Fall 2026 FTE
   agreement on July 29. Sent RIT Aid and the program contact a concise request

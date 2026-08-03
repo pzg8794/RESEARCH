@@ -2,6 +2,20 @@
 
 ## Refresh Status - 2026-08-03
 
+- The Fellowships Office offered several rescheduling times. After checking the
+  live RIT and UofR calendars and confirming the updated class schedule, Piter
+  accepted **Thursday, August 6 at 1:15 PM** and requested Zoom. A 12:00-1:00
+  PM preparation block and a tentative 1:15-2:00 PM hold are live on the RIT
+  calendar. Wait for confirmation and the meeting link.
+- The Teaching Retreat organizer approved full Monday-only attendance. The
+  registration is filled through the final dietary/special-food question,
+  which remains with Piter because it is health-sensitive. A combined Carney
+  and Teaching Retreat review is calendared for Tuesday, August 4 at 2:00 PM.
+- Carney, Sandoe & Associates directed Piter to the 2027-2028 Teaching
+  Fellowship listing. A targeted one-page teaching resume was created,
+  visually verified, and attached to the live Handshake application; final
+  review and `Submit Application` remain.
+
 - Submitted the remote LearningMate Subject Matter Expert application with the
   targeted resume and cover letter. Handshake displayed both `Application
   submitted!` and `Applied on August 3, 2026`.
@@ -21,9 +35,8 @@
   citizenship, Microsoft Event Terms, and final registration remain direct
   applicant decisions.
 - Reopened the August 10-11 Teaching Retreat because the Monday program is a
-  strong inclusive-teaching fit. Emailed the organizer to ask whether full
-  Monday-only attendance is permitted; keep the notice starred while waiting
-  and follow up on August 5 if needed. Tuesday remains blocked for class.
+  strong inclusive-teaching fit. This earlier request was resolved by the
+  organizer's Monday-only approval recorded above.
 - Corrected the DASA/SAVE plan against Warner's official instructions: Warner
   pays the one-time registration fee, so the form now uses `Purchase Order`
   with the current Teaching Computer Science K-12 student note. Date of birth,
@@ -55,10 +68,9 @@
   in Rochester; the response asks to remain connected for remote CS or
   technology-education work this fall and NYC-area K-12 CS work beginning in
   January 2027.
-- Keep the original Fellowships Office thread starred and labeled `To respond`
-  until an appointment is offered, checked against every calendar, accepted,
-  and protected with preparation, travel, and multiple reminders. The two
-  receipt messages can be cleared after this record is committed.
+- Keep the original Fellowships Office thread visible until the August 6 time
+  and Zoom link are confirmed. The time has already been checked against the
+  live calendars and protected with preparation plus multiple reminders.
 
 ## Refresh Status - 2026-08-02
 
@@ -168,8 +180,9 @@ Last updated: 2026-07-29
 - IBM Dev Day and the two-day Teaching Retreat were screened out because they
   conflict with the Tuesday/Thursday class rule; their registration tabs and
   calendar holds were removed.
-- Scheduling rule: avoid Tuesdays and Thursdays. A Thursday meeting after
-  4:30 PM is acceptable only when Thursday is the sole option.
+- **Superseded August 3:** the earlier Tuesday/Thursday exclusion no longer
+  applies. Current scheduling prefers afternoons and Zoom, checks the live
+  calendar, and protects preparation, recovery, and travel time.
 
 ## Refresh Status - 2026-07-27
 
@@ -276,12 +289,12 @@ the queue of unfinished work. Do not remove importance metadata automatically.
 | --- | --- | --- | --- | --- |
 | 2026-08-03 | Handshake / LearningMate | Subject Matter Expert | Submitted the targeted [resume](./application-materials/2026-07-23-learningmate-sme-resume.pdf) and [cover letter](./application-materials/2026-07-23-learningmate-sme-cover-letter.pdf); verified both live Handshake confirmation messages | **Submitted.** Monitor for a response and confirm hours during screening because the posting's freelance/part-time description differs from its full-time summary |
 | 2026-08-03 | Handshake / Ampact | Early Learning Corps Tutor | Sent a final remote-through-December boundary response and marked the repeated onsite tutor lead not interested | **Closed for Fall 2026.** Remain available for remote CS, data/AI, education-technology, or tutoring work and location-based roles after December |
-| 2026-08-03 | myHub / University of Rochester | 2026 Teaching Retreat | Reopened the aligned Monday program and asked the organizer whether full Monday-only attendance is allowed because Tuesday conflicts with class | **Waiting.** Follow up August 5 if no reply; register and add Monday only to the calendar if approved |
+| 2026-08-03 | myHub / University of Rochester | 2026 Teaching Retreat | Organizer approved full Monday-only attendance; registration is filled through the dietary/special-food question | **Piter review August 4 at 2:00 PM.** Answer the health-sensitive field, submit, preserve the receipt, calendar Monday, and thank the organizer |
 | 2026-07-31 | Handshake / Recovery Audit Solutions | Data Analytics and Web Development Intern | Submitted the tailored Data Scientist resume; verified the remote, 10-hour/week, $20-$30/hour, August 15-December 15 schedule; sent the hiring lead the documented availability note on August 3 | **Submitted / waiting.** Handshake confirmed the message was sent. Check for a response on August 7; do not send a duplicate |
 | 2026-07-31 | Handshake / Tech Rise Solutions | Data Scientist | Submitted the [tailored resume](./application-materials/2026-07-31-tech-rise-data-scientist-resume.pdf), set it as the default data-science resume, and verified the Handshake and email receipts | **Submitted.** Check for a response on August 7 and screen full-time start date/hours against the final semester |
 | 2026-07-31 | U.S. Department of Health and Human Services | Navigating the Federal Hiring Process: USAJobs | Thanked Geneva Hauser, reviewed the federal early-career resources, and prefilled the official webinar registration | **P0 / direct handoff.** Piter supplies self-identification and citizenship, reviews the Microsoft terms, and submits; then add August 19, 2:00-3:00 PM to the RIT calendar |
 | 2026-07-31 | Gwinnett County Public Schools | Middle-school teaching recruitment | Thanked Veronica Zamora and confirmed that relocation is available after December for January 2027 or 2027-28 CS, technology, and STEM roles | **Future / waiting.** No current onsite application |
-| 2026-07-31 | Carney, Sandoe and Associates | Independent-school placement support | Thanked Brenden Godino for the clarification and confirmed nationwide relocation after December | **Future.** Review January 2027 and 2027-28 CS, technology, STEM, and inclusive-education openings |
+| 2026-07-31 | Carney, Sandoe and Associates | 2027-2028 Teaching Fellowship | Recruiter directed Piter to the listing; created, visually verified, and attached a targeted one-page teaching resume to the live application | **Application prepared.** Final review and `Submit Application` are calendared for August 4 at 2:00 PM |
 | 2026-07-31 | Zen Borys | EDU486 poster support | Verified that Piter had already thanked him; removed the completed star and stale `To respond` label and archived the thread | **Complete.** No additional message needed |
 | 2026-07-28 | Student Fellowships Office | Fulbright advising appointment | Corrected the earlier scheduling messages; accepted the official invitation for Friday, July 31, 3:00-4:00 PM EDT in Dewey Hall 4-209B | **Confirmed.** Attend after the EDU486 poster fair and ask the office to identify and verify a genuinely aligned award before any application or recommendation work |
 | 2026-08-03 | Student Fellowships Office | NSF-GRFP recording and eligibility review | Opened the shared 47-minute recording and checked the current NSF 25-547 graduate-status rules | **Closed / ineligible.** Piter's completed 2015 M.S. and current graduate enrollment fall outside the first-year-of-first-graduate-program requirement; no application or further reply |
@@ -290,8 +303,8 @@ the queue of unfinished work. Do not remove importance metadata automatically.
 | 2026-07-28 | Handshake AI Team | Profile completion | Uploaded the verified industry resume and completed Computer Science, Machine Learning, Data Scientist, RIT, master's, 2026, LinkedIn, United States, New York, and Handshake-source fields | **P0 / legal and identity handoff.** Review and accept the Terms, Privacy Policy, and Contractor Agreement before `Next`, then complete government-ID verification |
 | 2026-07-27 | Handshake / Health Data Max | Clinical Business Analyst Intern | Submitted the [complete targeted packet](./application-materials/2026-07-27-health-data-max-packet.md), including resume, cover letter, and unofficial transcripts; verified Handshake's confirmation | **Submitted.** Check for an employer response on August 3 and confirm workable semester hours during screening |
 | 2026-07-27 | NYS Office of Information Technology Services / Handshake | Virtual Information Session: Explore Careers in NYS Information Technology Services | Registered for the 2026-07-28, 10:00-10:30 AM EDT virtual session; Handshake displayed `You're registered!` | **Registered.** Join through Handshake five minutes before the event |
-| 2026-07-27 | UofR Graduate Writing Project | Graduate student academic writing retreat | Submitted the Google Form for the 2026-08-05 through 2026-08-07, noon-4:00 PM retreat and received the registration confirmation | **Registered.** Attend Wednesday and Friday with the RIT data-science thesis/manuscript; Thursday conflicts with class and was removed from the calendar |
-| 2026-07-27 | IBM / Handshake | IBM Dev Day: Bob in Action + Hackathon | Verified a free virtual AI-development event on August 27 and opened the external registration | **Screened out 2026-07-28.** Thursday 11:00 AM-2:30 PM conflicts with class; registration and calendar hold closed |
+| 2026-07-27 | UofR Graduate Writing Project | Graduate student academic writing retreat | Submitted the Google Form for the 2026-08-05 through 2026-08-07, noon-4:00 PM retreat and received the registration confirmation | **Registered.** Attend Wednesday and Friday with the RIT data-science thesis/manuscript. The old Thursday class exclusion is gone, but August 6 now overlaps fellowship preparation/advising and should not be restored without a deliberate partial-attendance plan |
+| 2026-07-27 | IBM / Handshake | IBM Dev Day: Bob in Action + Hackathon | Verified a free virtual AI-development event on August 27 and opened the external registration | **Re-evaluate.** The previous blanket Thursday conflict is no longer current; verify that registration remains open and check the live August 27 calendar before reopening |
 | 2026-07-27 | iLearn | Mathematics Teacher, grades 4-8 | Reviewed work model, location, and current availability constraint | **Closed for Fall 2026.** Full-time onsite New York role; reconsider only after December if relocation and certification fit |
 | 2026-07-27 | Brains & Motion | Structured Recess / Fitness Instructor | Reviewed work model, location, schedule, and field fit | **Closed.** Seasonal onsite Brooklyn role at $25/hour is weaker than current remote CS/data priorities |
 | 2026-07-27 | Gestalt Community Schools | High School Math Teacher | Reviewed work model and location | **Closed for Fall 2026.** Onsite Memphis role; revisit only after December if relocation is desired |
@@ -306,7 +319,7 @@ the queue of unfinished work. Do not remove importance metadata automatically.
 | 2026-07-24 | University of Rochester Financial Aid | Financial Aid Application Instructions | Reviewed the earlier missing Aid Enrollment Plan form and in-person identity-verification requirement | **Superseded 2026-07-28.** The newest notice no longer lists the enrollment plan; current missing items are the Direct Loan MPN and in-person identity verification |
 | 2026-07-24 | Genesee Valley BOCES / Warner School | June 6 DASA and SAVE Course Registrations | Verified the cancellation, then corrected the replacement form against [Warner's certification instructions](https://www.warner.rochester.edu/students/support/certification/workshops). Warner pays the one-time registration fee, so `Purchase Order` and the current Teaching Computer Science K-12 student note are selected | **P0 / secure handoff.** Piter supplies date of birth, final five SSN digits, CAPTCHA, and final submission. Finish both asynchronous courses within 30 days after credentials arrive |
 | 2026-07-24 | EDU486 / University of Rochester | Poster Template for Session on July 31 | Matched the template email to the [existing course plan and draft](https://github.com/pzg8794/EDU486/blob/main/assignments/04-poster-fair/poster-proposal-draft.md) | **P0.** Finish the poster and attend the 2026-07-31, 1:30-3:00 PM fair in LeChase 215; preserve the course attachment in the course workspace rather than the public RESEARCH repo |
-| 2026-07-24 | myHub / University of Rochester | 2026 Teaching Retreat | Reviewed the free August 10-11 program; on August 3, asked whether full Monday-only attendance is permitted | **Waiting.** Tuesday remains blocked for class. Follow up August 5 if the organizer has not replied; register and calendar Monday only if approved |
+| 2026-07-24 | myHub / University of Rochester | 2026 Teaching Retreat | Reviewed the free August 10-11 program; organizer later approved full Monday-only attendance | **Superseded by the August 3 resolved entry above.** Registration waits only on Piter's dietary/special-food answer |
 | 2026-07-24 | University Health Service | Fall health-insurance open enrollment | Reviewed the mandatory annual enroll-or-waive process | **P1 / secure action.** Complete the UHS process by **2026-09-15** to avoid automatic enrollment and billing; keep starred |
 | 2026-07-24 | Student Fellowships Office | Fulbright Student Grant to Italy in Deafness Studies | Checked the current award and UofR campus calendar; sent a late-entry inquiry to `fellowships@rochester.edu` | **Superseded and screened out.** The Italy award requires intermediate ASL, which is not documented; the active route is Spain ETA |
 | 2026-07-24 | University of Rochester digest | Genomic biomarkers seminar and Survivorship Symposium | Recorded the July 27 genomics seminar and August 19 abstract deadline | **P2 conditional.** Seminar is optional; submit a symposium abstract only if an existing cancer-survivorship project honestly fits |

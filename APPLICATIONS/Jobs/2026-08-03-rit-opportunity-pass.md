@@ -36,7 +36,14 @@ clicks `Apply Now` only if accepted, then preserves the receipt.
 
 The primary RIT calendar now contains:
 
-- 2026-08-03, 11:00-11:20 AM: Jobot final review and submission handoff.
+- 2026-08-03, 6:30-6:50 PM: Jobot final review and submission handoff, moved
+  from the missed morning block with 30-minute and 10-minute alerts.
+- 2026-08-04, 2:00-2:25 PM: Carney final application review and Teaching
+  Retreat dietary-question handoff.
+- 2026-08-06, 12:00-1:00 PM and 1:15-2:00 PM: fellowship preparation and
+  tentative Zoom advising hold.
+- 2026-08-06, 5:30-6:00 PM and 6:00-7:00 PM: New York Tech Computer Science
+  Ph.D. session preparation and registered virtual information session.
 - 2026-08-09, 6:00-6:20 PM: RIT parking readiness review.
 - 2026-08-10, 9:00-10:00 AM: FTE, aid, and Fall bill review/escalation.
 - 2026-08-10, 10:15-10:45 AM: Diverse Lynx follow-up.

@@ -1,6 +1,6 @@
 # Personal Email Career and Financial Action Log
 
-Last updated: 2026-07-27
+Last updated: 2026-08-03
 
 This is the public-safe record of career, consulting, education-funding, and
 urgent financial messages reviewed in the personal Gmail account. It records
@@ -11,13 +11,14 @@ account numbers, addresses, health details, or full message bodies.
 
 | Date processed | Opportunity | Verified fit and constraints | Action | Status / follow-up |
 | --- | --- | --- | --- | --- |
+| 2026-08-03 | Guidepoint - Data Quality Vendors in the Healthcare Landscape | The client closed the short remote project after selecting other experts | Sent a professional thank-you and requested consideration for future remote data-quality, machine-learning, healthcare-data, or bioinformatics consultations | **Closed.** Incoming closure and prior thread were marked read and unstarred; no further action |
 | 2026-07-27 | Guidepoint - Data Quality Vendors in the Healthcare Landscape | Remote, short-duration consulting remains compatible with graduate study | Sent a [single follow-up](./follow-up-drafts/2026-07-27-guidepoint-data-quality-follow-up.md) requesting the advisor-profile link, scope, and screening/compliance questions | **Waiting / processed thread unstarred.** Check once on August 3; review scope, conflicts, and rate before accepting |
 | 2026-07-25 | Guidepoint - Data Quality Vendors in the Healthcare Landscape | The remote paid consultation remains a strong fit. | Checked the thread; no reply arrived after Piter's 2026-07-24 interest message. | **Superseded by the July 27 follow-up above.** |
 | 2026-07-24 | Guidepoint - Data Quality Vendors in the Healthcare Landscape | Strong short-term fit for data science, data quality, healthcare, and bioinformatics. The proposed remote consultation is 45-60 minutes, scheduled around Piter's availability, and paid at an hourly rate selected by Piter. | Sent an interest reply requesting the advisor-profile link, project details, and screening questions. No rate or confidential information was provided. | **Waiting.** Check for the link by 2026-07-27. Review the project and compliance questions before setting a rate or accepting a call. |
 | 2026-07-24 | One N Only - marketing-team hiring notice | A current hiring message was found, but the role, location, work model, compensation, and application deadline were not yet verified. | Preserved for focused review. | **Needs review.** Apply only if the role is remote through December 2026 and materially matches data, AI, education, or technical communication. |
 
-No new career or recruiter reply surfaced in the July 27 delta search.
-Guidepoint remains the only current personal-account consulting follow-up.
+The August 3 search found no additional current career or recruiter response.
+Guidepoint is closed, and its future-opportunity reply is complete.
 
 ## Financial Action Queue
 
@@ -62,8 +63,8 @@ search. All payment and secure-account actions remain with Piter.
 
 ## Mailbox State
 
-- The processed Guidepoint thread was unstarred after the July 27 follow-up was
-  sent. The response check remains in the job watchlist for August 3.
+- The Guidepoint closure and prior thread were marked read and unstarred after
+  the August 3 future-opportunity reply was sent. No response check remains.
 - Urgent financial messages remain unresolved and should stay visible until
   their secure-account status is confirmed.
 - No payment, enrollment, account-access, or legal action was taken.

@@ -8,8 +8,11 @@ applications, recruiter conversations, and follow-up work.
 - Available now for remote work that can fit alongside graduate study.
 - Remote or Rochester-area work is required through December 2026.
 - Nationwide and international relocation is possible after December 2026.
-- Avoid meetings, events, and work blocks on Tuesdays and Thursdays. Thursday
-  after 4:30 PM is a fallback only when Thursday is the sole option.
+- To respect Piter's access and energy needs, prefer afternoon meetings and
+  focused work blocks, with recovery time before high-stakes obligations.
+- Tuesdays and Thursdays are available again; check the live calendar for
+  remote classes and other obligations before accepting a time.
+- Prefer Zoom when it reduces travel or health burden.
 - Priority fields:
   - Data science, machine learning, and AI
   - Quantum computing and research engineering
@@ -20,6 +23,7 @@ applications, recruiter conversations, and follow-up work.
 
 | File | Purpose |
 | --- | --- |
+| [August 3 Afternoon Response Pass](./2026-08-03-afternoon-response-pass.md) | Verified Guidepoint, VDart, fellowships, Teaching Retreat, Carney, and New York Tech outcomes plus the remaining linked review queue |
 | [2026-07-31 UofR Opportunity Pass](./2026-07-31-uofr-opportunity-pass.md) | Verified Tech Rise and Recovery Audit Solutions applications, recruiter/program replies, supporter cleanup, HHS registration handoff, and mailbox actions |
 | [Email Action Queue](./school-email-action-queue.md) | Current cross-account career, funding, registration, financial, and follow-up todo list |
 | [Next-Week Watchlist: July 26-August 1](./next-week-watchlist-2026-07-26.md) | Dated daily execution plan and mailbox watch items for the coming week |
@@ -48,8 +52,9 @@ applications, recruiter conversations, and follow-up work.
 6. Remove an email from the starred queue only after it has been handled and
    logged. Keep unresolved career, financial, and financial-aid dependencies
    starred.
-7. Do not schedule activities on Tuesdays or Thursdays. Keep fixed deadlines
-   on their official dates and add preparation on an earlier day.
+7. Prefer afternoons and Zoom when possible. Tuesdays and Thursdays are no
+   longer blanket exclusions; check the live calendar and protect preparation,
+   recovery, and travel time before accepting an appointment.
 
 ## Status Vocabulary
 

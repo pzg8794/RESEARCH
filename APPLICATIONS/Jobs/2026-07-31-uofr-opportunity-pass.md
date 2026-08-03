@@ -128,15 +128,15 @@ do not merge their mailbox status into the UofR record.
 
 ### Schedule-Safe Follow-Up
 
-- The August 10-11 Teaching Retreat is aligned with inclusive teaching but the
-  Tuesday session conflicts with class. An email was sent on August 3 asking
-  whether Monday-only attendance is permitted. Follow up on August 5 if no
-  answer; register and calendar Monday only if approved.
-- IBM Dev Day remains closed because its Thursday 11:00 AM-2:30 PM schedule
-  conflicts with class.
-- Keep the Fellowship Office recovery thread starred until a new appointment
-  is offered, checked against every calendar, and protected with preparation,
-  travel, and multiple alerts.
+- **Superseded August 3:** the Teaching Retreat organizer approved full
+  Monday-only attendance. The registration now waits only on Piter's
+  dietary/special-food answer.
+- **Superseded August 3:** Tuesday and Thursday are no longer blanket class
+  exclusions. IBM Dev Day may be reconsidered only after confirming that
+  registration remains open and checking the live August 27 calendar.
+- **Updated August 3:** after checking both calendars, Piter accepted the
+  offered Thursday, August 6 at 1:15 PM fellowship time and requested Zoom.
+  Preparation and tentative appointment holds are live; wait for confirmation.
 
 ### Mailbox Cleanup
 

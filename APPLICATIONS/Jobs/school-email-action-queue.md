@@ -22,9 +22,10 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
    addresses, health details, or full message bodies.
 4. Use `Blocked - Piter` only for secure logins, identity verification, legal
    agreements, or personal-data submission that requires Piter's action.
-5. Do not schedule meetings, events, or work blocks on Tuesdays or Thursdays.
-   Use Thursday after 4:30 PM only when Thursday is the sole option; move
-   preparation for fixed Tuesday/Thursday deadlines to an earlier day.
+5. Prefer afternoons and Zoom when possible. Tuesdays and Thursdays are
+   available again, but every proposed time must still be checked against the
+   live calendar. Protect recovery time, a 60-minute preparation block for
+   high-stakes appointments, and travel time for in-person commitments.
 
 ## Do First
 
@@ -97,16 +98,17 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 - [ ] **P0 - RIT / StudentAid.gov:** Open `My Activity` and review the July 1
   TEACH Grant update. Record any certification, agreement-to-serve, counseling,
   or deadline requirement.
-- [ ] **P1 - UofR / teaching retreat:** The Monday program is a strong fit, but
-  Tuesday conflicts with class. An email was sent on August 3 asking whether
-  full Monday-only attendance is permitted. Follow up August 5 if no answer;
-  register and calendar Monday only if approved.
-- [ ] **P0 - UofR / fellowship rescheduling:** Both requested forms are
-  submitted with direct receipts, and the completion/rescheduling reply was
-  sent at 12:42 AM on August 3. Keep the original thread starred and labeled
-  `To respond` until the office offers a time. Before accepting, check every
-  calendar, prefer Monday/Wednesday/Friday, confirm in-person or Zoom, and add
-  preparation, travel, and multiple reminders.
+- [ ] **P1 - UofR / teaching retreat:** The organizer approved full Monday-only
+  attendance. The form is complete through the final dietary/special-food
+  question. Piter answers that health-sensitive field during the **August 4,
+  2:00 PM** review; then submit, preserve the receipt, calendar Monday, and
+  thank the organizer.
+- [ ] **P0 - UofR / fellowship rescheduling:** Both requested forms have direct
+  receipts. After checking both calendars, Piter accepted the offered
+  **Thursday, August 6 at 1:15 PM** time and requested Zoom. A 12:00-1:00 PM
+  preparation block and 1:15-2:00 PM tentative hold are live on the RIT
+  calendar. Keep the thread visible until the office confirms the appointment
+  and meeting link.
 - [x] **Complete - Handshake / Health Data Max:** Submitted the targeted
   resume, cover letter, and combined unofficial transcripts on 2026-07-27.
   Check for a response on August 3.
@@ -116,8 +118,9 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 - [ ] **P0 - Jobot Senior AI/ML Engineer:** The live 100% remote application is
   prefilled, `No` is selected for SMS, and the targeted one-page resume is
   attached. Piter reviews the communications/privacy notice and clicks `Apply
-  Now` only if accepted. A final review is calendared for **2026-08-03,
-  11:00-11:20 AM**; preserve the receipt before marking submitted.
+  Now` only if accepted. The missed morning review was moved to **2026-08-03,
+  6:30-6:50 PM** with 30-minute and 10-minute alerts; preserve the receipt
+  before marking submitted.
 - [x] **Complete - Handshake / LearningMate:** Submitted the prepared resume
   and cover letter on August 3. Handshake displayed `Application submitted!`
   and `Applied on August 3, 2026`. Monitor for an employer response and confirm
@@ -140,9 +143,11 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
   anything. Confirm whether automatic retries are scheduled.
 - [ ] **P0 - Personal / utility:** Address the past-due utility warning now to
   protect service continuity.
-- [x] **P1 - Guidepoint:** Sent the follow-up on 2026-07-27. Check once on
-  **2026-08-03**, then review scope, compliance, conflicts, and rate before
-  accepting a consultation.
+- [x] **Closed - Guidepoint:** The client closed the project after choosing
+  other experts. Sent a professional thank-you on 2026-08-03 and requested
+  consideration for future remote data-quality, machine-learning,
+  healthcare-data, or bioinformatics consultations. The processed thread was
+  marked read and unstarred.
 - [x] **P1 - RIT / VDart:** Verified the screening reply was already sent on
   2026-07-23. Do not duplicate it or send a resume before the recruiter
   identifies the client, compensation, schedule, travel, and work terms.
@@ -168,7 +173,8 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 | P1 | Degree completion | Fall 2026 graduation application | RIT confirmed the application and stated that degree completion is on track if current courses are completed and the required GPA is maintained | Complete; recorded and unstarred on 2026-07-24. |
 | P2 | Campus logistics | 2026-27 parking permit | Reserved permits open 2026-08-10; general permits open **2026-08-12**. Local address must be current at least 24 hours before purchase, the parking account must have a zero balance, and a license plate is required. | Readiness review is calendared for August 9 at 6:00 PM; general-permit purchase is calendared for August 12 at 10:00 AM. No official launch time was stated. |
 | Closed | Fellowship | [Carman International Fellowship](https://www.mosaicinfo.org/application/) | Misclassified using current requirements, older Carman descriptions, and the Luce placement model; reference corrections were sent July 29 | No application, eligibility inquiry, letter check, acknowledgment chase, reminder, or submission remains. |
-| P1 | Job | VDart Data Scientist | July 23 screening reply confirmed in Sent; no recruiter response | Check once on 2026-08-03. Do not send a duplicate message or resume without the requested work terms. |
+| P1 | Job | VDart Data Scientist | July 23 screening reply confirmed in Sent; no recruiter response as of August 3 | Make one final status check on August 10. Do not send a duplicate message or resume without the requested work terms. |
+| Complete | PhD information | [New York Tech Computer Science Ph.D. information session](https://www.nyit.edu/academics/degrees/computer-science-phd/) | Registered for the August 6, 6:00-7:00 PM virtual session using the Computer Science Ph.D., New York City, Fall 2027 selections | Attend the 5:30 PM preparation block and session; ask about assistantship funding, faculty fit, deadlines, and application requirements. Invitation processed and unstarred. |
 | P0 | Research | ICNP 2026 paper #330 | Rejected; authenticated reviews identify writing, novelty, algorithm-definition, physical-grounding, and evaluation-scale gaps | Preserve the review source, meet with coauthors, and retarget only after the gaps are addressed. |
 | P0 | Security | Repository deletion and implicated token | GitHub Support restored `DBSCAN`, `GAPP`, `Mobile-Detect`, `hello-express`, and `lodge-website`; all five remotes were verified and Support was thanked. The exact implicated `vm-repo-token` is expired, and no extra web session or matching local DataScience script was found. | Restoration is complete. Identify the responsible external Python process before issuing any replacement token; exclude repository-delete and administration permission. Review on August 12 and follow [repository safety](../../REPOSITORY_SAFETY.md). |
 | P0 | Job | [Onward Search Creative Project Manager](https://www.indeed.com/viewjob?jk=03b29d4ec5d73a0b) | Live remote AI/ML project-management contract at $45-$50/hour | Verify weekly hours and time zone, then prepare the project-management resume if compatible with Fall study. |
@@ -181,36 +187,37 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 
 | Priority | Category | Item | Current status | Next action |
 | --- | --- | --- | --- | --- |
-| P0 | Fellowship | UofR Fellowships Office advising | Prospective Applicant Form and Preliminary Questionnaire submitted with direct receipts; recovery and rescheduling reply sent August 3 | Wait for an appointment offer, check every calendar before accepting, confirm in-person or Zoom, and discuss only a verified Study/Research or other aligned award. |
+| P0 | Fellowship | UofR Fellowships Office advising | Forms have direct receipts; the offered August 6 at 1:15 PM time was accepted after a live-calendar check, with Zoom requested | Wait for confirmation and the meeting link. The 12:00 PM preparation block and 1:15 PM tentative hold are live. Discuss only officially verified, aligned awards. |
 | P0 | Job | [Recovery Audit Solutions Data Analytics and Web Development Intern](https://rochester.joinhandshake.com/job-search/11243659) | Remote, $20-$30/hour, 10 hours/week, August 15-December 15; submitted July 31; availability note sent August 3 | Check for a response on August 7; do not send a duplicate. |
 | P0 | Job | [Tech Rise Solutions Data Scientist](https://rochester.joinhandshake.com/job-search/11241730) | Remote, full-time, targeted at 2025/2026 master's graduates; submitted July 31 with the tailored resume and verified receipts | Check for a response on August 7 and confirm that any start date/hours fit the final semester. |
 | P0 | Career event | [HHS Navigating the Federal Hiring Process: USAJobs](https://rochester.joinhandshake.com/stu/events/1982973) | Wednesday, August 19, 2:00-3:00 PM EDT; official registration prefilled but not submitted | Piter completes self-identification, citizenship, and Microsoft-terms decisions; then submit and add to the RIT calendar. |
 | P0 | Financial aid | Direct Loan MPN and identity verification | The July 28 notice lists the graduate/professional Direct Loan MPN and in-person identity check; the Aid Enrollment Plan is no longer listed | Complete the [MPN](https://studentaid.gov/mpn/) after reviewing its legal terms, then follow the counselor's response for the in-person appointment. Keep starred until both are confirmed. |
 | P0 | Teaching certification | [DASA and SAVE registrations](https://www.warner.rochester.edu/students/support/certification/workshops) | Corrected form is prefilled for both courses and uses `Purchase Order`; Warner pays the one-time registration fee | Piter supplies date of birth, final five SSN digits, CAPTCHA, and final submission. Finish both asynchronous courses within 30 days after credentials arrive. |
 | P0 | Degree completion | EDU486 July 31 poster session | Template email and existing course plan confirm a **2026-07-31, 1:30-3:00 PM** poster fair in LeChase 215. The accepted Fulbright meeting begins at 3:00 PM in Dewey Hall 4-209B. | Finish from the [existing EDU486 poster draft](https://github.com/pzg8794/EDU486/blob/main/assignments/04-poster-fair/poster-proposal-draft.md), arrange coverage, and leave by 2:45 PM. Keep the email starred until complete. |
-| P1 | Teaching development | [myHub 2026 Teaching Retreat](https://rochester.joinhandshake.com/stu/events/1956131) | Monday is aligned; Tuesday conflicts with class; organizer was asked on August 3 whether Monday-only attendance is permitted | Follow up August 5 if needed; register and calendar Monday only if approved. |
+| P1 | Teaching development | [myHub 2026 Teaching Retreat](https://rochester.joinhandshake.com/stu/events/1956131) | Organizer approved full Monday-only attendance; registration is complete through the dietary/special-food question | Piter answers that health-sensitive field during the August 4, 2:00 PM review; then submit, preserve the receipt, calendar Monday, and send a thank-you. |
 | Paused | Fellowship | [Fulbright Spain English Teaching Assistant](https://us.fulbrightonline.org/countries/europe-and-eurasia/spain/1768) | English-teaching and cultural-exchange assistantship; supporting science or technology classes taught in English does not make it a CS-teaching award | Attend the accepted July 31, 3:00-4:00 PM advising meeting, but do not submit this as the default route. Continue only with a specifically verified Study/Research or other aligned award. |
 | P0 | Job | [Health Data Max Clinical Business Analyst Intern](https://rochester.joinhandshake.com/job-search/11219848) | Remote/hybrid, $20-$30/hour, 30 hours/week; tailored resume, cover letter, and transcripts submitted July 27 | Check for a response on **August 3** and confirm workable semester hours during screening. Official deadline is **2026-08-16 at 11:59 PM**. |
 | Complete | Job | LearningMate Subject Matter Expert | Targeted resume and cover letter submitted August 3; live Handshake confirmation verified | Monitor for a response and confirm hours during screening. |
 | P0 | Job | Handshake AI Evaluation Specialist | Verified industry resume and all documented non-sensitive profile fields are complete | Piter reviews and accepts the Terms, Privacy Policy, and Contractor Agreement before `Next`, then completes government-ID verification. |
 | P1 | Health insurance / billing | [Fall health-insurance enrollment or waiver](https://www.rochester.edu/uhs/primary-care/mandatory-health-fee/health-insurance-for-full-time-students/) | Annual online process is mandatory for full-time students; final deadline is **2026-09-15** | Piter decides whether to enroll or waive with eligible coverage and completes the secure UHS process before automatic enrollment and billing. |
 | P1 | Account continuity | Handshake personal email | Personal email was added | Verify it from the personal Gmail inbox. |
-| P1 | Job follow-up | Solu, Carney Sandoe, Stride, Cardinal Education, and Epic | Submitted, joined, or waiting as documented in the job pipeline; no unread employer reply was present on August 3 | Continue monitoring. Ampact is closed for Fall 2026 after the final remote-work boundary response. |
+| P1 | Job application | [Carney, Sandoe & Associates 2027-2028 Teaching Fellowship](https://app.joinhandshake.com/jobs/11080650) | Recruiter directed Piter to the listing; a targeted one-page teaching resume is attached to the live application | Review and click `Submit Application` during the August 4, 2:00 PM block; preserve the receipt. |
+| P1 | Job follow-up | Solu, Stride, Cardinal Education, and Epic | Submitted, joined, or waiting as documented in the job pipeline; no unread employer reply was present on August 3 | Continue monitoring. Ampact and the current Brains & Motion role are closed for Fall 2026 after remote-work boundary responses. |
 | P1 | Career event | [NYS ITS virtual information session](https://rochester.joinhandshake.com/stu/events/1963665) | Registered for **2026-07-28, 10:00-10:30 AM EDT** | Join through Handshake five minutes early and note relevant public-service data/AI roles. |
 | P2 | Research event | Applied genomics seminar | Genomic biomarkers of aging seminar is **2026-07-27, noon-1:00 PM**, Wegmans Hall 1005 | Optional: attend only if it supports the bioinformatics/research path. No registration action was stated. |
 | P2 | Research funding | Survivorship Symposium abstract | Cancer-survivorship abstracts are due **2026-08-19** for the 2026-10-09 symposium | Apply only if there is a defensible existing cancer-survivorship project; otherwise close. |
 | P2 | Technical access | Google Cloud changes | BigQuery transfer-label change is due **2026-08-11** if affected scripts exist; Cloud Console 2-step verification is due **2026-10-20** | Audit active Cloud scripts for legacy label filters, then complete 2-step verification through the secure account before October. |
 | P2 | Funding event | HESC graduate-school funding event | Event announced for **2026-08-18 at 6:00 PM** | Confirm whether registration is still open during the UofR refresh and register if useful. |
 | Closed | Fellowship information | [NSF Graduate Research Fellowship](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf25-547/solicitation) | Shared recording opened August 3; current official graduate-status rule checked | Ineligible because the program is limited to the first year of a first graduate degree; no application or future-PhD carryover. |
-| Closed | Professional development | IBM Dev Day: Bob in Action + Hackathon | Thursday daytime event conflicts with class | Registration and calendar hold closed July 28. |
-| P1 | Thesis support | Graduate-student academic writing retreat | Registered for August 5-7, noon-4:00 PM, Rush Rhees Library | Attend Wednesday and Friday; the Thursday block was removed because of class. |
+| P2 | Professional development | IBM Dev Day: Bob in Action + Hackathon | The previous blanket Thursday class-conflict reason is no longer current | Verify that registration remains open and check the live August 27 calendar before reopening. |
+| P1 | Thesis support | Graduate-student academic writing retreat | Registered for August 5-7, noon-4:00 PM, Rush Rhees Library | Attend Wednesday and Friday. Thursday is no longer excluded by an in-person class, but it currently overlaps fellowship preparation/advising and should not be restored without a deliberate partial-attendance plan. |
 | Closed | Teaching job | Handshake in-person teaching contact | Employer confirmed that it hires only in person | Revisit only after December if relocation and the role still fit. |
 
 ## Personal Account
 
 | Priority | Category | Item | Current status | Next action |
 | --- | --- | --- | --- | --- |
-| P0 | Paid consulting | Guidepoint data-quality consultation | Remote 45-60 minute consultation; follow-up sent 2026-07-27; rate and acceptance are not committed | Check once on 2026-08-03. Review scope, compliance, and conflicts before proceeding. |
+| Closed | Paid consulting | Guidepoint data-quality consultation | Client closed the project after selecting other experts | Thank-you and future-opportunity reply sent August 3; processed thread marked read and unstarred. No further action. |
 | P0 | Identity protection | New-account and address alerts | Multiple credit-report alerts arrived on 2026-07-24 | Verify each change directly with the official bureau or issuer today; dispute or freeze if unrecognized. |
 | P0 | Payment continuity | Returned bank transfer | A new ACH return notice arrived; private details are omitted | Reconcile the bank and biller, determine whether an automatic retry is pending, and avoid duplicate payment. |
 | P0 | Medical billing | Provider balance update | Secure account review is required; health and balance details are omitted | Validate insurance processing and the balance, then pay or request a formal plan through the patient portal. |

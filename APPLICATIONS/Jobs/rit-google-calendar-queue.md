@@ -11,11 +11,13 @@ Calendar permits them.
 
 ## Scheduling Rule
 
-- Avoid appointments, events, and work blocks on Tuesdays and Thursdays.
-- Use Thursday after **4:30 PM** only when Thursday is the sole option.
-- Keep fixed official deadlines on their true dates. When a deadline falls on
-  Tuesday or Thursday, schedule preparation or final review on an earlier
-  Monday, Wednesday, or Friday.
+- Prefer afternoons for elective meetings and focused work blocks, and allow
+  recovery time before high-stakes obligations.
+- Tuesdays and Thursdays are available again; check the live calendar for
+  remote classes and other obligations before accepting a time.
+- Prefer Zoom when it reduces travel or health burden.
+- Keep fixed official deadlines on their true dates and add an earlier
+  preparation or final-review block when needed.
 - Never schedule a critical appointment at the exact end of another obligation.
 - Reserve at least 30 minutes for same-campus travel and a separate 60-minute
   preparation block for high-stakes appointments.
@@ -33,13 +35,18 @@ Calendar permits them.
 | 2026-08-02, 3:30-7:00 PM | URGENT: Finish Fellowship Forms | Saved on UofR calendar; RIT invitation sent | Complete both [fellowship intake forms](../Fellowships/2026-08-02-fellowship-recovery.md); 30-minute and 10-minute alerts |
 | 2026-08-03, 7:30-9:00 AM | DEADLINE 9 AM: Fellowship Forms + Juliet Follow-Up | Saved on UofR calendar; RIT invitation sent | Final check, submit both forms, preserve receipts, then send recovery reply; 12-hour, 2-hour, and 30-minute alerts |
 | 2026-08-03, 10:00-10:45 AM | REVIEW: Career Application Responses | Saved on UofR calendar; RIT invitation sent | Check Guidepoint, VDart, Health Data Max, Tech Rise, Recovery Audit Solutions, and Handshake only after fellowship receipts and follow-up are complete; 1-hour, 30-minute, and 10-minute alerts |
-| 2026-08-03, 11:00-11:20 AM | FINAL REVIEW + SUBMIT: Jobot Senior AI/ML Engineer | Synced to primary RIT calendar | Prefilled application and targeted resume are ready; review the communications/privacy notice and click `Apply Now` only if accepted; 1-hour and 10-minute alerts |
+| 2026-08-03, 6:30-6:50 PM | FINAL REVIEW + SUBMIT: Jobot Senior AI/ML Engineer | Moved from missed morning block; synced | Prefilled application and targeted resume are ready; review the communications/privacy notice and click `Apply Now` only if accepted; 30-minute and 10-minute alerts |
 
 ## August and Later
 
 | Date and time (EDT) | Calendar title | Status | Source / action |
 | --- | --- | --- | --- |
+| 2026-08-04, 2:00-2:25 PM | REVIEW: Carney application + Teaching Retreat registration | Synced | Verify and submit the prepared [Carney application](https://app.joinhandshake.com/jobs/11080650), then answer the [Teaching Retreat](https://rochester.joinhandshake.com/stu/events/1956131/attendees/new) dietary/special-food question; 30-minute and 10-minute alerts |
 | 2026-08-05, 12:00-4:00 PM | UofR Graduate Writing Retreat - Day 1 | Registered; RIT invitation accepted | Bring the RIT data-science thesis/manuscript; 1-day, 1-hour, and 10-minute alerts |
+| 2026-08-06, 12:00-1:00 PM | PREP: Fellowship advising appointment | Synced | Prepare only verified award requirements, deadlines, and Puzzle Plan fit; tentative 1:15 PM Zoom appointment pending confirmation |
+| 2026-08-06, 1:15-2:00 PM | TENTATIVE: UofR fellowship advising (Zoom) | Synced; awaiting office confirmation | Zoom requested to reduce travel and health burden; update the title and add the meeting link after confirmation |
+| 2026-08-06, 5:30-6:00 PM | PREP: New York Tech Computer Science Ph.D. information session | Synced | Prepare assistantship-funding, faculty-fit, research, deadline, and application questions for the [Computer Science Ph.D.](https://www.nyit.edu/academics/degrees/computer-science-phd/) |
+| 2026-08-06, 6:00-7:00 PM | New York Tech Virtual Graduate Information Session | Registered; synced | Registration confirmed for Computer Science Ph.D., New York City, Fall 2027; one-day, one-hour, and ten-minute alerts |
 | 2026-08-07, 7:45-9:00 AM | PREP + TRAVEL: Financial Aid Appointment | RIT invitation accepted | Prepare visible student ID, review the verification email, travel to Wallis Hall, and arrive before 9:00 AM; 1-day, 2-hour, 30-minute, and 10-minute alerts |
 | 2026-08-07, 9:00-9:15 AM | In-person identity verification appointment for 2026-27 aid | Official invitation accepted; alerts strengthened | Wallis Hall; arrive early with visible student ID; one-day, two-hour, and ten-minute alerts |
 | 2026-08-07, 10:00-11:00 AM | DEADLINE WORK BLOCK: LearningMate SME | Removed from both calendars after verified submission | Application was submitted and receipt-confirmed on August 3; no obsolete work block remains |
@@ -82,7 +89,15 @@ Calendar permits them.
   schedule, not as a workable transition.
 - [x] Strengthened the August 7 financial-aid appointment reminders to one day,
   two hours, and ten minutes.
-- [x] Added the August 3 Jobot final review with one-hour and ten-minute alerts.
+- [x] Moved the missed August 3 Jobot review to 6:30 PM and replaced its stale
+  alerts with 30-minute and 10-minute reminders.
+- [x] Added the August 4 afternoon Carney/Teaching Retreat review with direct
+  links and 30-minute and 10-minute reminders.
+- [x] Added the August 6 fellowship preparation and tentative Zoom holds after
+  checking the live calendar; the appointment still awaits office confirmation.
+- [x] Registered for the August 6 New York Tech virtual graduate session and
+  added both the 5:30 PM preparation block and 6:00 PM event with layered
+  reminders.
 - [x] Added the August 10 FTE/aid/bill escalation and Diverse Lynx follow-up,
   each with source context and multiple alerts.
 - [x] Added the August 12 GitHub security review and RIT general-permit action;

@@ -6,11 +6,11 @@ This public-safe carryover list includes the July 31 UofR/Handshake pass. Privat
 balances, identity data, health information, reference contact details, and
 legal-form answers stay in their secure systems.
 
-Scheduling rule: do not place meetings, events, or work blocks on Tuesdays or
-Thursdays. Thursday after 4:30 PM is a fallback only when Thursday is the sole
-option. Fixed deadlines may remain on those dates, with preparation completed
-earlier. High-stakes appointments also require a separate 60-minute preparation
-block, at least 30 minutes of same-campus travel time, and multiple alerts.
+Scheduling rule: prefer afternoons and Zoom when possible. Tuesday and Thursday
+are available again, but every proposed time must be checked against the live
+calendar. High-stakes appointments require a separate 60-minute preparation
+block, at least 30 minutes of same-campus travel time when applicable, recovery
+time, and multiple alerts.
 
 ## Daily Plan
 
@@ -42,11 +42,14 @@ block, at least 30 minutes of same-campus travel time, and multiple alerts.
 - [x] Moved the flexible career-response review to 10:00-10:45 AM, leaving a
   full hour after the fellowship deadline block. Added one-hour,
   thirty-minute, and ten-minute alerts and sent an RIT calendar invitation.
-- [ ] Check the UofR Fellowships Office for the earliest viable meeting time.
-  Accept only after checking every calendar and reserving preparation plus
-  travel buffers.
-- [ ] Check Guidepoint after the July 27 follow-up and VDart after its confirmed
-  July 23 screening reply; close either lead if there is no substantive answer.
+- [x] Checked the UofR Fellowships Office, both live calendars, and the updated
+  class schedule. Accepted the offered **Thursday, August 6 at 1:15 PM** time,
+  requested Zoom, and added a 12:00 PM preparation block plus a tentative hold.
+  Await the office confirmation and meeting link.
+- [x] Checked Guidepoint and VDart. Guidepoint closed the project; sent thanks
+  and requested future aligned consultations, then unstarred the processed
+  thread. VDart has not replied; do not duplicate the screening message or
+  send a resume. Make one final status check August 10.
 - [x] GitHub Support restored `DBSCAN`, `GAPP`, `Mobile-Detect`,
   `hello-express`, and `lodge-website`; all five remotes were verified live and
   Support received a thank-you reply. The restoration thread can close, but the
@@ -65,16 +68,24 @@ block, at least 30 minutes of same-campus travel time, and multiple alerts.
 - [x] Prefilled all documented non-sensitive Handshake AI and HHS registration
   fields. Keep the legal-agreement, identity, self-identification, citizenship,
   and final-submission decisions with Piter.
-- [x] Asked the Teaching Retreat organizer whether Monday-only attendance is
-  permitted because Tuesday conflicts with class.
+- [x] Received approval for full Monday-only Teaching Retreat attendance and
+  filled the registration through the dietary/special-food question. Piter
+  answers that health-sensitive field during the August 4 review.
 - [x] Verified that all parties finished the RIT FTE agreement on July 29 and
   sent RIT Aid and the program contact an August 3 confirmation/escalation
   request. Review again August 10 if Registrar processing or aid is still not
   confirmed.
-- [ ] At **11:00-11:20 AM**, review the prefilled Jobot Senior AI/ML Engineer
+- [ ] At **6:30-6:50 PM**, review the prefilled Jobot Senior AI/ML Engineer
   application. The targeted resume is attached and `No` is selected for SMS;
   read the communications/privacy notice, click `Apply Now` only if accepted,
-  and preserve the receipt.
+  and preserve the receipt. The missed morning block was moved to the evening
+  with 30-minute and 10-minute alerts.
+- [x] Registered for New York Tech's August 6 Virtual Graduate Information
+  Session using the Computer Science Ph.D., New York City, Fall 2027 selections.
+  Added the session and a separate preparation block to the RIT calendar.
+- [x] Prepared the Carney, Sandoe & Associates 2027-2028 Teaching Fellowship
+  application with a newly targeted one-page teaching resume. Final review and
+  submission are protected in the August 4 afternoon block.
 - [x] Sent one grouped Diverse Lynx screening reply for three remote AI roles;
   no resume was sent. Check once on August 10.
 - [x] Closed the Uppsala precision-medicine PhD as an institution-canceled
@@ -83,8 +94,10 @@ block, at least 30 minutes of same-campus travel time, and multiple alerts.
 
 ### Tuesday, August 4
 
-- [x] No scheduled career, fellowship, or application activity. Keep the day
-  clear for class; handle only a genuinely time-sensitive inbound message.
+- [ ] At **2:00-2:25 PM**, review and submit the prepared Carney Teaching
+  Fellowship application, then answer the Teaching Retreat dietary/special-food
+  question. Both direct links and 30-minute and 10-minute alerts are in the RIT
+  calendar event.
 
 ### Wednesday, August 5
 
@@ -96,14 +109,20 @@ block, at least 30 minutes of same-campus travel time, and multiple alerts.
   Registrar and RIT Aid have processed it before the August 15 bill.
 - [ ] Verify the already-submitted Solu application before its Thursday
   deadline; no Thursday work block is needed.
-- [ ] Follow up once on the Teaching Retreat Monday-only request if the
-  organizer has not replied. Register and calendar Monday only if approved.
+- [ ] After the Tuesday dietary answer, preserve the Teaching Retreat receipt,
+  calendar the Monday program, and thank the organizer. No follow-up request is
+  needed because Monday-only attendance is already approved.
 
 ### Thursday, August 6
 
-- [x] No scheduled career, fellowship, or writing-retreat activity. The
-  official Solu deadline remains 11:59 PM, but the application is already
-  submitted and was checked Wednesday.
+- [ ] At **12:00-1:00 PM**, complete the protected fellowship advising
+  preparation. At **1:15-2:00 PM**, attend by Zoom if the office confirms the
+  tentative appointment and sends the link.
+- [ ] At **5:30-6:00 PM**, prepare funding, faculty-fit, research, deadline, and
+  application questions for New York Tech. Attend the registered virtual
+  graduate session from **6:00-7:00 PM**.
+- [x] The official Solu deadline remains 11:59 PM, but the application is
+  already submitted; no deadline work block is needed.
 
 ### Friday, August 7
 
@@ -130,7 +149,8 @@ block, at least 30 minutes of same-campus travel time, and multiple alerts.
 
 ## Watch Every Day
 
-- **RIT:** FTE/Registrar and aid response, VDart, Diverse Lynx, and the Jobot
+- **RIT:** FTE/Registrar and aid response, VDart, Diverse Lynx, New York Tech,
+  and the Jobot
   final handoff. GitHub restoration is complete; the implicated
   `vm-repo-token` is expired and must not be replaced until the responsible
   Python process is identified. Carman and recommender acknowledgments are
@@ -138,8 +158,9 @@ block, at least 30 minutes of same-campus travel time, and multiple alerts.
 - **UofR:** Fulbright follow-up, Health Data Max, LearningMate, Tech Rise,
   Recovery Audit Solutions, HHS registration, financial aid, teaching
   certification, and employer replies.
-- **Personal:** Guidepoint, official-account payment retries, credit alerts,
-  medical statement, utility continuity, and the August 22 statement.
+- **Personal:** Guidepoint is closed and needs no further action. Continue the
+  official-account payment retries, credit alerts, medical statement, utility
+  continuity, and the August 22 statement.
 - **MLADIS:** August 2 guest operations, payout reconciliation, and business
   subscription billing.
 
