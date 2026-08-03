@@ -377,6 +377,21 @@ some users worse service. Current simulations test whether a fairness-aware
 decision step can reduce those gaps while preserving useful performance, and I
 am continuing the evaluation across additional clinical and quantum scenarios.
 
+This thesis is one technical component of my broader Puzzle Plan and EQUITAS
+research agenda, which also includes my University of Rochester M.S. work in
+disability inclusion, learner agency, and computer-science education. The Puzzle
+Plan connects engineering, artificial intelligence, bioinformatics, lived
+experience, disability inclusion, and education as parts of the same research
+direction. EQUITAS, or Equity-Quantified Integrated Trauma-Aware Systems, is the
+fairness-aware framework I use to examine decisions made with incomplete or
+uneven evidence. The thesis asks whether the same decision framework can help in
+two apparently different systems: clinical diagnosis and quantum-network
+routing. Both must allocate scarce resources under uncertainty, and both can
+produce repeated disadvantage when some groups or network flows have weaker
+information. By testing the same evaluation logic across domains, I am trying to
+identify which fairness principles transfer and which must remain specific to
+the people, risks, and resources involved.
+
 **Sources:** [public thesis draft](https://github.com/pzg8794/DSCI601-Project_Proposal/blob/main/rough_draft_report/rough_draft_report.pdf),
 [final-proposal source](https://github.com/pzg8794/DSCI601-Project_Proposal_Final/blob/main/main.tex),
 [research-index entry](../../MASTER_RESEARCH_INDEX.md).
