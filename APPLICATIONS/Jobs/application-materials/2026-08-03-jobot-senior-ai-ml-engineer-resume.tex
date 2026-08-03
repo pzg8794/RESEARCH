@@ -1,0 +1,128 @@
+\documentclass[10pt,letterpaper]{article}
+
+\usepackage[margin=0.44in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{tabularx}
+\usepackage[hidelinks]{hyperref}
+\usepackage{titlesec}
+\usepackage{microtype}
+
+\definecolor{accent}{HTML}{145A78}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\setlist[itemize]{leftmargin=1.15em,itemsep=0.45pt,topsep=1pt,parsep=0pt}
+\titleformat{\section}{\large\bfseries\color{accent}}{}{0pt}{}[\vspace{-2pt}\titlerule]
+\titlespacing*{\section}{0pt}{3.5pt}{1.5pt}
+\pagestyle{empty}
+
+\newcommand{\role}[4]{%
+  \textbf{#1}\hfill #2\\
+  \textit{#3}\hfill \textit{#4}\vspace{-3pt}
+}
+
+\begin{document}
+\fontsize{8.8}{10.1}\selectfont
+
+\begin{center}
+  {\Large\bfseries Piter Garcia}\\[1pt]
+  {\large Applied AI and Machine Learning Engineer}\\[2pt]
+  Rochester, NY \enspace|\enspace Remote now; open to relocation after December 2026\\
+  \href{mailto:pzg8794@rit.edu}{pzg8794@rit.edu}
+  \enspace|\enspace +1 (646) 288-3300
+  \enspace|\enspace \href{https://linkedin.com/in/garciapiterz}{linkedin.com/in/garciapiterz}\\
+  \href{https://github.com/pzg8794}{github.com/pzg8794}
+  \enspace|\enspace \href{https://garciapiterz.com}{garciapiterz.com}
+\end{center}
+
+\section*{Summary}
+Applied AI and data systems engineer with more than five years across healthcare
+technology, machine learning, production data workflows, and graduate AI
+research. Build Python-based evaluation infrastructure, validation workflows,
+and decision systems that operate under incomplete or noisy feedback. Bring a
+software-engineering foundation in C\#, Java, APIs, cloud workflows, and
+reproducible delivery, with a record of translating research prototypes into
+maintainable technical systems and clear evidence for collaborators.
+
+\section*{Technical Skills}
+\begin{tabularx}{\textwidth}{@{}>{\bfseries}l X@{}}
+Programming & Python, C\#, Java, SQL, R, C++, JavaScript, Bash, MATLAB\\
+AI and ML & PyTorch, TensorFlow, Keras, scikit-learn, XGBoost, contextual and neural bandits, feature engineering, model evaluation\\
+Data Systems & pandas, NumPy, SciPy, data validation, structured logging, experiment tracking, reproducible pipelines\\
+Platforms & AWS, GCP, Docker, Git/GitHub, Linux/Unix, cloud-based research and production workflows\\
+Research & Sequential decision systems, fairness-aware ML, healthcare analytics, bioinformatics, quantum-network simulation\\
+\end{tabularx}
+
+\section*{Experience}
+\role{Graduate Assistant, Quantum and AI Research}{Fall 2025--Present}
+{Rochester Institute of Technology, Software Engineering}{Rochester, NY}
+\begin{itemize}
+  \item Build a Python multi-testbed framework for adaptive quantum routing and
+    qubit allocation using multi-armed, contextual, adversarial, and neural
+    bandit methods.
+  \item Design reusable feedback and evaluation workflows across stochastic and
+    adversarial environments, with automated validation, structured logging,
+    shared datasets, and comparison-ready experiment tracking.
+  \item Evaluate utility, latency, reliability, robustness, and group-level
+    outcomes, then translate results into benchmark analyses, technical reports,
+    and manuscript-ready evidence.
+\end{itemize}
+
+\role{Data Solutions Engineer}{Sep 2022--Aug 2024}
+{VEDADATA Inc.}{New York, NY}
+\begin{itemize}
+  \item Designed Python data pipelines and analytics workflows for production
+    applications, covering ingestion, cleaning, preprocessing, validation, and
+    downstream analytics readiness.
+  \item Built maintainable AWS workflows and quality checks that improved the
+    traceability, reliability, and usability of operational data systems.
+\end{itemize}
+
+\role{AI Data Solutions Engineer}{Jan 2021--Sep 2022}
+{VIOME Inc.}{New York, NY}
+\begin{itemize}
+  \item Developed Python machine-learning workflows for healthcare use cases,
+    including preprocessing, feature engineering, supervised experimentation,
+    evaluation, and deployment-oriented data preparation.
+  \item Worked across data, analytics, and implementation tasks supporting
+    applied AI systems in AWS-based environments.
+\end{itemize}
+
+\role{Computer and Data Science Consultant}{Mar 2017--Jan 2021}
+{Samasta Health Foundation}{Remote}
+\begin{itemize}
+  \item Advised mission-driven healthcare work on data, analytics, and
+    AI-oriented workflows, connecting technical design with practical use and
+    human impact.
+\end{itemize}
+
+\section*{Selected Applied Work}
+\textbf{Fairness-Aware Bandits for Quantum and Clinical Systems.}
+Develop a shared simulation and evaluation framework for allocating scarce
+resources when feedback is incomplete, delayed, noisy, or unevenly available.
+
+\textbf{Healthcare and Assistive AI.}
+Built healthcare prediction and fairness-evaluation workflows and previously
+integrated Kinect and Leap Motion sensing for sign-language recognition,
+including feature extraction, normalization, recording controls, and noisy-frame
+validation.
+
+\section*{Education}
+\textbf{M.S., Data Science}, Rochester Institute of Technology
+\hfill Expected December 2026\\
+GPA: 3.9+; applied AI, neural networks, bioinformatics, and reproducible data systems
+
+\textbf{M.S., Teaching Computer Science K--12}, University of Rochester
+\hfill Expected December 2026\\
+GPA: 3.9+; NSF Robert Noyce Scholar; disability and inclusive-practices leadership
+
+\textbf{M.S., Computer Science}, Rochester Institute of Technology
+\hfill 2015\\
+Artificial intelligence, big-data analytics, and computer graphics
+
+\textbf{B.S., Electrical Engineering Technology; B.S., Computer Engineering Technology},
+Farmingdale State College \hfill 2012
+
+\end{document}

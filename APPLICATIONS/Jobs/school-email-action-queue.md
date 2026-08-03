@@ -12,6 +12,7 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 - [MLADIS email log](./mladis-email-log.md)
 - [Next-week watchlist: July 26-August 1](./next-week-watchlist-2026-07-26.md)
 - [Next-week watchlist: August 2-8](./next-week-watchlist-2026-08-02.md)
+- [August 3 RIT opportunity and funding pass](./2026-08-03-rit-opportunity-pass.md)
 
 ## Queue Rules
 
@@ -66,11 +67,15 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
   sessions. [EDU486](https://github.com/pzg8794/EDU486) is active;
   `vm-repo-token` is expired; no extra web session or local DataScience script
   using that token was found.
-- [ ] **P0 - repository restoration:** GitHub Support must restore `DBSCAN`,
-  `GAPP`, `Mobile-Detect`, `hello-express`, and `lodge-website`. A factual
-  reply requesting support-side restoration was sent July 29. Keep ticket
-  `4592214` visible and do not recreate, overwrite, re-clone over, or delete
-  any repository.
+- [x] **Complete - repository restoration:** GitHub Support restored `DBSCAN`,
+  `GAPP`, `Mobile-Detect`, `hello-express`, and `lodge-website`. All five
+  remotes were verified live on August 3, and Support received a thank-you
+  reply. Do not recreate, overwrite, re-clone over, or delete any repository.
+- [ ] **P0 - repository security investigation:** Identify the external
+  `python-requests` process that used the expired `vm-repo-token`. Do not issue
+  a replacement token until that process is constrained; any replacement must
+  exclude repository-delete and administration permission. Review is
+  calendared for **2026-08-12, 9:00 AM**.
 - [ ] **P0 - UofR / financial aid:** Complete the graduate/professional Direct
   Loan Master Promissory Note and the required in-person identity
   verification. The newest notice no longer lists the Aid Enrollment Plan.
@@ -108,6 +113,11 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 - [ ] **P0 - Jobot:** Confirm transmission of contact information and the
   prepared resume, provide the correct ZIP code, select `No` for SMS, and
   submit the live Senior Data Scientist application.
+- [ ] **P0 - Jobot Senior AI/ML Engineer:** The live 100% remote application is
+  prefilled, `No` is selected for SMS, and the targeted one-page resume is
+  attached. Piter reviews the communications/privacy notice and clicks `Apply
+  Now` only if accepted. A final review is calendared for **2026-08-03,
+  11:00-11:20 AM**; preserve the receipt before marking submitted.
 - [x] **Complete - Handshake / LearningMate:** Submitted the prepared resume
   and cover letter on August 3. Handshake displayed `Application submitted!`
   and `Applied on August 3, 2026`. Monitor for an employer response and confirm
@@ -150,20 +160,22 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 
 | Priority | Category | Item | Current status | Next action |
 | --- | --- | --- | --- | --- |
-| P0 | Financial aid | Fall 2026 Full-Time Equivalency | Google Form submitted for three thesis credits; recorded-response confirmation received. Advisor is checking the fourth FTE request with program coordinators before sending the Registrar form. | Complete the Registrar form as soon as it arrives. Once approved, reply to RIT Aid immediately so aid and loans can update. |
+| P0 | Financial aid | Fall 2026 Full-Time Equivalency | Adobe Sign shows all parties finished the FTE agreement on July 29. A confirmation and escalation message was sent August 3 asking RIT Aid and the program contact to verify Registrar processing and update aid. | Keep visible until Registrar processing and the aid update are confirmed. Review and escalate on **August 10, 9:00 AM** if no substantive response. |
 | P0 | Billing | Fall 2026 statement | Statement issued; payment due **2026-08-15** while aid remains dependent on FTE | Recheck eServices after the registration freeze lifts and after FTE is approved. Escalate to RIT Aid before the due date if aid is still missing. |
 | P0 | State aid | 2026-27 NYS Student Aid Payment Application | HESC email says the application was denied | Log in to HESC, capture the denial reason, and determine the correction or appeal path. Keep starred until resolved. |
 | P0 | Federal grant | TEACH Grant update | StudentAid.gov sent an update on 2026-07-01; the email does not state the result | Log in to StudentAid.gov and review `My Activity`. Star the message until the required action is known and completed. |
 | P1 | Federal loan | Direct PLUS Loan application | Submission confirmation received 2026-06-30; RIT cannot apply additional aid or loans until full-time enrollment/FTE is confirmed | No separate application action. Monitor through the FTE and RIT Aid follow-up. |
 | P1 | Degree completion | Fall 2026 graduation application | RIT confirmed the application and stated that degree completion is on track if current courses are completed and the required GPA is maintained | Complete; recorded and unstarred on 2026-07-24. |
-| P2 | Campus logistics | 2026-27 parking permit | Reserved permits open 2026-08-10; general permits open **2026-08-12**. Local address must be current at least 24 hours before purchase, and the parking account must have a zero balance. | Decide whether a permit is needed. Keep starred only if a purchase is planned. |
+| P2 | Campus logistics | 2026-27 parking permit | Reserved permits open 2026-08-10; general permits open **2026-08-12**. Local address must be current at least 24 hours before purchase, the parking account must have a zero balance, and a license plate is required. | Readiness review is calendared for August 9 at 6:00 PM; general-permit purchase is calendared for August 12 at 10:00 AM. No official launch time was stated. |
 | Closed | Fellowship | [Carman International Fellowship](https://www.mosaicinfo.org/application/) | Misclassified using current requirements, older Carman descriptions, and the Luce placement model; reference corrections were sent July 29 | No application, eligibility inquiry, letter check, acknowledgment chase, reminder, or submission remains. |
 | P1 | Job | VDart Data Scientist | July 23 screening reply confirmed in Sent; no recruiter response | Check once on 2026-08-03. Do not send a duplicate message or resume without the requested work terms. |
 | P0 | Research | ICNP 2026 paper #330 | Rejected; authenticated reviews identify writing, novelty, algorithm-definition, physical-grounding, and evaluation-scale gaps | Preserve the review source, meet with coauthors, and retarget only after the gaps are addressed. |
-| P0 | Security | Repository deletion and implicated token | Ticket `4592214` remains open. EDU486 is active. Support-side restoration was requested July 29 for `DBSCAN`, `GAPP`, `Mobile-Detect`, `hello-express`, and `lodge-website`. The exact implicated `vm-repo-token` is expired, and no extra web session or matching local DataScience script was found. | Keep the Support ticket visible until all five repositories are restored and verified. Do not issue a replacement token until the responsible Python process is identified; any replacement must exclude repository-delete and administration permission. Follow [repository safety](../../REPOSITORY_SAFETY.md). |
+| P0 | Security | Repository deletion and implicated token | GitHub Support restored `DBSCAN`, `GAPP`, `Mobile-Detect`, `hello-express`, and `lodge-website`; all five remotes were verified and Support was thanked. The exact implicated `vm-repo-token` is expired, and no extra web session or matching local DataScience script was found. | Restoration is complete. Identify the responsible external Python process before issuing any replacement token; exclude repository-delete and administration permission. Review on August 12 and follow [repository safety](../../REPOSITORY_SAFETY.md). |
 | P0 | Job | [Onward Search Creative Project Manager](https://www.indeed.com/viewjob?jk=03b29d4ec5d73a0b) | Live remote AI/ML project-management contract at $45-$50/hour | Verify weekly hours and time zone, then prepare the project-management resume if compatible with Fall study. |
 | P0 | Job | [Jobot ML Solution Architect](https://jobot.com/details/ml-solution-architect/47904ae801) | Live remote role; strong fit but six-year requirement is a stretch | Prepare one architecture-focused resume, then obtain action-time confirmation before applying. |
-| P1 | Job | Diverse Lynx AI Platform Architect | Advertised remote/full-time, but client and work terms are unverified | Screen client, authorization, hours/time zone, travel, stack, benefits, and interview process before sending a resume. |
+| P1 | Job | Diverse Lynx remote AI roles | One grouped screening reply was sent August 3 for the Senior .NET/Python/AI, AI Engineer/.NET, and AI Platform Architect roles; no resume was sent | Check once on August 10 for client, schedule, start date, authorization/sponsorship, travel/onsite, and interview details. The Irving hybrid role is closed through December. |
+| Closed | PhD / research | Uppsala ML for Precision Medicine and Diagnostics | Uppsala University canceled recruitment `UFV-PA 2026/1408` on July 27 | Institution-level cancellation, not applicant rejection; no appeal or follow-up remains. |
+| Closed | Project funding | MAGIC Maker Fall 2026 | Official application deadline was July 10 at 11:59 PM; no submission receipt was found | Record as missed/closed. Revisit only when a new official cycle opens. |
 
 ## University of Rochester
 
@@ -226,6 +238,12 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 
 ## Completed in This Pass
 
+- [x] August 3 RIT continuation: verified the fully signed FTE and sent the aid
+  escalation; verified five GitHub restorations and thanked Support; sent one
+  Diverse Lynx screening reply covering three remote AI roles; closed the
+  institution-canceled Uppsala recruitment and missed MAGIC Maker cycle;
+  verified parking requirements; prepared the Jobot Senior AI/ML Engineer form
+  through resume attachment; and added the corresponding RIT calendar reviews.
 - [x] August 3 UofR/Handshake continuation: submitted LearningMate; sent the
   Recovery Audit availability note; closed Ampact after a final boundary
   response; prefilled the documented Handshake AI and HHS fields; corrected

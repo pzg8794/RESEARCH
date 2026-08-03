@@ -41,16 +41,22 @@ a repository and preserve it.
 
 ## Open Safety Incidents
 
-Last checked: 2026-07-25
+Last checked: 2026-08-03
 
-- GitHub Support ticket `4592214` remains open for repeated repository
-  deletions and restoration. The support update and deleted-repositories page
-  are unresolved handoffs; no repository was deleted, restored, replaced, or
-  re-cloned during the email-review pass.
+- GitHub Support ticket `4592214` restored `DBSCAN`, `GAPP`, `Mobile-Detect`,
+  `hello-express`, and `lodge-website`. All five remotes were verified live on
+  2026-08-03, and Support received a thank-you reply. No repository was
+  deleted, replaced, recreated, or re-cloned during the recovery pass.
 - GitHub reported that a personal access token found in a commit was revoked.
   The token value must never be copied into this repository. Identify the
   affected repository, audit history and dependent integrations for remaining
   exposure, and rotate only the integrations that actually depended on it.
+- GitHub identified the expired fine-grained `vm-repo-token` as the credential
+  used by an external `python-requests` process during the deletion events. A
+  local DataScience scan and GitHub web-session review did not identify that
+  process. Do not regenerate the token until the process is found and
+  constrained; any replacement must exclude repository-delete and
+  administration permission.
 - Until the incident is resolved, every automation and agent must treat Git
   cleanup, repository removal, remote deletion, `.git` replacement, and
   re-cloning over an existing path as forbidden.

@@ -47,10 +47,10 @@ block, at least 30 minutes of same-campus travel time, and multiple alerts.
   travel buffers.
 - [ ] Check Guidepoint after the July 27 follow-up and VDart after its confirmed
   July 23 screening reply; close either lead if there is no substantive answer.
-- [ ] Check GitHub Support ticket `4592214` for restoration of `DBSCAN`,
-  `GAPP`, `Mobile-Detect`, `hello-express`, and `lodge-website`. Verify each
-  remote before closing the ticket; do not recreate or re-clone over a
-  repository while Support is restoring it.
+- [x] GitHub Support restored `DBSCAN`, `GAPP`, `Mobile-Detect`,
+  `hello-express`, and `lodge-website`; all five remotes were verified live and
+  Support received a thank-you reply. The restoration thread can close, but the
+  external deletion-process investigation remains calendared for August 12.
 - [x] Checked Handshake for Health Data Max, Solu, LearningMate, Handshake AI,
   Carney Sandoe, Stride, Cardinal Education, Epic, and Ampact responses. No
   unread employer reply required a new response.
@@ -67,7 +67,19 @@ block, at least 30 minutes of same-campus travel time, and multiple alerts.
   and final-submission decisions with Piter.
 - [x] Asked the Teaching Retreat organizer whether Monday-only attendance is
   permitted because Tuesday conflicts with class.
-- [ ] Complete the RIT Registrar FTE form immediately if it arrives.
+- [x] Verified that all parties finished the RIT FTE agreement on July 29 and
+  sent RIT Aid and the program contact an August 3 confirmation/escalation
+  request. Review again August 10 if Registrar processing or aid is still not
+  confirmed.
+- [ ] At **11:00-11:20 AM**, review the prefilled Jobot Senior AI/ML Engineer
+  application. The targeted resume is attached and `No` is selected for SMS;
+  read the communications/privacy notice, click `Apply Now` only if accepted,
+  and preserve the receipt.
+- [x] Sent one grouped Diverse Lynx screening reply for three remote AI roles;
+  no resume was sent. Check once on August 10.
+- [x] Closed the Uppsala precision-medicine PhD as an institution-canceled
+  recruitment, not an applicant rejection, and closed MAGIC Maker as a missed
+  July 10 funding window.
 
 ### Tuesday, August 4
 
@@ -80,7 +92,8 @@ block, at least 30 minutes of same-campus travel time, and multiple alerts.
   noon-4:00 PM block for the thesis. The event has one-day, one-hour, and
   ten-minute alerts and an RIT calendar invitation.
 - [ ] Recheck RIT aid, Fall billing, HESC, and TEACH Grant dependencies through
-  their official accounts.
+  their official accounts. The FTE agreement is fully signed; confirm that the
+  Registrar and RIT Aid have processed it before the August 15 bill.
 - [ ] Verify the already-submitted Solu application before its Thursday
   deadline; no Thursday work block is needed.
 - [ ] Follow up once on the Teaching Retreat Monday-only request if the
@@ -117,10 +130,11 @@ block, at least 30 minutes of same-campus travel time, and multiple alerts.
 
 ## Watch Every Day
 
-- **RIT:** FTE/Registrar response, VDart, and GitHub Support ticket `4592214`.
-  The implicated `vm-repo-token` is expired; do not replace it until the
-  responsible Python process is identified. Carman and recommender
-  acknowledgments are closed.
+- **RIT:** FTE/Registrar and aid response, VDart, Diverse Lynx, and the Jobot
+  final handoff. GitHub restoration is complete; the implicated
+  `vm-repo-token` is expired and must not be replaced until the responsible
+  Python process is identified. Carman and recommender acknowledgments are
+  closed.
 - **UofR:** Fulbright follow-up, Health Data Max, LearningMate, Tech Rise,
   Recovery Audit Solutions, HHS registration, financial aid, teaching
   certification, and employer replies.
@@ -131,6 +145,14 @@ block, at least 30 minutes of same-campus travel time, and multiple alerts.
 
 ## Later Deadlines Already Known
 
+- **August 9, 6:00 PM:** Verify RIT parking address, account balance, permit
+  need, and license plate before sales open.
+- **August 10, 9:00 AM:** Review and escalate the FTE, aid, and Fall bill if no
+  substantive confirmation has arrived.
+- **August 10, 10:15 AM:** Check once for a Diverse Lynx response.
+- **August 12, 9:00 AM:** Investigate the external GitHub deletion process.
+- **August 12, 10:00 AM:** Purchase a general RIT parking permit if needed; the
+  official email did not state a launch time.
 - **August 15:** RIT Fall 2026 statement due; aid still depends on FTE.
 - **August 16 at 11:59 PM:** Health Data Max official deadline.
 - **August 19:** survivorship symposium abstract, only with a genuine project.

@@ -1,6 +1,10 @@
-# 01 - Uppsala Precision Medicine (Submitted)
+# 01 - Uppsala Precision Medicine (Institution Canceled Recruitment)
 
 Role: https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=930689
+
+Final status: submitted before the deadline; Uppsala University canceled
+recruitment `UFV-PA 2026/1408` on 2026-07-27. This is an institution-level
+cancellation, not an applicant rejection. No appeal or follow-up remains.
 
 ## Included artifacts
 

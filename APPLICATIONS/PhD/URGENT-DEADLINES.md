@@ -1,6 +1,6 @@
 # Urgent Deadlines — Quick Reference
 
-Last updated: 2026-06-04  
+Last updated: 2026-08-03
 Full tracker: [DEADLINE-TRACKER.md](./DEADLINE-TRACKER.md)
 
 This file is the **1-page view** of everything due in the next 30–60 days. Update status after each submission.
@@ -13,7 +13,7 @@ No unsubmitted high-fit PhD packet is currently documented as still needing firs
 
 | Deadline | Country | Opportunity | What you need | Status |
 |----------|---------|-------------|--------------|--------|
-| Jun 1 | 🇸🇪 Sweden | [Uppsala PhD: ML for Precision Medicine & Diagnostics](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=930689) | CV, transcripts, personal letter (1 page), writing sample, 2 reference contacts | Submitted; no immediate portal action |
+| Jun 1 | 🇸🇪 Sweden | [Uppsala PhD: ML for Precision Medicine & Diagnostics](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=930689) | CV, transcripts, personal letter (1 page), writing sample, 2 reference contacts | Closed: institution canceled recruitment `UFV-PA 2026/1408` on Jul 27; not an applicant rejection; no appeal or follow-up |
 | Jun 3 | 🇸🇪 Sweden | [KTH PhD: AI/ML for Single-Cell Cancer Data](https://www.kth.se/lediga-jobb/927967?l=en) | CV, application letter (2 pages), diplomas/grades, language proof, publications/technical report | Submitted; no immediate portal action |
 | **Jun 8** | 🇸🇪 Sweden | [KTH PhD: ML for Reliable Quantum Computing](https://www.kth.se/lediga-jobb/919576?l=en) | CV, application letter (2 pages), diplomas/grades, language proof, publications/technical report | Submitted/re-submitted; optional final portal sanity check by Jun 7 |
 | Jun 8 | 🇳🇴 Norway | [UiO Postdoctoral Fellows in Special Needs Education, Education, Educational Psychology and Psychology](https://www.jobbnorge.no/en/available-jobs/job/299662/postdoctoral-fellows-in-special-needs-education-education-educational-psychology-and-psychology) | Postdoc-level application | Low fit / postdoc-only; skip unless specifically desired |

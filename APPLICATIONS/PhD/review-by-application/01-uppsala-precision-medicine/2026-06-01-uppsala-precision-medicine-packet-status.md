@@ -1,8 +1,22 @@
 # Uppsala Precision Medicine Packet Status
 
-Updated: 2026-05-28 (final QA pass + writing-sample quality lock)
+Updated: 2026-08-03 (institution canceled recruitment)
 
 This note is the current public-safe snapshot of the June 1 Uppsala packet.
+
+## Final outcome
+
+- Application status before closure: submitted and portal-verified.
+- On 2026-07-27, Uppsala University notified applicants that it would not
+  continue recruitment `UFV-PA 2026/1408`, PhD Position in Computerised Image
+  Processing with focus on Machine Learning for Data-Driven Precision Medicine
+  and Diagnostics.
+- Classification: **closed - institution canceled recruitment**. This is not
+  an applicant rejection.
+- The notice states that the decision cannot be appealed. No portal action,
+  reply, appeal, or reminder remains.
+- The authenticated Varbi message URL contains an access code and is
+  intentionally not copied into this public repository.
 
 ## Current packet lock
 
