@@ -303,11 +303,17 @@ people affected by them.
 **Working response to evaluate:**
 
 I previously completed an M.S. in Computer Science at Rochester Institute of
-Technology in 2015. I am now completing an M.S. in Data Science at RIT and an
-M.S. in Teaching Computer Science K-12 at the University of Rochester, both
-expected in December 2026. These current programs are the center of my graduate
-work because they allow me to connect equitable artificial-intelligence
-research with inclusive computer-science education.
+Technology in 2015, focusing on artificial intelligence, big-data analytics,
+and computer graphics. My graduate work included *Big Data Medical Diagnosis*,
+which compared data-mining approaches for diagnostic classification and
+examined how large-scale data could support healthcare decisions. I also
+developed a project integrating Kinect and Leap Motion sensors for sign-
+language recognition through computer vision and multimodal sensing. I am now
+completing an M.S. in Data Science at RIT and an M.S. in Teaching Computer
+Science K-12 at the University of Rochester, both expected in December 2026.
+These current programs are the center of my graduate work because they allow me
+to connect equitable artificial-intelligence research with inclusive computer-
+science education.
 
 My RIT Data Science thesis, *Fairness-Aware Bandits for Network Routing in
 Quantum and Clinical Settings*, examines how artificial-intelligence systems
@@ -316,9 +322,9 @@ noisy, or unevenly available across groups. I developed a shared simulation and
 evaluation framework that compares non-contextual, contextual, and fairness-
 mediated bandit policies in quantum-network routing and clinical decision
 settings. I evaluate utility, reliability, latency, and group-level disparities.
-Preliminary results suggest that fairness mediation can improve group-level
-outcomes while preserving useful system performance; these findings remain
-under validation.
+Current simulation results indicate that fairness mediation improves group-
+level outcomes while preserving useful system performance, and I am continuing
+to validate these results across scenarios.
 
 My University of Rochester Teaching Computer Science K-12 program focuses on
 how disability, neurodivergence, communication access, and learner agency shape
@@ -328,15 +334,14 @@ for high-need schools, I examine how multiple ways of accessing instruction,
 communicating, and demonstrating knowledge can preserve technical rigor while
 expanding participation.
 
-I connect both degrees through the Puzzle Plan, my interdisciplinary framework
-for joining engineering, artificial intelligence, bioinformatics, disability
-inclusion, lived experience, and computer-science education, and through
-EQUITAS, or Equity-Quantified Integrated Trauma-Aware Systems, my fairness-aware
-framework for evaluating decisions under incomplete or uneven evidence. Their
-shared purpose is to develop computational systems and learning environments
-that recognize the evidence people bring, identify who may be missed, and
-provide support before people are dismissed. Both degrees remain in progress,
-so I treat the research findings and teaching conclusions as provisional.
+I connect my current degrees through the Puzzle Plan, my interdisciplinary
+framework for joining engineering, artificial intelligence, bioinformatics,
+disability inclusion, lived experience, and computer-science education. I also
+use EQUITAS, or Equity-Quantified Integrated Trauma-Aware Systems, as a fairness-
+aware framework for evaluating decisions under incomplete or uneven evidence.
+Their shared purpose is to develop computational systems and learning
+environments that recognize the evidence people bring, identify who may be
+missed, and provide support before people are dismissed.
 
 **Sources:** [public thesis draft](https://github.com/pzg8794/DSCI601-Project_Proposal/blob/main/rough_draft_report/rough_draft_report.pdf),
 [research index](../../MASTER_RESEARCH_INDEX.md), and current RIT/UofR degree
