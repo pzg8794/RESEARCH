@@ -57,3 +57,24 @@ LearningMate work block was removed after the application receipt was verified.
 - FAOnline and other secure financial-aid account actions.
 
 No secure handoff is recorded as complete without a visible receipt.
+
+## Mailbox Cleanup Receipt
+
+After the actions, calendar entries, and repository records above were
+verified, the following resolved messages were marked read, unstarred, and
+archived as applicable:
+
+- GitHub Support restoration confirmation and completed ticket thread.
+- Uppsala application receipts and institution-cancellation notice.
+- MAGIC Maker closed-cycle notice.
+- RIT parking notice, which remains represented by the August 9 and August 12
+  calendar actions.
+- Carman reference-request correction threads with Travis, Daniel, and Zenon.
+- ICNP 2026 submission `330` decision notices.
+- Expired August 2 and August 3 fellowship-work calendar invitations.
+- The Diverse Lynx hybrid Irving alert and the two remote source alerts already
+  covered by the grouped screening reply.
+
+The active Diverse Lynx reply, FTE/aid follow-up, Jobot application alert, and
+secure financial-aid or identity-verification threads remain visible until a
+reply, submission receipt, or account confirmation closes them.
