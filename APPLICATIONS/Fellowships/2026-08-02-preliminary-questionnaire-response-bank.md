@@ -110,12 +110,39 @@ to judge; neither was deleted.
 
 ### Undergraduate Internships or Professional Development
 
-No separate undergraduate internship is documented. College-era professional
-development is documented through the Engineering Group, STEP/CSTEP project
-development, the Latin American Student Organization, and IEEE participation
-from 2009 to 2012. A prior self-authored statement also records working
-multiple jobs while completing the dual degree but does not name employers or
-supervisors; that alternate is retained and status-labeled privately.
+**Working response to evaluate:**
+
+During my undergraduate degree, I secured a non-research engineering
+internship/job at Data Device Corporation (DDC) in Bohemia, New York. I joined
+as a Computer & Electrical Engineer I in 2011 while completing my dual Bachelor
+of Science degrees at Farmingdale State College. I performed circuit analysis
+and testing, documented test results and engineering processes, reviewed
+suppliers' facilities and reported on the suitability of their capabilities,
+helped identify and resolve product technical issues at client facilities, and
+provided technical support. My major contribution was turning engineering
+tests and observations into documentation and evidence that supported product,
+supplier, and client decisions. The experience allowed me to apply my
+electrical and computer engineering coursework to active company projects and
+strengthened my testing, documentation, problem-solving, and communication
+skills.
+
+The detailed [LinkedIn-profile export](https://drive.google.com/file/d/1BnnsDzv_JifE85joDNxkWt-6--cea7m7)
+records Computer & Electrical Engineer I from May 2011 through September 2012
+and Engineer II from October 2012 through March 2013. A [legacy
+resume](https://drive.google.com/file/d/1Ma3oP_lfWu9YieDsyfraEwAS9VwAiISZ)
+instead summarizes DDC employment as June 2011 through September 2013. The
+undergraduate overlap is established from 2011 through Spring 2012; use the
+conservative `2011-2013` range until Piter selects the chronology. A
+[contemporaneous essay](https://drive.google.com/file/d/1yTKUbBzn8asuYlHvTcT0KTiPYnESeCmh)
+explicitly identifies DDC as the internship Piter pursued to apply his
+Farmingdale training. The reviewed records do not identify a named supervisor
+or formal selection criterion.
+
+Additional college professional development included the Engineering Group,
+STEP/CSTEP project development, the Latin American Student Organization, and
+Institute of Electrical and Electronics Engineers participation from 2009 to
+2012. These are supporting activities; they do not replace DDC as the direct
+internship answer.
 
 ### Merit Awards and Recognition
 

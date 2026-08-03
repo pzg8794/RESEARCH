@@ -30,6 +30,7 @@ The `old Portafolio` archive must be checked directly for any application questi
 | Spring-Fall 2010 | Communications, advanced-electronics, network-analysis, and industrial-electronics investigations | [`opc-eets`](https://github.com/pzg8794/opc-eets) reports, calculations, waveforms, and simulation artifacts; EET 225/228/311/317 transcript entries | Research-style laboratory sequence with controlled inputs, measurements, and theory comparison |
 | Fall 2010-Spring 2011 | C++ data-processing and Unix shell projects | [`opc-labs-undergrad`](https://github.com/pzg8794/opc-labs-undergrad) code, reports, and captured output; BCS 120/215/230 transcript entries | Software-development project evidence |
 | Spring-Fall 2011 | Data-communications and advanced-networking design/configuration | [`opc-eets`](https://github.com/pzg8794/opc-eets) network summary, diagrams, and ping-test images; EET 440/441 transcript entries | Systems/networking project evidence |
+| 2011-Spring 2012 undergraduate overlap | Data Device Corporation (DDC) non-research engineering internship/job, Bohemia, New York | [legacy resume](https://drive.google.com/file/d/1Ma3oP_lfWu9YieDsyfraEwAS9VwAiISZ), [LinkedIn-profile export](https://drive.google.com/file/d/1BnnsDzv_JifE85joDNxkWt-6--cea7m7), and [contemporaneous internship essay](https://drive.google.com/file/d/1yTKUbBzn8asuYlHvTcT0KTiPYnESeCmh) | Primary undergraduate non-research internship answer; circuit analysis/testing, engineering documentation, supplier-capability review, client technical support |
 | Fall 2011-Spring 2012 | Smart Meter Home Application capstone | [`opc-final-bs-project`](https://github.com/pzg8794/opc-final-bs-project) and [`opc-senior-project`](https://github.com/pzg8794/opc-senior-project); EET 450/452 transcript entries | Senior-project answer; do not count the two repository mirrors as separate projects |
 
 Primary Drive navigation: [old Portafolio root](https://drive.google.com/drive/folders/1YuT0Zl11GJgz0nGuqTAxvNCrWmDK6F9d) and [Projects-Code](https://drive.google.com/drive/folders/1hcQBQDRzhHNFMDCBEGQkXnrnX1EKanBJ).
@@ -104,6 +105,12 @@ Primary Drive navigation: [old Portafolio root](https://drive.google.com/drive/f
 | `TiburonLockers` | TiburonLockers | ~2017-2019 | Industry software work evidence |
 | `MadChefKitchen` | MadChefKitchen | 2016 | Early project/freelance |
 
+Data Device Corporation is documented through the legacy resume, LinkedIn
+export, and contemporaneous essay linked in the Verified Undergraduate Evidence
+Map; it does not currently have a dedicated folder in this `Work Projects`
+directory. Do not interpret that folder absence as an absence of undergraduate
+employment or internship experience.
+
 ---
 
 ### 4. PhD Materials (Legacy)
@@ -165,7 +172,7 @@ These are in the root of the Portafolio Drive folder: `https://drive.google.com/
 1. **For C/C++ evidence** (e.g., NTNU, compiler systems positions): Use `Projects Code/C++` and `Projects Code/CPP_OOP` from Drive. Download and mirror in GitHub portfolio repo under `projects/code/cpp/`.
 2. **For academic writing samples**: Do NOT use the 2015 course reports in `Publications/`. Use current Overleaf-tracked papers: QuantumPathOptimization, IDAI700, DSCI601 (see [OVERLEAF_PAPER_INDEX.md](../APPLICATIONS/PhD/OVERLEAF_PAPER_INDEX.md)).
 3. **For current portfolio narrative**: Open `Piter Portfolio` (Aug 2025) Google Doc first.
-4. **For industry work evidence**: Use `Work Projects/` folder contents; reference specific company folders as needed.
+4. **For industry work evidence**: Use `Work Projects/` folder contents and the legacy resume/profile records in the Verified Undergraduate Evidence Map; reference specific company folders or DDC records as needed.
 5. **For teaching/education evidence**: Use RESEARCH-tracked repos: ED400, ED452B, teaching-placement (see [GITHUB_REPO_REGISTRY.md](../APPLICATIONS/PhD/GITHUB_REPO_REGISTRY.md)).
 6. **Before every new PhD/fellowship application**: Check this index for any portfolio artifacts that match the position's preferred experience.
 
