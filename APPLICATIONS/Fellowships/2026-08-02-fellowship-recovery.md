@@ -118,3 +118,25 @@ other high-stakes appointments.
 - **Rescheduled appointment:** not yet offered or accepted.
 - **Award fit:** pending official advising; no specific Fulbright award is
   currently treated as verified.
+
+## NSF GRFP Review - Closed August 3
+
+- The Fellowships Office's shared
+  [NSF GRFP session recording](https://drive.google.com/file/d/1gwLw1ZFPElujx29VQEQHFDOvO_9Yi9nM/view)
+  is accessible through the UofR account. It is a 47-minute recording and has
+  no enabled transcript or captions in the Drive viewer.
+- The current official
+  [NSF 25-547 solicitation](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf25-547/solicitation)
+  limits eligibility to undergraduate seniors, bachelor's degree holders with
+  no graduate-program enrollment, joint bachelor's-master's students, and
+  first-year students in their first graduate program with less than one
+  academic year completed.
+- Piter completed an M.S. in Computer Science in 2015 and is currently enrolled
+  in two additional graduate programs. He therefore does not meet the current
+  graduate-status requirement. An NSF GRFP application is closed as
+  **ineligible**, not deferred to a future PhD start.
+- No reply to the automated Drive notification is possible or needed. The
+  earlier materials-request thread also requires no further reply because the
+  recording was received and the eligibility question is resolved. These two
+  threads can be unstarred, removed from `To respond`, and archived after this
+  record is committed.

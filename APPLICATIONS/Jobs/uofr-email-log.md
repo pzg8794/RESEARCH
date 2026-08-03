@@ -2,6 +2,14 @@
 
 ## Refresh Status - 2026-08-03
 
+- Opened and verified the 47-minute NSF GRFP recording shared by the
+  Fellowships Office. The Drive viewer provides no transcript or captions.
+- Checked the current NSF 25-547 solicitation rather than carrying forward the
+  older "future PhD start" assumption. NSF GRFP now permits graduate applicants
+  only during the first year of their first graduate program and before one
+  academic year is completed. Piter's completed 2015 M.S. and current graduate
+  enrollment make this a confirmed eligibility exclusion. Close the recording
+  notification and materials-request thread without another reply.
 - Verified the direct Jotform receipt for the Prospective Applicant Form,
   received on 2026-08-02 at 5:18 PM.
 - Verified the live confirmation page and direct 12:27 AM receipt for the
@@ -241,7 +249,8 @@ the queue of unfinished work. Do not remove importance metadata automatically.
 | 2026-07-31 | Carney, Sandoe and Associates | Independent-school placement support | Thanked Brenden Godino for the clarification and confirmed nationwide relocation after December | **Future.** Review January 2027 and 2027-28 CS, technology, STEM, and inclusive-education openings |
 | 2026-07-31 | Zen Borys | EDU486 poster support | Verified that Piter had already thanked him; removed the completed star and stale `To respond` label and archived the thread | **Complete.** No additional message needed |
 | 2026-07-28 | Student Fellowships Office | Fulbright advising appointment | Corrected the earlier scheduling messages; accepted the official invitation for Friday, July 31, 3:00-4:00 PM EDT in Dewey Hall 4-209B | **Confirmed.** Attend after the EDU486 poster fair and ask the office to identify and verify a genuinely aligned award before any application or recommendation work |
-| 2026-07-28 | Student Fellowships Office | NSF-GRFP session conflict | Sent a request for the recording, slides, or eligibility materials because Thursday class prevents live attendance | **Waiting.** Review the materials when received; the live calendar event is removed |
+| 2026-08-03 | Student Fellowships Office | NSF-GRFP recording and eligibility review | Opened the shared 47-minute recording and checked the current NSF 25-547 graduate-status rules | **Closed / ineligible.** Piter's completed 2015 M.S. and current graduate enrollment fall outside the first-year-of-first-graduate-program requirement; no application or further reply |
+| 2026-07-28 | Student Fellowships Office | NSF-GRFP session conflict | Sent a request for the recording, slides, or eligibility materials because Thursday class prevents live attendance | **Resolved 2026-08-03.** Recording received and current eligibility checked; live calendar event remains removed |
 | 2026-07-28 | University of Rochester Financial Aid | Current missing documents | Verified that the Direct Loan MPN and in-person identity verification are the only currently listed requirements; asked the counselor for the correct in-person scheduling path | **P0 / secure handoff.** Complete the [graduate/professional Direct Loan MPN](https://studentaid.gov/mpn/) and follow the counselor's in-person appointment instructions |
 | 2026-07-28 | Handshake AI Team | Profile completion | Uploaded the verified industry resume and completed documented CS/ML expertise, education, graduation, LinkedIn, location, and referral fields | **P0 / legal and identity handoff.** Review agreements personally and complete government-ID verification |
 | 2026-07-27 | Handshake / Health Data Max | Clinical Business Analyst Intern | Submitted the [complete targeted packet](./application-materials/2026-07-27-health-data-max-packet.md), including resume, cover letter, and unofficial transcripts; verified Handshake's confirmation | **Submitted.** Check for an employer response on August 3 and confirm workable semester hours during screening |

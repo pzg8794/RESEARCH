@@ -132,9 +132,12 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 - [x] **Closed - UofR / IBM:** The August 27 event is Thursday
   11:00 AM-2:30 PM and conflicts with class. Registration and the calendar
   hold were closed.
-- [x] **P1 - UofR / NSF GRFP:** Requested the recording, slides, or
-  eligibility materials because the Thursday live session conflicts with
-  class. The live calendar event was removed.
+- [x] **Closed - UofR / NSF GRFP:** Opened the shared 47-minute recording and
+  checked the current NSF 25-547 solicitation on August 3. The program now
+  limits graduate applicants to the first year of their first graduate degree,
+  before one academic year is completed. Piter's completed 2015 M.S. and
+  current graduate enrollment make him ineligible; no application or further
+  reply remains.
 
 ## RIT
 
@@ -179,7 +182,7 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 | P2 | Research funding | Survivorship Symposium abstract | Cancer-survivorship abstracts are due **2026-08-19** for the 2026-10-09 symposium | Apply only if there is a defensible existing cancer-survivorship project; otherwise close. |
 | P2 | Technical access | Google Cloud changes | BigQuery transfer-label change is due **2026-08-11** if affected scripts exist; Cloud Console 2-step verification is due **2026-10-20** | Audit active Cloud scripts for legacy label filters, then complete 2-step verification through the secure account before October. |
 | P2 | Funding event | HESC graduate-school funding event | Event announced for **2026-08-18 at 6:00 PM** | Confirm whether registration is still open during the UofR refresh and register if useful. |
-| P1 | Fellowship information | NSF Graduate Research Fellowship session | Thursday live session conflicts with class; recording/materials request sent July 28 | Review the materials when received and record eligibility guidance for a future PhD start. |
+| Closed | Fellowship information | [NSF Graduate Research Fellowship](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf25-547/solicitation) | Shared recording opened August 3; current official graduate-status rule checked | Ineligible because the program is limited to the first year of a first graduate degree; no application or future-PhD carryover. |
 | Closed | Professional development | IBM Dev Day: Bob in Action + Hackathon | Thursday daytime event conflicts with class | Registration and calendar hold closed July 28. |
 | P1 | Thesis support | Graduate-student academic writing retreat | Registered for August 5-7, noon-4:00 PM, Rush Rhees Library | Attend Wednesday and Friday; the Thursday block was removed because of class. |
 | Closed | Teaching job | Handshake in-person teaching contact | Employer confirmed that it hires only in person | Revisit only after December if relocation and the role still fit. |
