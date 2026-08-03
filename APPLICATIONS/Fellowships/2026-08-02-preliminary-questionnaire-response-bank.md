@@ -302,21 +302,47 @@ people affected by them.
 
 **Working response to evaluate:**
 
-I completed an M.S. in Computer Science at Rochester Institute of Technology
-in 2015, with work in artificial intelligence, big-data analytics, and computer
-graphics. My culminating research project explored how Microsoft Kinect and
-Leap Motion sensors could be integrated for sign-language recognition. Kinect
-provided full-body and depth information, while Leap Motion provided detailed
-hand and finger information. I implemented feature extraction and
-normalization for body, hand, and finger positions, created controls for
-recording and testing signs, and built validation checks to detect missing or
-noisy sensor frames. I investigated Hidden Markov Models and Support Vector
-Machines as possible classifiers. The project produced the feature-extraction,
-normalization, and testing components, while the complete classification and
-monitoring pipeline remained unfinished. It taught me both the potential and
-the limitations of combining sensors for communication-access applications.
+My 2015 M.S. in Computer Science at Rochester Institute of Technology provides
+the technical foundation for my current work on equitable artificial
+intelligence, communication access, and decision-making under uncertainty. I
+focused on artificial intelligence, big-data analytics, and computer graphics,
+with two projects that shaped my direction: Big Data Medical Diagnosis and a
+culminating project integrating Microsoft Kinect and Leap Motion sensors for
+sign-language recognition.
 
-**Source:** [profile master source](https://github.com/pzg8794/CV_Piter-Garcia/blob/main/materials/linkedin/profile_master_source.md).
+For the sign-language project, I investigated whether combining full-body,
+depth, hand, and finger data could represent communication more completely than
+either sensor alone. I implemented feature extraction and normalization,
+recording and testing controls, and checks for missing or noisy sensor frames. I
+also investigated Hidden Markov Models and Support Vector Machines as potential
+classifiers. The project produced the feature-extraction, normalization, and
+testing foundation, although the full classification and monitoring pipeline
+remained unfinished.
+
+The project showed me how quickly an assistive system can fail when evidence is
+incomplete, noisy, or outside its expected patterns. My medical-diagnosis work
+raised the same concern in healthcare. Later, living with chronic illness,
+depression, neurodivergence, and misdiagnosis made the consequences of those
+technical limitations personal. I experienced how medical and educational
+institutions can also dismiss incomplete or unexpected evidence, affecting
+whether a person receives understanding, care, accommodation, or support.
+
+That connection now drives my graduate research and teaching. The Puzzle Plan
+is my interdisciplinary framework for connecting engineering, artificial
+intelligence, bioinformatics, disability inclusion, lived experience, and
+computer-science education around this shared problem. Within it, EQUITAS, or
+Equity-Quantified Integrated Trauma-Aware Systems, is my fairness-aware
+evaluation and decision-mediation framework for studying whether systems remain
+useful and equitable when evidence is missing, delayed, noisy, or unevenly
+available across groups. This foundation now supports my goal of combining
+doctoral research, applied data science, and inclusive computer-science
+teaching to build clinical, bioinformatics, quantum-computing, and educational
+systems that recognize varied human evidence and respond before people are
+dismissed.
+
+**Sources:** [profile master source](https://github.com/pzg8794/CV_Piter-Garcia/blob/main/materials/linkedin/profile_master_source.md),
+[statement theme library](../../STATEMENTS/statement-theme-library.md), and
+[research index](../../MASTER_RESEARCH_INDEX.md).
 
 ### Current Thesis or Capstone
 
