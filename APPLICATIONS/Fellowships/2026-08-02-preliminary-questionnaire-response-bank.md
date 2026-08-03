@@ -303,12 +303,18 @@ people affected by them.
 **Working response to evaluate:**
 
 I completed an M.S. in Computer Science at Rochester Institute of Technology
-in 2015, with study in artificial intelligence, big data analytics, and
-computer graphics. My thesis, *ASL Recognition Application: Image Processing
-for Sign Language Translation*, investigated image-processing and pattern-
-recognition methods for interpreting signed communication. The project is an
-early example of my interest in combining technical computing with access and
-communication needs.
+in 2015, with work in artificial intelligence, big-data analytics, and computer
+graphics. My culminating research project explored how Microsoft Kinect and
+Leap Motion sensors could be integrated for sign-language recognition. Kinect
+provided full-body and depth information, while Leap Motion provided detailed
+hand and finger information. I implemented feature extraction and
+normalization for body, hand, and finger positions, created controls for
+recording and testing signs, and built validation checks to detect missing or
+noisy sensor frames. I investigated Hidden Markov Models and Support Vector
+Machines as possible classifiers. The project produced the feature-extraction,
+normalization, and testing components, while the complete classification and
+monitoring pipeline remained unfinished. It taught me both the potential and
+the limitations of combining sensors for communication-access applications.
 
 **Source:** [profile master source](https://github.com/pzg8794/CV_Piter-Garcia/blob/main/materials/linkedin/profile_master_source.md).
 
