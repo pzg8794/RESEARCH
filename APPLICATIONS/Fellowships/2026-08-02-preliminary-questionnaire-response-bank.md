@@ -329,8 +329,8 @@ context, available context, or additional predictive context, then measure both
 overall performance and whether some groups or network flows repeatedly receive
 worse outcomes. The central concern is simple: a system can look successful on
 average while still delaying care for a vulnerable group or consistently giving
-some users worse service. Current simulations test whether fairness-aware
-mediation can reduce those gaps while preserving useful performance, and I am
+some users worse service. Current simulations test whether a fairness-aware
+decision step can reduce those gaps while preserving useful performance, and I am
 continuing the evaluation across additional clinical and quantum scenarios.
 
 My University of Rochester Teaching Computer Science K-12 program focuses on
