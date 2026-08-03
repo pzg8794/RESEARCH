@@ -170,16 +170,33 @@ should be listed only if the form welcomes professional recognition.
 
 **Working response to evaluate:**
 
-After completing my bachelor's degree, I earned an M.S. in Computer Science at
-Rochester Institute of Technology in 2015, concentrating in artificial
-intelligence, big data analytics, and computer graphics. My thesis explored
-American Sign Language recognition through image processing, feature
-extraction, and pattern classification. I later supported mission-driven health
-technology through Samasta Health Foundation, worked as an AI Data Solutions
-Engineer at VIOME from 2021 to 2022, and worked as a Data Solutions Engineer at
-VEDADATA from 2022 to 2024. These experiences moved my interests from building
-individual models toward designing reliable data systems and evaluating how
-technical decisions affect people in healthcare and education.
+After completing my bachelor's degrees in 2012, I earned my M.S. in Computer
+Science from Rochester Institute of Technology in 2015, with a focus on
+artificial intelligence, big-data analytics, and computer graphics. My
+graduate work included Big Data Medical Diagnosis and a project integrating
+Kinect and Leap Motion sensors for sign-language recognition. I subsequently
+worked across software engineering, machine learning, data platforms, and
+healthcare technology at True Interaction, Insticator, NPD Group, VIOME, and
+VEDADATA. Through these roles, I learned how data systems are designed, tested,
+maintained, and deployed under real operational constraints.
+
+At the same time, living with chronic illness and experiencing misdiagnosis
+changed how I understood the purpose and consequences of this work. I became
+interested not only in whether a system could produce an accurate prediction,
+but also in whose evidence it recognized, whom it might overlook, and how
+technical decisions could affect a person's ability to receive care,
+accommodations, or support. These professional and personal experiences
+expanded my focus beyond individual models to the broader research workflows,
+institutional practices, and human decisions surrounding them. They also
+deepened my commitment to health and diagnostic equity, algorithmic fairness,
+accessibility, and disability inclusion.
+
+These experiences ultimately led me back to graduate study in Data Science at
+RIT and to the Teaching Computer Science K-12 program at the University of
+Rochester. Across these programs, I now connect data science, diagnostic
+equity, inclusive technology, and computer science education to develop
+computational systems and learning environments that are technically rigorous,
+trustworthy, and responsive to the people they are intended to serve.
 
 **Sources:** [profile master source](https://github.com/pzg8794/CV_Piter-Garcia/blob/main/materials/linkedin/profile_master_source.md),
 [intake resume](./application-materials/2026-08-02-fellowship-intake-resume.pdf).
@@ -188,17 +205,51 @@ technical decisions affect people in healthcare and education.
 
 **Working response to evaluate:**
 
-My main academic interest is machine learning for decisions under uncertainty,
-especially when reliability and equitable outcomes must be considered
-together. My early work in computer engineering, medical diagnosis, and ASL
-recognition led to professional work with healthcare data and then to current
-research in quantum-network routing, fairness-aware clinical decision systems,
-bioinformatics, and inclusive computer science education. Courses and projects
-in neural networks, applied data science, RNA bioinformatics, disability and
-inclusive practices, and K-12 computer science helped me see these as connected
-questions: how can we build technically rigorous systems that remain useful,
-interpretable, reproducible, and responsive to people who are often poorly
-represented in data or design decisions?
+My main academic interests grew directly from living with chronic illness,
+depression, and neurodivergence, including years in which my ADHD, physical
+symptoms, and ways of communicating were misunderstood, minimized, or
+misdiagnosed. These experiences showed me how medical and educational systems
+make decisions when evidence is incomplete and how easily they can dismiss
+information that does not fit an expected pattern. They are the main reason I
+returned to graduate study and chose to focus on artificial intelligence,
+equitable diagnostics, disability inclusion, and computer-science education.
+
+My undergraduate degrees in computer and electrical engineering taught me to
+analyze connected systems and investigate how failures in one component affect
+the whole. During my first M.S. in Computer Science at RIT, Big Data Medical
+Diagnosis allowed me to examine how machine learning could support healthcare
+decisions, while my Kinect and Leap Motion sign-language recognition work
+connected computer vision with communication access. Later work in software
+engineering, machine learning, data platforms, and healthcare technology,
+particularly at VIOME, VEDADATA, and the Samasta Health Foundation, showed me
+that model quality depends on data collection, validation, documentation, and
+operational context, not only predictive accuracy.
+
+My current graduate work has given me stronger methods for studying the
+problems that first affected me personally. BIO630 with Dr. Fernando Rodriguez
+connected data science with RNA bioinformatics. ISTE780 with Dr. Qi Yu
+strengthened my work in data mining, validation, and fairness-aware analysis.
+Neural Networks and DSCI601 with Dr. Travis Desell helped me formalize
+decision-making under uncertainty through clinical and quantum bandit-based
+routing. Readings in disability studies and inclusive education challenged
+deficit-based explanations of difference, while work in algorithmic fairness
+showed me how aggregate performance can hide unequal errors. At the University
+of Rochester, disability and inclusive-practices coursework and K-12
+computer-science teaching have helped me translate those lessons into
+accessible instruction, communication support, and learner agency.
+
+I organize this work through my Puzzle Plan, an interdisciplinary research
+framework I developed to connect engineering, artificial intelligence,
+bioinformatics, disability inclusion, lived experience, and computer-science
+education as parts of one research problem. Within that broader direction,
+EQUITAS, or Equity-Quantified Integrated Trauma-Aware Systems, is my fairness-
+aware evaluation and decision-mediation framework for examining whether
+systems remain useful and equitable when information is missing, delayed,
+noisy, or unevenly available across groups. Together, these frameworks allow
+me to pursue the question that now defines my academic and career path: how can
+we build technically rigorous systems that recognize the evidence people bring
+instead of repeating the medical and educational failures that caused people
+like me to go without understanding, care, accommodation, or support?
 
 **Sources:** [statement theme library](../../STATEMENTS/statement-theme-library.md),
 [research index](../../MASTER_RESEARCH_INDEX.md),
@@ -209,14 +260,43 @@ Local full source: `/Users/pitergarcia/DataScience/Semester5/Scholarship/The Puz
 
 **Working response to evaluate:**
 
-I want to pursue doctoral-level research and work as a researcher, data
-scientist, and computer science educator at the intersection of artificial
-intelligence, quantum computing, health and bioinformatics, and inclusive
-education. I want to improve how high-stakes systems allocate attention,
-diagnostic resources, and technical opportunities when information is
-incomplete or uneven. My goal is to contribute rigorous methods and reusable
-research infrastructure while also translating complex ideas into accessible
-learning and collaboration practices.
+I aspire to become a faculty researcher, applied data scientist, and computer-
+science educator whose work makes medical, educational, and computational
+decision systems more reliable, equitable, and accountable. This goal is
+personal. Living with chronic illness, depression, and neurodivergence, and
+spending years being misunderstood, dismissed, or misdiagnosed, showed me what
+happens when institutions ignore context and treat a person's evidence as
+noise. I want my career to help prevent others from losing years of their lives
+trying to prove that their symptoms, needs, or ways of thinking are real.
+
+My research focuses on how artificial intelligence and sequential decision
+systems allocate limited attention, diagnostic resources, and computational
+capacity when information is incomplete or unevenly available. I want to
+develop fairness-aware clinical and bioinformatics systems that identify who
+may be missed, measure errors and delays across groups, and balance predictive
+performance with the consequences of a wrong decision. My work in quantum
+computing supports the same goal from another technical direction: quantum
+routing provides a demanding environment for studying reliability,
+uncertainty, resource allocation, and unequal service outcomes.
+
+Teaching is part of this career for the same reason. I know what it is like to
+be capable while being misunderstood by systems built around one expected way
+of learning, communicating, or functioning. I want to teach computer science
+and mentor neurodivergent, disabled, chronically ill, first-generation,
+immigrant, and other excluded learners so they can gain both technical skills
+and the confidence to question the systems they are asked to use or build. I
+do not want students to wait years to understand that difference is not a lack
+of ability.
+
+Through the Puzzle Plan and EQUITAS, I want to turn lived experience into
+testable research questions, rigorous evaluation methods, accessible
+educational practices, and practical tools. My long-term goal is to lead an
+interdisciplinary research lab or organization that connects artificial
+intelligence, equitable diagnostics, bioinformatics, quantum decision systems,
+disability inclusion, and computer-science education. I want that work to
+produce strong technical methods, but also something more immediate: better
+decisions, earlier support, and systems that listen before they dismiss the
+people affected by them.
 
 ### Completed Master's Degree
 
