@@ -130,13 +130,16 @@ The detailed [LinkedIn-profile export](https://drive.google.com/file/d/1BnnsDzv_
 records Computer & Electrical Engineer I from May 2011 through September 2012
 and Engineer II from October 2012 through March 2013. A [legacy
 resume](https://drive.google.com/file/d/1Ma3oP_lfWu9YieDsyfraEwAS9VwAiISZ)
-instead summarizes DDC employment as June 2011 through September 2013. The
-undergraduate overlap is established from 2011 through Spring 2012; use the
-conservative `2011-2013` range until Piter selects the chronology. A
+instead summarizes DDC employment as June 2011 through September 2013, while a
+[2022 CV](https://drive.google.com/file/d/1zSb7peLxYcGcrQZh6zLe06WEsaUk0hl6)
+records May 2011 through October 2012. The undergraduate overlap is established
+from 2011 through Spring 2012; use year-level wording until Piter selects the
+chronology. A
 [contemporaneous essay](https://drive.google.com/file/d/1yTKUbBzn8asuYlHvTcT0KTiPYnESeCmh)
 explicitly identifies DDC as the internship Piter pursued to apply his
 Farmingdale training. The reviewed records do not identify a named supervisor
-or formal selection criterion.
+or formal selection criterion, and the accessible archived email produced no
+additional DDC record.
 
 Additional college professional development included the Engineering Group,
 STEP/CSTEP project development, the Latin American Student Organization, and
