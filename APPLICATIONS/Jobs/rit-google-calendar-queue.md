@@ -62,6 +62,9 @@ Calendar permits them.
 | 2026-08-07, 12:00-4:00 PM | UofR Graduate Writing Retreat - Day 3 | Registered; RIT invitation accepted | Complete the retreat commitment; 1-day, 1-hour, and 10-minute alerts |
 | 2026-08-07, 4:30-5:15 PM | REVIEW: DSCI 602 quantum-paper consolidation email | Created on RIT calendar | Review the [advisor draft](../../ADMIN/2026-08-04-dsci602-quantum-paper-consolidation-advisor-draft.md) and [A+C roadmap](../../RESEARCH/2026-08-04-icnp-review-classification-and-revision-roadmap.md); no email is sent without Piter's approval |
 | 2026-08-08, 2:00-2:30 PM | REVIEW: Handshake AI terms and identity verification | Created on RIT calendar | Piter reviews legal terms and completes identity verification; do not store identity data in Git |
+| 2026-08-08, 5:00-8:00 PM | INCOME: DoorDash dinner peak experiment | Created and live-verified on RIT calendar | Use DoorDash's official dinner peak, current hotspots, Peak Pay, weather, traffic, and an energy/safety check. Record gross, online/active time, miles, costs, and tips; 1-day, 1-hour, and 10-minute alerts |
+| 2026-08-09, 11:30 AM-2:00 PM | INCOME: DoorDash lunch peak experiment | Created and live-verified on RIT calendar | Compare the official lunch peak with the dinner pilot. Recheck thunderstorms and work only if safe; record the same scorecard fields; 1-day, 1-hour, and 10-minute alerts |
+| 2026-08-09, 3:00-3:45 PM | REVIEW/APPLY: UofR Basic Needs Hub | Created and live-verified on RIT calendar | Review non-repayable qualifying support before the emergency-loan fallback; prepare a truthful need statement and documentation; Piter controls acknowledgement and submission; 1-day, 1-hour, and 10-minute alerts |
 | 2026-08-09, 6:00-6:20 PM | REVIEW - RIT parking permit readiness | Synced | Confirm local address, account balance, and whether a permit is needed before reserved/general sales open |
 | 2026-08-10, 10:15-10:45 AM | FOLLOW UP: Diverse Lynx remote AI roles | Synced | Check for client, schedule, start date, authorization/sponsorship, travel/onsite, and interview details; no resume until terms are established; 1-day and 10-minute alerts |
 | 2026-08-10, 2:00-2:20 PM | VERIFY: CSCI-739 audit form status | Updated; synced | Professor Vogt approved and Megan prepared the form. Confirm the signed form was received or resolve any correction before the August 24-31 processing window. See the [registration record](../../ADMIN/rit-fall-2026-csci739-audit.md). |
@@ -70,6 +73,8 @@ Calendar permits them.
 | 2026-08-10, 5:15-5:45 PM | PREP: Jobot Senior AI/ML screening | Created on RIT calendar | Review the [Jobot preparation kit](../../PREPARATION/applications/2026-08-04-jobot-senior-ai-ml-engineer.md) and practice concise, evidence-based answers |
 | 2026-08-11, 2:00-3:00 PM | COMPLETE: Warner Summer course evaluations | Synced | Complete the evaluations before the official August 14 close; 1-day, 1-hour, and 10-minute alerts |
 | 2026-08-11, 3:15-3:35 PM | FOLLOW UP: Jobot Senior AI/ML Engineer | Created on RIT primary calendar | Check Jobot and RIT email for Jobot Pro Charles Simmons; do not submit a duplicate; 1-day, 1-hour, and 10-minute alerts |
+| 2026-08-11, 4:00-4:30 PM | REVIEW: DoorDash net earnings and repeat decision | Created and live-verified on RIT calendar | Compare gross per online/active hour, miles, direct costs, wait time, weather, fatigue, and safety. Repeat only the better sustainable window; 1-day, 1-hour, and 10-minute alerts |
+| 2026-08-11, 4:45-5:45 PM | INCOME SETUP: remote paid studies and local shift apps | Created and live-verified on RIT calendar | Start with Prolific, URMC studies, and User Interviews, then inspect PeopleReady and GigSmart. Record status and payout timing; Piter controls identity, legal, tax, and banking steps; 1-day, 1-hour, and 10-minute alerts |
 | 2026-08-12, 9:00-9:45 AM | SECURITY REVIEW: identify GitHub deletion process | Synced | Identify the external `python-requests` process that used the expired token; do not regenerate it until the process is constrained; 1-day and 1-hour alerts |
 | 2026-08-12, 10:00-10:30 AM | ACTION: Buy RIT general parking permit | Synced | Use the [MyParking Portal](https://rit.t2hosted.com/Account/Portal); verify address, zero balance, and license plate. The official email gave no launch time; 1-day and 1-hour alerts |
 | 2026-08-12, 4:30-5:00 PM | COMPLETE: Jobot Senior AI/ML screening | Created on RIT calendar | Use Jeni's self-initiated 8-12 minute screening link after the preparation block; substantive recruiter SMS is authorized |
@@ -97,6 +102,17 @@ Calendar permits them.
 
 ## Calendar Sync Status
 
+- [x] Added and live-verified the August 8 dinner pilot, August 9 lunch pilot
+  and Basic Needs Hub review, and August 11 earnings review and income-platform
+  setup. All five use one-day, one-hour, and ten-minute reminders.
+- [x] Refreshed Apple Calendar and confirmed the new RIT events appear there.
+  Disabled only the redundant RIT-under-personal-Google and UofR-under-RIT
+  display copies, leaving the direct calendars enabled. Apple Calendar search
+  now returns one copy of each DoorDash event.
+- [x] Enabled macOS Calendar notifications with persistent desktop,
+  Notification Center, lock-screen, sound, badge, and time-sensitive delivery.
+  Verified the DoorDash dinner event shows one-day, one-hour, and ten-minute
+  alerts in Apple Calendar.
 - [ ] Verify that the two August 2-3 fellowship invitations are accepted and
   visible on the primary RIT calendar. They are already saved on the UofR
   calendar and invitations were sent to `pzg8794@g.rit.edu`.

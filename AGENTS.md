@@ -25,6 +25,11 @@ application is unavailable, follow this routing process:
    official invitation may remain on another institutional calendar; when a
    reminder copy is needed, create a private RIT event that names the official
    source and does not invite external attendees again.
+   Apple Calendar should display the RIT Google calendar directly. Do not copy
+   events into iCloud as a synchronization workaround. Keep only one enabled
+   display source for each Google calendar, refresh after changes, and verify
+   macOS Calendar notifications are enabled before claiming reminders will
+   appear on the Mac. Other Apple devices require separate verification.
 6. Keep account numbers, balances, medical details, identity documents,
    credentials, private message bodies, and family information out of public
    Git. Record only public-safe status, deadline, conflict, source class, and

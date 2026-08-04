@@ -25,6 +25,7 @@ applications, recruiter conversations, and follow-up work.
 | --- | --- |
 | [Preparation Center](../../PREPARATION/README.md) | Meeting and application preparation kits, shared career evidence, review timing, and post-meeting records |
 | [Near-Term Income and School-Funding Queue](./2026-08-04-near-term-income-and-funding.md) | Ranked quick-income, scholarship, grant, recruiter-screening, and competition actions with risk boundaries |
+| [Quick-Income and Apple Calendar Receipt](./2026-08-04-quick-income-and-apple-calendar-receipt.md) | DoorDash pilots, broader income sources, RIT-to-Apple calendar verification, duplicate-display cleanup, and notification settings |
 | [August 4 School and Career Response Pass](./2026-08-04-school-career-response-pass.md) | Current RIT, UofR, Handshake, application, calendar, and user-review outcomes, including the CSCI-739 audit and amended aid offer |
 | [August 3 Afternoon Response Pass](./2026-08-03-afternoon-response-pass.md) | Verified Guidepoint, VDart, fellowships, Teaching Retreat, Carney, and New York Tech outcomes plus the remaining linked review queue |
 | [2026-07-31 UofR Opportunity Pass](./2026-07-31-uofr-opportunity-pass.md) | Verified Tech Rise and Recovery Audit Solutions applications, recruiter/program replies, supporter cleanup, HHS registration handoff, and mailbox actions |
