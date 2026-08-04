@@ -1,5 +1,29 @@
 # University of Rochester Job and Career Email Log
 
+## Refresh Status - 2026-08-04
+
+- Juliet Sullivan confirmed the Fulbright advising appointment for **Thursday,
+  August 6, 1:15-2:15 PM by Zoom**. The confirmation reply was sent and the
+  official invitation was accepted. The RIT calendar now has a 12:00-12:45 PM
+  preparation block, recovery time, and layered reminders. Keep the thread
+  visible until the Zoom link arrives.
+- Submitted the Carney, Sandoe & Associates 2027-2028 Teaching Fellowship
+  application with the targeted teaching resume. Handshake displayed `Applied
+  on August 4, 2026`, and the UofR email receipt was verified.
+- The Teaching Retreat registration remains complete through the final
+  dietary or special-food question. No health-sensitive answer was guessed;
+  Piter supplies `No` or `Yes: [details]`, after which the form can be
+  submitted and the receipt preserved.
+- Replied with thanks to April Luehmann in both completed supporter threads.
+  The replies acknowledge her encouragement without reproducing private family
+  communication in this public-safe record. No further response is due.
+- The official Warner Summer course-evaluation window closes August 14. A
+  completion block is live on the RIT calendar for August 11, 2:00-3:00 PM;
+  secure login remains with Piter.
+- Handshake showed no unread direct employer message. The weekly roundup was
+  screened, and its current onsite, overseas-hybrid, or weakly aligned roles do
+  not displace the active remote AI, data, and teaching queue.
+
 ## Refresh Status - 2026-08-03
 
 - The Fellowships Office offered several rescheduling times. After checking the
@@ -289,12 +313,12 @@ the queue of unfinished work. Do not remove importance metadata automatically.
 | --- | --- | --- | --- | --- |
 | 2026-08-03 | Handshake / LearningMate | Subject Matter Expert | Submitted the targeted [resume](./application-materials/2026-07-23-learningmate-sme-resume.pdf) and [cover letter](./application-materials/2026-07-23-learningmate-sme-cover-letter.pdf); verified both live Handshake confirmation messages | **Submitted.** Monitor for a response and confirm hours during screening because the posting's freelance/part-time description differs from its full-time summary |
 | 2026-08-03 | Handshake / Ampact | Early Learning Corps Tutor | Sent a final remote-through-December boundary response and marked the repeated onsite tutor lead not interested | **Closed for Fall 2026.** Remain available for remote CS, data/AI, education-technology, or tutoring work and location-based roles after December |
-| 2026-08-03 | myHub / University of Rochester | 2026 Teaching Retreat | Organizer approved full Monday-only attendance; registration is filled through the dietary/special-food question | **Piter review August 4 at 2:00 PM.** Answer the health-sensitive field, submit, preserve the receipt, calendar Monday, and thank the organizer |
+| 2026-08-03 | myHub / University of Rochester | 2026 Teaching Retreat | Organizer approved full Monday-only attendance; registration is filled through the dietary/special-food question | **Piter answer needed.** Supply `No` or `Yes: [details]`, then submit, preserve the receipt, calendar Monday, and thank the organizer |
 | 2026-07-31 | Handshake / Recovery Audit Solutions | Data Analytics and Web Development Intern | Submitted the tailored Data Scientist resume; verified the remote, 10-hour/week, $20-$30/hour, August 15-December 15 schedule; sent the hiring lead the documented availability note on August 3 | **Submitted / waiting.** Handshake confirmed the message was sent. Check for a response on August 7; do not send a duplicate |
 | 2026-07-31 | Handshake / Tech Rise Solutions | Data Scientist | Submitted the [tailored resume](./application-materials/2026-07-31-tech-rise-data-scientist-resume.pdf), set it as the default data-science resume, and verified the Handshake and email receipts | **Submitted.** Check for a response on August 7 and screen full-time start date/hours against the final semester |
 | 2026-07-31 | U.S. Department of Health and Human Services | Navigating the Federal Hiring Process: USAJobs | Thanked Geneva Hauser, reviewed the federal early-career resources, and prefilled the official webinar registration | **P0 / direct handoff.** Piter supplies self-identification and citizenship, reviews the Microsoft terms, and submits; then add August 19, 2:00-3:00 PM to the RIT calendar |
 | 2026-07-31 | Gwinnett County Public Schools | Middle-school teaching recruitment | Thanked Veronica Zamora and confirmed that relocation is available after December for January 2027 or 2027-28 CS, technology, and STEM roles | **Future / waiting.** No current onsite application |
-| 2026-07-31 | Carney, Sandoe and Associates | 2027-2028 Teaching Fellowship | Recruiter directed Piter to the listing; created, visually verified, and attached a targeted one-page teaching resume to the live application | **Application prepared.** Final review and `Submit Application` are calendared for August 4 at 2:00 PM |
+| 2026-08-04 | Carney, Sandoe and Associates | 2027-2028 Teaching Fellowship | Submitted the targeted one-page teaching resume through Handshake and verified the live and email receipts | **Submitted.** Handshake displays `Applied on August 4, 2026`; monitor for a response and do not duplicate the application |
 | 2026-07-31 | Zen Borys | EDU486 poster support | Verified that Piter had already thanked him; removed the completed star and stale `To respond` label and archived the thread | **Complete.** No additional message needed |
 | 2026-07-28 | Student Fellowships Office | Fulbright advising appointment | Corrected the earlier scheduling messages; accepted the official invitation for Friday, July 31, 3:00-4:00 PM EDT in Dewey Hall 4-209B | **Confirmed.** Attend after the EDU486 poster fair and ask the office to identify and verify a genuinely aligned award before any application or recommendation work |
 | 2026-08-03 | Student Fellowships Office | NSF-GRFP recording and eligibility review | Opened the shared 47-minute recording and checked the current NSF 25-547 graduate-status rules | **Closed / ineligible.** Piter's completed 2015 M.S. and current graduate enrollment fall outside the first-year-of-first-graduate-program requirement; no application or further reply |

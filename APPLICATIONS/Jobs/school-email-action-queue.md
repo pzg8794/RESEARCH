@@ -13,6 +13,7 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 - [Next-week watchlist: July 26-August 1](./next-week-watchlist-2026-07-26.md)
 - [Next-week watchlist: August 2-8](./next-week-watchlist-2026-08-02.md)
 - [August 3 RIT opportunity and funding pass](./2026-08-03-rit-opportunity-pass.md)
+- [August 4 school and career response pass](./2026-08-04-school-career-response-pass.md)
 
 ## Queue Rules
 
@@ -100,15 +101,15 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
   or deadline requirement.
 - [ ] **P1 - UofR / teaching retreat:** The organizer approved full Monday-only
   attendance. The form is complete through the final dietary/special-food
-  question. Piter answers that health-sensitive field during the **August 4,
-  2:00 PM** review; then submit, preserve the receipt, calendar Monday, and
-  thank the organizer.
-- [ ] **P0 - UofR / fellowship rescheduling:** Both requested forms have direct
-  receipts. After checking both calendars, Piter accepted the offered
-  **Thursday, August 6 at 1:15 PM** time and requested Zoom. A 12:00-1:00 PM
-  preparation block and 1:15-2:00 PM tentative hold are live on the RIT
-  calendar. Keep the thread visible until the office confirms the appointment
-  and meeting link.
+  question. Piter supplies only `No` or `Yes: [details]`; then submit, preserve
+  the receipt, calendar Monday, and thank the organizer.
+- [x] **Complete - UofR / fellowship rescheduling:** The office confirmed
+  **Thursday, August 6, 1:15-2:15 PM by Zoom**. The reply was sent and the
+  official invitation was accepted. Use the 12:00-12:45 PM preparation block
+  and keep the thread visible only until the Zoom link arrives.
+- [x] **Complete - Handshake / Carney, Sandoe:** Submitted the 2027-2028
+  Teaching Fellowship application with the targeted teaching resume on August
+  4. Handshake and the email receipt both confirm the application.
 - [x] **Complete - Handshake / Health Data Max:** Submitted the targeted
   resume, cover letter, and combined unofficial transcripts on 2026-07-27.
   Check for a response on August 3.
@@ -116,11 +117,9 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
   prepared resume, provide the correct ZIP code, select `No` for SMS, and
   submit the live Senior Data Scientist application.
 - [ ] **P0 - Jobot Senior AI/ML Engineer:** The live 100% remote application is
-  prefilled, `No` is selected for SMS, and the targeted one-page resume is
-  attached. Piter reviews the communications/privacy notice and clicks `Apply
-  Now` only if accepted. The missed morning review was moved to **2026-08-03,
-  6:30-6:50 PM** with 30-minute and 10-minute alerts; preserve the receipt
-  before marking submitted.
+  prefilled and `No` is selected for SMS. Attach the targeted one-page resume;
+  then Piter reviews the communications/privacy notice and clicks `Apply Now`
+  only if accepted. Preserve the receipt before marking submitted.
 - [x] **Complete - Handshake / LearningMate:** Submitted the prepared resume
   and cover letter on August 3. Handshake displayed `Application submitted!`
   and `Applied on August 3, 2026`. Monitor for an employer response and confirm
@@ -165,9 +164,9 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 
 | Priority | Category | Item | Current status | Next action |
 | --- | --- | --- | --- | --- |
-| P0 | Financial aid | Fall 2026 Full-Time Equivalency | Adobe Sign shows all parties finished the FTE agreement on July 29. A confirmation and escalation message was sent August 3 asking RIT Aid and the program contact to verify Registrar processing and update aid. | Keep visible until Registrar processing and the aid update are confirmed. Review and escalate on **August 10, 9:00 AM** if no substantive response. |
-| P0 | Academic registration | [CSCI-739-01 Quantum Machine Learning audit](../../ADMIN/rit-fall-2026-csci739-audit.md) | The correct change is from standard letter grade to `audit`; DSCI-602 stays registered for credit. Professor Ryan Vogt received the permission request on August 3. | Check for a reply **August 10 at 2:00 PM**. Keep any next reply or follow-up in the same thread and CC Megan Lehman (`melics@rit.edu`); do not send a separate corrective email now. If approved, process the Add/Drop/Audit form **August 24 at 2:00 PM**. Hard deadline: **August 31**. Confirm tuition/FTE/aid treatment before final processing. |
-| P0 | Billing | Fall 2026 statement | Statement issued; payment due **2026-08-15** while aid remains dependent on FTE | Recheck eServices after the registration freeze lifts and after FTE is approved. Escalate to RIT Aid before the due date if aid is still missing. |
+| Complete | Financial aid | Fall 2026 Full-Time Equivalency | Megan Lehman confirmed on August 4 that the FTE was processed and Piter is enrolled full time | No further FTE escalation. Keep the amended aid offer and Fall bill as separate review items. |
+| P0 | Academic registration | [CSCI-739-01 Quantum Machine Learning audit](../../ADMIN/rit-fall-2026-csci739-audit.md) | Professor Ryan Vogt granted permission; Piter forwarded it to Megan, and Megan prepared the form with the email approval attached. All fields were reviewed; only Piter's electronic signature remains. | Sign during the **August 4, 3:15 PM** block. Verify the signed-form status **August 10 at 2:00 PM**, process during August 24-31, and confirm SIS shows CSCI-739 as `Audit` while DSCI-602 remains for credit. |
+| P0 | Financial aid / billing | Amended Fall 2026 aid offer and statement | RIT Aid confirmed on August 4 that the offer was amended after FTE processing. A thank-you reply was sent. Payment remains due **2026-08-15**. | Piter reviews the offer in eServices during the **August 4, 3:45 PM** block and makes the acceptance decisions. Verify accepted aid and the Fall bill on **August 10 at 3:00 PM**; escalate only if they do not reconcile. |
 | P0 | State aid | 2026-27 NYS Student Aid Payment Application | HESC email says the application was denied | Log in to HESC, capture the denial reason, and determine the correction or appeal path. Keep starred until resolved. |
 | P0 | Federal grant | TEACH Grant update | StudentAid.gov sent an update on 2026-07-01; the email does not state the result | Log in to StudentAid.gov and review `My Activity`. Star the message until the required action is known and completed. |
 | P1 | Federal loan | Direct PLUS Loan application | Submission confirmation received 2026-06-30; RIT cannot apply additional aid or loans until full-time enrollment/FTE is confirmed | No separate application action. Monitor through the FTE and RIT Aid follow-up. |
@@ -181,6 +180,8 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 | P0 | Job | [Onward Search Creative Project Manager](https://www.indeed.com/viewjob?jk=03b29d4ec5d73a0b) | Live remote AI/ML project-management contract at $45-$50/hour | Verify weekly hours and time zone, then prepare the project-management resume if compatible with Fall study. |
 | P0 | Job | [Jobot ML Solution Architect](https://jobot.com/details/ml-solution-architect/47904ae801) | Live remote role; strong fit but six-year requirement is a stretch | Prepare one architecture-focused resume, then obtain action-time confirmation before applying. |
 | P1 | Job | Diverse Lynx remote AI roles | One grouped screening reply was sent August 3 for the Senior .NET/Python/AI, AI Engineer/.NET, and AI Platform Architect roles; no resume was sent | Check once on August 10 for client, schedule, start date, authorization/sponsorship, travel/onsite, and interview details. The Irving hybrid role is closed through December. |
+| P0 | Job | SUS InfoTech Remote ML Research Engineer, req. 33913 | One reply was sent August 4 to the stronger of two duplicate recruiter messages. It confirms U.S. citizenship and remote availability through December and requests the end client, pay, engagement type, schedule, start date, and travel/onsite terms. | Wait for substantive terms before sending the targeted resume. Treat the second recruiter copy as a duplicate and do not send another screening response. |
+| Waiting / not advanced | PhD / research | KTH Machine Learning for Reliable Quantum Computing, PA-2026-1162 | KTH reported that the application did not advance to the next recruitment stage | No reply is due. Keep final closure pending the institution's filled-position notice. |
 | Closed | PhD / research | Uppsala ML for Precision Medicine and Diagnostics | Uppsala University canceled recruitment `UFV-PA 2026/1408` on July 27 | Institution-level cancellation, not applicant rejection; no appeal or follow-up remains. |
 | Closed | Project funding | MAGIC Maker Fall 2026 | Official application deadline was July 10 at 11:59 PM; no submission receipt was found | Record as missed/closed. Revisit only when a new official cycle opens. |
 
@@ -188,7 +189,7 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 
 | Priority | Category | Item | Current status | Next action |
 | --- | --- | --- | --- | --- |
-| P0 | Fellowship | UofR Fellowships Office advising | Forms have direct receipts; the offered August 6 at 1:15 PM time was accepted after a live-calendar check, with Zoom requested | Wait for confirmation and the meeting link. The 12:00 PM preparation block and 1:15 PM tentative hold are live. Discuss only officially verified, aligned awards. |
+| P0 | Fellowship | UofR Fellowships Office advising | Confirmed for **August 6, 1:15-2:15 PM by Zoom**; the official invitation was accepted and a confirmation reply was sent | Use the 12:00-12:45 PM preparation block. Watch for the Zoom link and discuss only officially verified, aligned awards. |
 | P0 | Job | [Recovery Audit Solutions Data Analytics and Web Development Intern](https://rochester.joinhandshake.com/job-search/11243659) | Remote, $20-$30/hour, 10 hours/week, August 15-December 15; submitted July 31; availability note sent August 3 | Check for a response on August 7; do not send a duplicate. |
 | P0 | Job | [Tech Rise Solutions Data Scientist](https://rochester.joinhandshake.com/job-search/11241730) | Remote, full-time, targeted at 2025/2026 master's graduates; submitted July 31 with the tailored resume and verified receipts | Check for a response on August 7 and confirm that any start date/hours fit the final semester. |
 | P0 | Career event | [HHS Navigating the Federal Hiring Process: USAJobs](https://rochester.joinhandshake.com/stu/events/1982973) | Wednesday, August 19, 2:00-3:00 PM EDT; official registration prefilled but not submitted | Piter completes self-identification, citizenship, and Microsoft-terms decisions; then submit and add to the RIT calendar. |
@@ -196,13 +197,14 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 | P0 | Teaching certification | [DASA and SAVE registrations](https://www.warner.rochester.edu/students/support/certification/workshops) | Corrected form is prefilled for both courses and uses `Purchase Order`; Warner pays the one-time registration fee | Piter supplies date of birth, final five SSN digits, CAPTCHA, and final submission. Finish both asynchronous courses within 30 days after credentials arrive. |
 | P0 | Degree completion | EDU486 July 31 poster session | Template email and existing course plan confirm a **2026-07-31, 1:30-3:00 PM** poster fair in LeChase 215. The accepted Fulbright meeting begins at 3:00 PM in Dewey Hall 4-209B. | Finish from the [existing EDU486 poster draft](https://github.com/pzg8794/EDU486/blob/main/assignments/04-poster-fair/poster-proposal-draft.md), arrange coverage, and leave by 2:45 PM. Keep the email starred until complete. |
 | P1 | Teaching development | [myHub 2026 Teaching Retreat](https://rochester.joinhandshake.com/stu/events/1956131) | Organizer approved full Monday-only attendance; registration is complete through the dietary/special-food question | Piter answers that health-sensitive field during the August 4, 2:00 PM review; then submit, preserve the receipt, calendar Monday, and send a thank-you. |
+| P1 | Degree completion | Warner Summer course evaluations | Official evaluation window closes **2026-08-14** | Complete the evaluations during the **August 11, 2:00-3:00 PM** calendar block. Secure login remains with Piter. |
 | Paused | Fellowship | [Fulbright Spain English Teaching Assistant](https://us.fulbrightonline.org/countries/europe-and-eurasia/spain/1768) | English-teaching and cultural-exchange assistantship; supporting science or technology classes taught in English does not make it a CS-teaching award | Attend the accepted July 31, 3:00-4:00 PM advising meeting, but do not submit this as the default route. Continue only with a specifically verified Study/Research or other aligned award. |
 | P0 | Job | [Health Data Max Clinical Business Analyst Intern](https://rochester.joinhandshake.com/job-search/11219848) | Remote/hybrid, $20-$30/hour, 30 hours/week; tailored resume, cover letter, and transcripts submitted July 27 | Check for a response on **August 3** and confirm workable semester hours during screening. Official deadline is **2026-08-16 at 11:59 PM**. |
 | Complete | Job | LearningMate Subject Matter Expert | Targeted resume and cover letter submitted August 3; live Handshake confirmation verified | Monitor for a response and confirm hours during screening. |
 | P0 | Job | Handshake AI Evaluation Specialist | Verified industry resume and all documented non-sensitive profile fields are complete | Piter reviews and accepts the Terms, Privacy Policy, and Contractor Agreement before `Next`, then completes government-ID verification. |
 | P1 | Health insurance / billing | [Fall health-insurance enrollment or waiver](https://www.rochester.edu/uhs/primary-care/mandatory-health-fee/health-insurance-for-full-time-students/) | Annual online process is mandatory for full-time students; final deadline is **2026-09-15** | Piter decides whether to enroll or waive with eligible coverage and completes the secure UHS process before automatic enrollment and billing. |
 | P1 | Account continuity | Handshake personal email | Personal email was added | Verify it from the personal Gmail inbox. |
-| P1 | Job application | [Carney, Sandoe & Associates 2027-2028 Teaching Fellowship](https://app.joinhandshake.com/jobs/11080650) | Recruiter directed Piter to the listing; a targeted one-page teaching resume is attached to the live application | Review and click `Submit Application` during the August 4, 2:00 PM block; preserve the receipt. |
+| Complete | Job application | [Carney, Sandoe & Associates 2027-2028 Teaching Fellowship](https://app.joinhandshake.com/jobs/11080650) | Submitted August 4 with the targeted teaching resume; Handshake and email receipts verified | Monitor for a response; no duplicate application or message is needed. |
 | P1 | Job follow-up | Solu, Stride, Cardinal Education, and Epic | Submitted, joined, or waiting as documented in the job pipeline; no unread employer reply was present on August 3 | Continue monitoring. Ampact and the current Brains & Motion role are closed for Fall 2026 after remote-work boundary responses. |
 | P1 | Career event | [NYS ITS virtual information session](https://rochester.joinhandshake.com/stu/events/1963665) | Registered for **2026-07-28, 10:00-10:30 AM EDT** | Join through Handshake five minutes early and note relevant public-service data/AI roles. |
 | P2 | Research event | Applied genomics seminar | Genomic biomarkers of aging seminar is **2026-07-27, noon-1:00 PM**, Wegmans Hall 1005 | Optional: attend only if it supports the bioinformatics/research path. No registration action was stated. |

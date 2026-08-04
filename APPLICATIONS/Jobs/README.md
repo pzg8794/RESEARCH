@@ -23,6 +23,7 @@ applications, recruiter conversations, and follow-up work.
 
 | File | Purpose |
 | --- | --- |
+| [August 4 School and Career Response Pass](./2026-08-04-school-career-response-pass.md) | Current RIT, UofR, Handshake, application, calendar, and user-review outcomes, including the CSCI-739 audit and amended aid offer |
 | [August 3 Afternoon Response Pass](./2026-08-03-afternoon-response-pass.md) | Verified Guidepoint, VDart, fellowships, Teaching Retreat, Carney, and New York Tech outcomes plus the remaining linked review queue |
 | [2026-07-31 UofR Opportunity Pass](./2026-07-31-uofr-opportunity-pass.md) | Verified Tech Rise and Recovery Audit Solutions applications, recruiter/program replies, supporter cleanup, HHS registration handoff, and mailbox actions |
 | [Email Action Queue](./school-email-action-queue.md) | Current cross-account career, funding, registration, financial, and follow-up todo list |

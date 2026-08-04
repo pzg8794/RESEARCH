@@ -20,20 +20,32 @@ bodies, phone numbers, or personal recruiter addresses.
 
 ## Refresh Status - 2026-08-04
 
-- Recovered Megan Lehman's July 29 registration instructions and verified the
-  exact target as **CSCI-739-01 Quantum Machine Learning**, class 14936, taught
-  online by Ryan Vogt. The correct status is `audit`, not observer; DSCI-602
-  remains registered for credit.
-- Sent Professor Vogt a written permission request from the RIT account on
-  August 3 and verified it in Sent Mail. The request explains the course's
-  connection to the current quantum-network thesis and asks for the approval
-  needed for the Add/Drop/Audit form.
-- Added RIT calendar safeguards for the August 10 reply check, August 24 form
-  processing, and August 31 hard deadline. The detailed public-safe record is
-  [RIT Fall 2026 CSCI-739 Audit](../../ADMIN/rit-fall-2026-csci739-audit.md).
+- Professor Ryan Vogt granted written permission to audit **CSCI-739-01
+  Quantum Machine Learning**, class 14936. Piter forwarded the approval to
+  Megan Lehman, who prepared the audit form and used the professor's email as
+  the instructor approval.
+- Reviewed all three audit-form pages. The correct term, program, course,
+  section, units, and `Audit` selection are present. Only Piter's electronic
+  signature remains; the form is not yet signed, processed, or visible in SIS.
+- Added a same-day signature block, changed the August 10 checkpoint to
+  signed-form verification, and retained the August 24-31 processing window.
+  The detailed record is [RIT Fall 2026 CSCI-739
+  Audit](../../ADMIN/rit-fall-2026-csci739-audit.md).
 - Before the audit is finalized, confirm its tuition, scholarship, FTE, and aid
   treatment. Official RIT materials state that audited courses carry no credit
   and do not count toward enrollment status.
+- Megan confirmed that the Fall 2026 Full-Time Equivalency was processed and
+  that Piter is enrolled full time. RIT Aid then confirmed that the aid offer
+  was amended. A thank-you and confirmation reply was sent to Amy Burgunder
+  and Megan; Piter still must review any acceptance choices in eServices.
+- Replied once to the stronger of two duplicate SUS InfoTech messages for
+  remote ML Research Engineer req. 33913. The reply confirms U.S. citizenship
+  and remote availability through December and asks for the client, pay,
+  engagement type, schedule, start date, and onsite or travel requirements
+  before a targeted resume is sent.
+- KTH reported that the Machine Learning for Reliable Quantum Computing
+  application, PA-2026-1162, did not advance to the next recruitment stage.
+  No reply is due; final closure remains pending KTH's filled-position notice.
 
 ## Refresh Status - 2026-08-03
 

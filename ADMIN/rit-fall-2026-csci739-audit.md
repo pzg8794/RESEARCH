@@ -2,7 +2,7 @@
 
 Last verified: 2026-08-04
 
-Status: **Waiting for instructor permission**
+Status: **Instructor approved; form reviewed and awaiting Piter's signature**
 
 This is a public-safe administrative record. It does not reproduce private
 email bodies, student identifiers, account balances, or financial-aid records.
@@ -26,13 +26,13 @@ registered for credit.
 
 ## Required Process
 
-1. Obtain Professor Vogt's written permission to audit CSCI-739-01.
-2. Keep every next message to Professor Vogt in the same Gmail thread and CC
-   academic advisor Megan Lehman (`melics@rit.edu`), whether the message is a
-   reply or a follow-up. Preserve the written permission for the registration
-   record.
-3. Complete the RIT Add/Drop/Audit form with the required approval/signature.
-4. Process the audit during the Fall 2026 add/drop period, August 24-31.
+1. **Complete:** Obtain Professor Vogt's written permission to audit
+   CSCI-739-01 and preserve it in the existing email thread.
+2. **Complete:** Forward the permission to academic advisor Megan Lehman
+   (`melics@rit.edu`) and have it included as the instructor approval.
+3. **Piter action:** Review and electronically sign the prepared audit form.
+4. **Advisor/Registrar action:** Process the signed audit during the Fall 2026
+   add/drop period, August 24-31.
 5. Verify in SIS that CSCI-739 shows `Audit` and DSCI-602 remains registered for
    credit.
 6. Confirm tuition, scholarship, FTE, and financial-aid treatment with the
@@ -47,17 +47,24 @@ registered for credit.
 - **2026-08-03:** Sent Professor Ryan Vogt the email `Request to Audit
   CSCI-739-01 (Quantum Machine Learning), Fall 2026` from the RIT account. The
   message was re-opened and verified in Sent Mail.
-- **Current state:** Waiting for Professor Vogt's response. Do not send a
-  separate corrective email just to add the CC, and do not send a duplicate
-  before the August 10 follow-up checkpoint. Any next message must stay in the
-  same thread and CC Megan Lehman (`melics@rit.edu`).
+- **2026-08-04:** Professor Vogt granted written permission. Piter forwarded
+  the approval to Megan, who prepared the audit form and included the
+  professor's email as the instructor approval.
+- **2026-08-04 form review:** All three pages were checked. The correct term,
+  academic plan, class, section, course, units, and `Audit` selection are
+  present. The financial-responsibility notice is visible. Only Piter's
+  electronic signature remains; the form has not been signed or processed.
+- **Current state:** Awaiting Piter's signature, then advisor and Registrar
+  processing. Permission, signature, Registrar processing, SIS display, and
+  aid treatment remain separate verification states.
 
 ## Calendar Safeguards
 
 | Date and time (EDT) | Action | Status |
 | --- | --- | --- |
-| 2026-08-10, 2:00-2:20 PM | Check for permission; keep any reply or follow-up in the same thread and CC Megan | Synced to RIT calendar with 1-day, 1-hour, and 10-minute reminders |
-| 2026-08-24, 2:00-2:30 PM | Send written permission to Megan and process the Add/Drop/Audit form | Synced to RIT calendar with 1-day, 1-hour, and 10-minute reminders |
+| 2026-08-04, 3:15-3:30 PM | Piter reviews and signs the prepared audit form | Synced to RIT calendar with 30-minute and 10-minute reminders |
+| 2026-08-10, 2:00-2:20 PM | Verify the signed audit-form status and resolve any correction | Synced to RIT calendar with layered reminders |
+| 2026-08-24, 2:00-2:30 PM | Process the signed Add/Drop/Audit form with Megan | Synced to RIT calendar with 1-day, 1-hour, and 10-minute reminders |
 | 2026-08-31, all day | Hard deadline to complete and verify the audit change | Synced to RIT calendar with 3-day and 1-day afternoon reminders |
 
 ## Official Sources

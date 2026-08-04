@@ -41,10 +41,12 @@ Calendar permits them.
 
 | Date and time (EDT) | Calendar title | Status | Source / action |
 | --- | --- | --- | --- |
-| 2026-08-04, 2:00-2:25 PM | REVIEW: Carney application + Teaching Retreat registration | Synced | Verify and submit the prepared [Carney application](https://app.joinhandshake.com/jobs/11080650), then answer the [Teaching Retreat](https://rochester.joinhandshake.com/stu/events/1956131/attendees/new) dietary/special-food question; 30-minute and 10-minute alerts |
+| 2026-08-04, 2:00-2:25 PM | REVIEW: Carney application + Teaching Retreat registration | Partly complete; synced | Carney was submitted and receipt-confirmed. The [Teaching Retreat](https://rochester.joinhandshake.com/stu/events/1956131/attendees/new) still needs Piter's dietary/special-food answer before submission. |
+| 2026-08-04, 3:15-3:30 PM | SIGN: RIT CSCI-739 audit form | Synced | All fields and the instructor approval were verified; only Piter's electronic signature remains; 30-minute and 10-minute alerts |
+| 2026-08-04, 3:45-4:15 PM | REVIEW: amended RIT financial aid offer | Synced | FTE is processed and RIT Aid says the amended offer is available in eServices. Piter reviews the offer and makes any acceptance decision; 30-minute and 10-minute alerts |
 | 2026-08-05, 12:00-4:00 PM | UofR Graduate Writing Retreat - Day 1 | Registered; RIT invitation accepted | Bring the RIT data-science thesis/manuscript; 1-day, 1-hour, and 10-minute alerts |
-| 2026-08-06, 12:00-1:00 PM | PREP: Fellowship advising appointment | Synced | Prepare only verified award requirements, deadlines, and Puzzle Plan fit; tentative 1:15 PM Zoom appointment pending confirmation |
-| 2026-08-06, 1:15-2:00 PM | TENTATIVE: UofR fellowship advising (Zoom) | Synced; awaiting office confirmation | Zoom requested to reduce travel and health burden; update the title and add the meeting link after confirmation |
+| 2026-08-06, 12:00-12:45 PM | PREP: Fulbright advising appointment | Synced | Prepare only verified award requirements, deadlines, funding, and Puzzle Plan fit; recovery gap protected before the meeting |
+| 2026-08-06, 1:15-2:15 PM | CONFIRMED: UofR Fulbright advising (Zoom) | Official invitation accepted; synced | Juliet confirmed the appointment and the response was sent. Watch the thread for the Zoom link; layered reminders are active. |
 | 2026-08-06, 5:30-6:00 PM | PREP: New York Tech Computer Science Ph.D. information session | Synced | Prepare assistantship-funding, faculty-fit, research, deadline, and application questions for the [Computer Science Ph.D.](https://www.nyit.edu/academics/degrees/computer-science-phd/) |
 | 2026-08-06, 6:00-7:00 PM | New York Tech Virtual Graduate Information Session | Registered; synced | Registration confirmed for Computer Science Ph.D., New York City, Fall 2027; one-day, one-hour, and ten-minute alerts |
 | 2026-08-07, 7:45-9:00 AM | PREP + TRAVEL: Financial Aid Appointment | RIT invitation accepted | Prepare visible student ID, review the verification email, travel to Wallis Hall, and arrive before 9:00 AM; 1-day, 2-hour, 30-minute, and 10-minute alerts |
@@ -52,9 +54,10 @@ Calendar permits them.
 | 2026-08-07, 10:00-11:00 AM | DEADLINE WORK BLOCK: LearningMate SME | Removed from both calendars after verified submission | Application was submitted and receipt-confirmed on August 3; no obsolete work block remains |
 | 2026-08-07, 12:00-4:00 PM | UofR Graduate Writing Retreat - Day 3 | Registered; RIT invitation accepted | Complete the retreat commitment; 1-day, 1-hour, and 10-minute alerts |
 | 2026-08-09, 6:00-6:20 PM | REVIEW - RIT parking permit readiness | Synced | Confirm local address, account balance, and whether a permit is needed before reserved/general sales open |
-| 2026-08-10, 9:00-10:00 AM | REVIEW + ESCALATE: RIT FTE, aid, and Fall bill | Synced | Confirm Registrar received the fully signed FTE, RIT Aid updated the award, and the Fall bill is correct before August 15; escalate the same day if unresolved; 1-day and 1-hour alerts |
 | 2026-08-10, 10:15-10:45 AM | FOLLOW UP: Diverse Lynx remote AI roles | Synced | Check for client, schedule, start date, authorization/sponsorship, travel/onsite, and interview details; no resume until terms are established; 1-day and 10-minute alerts |
-| 2026-08-10, 2:00-2:20 PM | FOLLOW UP: CSCI-739 audit permission | Synced | Check Professor Ryan Vogt's reply. Keep any next reply or follow-up in the same thread and CC Megan Lehman (`melics@rit.edu`); do not send a separate corrective email now. See the [registration record](../../ADMIN/rit-fall-2026-csci739-audit.md); 1-day, 1-hour, and 10-minute alerts |
+| 2026-08-10, 2:00-2:20 PM | VERIFY: CSCI-739 audit form status | Updated; synced | Professor Vogt approved and Megan prepared the form. Confirm the signed form was received or resolve any correction before the August 24-31 processing window. See the [registration record](../../ADMIN/rit-fall-2026-csci739-audit.md). |
+| 2026-08-10, 3:00-3:30 PM | VERIFY: RIT aid acceptance + Fall bill | Updated; synced | FTE processing and the aid amendment are confirmed. Verify Piter's aid selections and the resulting Fall bill before August 15; escalate only if they do not reconcile. |
+| 2026-08-11, 2:00-3:00 PM | COMPLETE: Warner Summer course evaluations | Synced | Complete the evaluations before the official August 14 close; 1-day, 1-hour, and 10-minute alerts |
 | 2026-08-12, 9:00-9:45 AM | SECURITY REVIEW: identify GitHub deletion process | Synced | Identify the external `python-requests` process that used the expired token; do not regenerate it until the process is constrained; 1-day and 1-hour alerts |
 | 2026-08-12, 10:00-10:30 AM | ACTION: Buy RIT general parking permit | Synced | Use the [MyParking Portal](https://rit.t2hosted.com/Account/Portal); verify address, zero balance, and license plate. The official email gave no launch time; 1-day and 1-hour alerts |
 | 2026-08-15, all day | DEADLINE - RIT Fall statement | Synced | Recheck billing after FTE and aid updates |
@@ -94,18 +97,24 @@ Calendar permits them.
   two hours, and ten minutes.
 - [x] Moved the missed August 3 Jobot review to 6:30 PM and replaced its stale
   alerts with 30-minute and 10-minute reminders.
-- [x] Added the August 4 afternoon Carney/Teaching Retreat review with direct
-  links and 30-minute and 10-minute reminders.
-- [x] Added the August 6 fellowship preparation and tentative Zoom holds after
-  checking the live calendar; the appointment still awaits office confirmation.
+- [x] Added the August 4 afternoon Carney/Teaching Retreat review. Carney is
+  now submitted and receipt-confirmed; the Teaching Retreat dietary answer is
+  the only remaining registration field.
+- [x] Added the August 4 CSCI-739 signature and amended-aid review blocks with
+  30-minute and 10-minute reminders.
+- [x] Replaced the tentative August 6 fellowship hold with the accepted
+  1:15-2:15 PM official Zoom invitation and a 12:00-12:45 PM preparation block.
 - [x] Registered for the August 6 New York Tech virtual graduate session and
   added both the 5:30 PM preparation block and 6:00 PM event with layered
   reminders.
-- [x] Added the August 10 FTE/aid/bill escalation and Diverse Lynx follow-up,
-  each with source context and multiple alerts.
-- [x] Added and live-verified the CSCI-739 audit checkpoints on August 10 and
-  August 24 plus the August 31 hard deadline. The RIT calendar search returns
-  all three entries with the intended times and layered reminders.
+- [x] Replaced the August 10 FTE escalation after RIT confirmed full-time
+  processing. The remaining 3:00 PM checkpoint verifies aid acceptance and the
+  Fall bill; the Diverse Lynx follow-up remains at 10:15 AM.
+- [x] Updated the August 10 CSCI-739 checkpoint from permission follow-up to
+  signed-form verification. The August 24 processing block and August 31 hard
+  deadline remain live.
+- [x] Added the August 11 Warner Summer course-evaluation block before the
+  August 14 close.
 - [x] Added the August 12 GitHub security review and RIT general-permit action;
   both avoid Tuesday/Thursday and include one-day and one-hour alerts.
 - [ ] Complete the HHS USAJobs registration, then add the August 19,
