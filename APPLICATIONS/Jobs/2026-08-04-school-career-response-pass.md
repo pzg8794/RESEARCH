@@ -27,9 +27,9 @@ email response:
    `No` or `Yes: [details]`; then the form can be submitted and the receipt
    preserved.
 4. **Finish the Jobot Senior AI/ML Engineer handoff:** The live form has the
-   documented contact fields and `No` for SMS. The targeted resume still needs
-   to be attached and Piter must review the communications and privacy notice
-   before the final `Apply Now` action.
+   documented contact fields, `No` for SMS, and the verified targeted resume
+   attachment. Piter must review the communications and privacy notice before
+   the final `Apply Now` action.
 
 ## Completed Today
 
