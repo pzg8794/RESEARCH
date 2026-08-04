@@ -23,6 +23,7 @@ applications, recruiter conversations, and follow-up work.
 
 | File | Purpose |
 | --- | --- |
+| [Preparation Center](../../PREPARATION/README.md) | Meeting and application preparation kits, shared career evidence, review timing, and post-meeting records |
 | [August 4 School and Career Response Pass](./2026-08-04-school-career-response-pass.md) | Current RIT, UofR, Handshake, application, calendar, and user-review outcomes, including the CSCI-739 audit and amended aid offer |
 | [August 3 Afternoon Response Pass](./2026-08-03-afternoon-response-pass.md) | Verified Guidepoint, VDart, fellowships, Teaching Retreat, Carney, and New York Tech outcomes plus the remaining linked review queue |
 | [2026-07-31 UofR Opportunity Pass](./2026-07-31-uofr-opportunity-pass.md) | Verified Tech Rise and Recovery Audit Solutions applications, recruiter/program replies, supporter cleanup, HHS registration handoff, and mailbox actions |
@@ -56,6 +57,11 @@ applications, recruiter conversations, and follow-up work.
 7. Prefer afternoons and Zoom when possible. Tuesdays and Thursdays are no
    longer blanket exclusions; check the live calendar and protect preparation,
    recovery, and travel time before accepting an appointment.
+8. Keep at least one full calendar day between a new meeting request and the
+   meeting. Use a same-day time only when no workable alternative exists and
+   Piter explicitly accepts it.
+9. Link every active recruiter screen, interview, advising meeting, and
+   high-stakes appointment to a preparation kit before confirming the time.
 
 ## Status Vocabulary
 

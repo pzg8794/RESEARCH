@@ -16,6 +16,9 @@ Calendar permits them.
 - Tuesdays and Thursdays are available again; check the live calendar for
   remote classes and other obligations before accepting a time.
 - Prefer Zoom when it reduces travel or health burden.
+- Keep at least one full calendar day between a new meeting request and the
+  meeting. Accept a same-day request only when no workable alternative exists
+  and Piter explicitly chooses it.
 - Keep fixed official deadlines on their true dates and add an earlier
   preparation or final-review block when needed.
 - Never schedule a critical appointment at the exact end of another obligation.
@@ -23,6 +26,9 @@ Calendar permits them.
   preparation block for high-stakes appointments.
 - Use multiple alerts: normally one day, two hours, thirty minutes, and ten
   minutes before the appointment.
+- Treat private health and family-care commitments as protected calendar time.
+  Keep the details private and preserve a transition and recovery buffer before
+  another high-stakes obligation.
 
 ## Immediate
 
@@ -42,7 +48,7 @@ Calendar permits them.
 | Date and time (EDT) | Calendar title | Status | Source / action |
 | --- | --- | --- | --- |
 | 2026-08-04, 2:00-2:25 PM | REVIEW: Carney application + Teaching Retreat registration | Partly complete; synced | Carney was submitted and receipt-confirmed. The [Teaching Retreat](https://rochester.joinhandshake.com/stu/events/1956131/attendees/new) still needs Piter's dietary/special-food answer before submission. |
-| 2026-08-04, 3:15-3:30 PM | SIGN: RIT CSCI-739 audit form | Synced | All fields and the instructor approval were verified; only Piter's electronic signature remains; 30-minute and 10-minute alerts |
+| 2026-08-04, 3:15-3:30 PM | SIGN: RIT CSCI-739 audit form | Completed | The final PDF carries a valid Adobe Acrobat Sign signature timestamped August 4 at 2:54 PM. Advisor/Registrar processing and SIS verification remain separate; 30-minute and 10-minute alerts were active. |
 | 2026-08-04, 3:45-4:15 PM | REVIEW: amended RIT financial aid offer | Synced | FTE is processed and RIT Aid says the amended offer is available in eServices. Piter reviews the offer and makes any acceptance decision; 30-minute and 10-minute alerts |
 | 2026-08-05, 12:00-4:00 PM | UofR Graduate Writing Retreat - Day 1 | Registered; RIT invitation accepted | Bring the RIT data-science thesis/manuscript; 1-day, 1-hour, and 10-minute alerts |
 | 2026-08-06, 12:00-12:45 PM | PREP: Fulbright advising appointment | Synced | Prepare only verified award requirements, deadlines, funding, and Puzzle Plan fit; recovery gap protected before the meeting |
@@ -103,6 +109,9 @@ Calendar permits them.
   the only remaining registration field.
 - [x] Added the August 4 CSCI-739 signature and amended-aid review blocks with
   30-minute and 10-minute reminders.
+- [x] Verified the downloaded CSCI-739 PDF carries a valid Adobe Acrobat Sign
+  signature timestamped August 4 at 2:54 PM. The August 10 checkpoint now
+  verifies advisor/Registrar receipt rather than asking Piter to sign again.
 - [x] Replaced the tentative August 6 fellowship hold with the accepted
   1:15-2:15 PM official Zoom invitation and a 12:00-12:45 PM preparation block.
 - [x] Registered for the August 6 New York Tech virtual graduate session and

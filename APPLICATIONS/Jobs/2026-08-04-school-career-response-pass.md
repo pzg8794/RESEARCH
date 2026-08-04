@@ -12,17 +12,12 @@ identifiers, health information, or secure form links.
 These are the only current actions that require Piter rather than another
 email response:
 
-1. **Sign the RIT CSCI-739 audit form:** Professor Ryan Vogt approved the
-   audit, Megan Lehman prepared the form, and all three pages were checked.
-   The course, section, audit selection, program, term, and instructor approval
-   are present. Only Piter's electronic signature remains. This is scheduled
-   for **August 4, 3:15-3:30 PM**.
-2. **Review the amended RIT financial-aid offer:** RIT confirmed that the
+1. **Review the amended RIT financial-aid offer:** RIT confirmed that the
    Full-Time Equivalency was processed and the aid offer was amended. The
    signed-in eServices tab is ready for Piter's password/MFA and financial
    review. Do not treat an amended offer as accepted. This is scheduled for
    **August 4, 3:45-4:15 PM**.
-3. **Answer one Teaching Retreat question:** The Monday-only registration is
+2. **Answer one Teaching Retreat question:** The Monday-only registration is
    complete through the dietary or special-food question. Piter provides only
    `No` or `Yes: [details]`; then the form can be submitted and the receipt
    preserved.
@@ -35,7 +30,10 @@ email response:
   Megan Lehman. Review and acceptance decisions remain with Piter.
 - **CSCI-739 audit:** Professor Ryan Vogt granted written permission. Piter
   forwarded the approval to Megan, who prepared the audit form using the
-  professor's email as approval. The form was reviewed but not signed.
+  professor's email as approval. The form was reviewed, signed, and downloaded.
+  The PDF carries a valid Adobe Acrobat Sign signature timestamped August 4 at
+  2:54 PM. Advisor/Registrar processing, SIS display, and aid treatment remain
+  separate verification states.
 - **Fulbright advising:** Juliet Sullivan confirmed the rescheduled Zoom
   appointment for **Thursday, August 6, 1:15-2:15 PM**. The official
   invitation was accepted, the reply was sent, and the calendar now includes
@@ -48,8 +46,11 @@ email response:
   and a three-part evidence-based elevator pitch. Jobot displayed
   `Application Received!`, and the automated interview was completed using
   only documented machine-learning, AI, Python, and .NET experience. Azure,
-  RAG, and other unsupported platform claims were left unselected. Check once
-  for Jobot Pro Charles Simmons on **August 11**; do not submit again.
+  RAG, and other unsupported platform claims were left unselected. Recruiter
+  Jeni requested an 8-12 minute screening. A same-day time was declined and
+  later Thursday/Friday afternoon windows were offered under the preparation
+  rule. Wait for one exact time, recheck the live calendar, and use the
+  [Jobot preparation kit](../../PREPARATION/applications/2026-08-04-jobot-senior-ai-ml-engineer.md).
 - **Remote ML Research Engineer:** Replied once to the stronger of two
   duplicate recruiter messages. The response confirms U.S. citizenship and
   remote availability through December and requests the end client, pay,
