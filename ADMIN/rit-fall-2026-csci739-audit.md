@@ -27,7 +27,10 @@ registered for credit.
 ## Required Process
 
 1. Obtain Professor Vogt's written permission to audit CSCI-739-01.
-2. Preserve the written reply and provide it to academic advisor Megan Lehman.
+2. Keep every next message to Professor Vogt in the same Gmail thread and CC
+   academic advisor Megan Lehman (`melics@rit.edu`), whether the message is a
+   reply or a follow-up. Preserve the written permission for the registration
+   record.
 3. Complete the RIT Add/Drop/Audit form with the required approval/signature.
 4. Process the audit during the Fall 2026 add/drop period, August 24-31.
 5. Verify in SIS that CSCI-739 shows `Audit` and DSCI-602 remains registered for
@@ -45,13 +48,15 @@ registered for credit.
   CSCI-739-01 (Quantum Machine Learning), Fall 2026` from the RIT account. The
   message was re-opened and verified in Sent Mail.
 - **Current state:** Waiting for Professor Vogt's response. Do not send a
-  duplicate before the August 10 follow-up checkpoint.
+  separate corrective email just to add the CC, and do not send a duplicate
+  before the August 10 follow-up checkpoint. Any next message must stay in the
+  same thread and CC Megan Lehman (`melics@rit.edu`).
 
 ## Calendar Safeguards
 
 | Date and time (EDT) | Action | Status |
 | --- | --- | --- |
-| 2026-08-10, 2:00-2:20 PM | Check for permission; send one concise follow-up only if there is no reply | Synced to RIT calendar with 1-day, 1-hour, and 10-minute reminders |
+| 2026-08-10, 2:00-2:20 PM | Check for permission; keep any reply or follow-up in the same thread and CC Megan | Synced to RIT calendar with 1-day, 1-hour, and 10-minute reminders |
 | 2026-08-24, 2:00-2:30 PM | Send written permission to Megan and process the Add/Drop/Audit form | Synced to RIT calendar with 1-day, 1-hour, and 10-minute reminders |
 | 2026-08-31, all day | Hard deadline to complete and verify the audit change | Synced to RIT calendar with 3-day and 1-day afternoon reminders |
 
