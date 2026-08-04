@@ -26,11 +26,6 @@ email response:
    complete through the dietary or special-food question. Piter provides only
    `No` or `Yes: [details]`; then the form can be submitted and the receipt
    preserved.
-4. **Finish the Jobot Senior AI/ML Engineer handoff:** The live form has the
-   documented contact fields, `No` for SMS, and the verified targeted resume
-   attachment. Piter must review the communications and privacy notice before
-   the final `Apply Now` action.
-
 ## Completed Today
 
 - **RIT Full-Time Equivalency:** Megan Lehman confirmed that processing is
@@ -48,6 +43,13 @@ email response:
 - **Carney, Sandoe & Associates:** The 2027-2028 Teaching Fellowship
   application was submitted with the targeted teaching resume. Handshake and
   the email receipt both show **Applied on August 4, 2026**.
+- **Jobot Senior AI/ML Engineer:** The 100% remote application was submitted
+  with the current targeted resume, `No` for SMS, a completed Jobot profile,
+  and a three-part evidence-based elevator pitch. Jobot displayed
+  `Application Received!`, and the automated interview was completed using
+  only documented machine-learning, AI, Python, and .NET experience. Azure,
+  RAG, and other unsupported platform claims were left unselected. Check once
+  for Jobot Pro Charles Simmons on **August 11**; do not submit again.
 - **Remote ML Research Engineer:** Replied once to the stronger of two
   duplicate recruiter messages. The response confirms U.S. citizenship and
   remote availability through December and requests the end client, pay,

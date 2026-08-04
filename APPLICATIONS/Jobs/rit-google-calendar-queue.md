@@ -35,7 +35,7 @@ Calendar permits them.
 | 2026-08-02, 3:30-7:00 PM | URGENT: Finish Fellowship Forms | Saved on UofR calendar; RIT invitation sent | Complete both [fellowship intake forms](../Fellowships/2026-08-02-fellowship-recovery.md); 30-minute and 10-minute alerts |
 | 2026-08-03, 7:30-9:00 AM | DEADLINE 9 AM: Fellowship Forms + Juliet Follow-Up | Saved on UofR calendar; RIT invitation sent | Final check, submit both forms, preserve receipts, then send recovery reply; 12-hour, 2-hour, and 30-minute alerts |
 | 2026-08-03, 10:00-10:45 AM | REVIEW: Career Application Responses | Saved on UofR calendar; RIT invitation sent | Check Guidepoint, VDart, Health Data Max, Tech Rise, Recovery Audit Solutions, and Handshake only after fellowship receipts and follow-up are complete; 1-hour, 30-minute, and 10-minute alerts |
-| 2026-08-03, 6:30-6:50 PM | FINAL REVIEW + SUBMIT: Jobot Senior AI/ML Engineer | Moved from missed morning block; synced | Prefilled application and targeted resume are ready; review the communications/privacy notice and click `Apply Now` only if accepted; 30-minute and 10-minute alerts |
+| 2026-08-03, 6:30-6:50 PM | FINAL REVIEW + SUBMIT: Jobot Senior AI/ML Engineer | Superseded; application submitted August 4 | Jobot displayed `Application Received!` after the current resume, profile, elevator pitch, and automated interview were completed. Do not submit again. |
 
 ## August and Later
 
@@ -58,6 +58,7 @@ Calendar permits them.
 | 2026-08-10, 2:00-2:20 PM | VERIFY: CSCI-739 audit form status | Updated; synced | Professor Vogt approved and Megan prepared the form. Confirm the signed form was received or resolve any correction before the August 24-31 processing window. See the [registration record](../../ADMIN/rit-fall-2026-csci739-audit.md). |
 | 2026-08-10, 3:00-3:30 PM | VERIFY: RIT aid acceptance + Fall bill | Updated; synced | FTE processing and the aid amendment are confirmed. Verify Piter's aid selections and the resulting Fall bill before August 15; escalate only if they do not reconcile. |
 | 2026-08-11, 2:00-3:00 PM | COMPLETE: Warner Summer course evaluations | Synced | Complete the evaluations before the official August 14 close; 1-day, 1-hour, and 10-minute alerts |
+| 2026-08-11, 3:15-3:35 PM | FOLLOW UP: Jobot Senior AI/ML Engineer | Created on RIT primary calendar | Check Jobot and RIT email for Jobot Pro Charles Simmons; do not submit a duplicate; 1-day, 1-hour, and 10-minute alerts |
 | 2026-08-12, 9:00-9:45 AM | SECURITY REVIEW: identify GitHub deletion process | Synced | Identify the external `python-requests` process that used the expired token; do not regenerate it until the process is constrained; 1-day and 1-hour alerts |
 | 2026-08-12, 10:00-10:30 AM | ACTION: Buy RIT general parking permit | Synced | Use the [MyParking Portal](https://rit.t2hosted.com/Account/Portal); verify address, zero balance, and license plate. The official email gave no launch time; 1-day and 1-hour alerts |
 | 2026-08-15, all day | DEADLINE - RIT Fall statement | Synced | Recheck billing after FTE and aid updates |

@@ -78,11 +78,12 @@ bodies, phone numbers, or personal recruiter addresses.
   requests the end client, hours and time zone, start date, interview process,
   authorization or sponsorship terms, and travel or onsite requirements. No
   resume was sent.
-- Verified the live [Jobot Senior AI/ML Engineer
-  application](https://jobot.com/apply/senior-ai-ml-engineer/d261bced01),
-  prefilled the documented contact fields, selected `No` for SMS, and attached
-  the targeted one-page resume. The communications/privacy notice and final
-  `Apply Now` click remain applicant-controlled.
+- Submitted the live [Jobot Senior AI/ML Engineer
+  application](https://jobot.com/apply/senior-ai-ml-engineer/d261bced01)
+  with the current targeted one-page resume, `No` for SMS, a completed profile,
+  and a three-part elevator pitch. Jobot displayed `Application Received!`.
+  The automated interview was completed using only documented professional
+  skills; Azure, RAG, and unsupported platform claims were left unselected.
 - Uppsala University canceled recruitment `UFV-PA 2026/1408` for the PhD in
   machine learning for data-driven precision medicine and diagnostics. This is
   an institution-level cancellation, not an applicant rejection, and no appeal
@@ -167,7 +168,7 @@ bodies, phone numbers, or personal recruiter addresses.
 
 | Date processed | Opportunity | Fit and constraints | Action | Status / follow-up |
 | --- | --- | --- | --- | --- |
-| 2026-08-03 | [Jobot - Senior AI/ML Engineer](https://jobot.com/apply/senior-ai-ml-engineer/d261bced01) | 100% remote in the United States; $140,000-$180,000; strong Python, ML, public-service automation, and systems fit. Azure AI Search, RAG, and RLHF production depth are stretch areas. | Prefilled the live form, selected `No` for SMS, and attached the targeted [resume](./application-materials/2026-08-03-jobot-senior-ai-ml-engineer-resume.pdf). | **Final legal handoff.** The form is not submitted. Review the communications/privacy notice and click `Apply Now` only if accepted; a calendar block is set for August 3 at 11:00 AM. |
+| 2026-08-04 | [Jobot - Senior AI/ML Engineer](https://jobot.com/apply/senior-ai-ml-engineer/d261bced01) | 100% remote in the United States; $140,000-$180,000; strong Python, ML, public-service automation, and systems fit. Azure AI Search, RAG, and RLHF production depth are stretch areas. | Submitted with the current targeted [resume](./application-materials/2026-08-03-jobot-senior-ai-ml-engineer-resume.pdf), completed profile, evidence-based elevator pitch, and automated interview. | **Submitted / receipt confirmed.** Jobot displayed `Application Received!`. Check once for Jobot Pro Charles Simmons on August 11; do not submit again. |
 | 2026-08-03 | Diverse Lynx - three remote AI roles | The Senior .NET/Python/AI, AI Engineer/.NET, and AI Platform Architect roles may fit, but client and work terms are unverified. | Sent one grouped screening reply requesting client, schedule, start date, interview process, authorization or sponsorship, and travel/onsite requirements. No resume was sent. | **Waiting.** Check once on August 10. The separate Irving hybrid role is closed through December. |
 | 2026-07-27 | Carman International Fellowship | One-year international disability-services placement that was misclassified as the intended research opportunity | Sent requests on July 27, then sent correction replies to all three recommenders on July 29 | **Closed.** No letter, acknowledgment, eligibility inquiry, application, reminder, or receipt check remains |
 | 2026-07-27 | VDart - Data Scientist, AWS AI/ML and Advanced Analytics | Remote is advertised, but client, schedule, compensation, travel, and work terms remain unverified | Verified the existing July 23 sent reply already requests the client, pay, schedule, travel, and authorization details | **Waiting.** Do not duplicate the message; check once on August 3 and close if there is no substantive answer |
@@ -215,10 +216,11 @@ bodies, phone numbers, or personal recruiter addresses.
 
 ## Operational Notes
 
-- The Jobot Senior AI/ML Engineer form is open in the in-app browser. The
-  contact fields, `No` SMS choice, and resume attachment are complete; only
-  review of the communications/privacy notice and the final `Apply Now` click
-  remain. Do not mark submitted without a receipt.
+- The Jobot Senior AI/ML Engineer application and automated interview are
+  complete. `Application Received!` is the verified receipt state. Monitor for
+  Jobot Pro Charles Simmons and check once on August 11; do not submit again.
+  A 3:15-3:35 PM follow-up block is saved on the RIT primary calendar with
+  1-day, 1-hour, and 10-minute reminders.
 - The VDart message stays in the pipeline as `Waiting`; do not send a resume
   until the recruiter answers the screening questions.
 - The grouped Diverse Lynx recruiter thread stays in `Awaiting Reply` until the

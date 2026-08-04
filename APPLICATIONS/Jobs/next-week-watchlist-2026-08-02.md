@@ -75,11 +75,10 @@ time, and multiple alerts.
   sent RIT Aid and the program contact an August 3 confirmation/escalation
   request. Review again August 10 if Registrar processing or aid is still not
   confirmed.
-- [ ] At **6:30-6:50 PM**, review the prefilled Jobot Senior AI/ML Engineer
-  application. The targeted resume is attached and `No` is selected for SMS;
-  read the communications/privacy notice, click `Apply Now` only if accepted,
-  and preserve the receipt. The missed morning block was moved to the evening
-  with 30-minute and 10-minute alerts.
+- [x] Submitted the Jobot Senior AI/ML Engineer application on August 4 with
+  the current targeted resume, `No` for SMS, completed profile, elevator pitch,
+  and automated interview. Jobot displayed `Application Received!`. Check once
+  for Jobot Pro Charles Simmons on August 11; do not submit again.
 - [x] Registered for New York Tech's August 6 Virtual Graduate Information
   Session using the Computer Science Ph.D., New York City, Fall 2027 selections.
   Added the session and a separate preparation block to the RIT calendar.

@@ -116,11 +116,11 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 - [ ] **P0 - Jobot:** Confirm transmission of contact information and the
   prepared resume, provide the correct ZIP code, select `No` for SMS, and
   submit the live Senior Data Scientist application.
-- [ ] **P0 - Jobot Senior AI/ML Engineer:** The live 100% remote application is
-  prefilled, `No` is selected for SMS, and the targeted one-page resume is
-  attached and verified. Piter reviews the communications/privacy notice and
-  clicks `Apply Now` only if accepted. Preserve the receipt before marking
-  submitted.
+- [x] **Complete - Jobot Senior AI/ML Engineer:** Submitted the 100% remote
+  application on August 4 with the current targeted resume, `No` for SMS, the
+  completed profile, elevator pitch, and automated interview. Jobot displayed
+  `Application Received!`. Check once for Jobot Pro Charles Simmons on August
+  11; do not submit again.
 - [x] **Complete - Handshake / LearningMate:** Submitted the prepared resume
   and cover letter on August 3. Handshake displayed `Application submitted!`
   and `Applied on August 3, 2026`. Monitor for an employer response and confirm
