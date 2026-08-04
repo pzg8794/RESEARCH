@@ -2,6 +2,42 @@
 
 This file applies to the entire `RESEARCH/` tree.
 
+## Account Access And Thread Handoff
+
+Before reporting that an account, mailbox, calendar, Drive file, portal, or
+application is unavailable, follow this routing process:
+
+1. Read `AGENTS.private.md` when it exists. It is a machine-local access map
+   and is intentionally ignored by Git. Never commit, upload, quote, or copy
+   its private account details into public repository files.
+2. Use the purpose-built connector first for Google Calendar, Google Drive,
+   Gmail, or GitHub when it is connected to the required account and supports
+   the operation.
+3. If a connector is disconnected, scoped to the wrong Google account, or
+   cannot reach the requested resource, use the already signed-in browser
+   session documented in `AGENTS.private.md`. Do not inspect cookies, local
+   storage, passwords, tokens, or browser credential stores.
+4. When the user identifies the in-app Browser or an existing tab, claim the
+   exact open tab instead of opening a duplicate. Confirm the visible account
+   badge before reading or acting. Gmail paths such as `/u/0` and `/u/1` are
+   session positions, not reliable account identities.
+5. Treat the RIT Google Calendar as the consolidated planning calendar. An
+   official invitation may remain on another institutional calendar; when a
+   reminder copy is needed, create a private RIT event that names the official
+   source and does not invite external attendees again.
+6. Keep account numbers, balances, medical details, identity documents,
+   credentials, private message bodies, and family information out of public
+   Git. Record only public-safe status, deadline, conflict, source class, and
+   next action. Family-account access is request-specific and must not create a
+   recurring watch unless the user explicitly asks for one.
+7. After browser work, close intermediate, duplicate, login, download, and
+   stale portal tabs. Keep only a page the user must review or a live handoff
+   that a later task must continue.
+
+Account-specific addresses, browser profiles, mounted Drive paths, and the
+verified routing table belong only in `AGENTS.private.md`. The public-safe
+email queues remain under `APPLICATIONS/Jobs/`.
+
 ## FORBIDDEN: DO NOT DELETE GIT REPOSITORIES
 
 Every agent must read and follow [`REPOSITORY_SAFETY.md`](./REPOSITORY_SAFETY.md).

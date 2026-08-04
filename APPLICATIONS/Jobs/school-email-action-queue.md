@@ -79,9 +79,11 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
   exclude repository-delete and administration permission. Review is
   calendared for **2026-08-12, 9:00 AM**.
 - [ ] **P0 - UofR / financial aid:** Complete the graduate/professional Direct
-  Loan Master Promissory Note and the required in-person identity
-  verification. The newest notice no longer lists the Aid Enrollment Plan.
-  The counselor has been asked for the correct in-person scheduling path.
+  Loan Master Promissory Note and attend the confirmed in-person identity
+  verification with Ashley Johnston on **Friday, August 7, 9:00-9:15 AM** at
+  Wallis Hall. The official UofR invitation is accepted; preparation/travel and
+  a private RIT reminder copy are calendared. Dad's 8:20-9:00 AM postoperative
+  visit overlaps the travel block, so confirm who will accompany Dad.
 - [ ] **P0 - UofR / teaching certification:** Finish the corrected DASA and
   SAVE form using `Purchase Order`; Warner's official instructions state that
   the school pays the one-time registration fee. Program, school, course, and
@@ -194,7 +196,7 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 | P0 | Job | [Recovery Audit Solutions Data Analytics and Web Development Intern](https://rochester.joinhandshake.com/job-search/11243659) | Remote, $20-$30/hour, 10 hours/week, August 15-December 15; submitted July 31; availability note sent August 3 | Check for a response on August 7; do not send a duplicate. |
 | P0 | Job | [Tech Rise Solutions Data Scientist](https://rochester.joinhandshake.com/job-search/11241730) | Remote, full-time, targeted at 2025/2026 master's graduates; submitted July 31 with the tailored resume and verified receipts | Check for a response on August 7 and confirm that any start date/hours fit the final semester. |
 | P0 | Career event | [HHS Navigating the Federal Hiring Process: USAJobs](https://rochester.joinhandshake.com/stu/events/1982973) | Wednesday, August 19, 2:00-3:00 PM EDT; official registration prefilled but not submitted | Piter completes self-identification, citizenship, and Microsoft-terms decisions; then submit and add to the RIT calendar. |
-| P0 | Financial aid | Direct Loan MPN and identity verification | The July 28 notice lists the graduate/professional Direct Loan MPN and in-person identity check; the Aid Enrollment Plan is no longer listed | Complete the [MPN](https://studentaid.gov/mpn/) after reviewing its legal terms, then follow the counselor's response for the in-person appointment. Keep starred until both are confirmed. |
+| P0 | Financial aid | Direct Loan MPN and identity verification | The graduate/professional Direct Loan MPN remains pending. The in-person identity-verification appointment with Ashley Johnston is confirmed for **August 7, 9:00-9:15 AM** at Wallis Hall; the official UofR invitation is accepted and a private RIT reminder copy is verified. | Complete the [MPN](https://studentaid.gov/mpn/) after reviewing its legal terms. Attend the appointment with the required identification, then verify that the financial-aid system records completion. Resolve the overlapping Dad-appointment travel plan before Friday. |
 | P0 | Teaching certification | [DASA and SAVE registrations](https://www.warner.rochester.edu/students/support/certification/workshops) | Corrected form is prefilled for both courses and uses `Purchase Order`; Warner pays the one-time registration fee | Piter supplies date of birth, final five SSN digits, CAPTCHA, and final submission. Finish both asynchronous courses within 30 days after credentials arrive. |
 | P0 | Degree completion | EDU486 July 31 poster session | Template email and existing course plan confirm a **2026-07-31, 1:30-3:00 PM** poster fair in LeChase 215. The accepted Fulbright meeting begins at 3:00 PM in Dewey Hall 4-209B. | Finish from the [existing EDU486 poster draft](https://github.com/pzg8794/EDU486/blob/main/assignments/04-poster-fair/poster-proposal-draft.md), arrange coverage, and leave by 2:45 PM. Keep the email starred until complete. |
 | P1 | Teaching development | [myHub 2026 Teaching Retreat](https://rochester.joinhandshake.com/stu/events/1956131) | Organizer approved full Monday-only attendance; registration is complete through the dietary/special-food question | Piter answers that health-sensitive field during the August 4, 2:00 PM review; then submit, preserve the receipt, calendar Monday, and send a thank-you. |

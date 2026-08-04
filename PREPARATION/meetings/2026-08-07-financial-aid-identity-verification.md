@@ -9,12 +9,18 @@ account numbers, balances, and private financial records out of this file.
 
 - Friday, August 7, 9:00 AM EDT
 - In person at Wallis Hall
+- With Ashley Johnston, Assistant Director, University of Rochester Financial
+  Aid Office
 - Protected preparation and travel block begins at 7:45 AM
+- The official invitation is accepted on the UofR calendar. A private reminder
+  copy is also on the RIT calendar.
+- Dad's 8:20-9:00 AM postoperative visit overlaps the preparation and travel
+  block. Confirm who will accompany Dad before Friday.
 
 ## Bring Privately
 
 - The exact unexpired photo identification required by the appointment email
-- RIT student identification if requested
+- University of Rochester student identification if requested
 - The appointment email available on the phone
 - Any form the office specifically asked Piter to bring
 - A secure way to note the staff member, completion status, and next step
@@ -46,4 +52,3 @@ Record separately:
 - Save the public-safe outcome in the RIT email/action tracker without copying
   identifiers, balances, or private documents.
 - Do not accept loans or make a financial commitment without Piter's review.
-

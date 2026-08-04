@@ -12,3 +12,6 @@
 # macOS
 .DS_Store
 Icon
+
+# Machine-local account routing; never commit account-access details
+AGENTS.private.md

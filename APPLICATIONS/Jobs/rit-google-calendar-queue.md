@@ -55,8 +55,8 @@ Calendar permits them.
 | 2026-08-06, 1:15-2:15 PM | CONFIRMED: UofR Fulbright advising (Zoom) | Official invitation accepted; synced | Juliet confirmed the appointment and the response was sent. Watch the thread for the Zoom link; layered reminders are active. |
 | 2026-08-06, 5:30-6:00 PM | PREP: New York Tech Computer Science Ph.D. information session | Synced | Prepare assistantship-funding, faculty-fit, research, deadline, and application questions for the [Computer Science Ph.D.](https://www.nyit.edu/academics/degrees/computer-science-phd/) |
 | 2026-08-06, 6:00-7:00 PM | New York Tech Virtual Graduate Information Session | Registered; synced | Registration confirmed for Computer Science Ph.D., New York City, Fall 2027; one-day, one-hour, and ten-minute alerts |
-| 2026-08-07, 7:45-9:00 AM | PREP + TRAVEL: Financial Aid Appointment | RIT invitation accepted | Prepare visible student ID, review the verification email, travel to Wallis Hall, and arrive before 9:00 AM; 1-day, 2-hour, 30-minute, and 10-minute alerts |
-| 2026-08-07, 9:00-9:15 AM | In-person identity verification appointment for 2026-27 aid | Official invitation accepted; alerts strengthened | Wallis Hall; arrive early with visible student ID; one-day, two-hour, and ten-minute alerts |
+| 2026-08-07, 7:45-9:00 AM | PREP + TRAVEL: Financial Aid Appointment | RIT invitation accepted | Prepare University of Rochester student ID and the required identity document, review the verification email, travel to Wallis Hall, and arrive before 9:00 AM. Dad's 8:20-9:00 AM postoperative visit overlaps this block; 1-day, 2-hour, 30-minute, and 10-minute alerts |
+| 2026-08-07, 9:00-9:15 AM | CONFIRMED IN PERSON: Ashley Johnston - financial aid identity verification | Official UofR invitation accepted; private RIT reminder copy verified | Wallis Hall; arrive early with the required identification. The RIT copy has one-day, two-hour, 30-minute, and ten-minute alerts and links to the preparation kit |
 | 2026-08-07, 10:00-11:00 AM | DEADLINE WORK BLOCK: LearningMate SME | Removed from both calendars after verified submission | Application was submitted and receipt-confirmed on August 3; no obsolete work block remains |
 | 2026-08-07, 12:00-4:00 PM | UofR Graduate Writing Retreat - Day 3 | Registered; RIT invitation accepted | Complete the retreat commitment; 1-day, 1-hour, and 10-minute alerts |
 | 2026-08-09, 6:00-6:20 PM | REVIEW - RIT parking permit readiness | Synced | Confirm local address, account balance, and whether a permit is needed before reserved/general sales open |
@@ -102,6 +102,9 @@ Calendar permits them.
   schedule, not as a workable transition.
 - [x] Strengthened the August 7 financial-aid appointment reminders to one day,
   two hours, and ten minutes.
+- [x] Added and verified the missing private RIT reminder copy for the August 7,
+  9:00-9:15 AM Ashley Johnston appointment at Wallis Hall. The official
+  accepted invitation remains on the UofR calendar.
 - [x] Moved the missed August 3 Jobot review to 6:30 PM and replaced its stale
   alerts with 30-minute and 10-minute reminders.
 - [x] Added the August 4 afternoon Carney/Teaching Retreat review. Carney is

@@ -174,7 +174,7 @@
   onsite teaching digest, and duplicate recruiter email. The HHS message stays
   starred until registration is complete.
 
-Last updated: 2026-07-29
+Last updated: 2026-08-04
 
 ## Refresh Status - 2026-07-28
 
@@ -198,6 +198,11 @@ Last updated: 2026-07-29
 - The available counselor scheduler offered only phone/Zoom and no open
   appointment. A direct email was sent asking how to schedule the required
   in-person identity verification, with Monday/Wednesday/Friday availability.
+- **Resolved August 4:** the in-person identity-verification appointment with
+  Ashley Johnston is confirmed for **Friday, August 7, 9:00-9:15 AM** at Wallis
+  Hall. The official UofR invitation is accepted. The RIT calendar now has a
+  7:45-9:00 AM preparation/travel block and a private 9:00-9:15 AM reminder
+  copy. Dad's 8:20-9:00 AM postoperative visit overlaps the travel block.
 - Handshake AI now contains the verified industry resume and completed
   professional profile. Legal agreements and government-ID verification remain
   direct applicant handoffs.
@@ -322,8 +327,9 @@ the queue of unfinished work. Do not remove importance metadata automatically.
 | 2026-07-31 | Zen Borys | EDU486 poster support | Verified that Piter had already thanked him; removed the completed star and stale `To respond` label and archived the thread | **Complete.** No additional message needed |
 | 2026-07-28 | Student Fellowships Office | Fulbright advising appointment | Corrected the earlier scheduling messages; accepted the official invitation for Friday, July 31, 3:00-4:00 PM EDT in Dewey Hall 4-209B | **Confirmed.** Attend after the EDU486 poster fair and ask the office to identify and verify a genuinely aligned award before any application or recommendation work |
 | 2026-08-03 | Student Fellowships Office | NSF-GRFP recording and eligibility review | Opened the shared 47-minute recording and checked the current NSF 25-547 graduate-status rules | **Closed / ineligible.** Piter's completed 2015 M.S. and current graduate enrollment fall outside the first-year-of-first-graduate-program requirement; no application or further reply |
+| 2026-08-04 | University of Rochester Financial Aid / Ashley Johnston | In-person identity verification appointment | Verified the accepted UofR invitation for Friday, August 7, 9:00-9:15 AM at Wallis Hall; added the missing private reminder copy to the RIT calendar and retained the 7:45-9:00 AM preparation/travel block | **Confirmed / P0.** Bring the required identification, resolve the overlapping Dad-appointment travel plan, attend, and verify that the financial-aid system records completion. The Direct Loan MPN remains a separate action |
 | 2026-07-28 | Student Fellowships Office | NSF-GRFP session conflict | Sent a request for the recording, slides, or eligibility materials because Thursday class prevents live attendance | **Resolved 2026-08-03.** Recording received and current eligibility checked; live calendar event remains removed |
-| 2026-07-28 | University of Rochester Financial Aid | Current missing documents | Verified that the Direct Loan MPN and in-person identity verification are the only currently listed requirements; asked the counselor for the correct in-person scheduling path | **P0 / secure handoff.** Complete the [graduate/professional Direct Loan MPN](https://studentaid.gov/mpn/) and follow the counselor's in-person appointment instructions |
+| 2026-07-28 | University of Rochester Financial Aid | Current missing documents | Verified that the Direct Loan MPN and in-person identity verification are the only currently listed requirements; the later Ashley Johnston appointment resolved the scheduling request | **Superseded in part 2026-08-04.** Complete the [graduate/professional Direct Loan MPN](https://studentaid.gov/mpn/); the identity-verification appointment is confirmed for August 7 |
 | 2026-07-28 | Handshake AI Team | Profile completion | Uploaded the verified industry resume and completed Computer Science, Machine Learning, Data Scientist, RIT, master's, 2026, LinkedIn, United States, New York, and Handshake-source fields | **P0 / legal and identity handoff.** Review and accept the Terms, Privacy Policy, and Contractor Agreement before `Next`, then complete government-ID verification |
 | 2026-07-27 | Handshake / Health Data Max | Clinical Business Analyst Intern | Submitted the [complete targeted packet](./application-materials/2026-07-27-health-data-max-packet.md), including resume, cover letter, and unofficial transcripts; verified Handshake's confirmation | **Submitted.** Check for an employer response on August 3 and confirm workable semester hours during screening |
 | 2026-07-27 | NYS Office of Information Technology Services / Handshake | Virtual Information Session: Explore Careers in NYS Information Technology Services | Registered for the 2026-07-28, 10:00-10:30 AM EDT virtual session; Handshake displayed `You're registered!` | **Registered.** Join through Handshake five minutes before the event |
