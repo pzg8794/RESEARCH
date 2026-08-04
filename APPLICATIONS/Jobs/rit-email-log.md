@@ -1,6 +1,6 @@
 # RIT Career Email Log
 
-Last updated: 2026-08-03
+Last updated: 2026-08-04
 
 This is the public-safe record of job and career messages processed from the
 RIT Gmail account. It stores decisions and follow-up dates, not private message
@@ -17,6 +17,23 @@ bodies, phone numbers, or personal recruiter addresses.
   or health burden.
 - Priority fields are data science, AI/ML, quantum computing, research
   engineering, bioinformatics, inclusive CS teaching, and education technology.
+
+## Refresh Status - 2026-08-04
+
+- Recovered Megan Lehman's July 29 registration instructions and verified the
+  exact target as **CSCI-739-01 Quantum Machine Learning**, class 14936, taught
+  online by Ryan Vogt. The correct status is `audit`, not observer; DSCI-602
+  remains registered for credit.
+- Sent Professor Vogt a written permission request from the RIT account on
+  August 3 and verified it in Sent Mail. The request explains the course's
+  connection to the current quantum-network thesis and asks for the approval
+  needed for the Add/Drop/Audit form.
+- Added RIT calendar safeguards for the August 10 reply check, August 24 form
+  processing, and August 31 hard deadline. The detailed public-safe record is
+  [RIT Fall 2026 CSCI-739 Audit](../../ADMIN/rit-fall-2026-csci739-audit.md).
+- Before the audit is finalized, confirm its tuition, scholarship, FTE, and aid
+  treatment. Official RIT materials state that audited courses carry no credit
+  and do not count toward enrollment status.
 
 ## Refresh Status - 2026-08-03
 
@@ -155,6 +172,7 @@ bodies, phone numbers, or personal recruiter addresses.
 | Category | Message or dependency | Verified status | Next action |
 | --- | --- | --- | --- |
 | Financial aid | Federal Graduate PLUS Loan Changes / Fall 2026 Full-Time Equivalency | The Fall 2026 FTE agreement `Garcia 9929 FTE 2261` shows all parties finished on July 29. A confirmation/escalation message was sent August 3 asking RIT Aid and the program contact to verify Registrar processing and update aid before the August 15 bill. | Keep the dependency visible until Registrar processing and the aid update are confirmed. Review and escalate on August 10 if no substantive response. The public thesis source is [rough_draft_report.pdf](https://github.com/pzg8794/DSCI601-Project_Proposal/blob/main/rough_draft_report/rough_draft_report.pdf). |
+| Course registration | [CSCI-739-01 Quantum Machine Learning audit](../../ADMIN/rit-fall-2026-csci739-audit.md) | Megan requires written instructor permission followed by the Add/Drop/Audit form. Professor Ryan Vogt received the permission request on August 3; Sent Mail is verified. | Check once on August 10. If approved, send the reply to Megan and process the form August 24. Complete and verify the change by **August 31**; keep DSCI-602 registered for credit. |
 | Billing | Fall 2026 billing statement | Payment is due **2026-08-15**. The private balance is intentionally omitted from this public-safe log. | Keep starred. Recheck eServices after the registration freeze and FTE/aid updates. |
 | State aid | 2026-27 NYS Student Aid Payment Application | HESC says the application was denied, but the reason is only available in the secure HESC account. | Keep starred. Piter must sign in, record the reason, and determine whether to correct, appeal, or close the item. |
 | Federal grant | StudentAid.gov TEACH Grant message | StudentAid.gov reports new TEACH Grant information in `My Activity`; the email does not state the outcome or deadline. | Starred on 2026-07-24. Piter must use the secure account to identify any certification, agreement-to-serve, counseling, or deadline requirement. |

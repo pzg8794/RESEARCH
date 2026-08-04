@@ -62,6 +62,7 @@ The strongest technical direction is machine learning for quantum network routin
 | ProFellow Search Routine | [`APPLICATIONS/Fellowships/profellow-search-routine.md`](./APPLICATIONS/Fellowships/profellow-search-routine.md) |
 | Job Search Operations | [`APPLICATIONS/Jobs/README.md`](./APPLICATIONS/Jobs/README.md) |
 | Job Pipeline | [`APPLICATIONS/Jobs/job-pipeline.md`](./APPLICATIONS/Jobs/job-pipeline.md) |
+| RIT Fall 2026 CSCI-739 Audit | [`ADMIN/rit-fall-2026-csci739-audit.md`](./ADMIN/rit-fall-2026-csci739-audit.md) |
 | Local PhD/Application Source Map | [`APPLICATIONS/PhD/LOCAL_SOURCE_MAP.md`](./APPLICATIONS/PhD/LOCAL_SOURCE_MAP.md) |
 | Overleaf Writing-Sample Discovery Playbook | [`APPLICATIONS/PhD/OVERLEAF_DISCOVERY_PLAYBOOK.md`](./APPLICATIONS/PhD/OVERLEAF_DISCOVERY_PLAYBOOK.md) |
 | Writing Sample Shortlists | [`APPLICATIONS/PhD/WRITING_SAMPLE_SHORTLISTS.md`](./APPLICATIONS/PhD/WRITING_SAMPLE_SHORTLISTS.md) |

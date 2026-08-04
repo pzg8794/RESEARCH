@@ -1,6 +1,6 @@
 # Email Action Queue
 
-Updated: 2026-08-03
+Updated: 2026-08-04
 
 This is the public-safe todo list for important career, funding, registration,
 degree-completion, and financial email from the RIT, University of Rochester,
@@ -166,6 +166,7 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 | Priority | Category | Item | Current status | Next action |
 | --- | --- | --- | --- | --- |
 | P0 | Financial aid | Fall 2026 Full-Time Equivalency | Adobe Sign shows all parties finished the FTE agreement on July 29. A confirmation and escalation message was sent August 3 asking RIT Aid and the program contact to verify Registrar processing and update aid. | Keep visible until Registrar processing and the aid update are confirmed. Review and escalate on **August 10, 9:00 AM** if no substantive response. |
+| P0 | Academic registration | [CSCI-739-01 Quantum Machine Learning audit](../../ADMIN/rit-fall-2026-csci739-audit.md) | The correct change is from standard letter grade to `audit`; DSCI-602 stays registered for credit. Professor Ryan Vogt received the written permission request on August 3. | Check for a reply **August 10 at 2:00 PM**. If approved, provide the reply to Megan and process the Add/Drop/Audit form **August 24 at 2:00 PM**. Hard deadline: **August 31**. Confirm tuition/FTE/aid treatment before final processing. |
 | P0 | Billing | Fall 2026 statement | Statement issued; payment due **2026-08-15** while aid remains dependent on FTE | Recheck eServices after the registration freeze lifts and after FTE is approved. Escalate to RIT Aid before the due date if aid is still missing. |
 | P0 | State aid | 2026-27 NYS Student Aid Payment Application | HESC email says the application was denied | Log in to HESC, capture the denial reason, and determine the correction or appeal path. Keep starred until resolved. |
 | P0 | Federal grant | TEACH Grant update | StudentAid.gov sent an update on 2026-07-01; the email does not state the result | Log in to StudentAid.gov and review `My Activity`. Star the message until the required action is known and completed. |

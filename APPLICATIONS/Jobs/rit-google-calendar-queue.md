@@ -2,7 +2,7 @@
 
 Calendar account: `pzg8794@g.rit.edu`
 
-Updated: 2026-08-03
+Updated: 2026-08-04
 
 This queue mirrors verified application deadlines, review blocks,
 appointments, and registered events. Every entry should include its source
@@ -54,12 +54,15 @@ Calendar permits them.
 | 2026-08-09, 6:00-6:20 PM | REVIEW - RIT parking permit readiness | Synced | Confirm local address, account balance, and whether a permit is needed before reserved/general sales open |
 | 2026-08-10, 9:00-10:00 AM | REVIEW + ESCALATE: RIT FTE, aid, and Fall bill | Synced | Confirm Registrar received the fully signed FTE, RIT Aid updated the award, and the Fall bill is correct before August 15; escalate the same day if unresolved; 1-day and 1-hour alerts |
 | 2026-08-10, 10:15-10:45 AM | FOLLOW UP: Diverse Lynx remote AI roles | Synced | Check for client, schedule, start date, authorization/sponsorship, travel/onsite, and interview details; no resume until terms are established; 1-day and 10-minute alerts |
+| 2026-08-10, 2:00-2:20 PM | FOLLOW UP: CSCI-739 audit permission | Synced | Check Professor Ryan Vogt's reply; preserve written permission or send one concise follow-up if there is no reply. See the [registration record](../../ADMIN/rit-fall-2026-csci739-audit.md); 1-day, 1-hour, and 10-minute alerts |
 | 2026-08-12, 9:00-9:45 AM | SECURITY REVIEW: identify GitHub deletion process | Synced | Identify the external `python-requests` process that used the expired token; do not regenerate it until the process is constrained; 1-day and 1-hour alerts |
 | 2026-08-12, 10:00-10:30 AM | ACTION: Buy RIT general parking permit | Synced | Use the [MyParking Portal](https://rit.t2hosted.com/Account/Portal); verify address, zero balance, and license plate. The official email gave no launch time; 1-day and 1-hour alerts |
 | 2026-08-15, all day | DEADLINE - RIT Fall statement | Synced | Recheck billing after FTE and aid updates |
 | 2026-08-19, 2:00-3:00 PM | HHS - Navigating the Federal Hiring Process: USAJobs | Registration prefilled; calendar sync pending | Complete the applicant-controlled fields in the official registration, verify the receipt, then add the [Handshake event](https://rochester.joinhandshake.com/stu/events/1982973) to this calendar |
 | 2026-08-22, all day | DEADLINE - Financial statement review/payment | Synced | Review the official account and pay or arrange before the due date |
 | 2026-08-24, all day | CONDITIONAL - Fulbright campus review packet | Corrected; synced | Proceed only if the July 31 meeting identifies an aligned award; do not request recommendations or submit before requirements are verified |
+| 2026-08-24, 2:00-2:30 PM | ACTION: Process CSCI-739 audit form with Megan | Synced | Use Professor Vogt's written permission, complete the Add/Drop/Audit form, keep DSCI-602 for credit, and confirm tuition/FTE/aid treatment; 1-day, 1-hour, and 10-minute alerts |
+| 2026-08-31, all day | DEADLINE: Complete CSCI-739 audit change | Synced | Verify the form is processed and SIS shows CSCI-739 as audit while DSCI-602 remains for credit; 3-day and 1-day afternoon alerts |
 | 2026-09-14, 9:00-9:30 AM | ACTION - Complete UofR health insurance enrollment/waiver | Synced | Finish the secure process one day before the Tuesday deadline |
 | 2026-09-15, all day | DEADLINE - UofR health insurance enrollment/waiver | Synced | Complete the mandatory secure UHS process |
 | 2026-10-05, 9:00-10:00 AM | FINAL REVIEW - Fulbright national application | Synced | Finish final review one day before the Tuesday deadline |
@@ -100,6 +103,9 @@ Calendar permits them.
   reminders.
 - [x] Added the August 10 FTE/aid/bill escalation and Diverse Lynx follow-up,
   each with source context and multiple alerts.
+- [x] Added and live-verified the CSCI-739 audit checkpoints on August 10 and
+  August 24 plus the August 31 hard deadline. The RIT calendar search returns
+  all three entries with the intended times and layered reminders.
 - [x] Added the August 12 GitHub security review and RIT general-permit action;
   both avoid Tuesday/Thursday and include one-day and one-hour alerts.
 - [ ] Complete the HHS USAJobs registration, then add the August 19,
