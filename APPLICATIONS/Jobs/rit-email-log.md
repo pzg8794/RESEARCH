@@ -25,10 +25,11 @@ bodies, phone numbers, or personal recruiter addresses.
   Megan Lehman, who prepared the audit form and used the professor's email as
   the instructor approval.
 - Reviewed all three audit-form pages. The correct term, program, course,
-  section, units, and `Audit` selection are present. Only Piter's electronic
-  signature remains; the form is not yet signed, processed, or visible in SIS.
-- Added a same-day signature block, changed the August 10 checkpoint to
-  signed-form verification, and retained the August 24-31 processing window.
+  section, units, and `Audit` selection are present. Piter signed the final PDF
+  through Adobe Acrobat Sign on August 4 at 2:54 PM. Advisor/Registrar
+  processing and the SIS change remain separate and unverified.
+- Changed the August 10 checkpoint to signed-form receipt verification and
+  retained the August 24-31 processing window.
   The detailed record is [RIT Fall 2026 CSCI-739
   Audit](../../ADMIN/rit-fall-2026-csci739-audit.md).
 - Before the audit is finalized, confirm its tuition, scholarship, FTE, and aid
@@ -46,6 +47,21 @@ bodies, phone numbers, or personal recruiter addresses.
 - KTH reported that the Machine Learning for Reliable Quantum Computing
   application, PA-2026-1162, did not advance to the next recruitment stage.
   No reply is due; final closure remains pending KTH's filled-position notice.
+- Classified the ICNP reviews into an [A+C-first revision
+  roadmap](../../RESEARCH/2026-08-04-icnp-review-classification-and-revision-roadmap.md):
+  Reviewer A supplies the Weak-Accept core, Reviewer C is the primary conversion
+  checklist, and Reviewer B is a secondary risk audit after A and C.
+- Prepared, but did not send, the [DSCI 602 scope-consolidation advisor
+  draft](../../ADMIN/2026-08-04-dsci602-quantum-paper-consolidation-advisor-draft.md).
+  Piter reviews it August 7 before any message goes to Travis Desell, Daniel
+  Krutz, or Megan Lehman.
+- Recorded the required [RIT GA Cybersecurity Fundamentals
+  course](../../ADMIN/2026-08-04-rit-ga-cybersecurity-fundamentals.md), with an
+  August 10 completion block and October 30 deadline checkpoint.
+- Jeni's Jobot follow-up contains a self-initiated 8-12 minute screening link.
+  Preparation is scheduled August 10 and completion August 12. Piter authorizes
+  substantive recruiter SMS when useful; unrelated marketing remains unwanted.
+  The mistaken generic Gmail draft was discarded, and no reply was sent.
 
 ## Refresh Status - 2026-08-03
 
@@ -185,16 +201,17 @@ bodies, phone numbers, or personal recruiter addresses.
 | Category | Message or dependency | Verified status | Next action |
 | --- | --- | --- | --- |
 | Financial aid | Federal Graduate PLUS Loan Changes / Fall 2026 Full-Time Equivalency | The Fall 2026 FTE agreement `Garcia 9929 FTE 2261` shows all parties finished on July 29. A confirmation/escalation message was sent August 3 asking RIT Aid and the program contact to verify Registrar processing and update aid before the August 15 bill. | Keep the dependency visible until Registrar processing and the aid update are confirmed. Review and escalate on August 10 if no substantive response. The public thesis source is [rough_draft_report.pdf](https://github.com/pzg8794/DSCI601-Project_Proposal/blob/main/rough_draft_report/rough_draft_report.pdf). |
-| Course registration | [CSCI-739-01 Quantum Machine Learning audit](../../ADMIN/rit-fall-2026-csci739-audit.md) | Megan requires written instructor permission followed by the Add/Drop/Audit form. Professor Ryan Vogt received the permission request on August 3; Sent Mail is verified. | Check once on August 10. Keep any next reply or follow-up in the same thread and CC Megan Lehman (`melics@rit.edu`); do not send a separate corrective email now. If approved, process the form August 24. Complete and verify the change by **August 31**; keep DSCI-602 registered for credit. |
+| Course registration | [CSCI-739-01 Quantum Machine Learning audit](../../ADMIN/rit-fall-2026-csci739-audit.md) | Professor Ryan Vogt granted permission, Megan prepared the Add/Drop/Audit form, and Piter signed it through Adobe Acrobat Sign on August 4 at 2:54 PM. | Verify advisor/Registrar receipt August 10. Keep any next reply in the same thread and CC Megan Lehman (`melics@rit.edu`). Process and verify the SIS change by **August 31**; keep DSCI-602 registered for credit. |
+| Graduate assistantship | [Cybersecurity Fundamentals](../../ADMIN/2026-08-04-rit-ga-cybersecurity-fundamentals.md) | Required Workday course assigned; due October 30. | Complete during the August 10, 3:45-4:45 PM block and preserve the completion receipt. |
 | Billing | Fall 2026 billing statement | Payment is due **2026-08-15**. The private balance is intentionally omitted from this public-safe log. | Keep starred. Recheck eServices after the registration freeze and FTE/aid updates. |
 | State aid | 2026-27 NYS Student Aid Payment Application | HESC says the application was denied, but the reason is only available in the secure HESC account. | Keep starred. Piter must sign in, record the reason, and determine whether to correct, appeal, or close the item. |
-| Federal grant | StudentAid.gov TEACH Grant message | StudentAid.gov reports new TEACH Grant information in `My Activity`; the email does not state the outcome or deadline. | Starred on 2026-07-24. Piter must use the secure account to identify any certification, agreement-to-serve, counseling, or deadline requirement. |
+| Federal grant | StudentAid.gov TEACH Grant message | StudentAid.gov reports new TEACH Grant information in `My Activity`; the email does not state the outcome or deadline. Federal terms require four years of qualifying full-time teaching within eight years, with conversion to a Direct Unsubsidized Loan if the service terms are not met. | Review the secure account August 14 for award status, certification, agreement-to-serve, counseling, and deadlines. Keep starred until resolved. |
 | Federal loan | Direct PLUS Loan Application Confirmation | The application was successfully submitted on 2026-06-30. | No separate application action. Monitor through FTE and RIT Aid. |
 | Degree completion | Fall 2026 Application for Graduation Confirmed | RIT confirmed the graduation application and stated that completion is on track if current courses and the required GPA are completed. | Complete; star removed on 2026-07-24. |
 | Campus logistics | 2026-27 parking permits | Reserved permits open 2026-08-10 and general permits open **2026-08-12**. The local address must be current at least 24 hours before purchase, and the parking account must have a zero balance. | Keep only if a permit is needed; decide before 2026-08-09. |
 | Fellowship | [Carman International Fellowship application](https://www.mosaicinfo.org/application/) | Historical only. The role was misclassified, the application was not submitted, and reference obligations were withdrawn on July 29. | Closed. Preserve the audit record, but do not reopen the form or contact Mosaic or the recommenders. |
 | Job | VDart Data Scientist | The July 23 screening reply is confirmed in Sent; no recruiter response has arrived. | Check once on 2026-08-03. Do not send another duplicate screening message. |
-| Research publication | ICNP 2026 submission #330 | Final decision is rejected. The authenticated review page records one weak accept, one reject, and one weak reject. Main revision needs are clearer algorithm definitions, allocator-policy semantics, physical grounding for threat models, stronger writing, and medium-scale evaluation. | Preserve the [authenticated reviews](https://icnp26.hotcrp.com/paper/330#r330A), schedule a coauthor revision decision, and retarget only after the review gaps are addressed. |
+| Research publication | [ICNP 2026 submission #330 A+C roadmap](../../RESEARCH/2026-08-04-icnp-review-classification-and-revision-roadmap.md) | Final decision is rejected. Reviewer A gave a Weak Accept and recognized the evaluation design, cross-testbed evidence, and capacity paradox. Reviewer C recognized the methodology contribution and supplied concrete interface, grounding, and scale requests. | Preserve A's accepted core and convert C through the staged roadmap. Treat B as a secondary risk audit after A+C work. Private review text remains on the [authenticated page](https://icnp26.hotcrp.com/paper/330#r330A). |
 | Thesis repository | [DSCI601 pull request #8](https://github.com/pzg8794/DSCI601-Project_Proposal/pull/8) | The PR was merged on 2026-05-06, but it added only a one-line context-spectrum notes placeholder. The PR itself says the full TeX replacement still needs to be applied. | Keep as a research todo: reconcile the intended Algorithm 2, EQUITAS, context-spectrum table, pagination, and cross-reference edits against the current thesis source before treating the wrap-up as complete. |
 | Repository safety | GitHub Support ticket 4592214 | GitHub Support restored `DBSCAN`, `GAPP`, `Mobile-Detect`, `hello-express`, and `lodge-website`; all five remotes were verified live and Support received a thank-you reply. | Restoration complete. Clear the waiting label from the Support thread after this record is pushed. Continue the separate August 12 security review; do not delete, overwrite, recreate, or re-clone over any repository. |
 | Credential safety | GitHub fine-grained token incident | Support identified the expired `vm-repo-token` as the credential used by a `python-requests` process for the deletion events. No matching custom script was found under DataScience, and no additional web session appeared in GitHub's session list. | Do not regenerate this token. Identify the external or removed process before creating any replacement, and exclude repository-delete and administration permission. Never copy a token value into RESEARCH. |
@@ -217,10 +234,10 @@ bodies, phone numbers, or personal recruiter addresses.
 ## Operational Notes
 
 - The Jobot Senior AI/ML Engineer application and automated interview are
-  complete. `Application Received!` is the verified receipt state. Monitor for
-  Jobot Pro Charles Simmons and check once on August 11; do not submit again.
-  A 3:15-3:35 PM follow-up block is saved on the RIT primary calendar with
-  1-day, 1-hour, and 10-minute reminders.
+  complete. `Application Received!` is the verified receipt state. Prepare for
+  Jeni's self-initiated screening August 10, verify the link August 11, and
+  complete it August 12; do not submit again. Relevant recruiter SMS is
+  authorized. The preparation kit and all three calendar blocks are linked.
 - The VDart message stays in the pipeline as `Waiting`; do not send a resume
   until the recruiter answers the screening questions.
 - The grouped Diverse Lynx recruiter thread stays in `Awaiting Reply` until the

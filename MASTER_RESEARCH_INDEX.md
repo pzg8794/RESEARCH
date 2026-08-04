@@ -70,6 +70,21 @@ Every artifact uses this structure:
 
 ---
 
+### ICNP Review Classification and A+C-First Revision Roadmap
+- **Link / Filename:** `2026-08-04-icnp-review-classification-and-revision-roadmap.md`
+- **Type:** Peer-review synthesis / manuscript revision roadmap
+- **Category:** Quantum Networking / Fairness-Aware AI / Thesis Planning
+- **Status:** Canonical
+- **Public/Private:** Public-safe synthesis; authenticated reviewer text remains private
+- **Summary:** Treats Reviewer A's Weak Accept as the accepted technical core, Reviewer C's concrete requests as the primary conversion checklist, and Reviewer B as a secondary risk audit after A and C are addressed.
+- **Why this matters for PhD applications:** Converts external peer review into an evidence-based publication plan while preserving the matched evaluation, cross-testbed validation, and capacity-paradox findings that reviewers recognized.
+- **Related code:** [pzg8794/QuantumFaultTolerant](https://github.com/pzg8794/QuantumFaultTolerant)
+- **Related papers:** [Current DSCI 601 thesis draft](https://github.com/pzg8794/DSCI601-Project_Proposal/blob/main/rough_draft_report/rough_draft_report.pdf)
+- **GitHub target path:** `RESEARCH/2026-08-04-icnp-review-classification-and-revision-roadmap.md`
+- **Next action:** Complete the August 13 A+C Phase 1 session, then the Reviewer C grounding and scale-design sessions on August 14 and August 17.
+
+---
+
 ### ProFellow Opportunity Queue
 
 - **Link / Filename:** `profellow-opportunity-queue-2026-05-27.md`

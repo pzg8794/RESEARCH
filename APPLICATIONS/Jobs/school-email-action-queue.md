@@ -14,6 +14,7 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 - [Next-week watchlist: August 2-8](./next-week-watchlist-2026-08-02.md)
 - [August 3 RIT opportunity and funding pass](./2026-08-03-rit-opportunity-pass.md)
 - [August 4 school and career response pass](./2026-08-04-school-career-response-pass.md)
+- [Near-term income and school-funding queue](./2026-08-04-near-term-income-and-funding.md)
 
 ## Queue Rules
 
@@ -55,10 +56,12 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
   Desell, Daniel Krutz, and Zenon Borys on July 29. Nothing is due, no
   acknowledgment should be chased, and no replacement opportunity was sent.
   See the [follow-up reconciliation](./2026-07-29-follow-up-reconciliation.md).
-- [ ] **P0 - RIT / ICNP paper:** Preserve the authenticated reviews, then set a
-  coauthor decision meeting for revision and retargeting. The next version must
-  clarify algorithms, allocator-policy interaction, physical threat grounding,
-  and medium-scale evaluation.
+- [ ] **P0 - RIT / ICNP paper:** Follow the [A+C-first review and revision
+  roadmap](../../RESEARCH/2026-08-04-icnp-review-classification-and-revision-roadmap.md).
+  Preserve Reviewer A's Weak-Accept core and use Reviewer C's concrete requests
+  as the conversion checklist; use Reviewer B only as a secondary risk audit.
+  Phase 1 is calendared for August 13, physical grounding for August 14, and
+  scale-experiment design for August 17.
 - [ ] **P1 - RIT / thesis repository:** [Pull request
   #8](https://github.com/pzg8794/DSCI601-Project_Proposal/pull/8) is merged but
   contains only a placeholder note. Reconcile the promised Algorithm 2,
@@ -115,14 +118,16 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 - [x] **Complete - Handshake / Health Data Max:** Submitted the targeted
   resume, cover letter, and combined unofficial transcripts on 2026-07-27.
   Check for a response on August 3.
-- [ ] **P0 - Jobot:** Confirm transmission of contact information and the
-  prepared resume, provide the correct ZIP code, select `No` for SMS, and
-  submit the live Senior Data Scientist application.
+- [ ] **P0 - Jobot Senior Data Scientist:** Confirm transmission of contact
+  information and the prepared resume, provide the correct ZIP code, and
+  submit the separate live Senior Data Scientist application. Substantive
+  recruiter SMS is authorized when it improves the application process.
 - [x] **Complete - Jobot Senior AI/ML Engineer:** Submitted the 100% remote
-  application on August 4 with the current targeted resume, `No` for SMS, the
+  application on August 4 with the current targeted resume, the
   completed profile, elevator pitch, and automated interview. Jobot displayed
-  `Application Received!`. Check once for Jobot Pro Charles Simmons on August
-  11; do not submit again.
+  `Application Received!`. Jeni sent a self-initiated 8-12 minute screening
+  link. Prepare August 10, verify the link August 11, and complete it August 12;
+  do not submit the application again. Substantive recruiter SMS is authorized.
 - [x] **Complete - Handshake / LearningMate:** Submitted the prepared resume
   and cover letter on August 3. Handshake displayed `Application submitted!`
   and `Applied on August 3, 2026`. Monitor for an employer response and confirm
@@ -168,17 +173,18 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 | Priority | Category | Item | Current status | Next action |
 | --- | --- | --- | --- | --- |
 | Complete | Financial aid | Fall 2026 Full-Time Equivalency | Megan Lehman confirmed on August 4 that the FTE was processed and Piter is enrolled full time | No further FTE escalation. Keep the amended aid offer and Fall bill as separate review items. |
-| P0 | Academic registration | [CSCI-739-01 Quantum Machine Learning audit](../../ADMIN/rit-fall-2026-csci739-audit.md) | Professor Ryan Vogt granted permission; Piter forwarded it to Megan, and Megan prepared the form with the email approval attached. All fields were reviewed; only Piter's electronic signature remains. | Sign during the **August 4, 3:15 PM** block. Verify the signed-form status **August 10 at 2:00 PM**, process during August 24-31, and confirm SIS shows CSCI-739 as `Audit` while DSCI-602 remains for credit. |
+| P0 | Academic registration | [CSCI-739-01 Quantum Machine Learning audit](../../ADMIN/rit-fall-2026-csci739-audit.md) | Professor Ryan Vogt granted permission; Megan prepared the form; Piter signed it through Adobe Acrobat Sign on August 4 at 2:54 PM. Advisor/Registrar processing and SIS status remain separate. | Verify receipt **August 10 at 2:00 PM**, process during August 24-31, and confirm SIS shows CSCI-739 as `Audit` while DSCI-602 remains for credit. |
+| P0 | Graduate assistantship | [Cybersecurity Fundamentals](../../ADMIN/2026-08-04-rit-ga-cybersecurity-fundamentals.md) | Required Workday training is assigned and due October 30; completion is not yet verified | Complete August 10 at 3:45 PM and preserve the Workday completion receipt. The October 30 checkpoint remains until completion is verified. |
 | P0 | Financial aid / billing | Amended Fall 2026 aid offer and statement | RIT Aid confirmed on August 4 that the offer was amended after FTE processing. A thank-you reply was sent. Payment remains due **2026-08-15**. | Piter reviews the offer in eServices during the **August 4, 3:45 PM** block and makes the acceptance decisions. Verify accepted aid and the Fall bill on **August 10 at 3:00 PM**; escalate only if they do not reconcile. |
 | P0 | State aid | 2026-27 NYS Student Aid Payment Application | HESC email says the application was denied | Log in to HESC, capture the denial reason, and determine the correction or appeal path. Keep starred until resolved. |
-| P0 | Federal grant | TEACH Grant update | StudentAid.gov sent an update on 2026-07-01; the email does not state the result | Log in to StudentAid.gov and review `My Activity`. Star the message until the required action is known and completed. |
+| P0 | Federal grant | TEACH Grant update | StudentAid.gov sent an update on 2026-07-01; the email does not state the result. The federal service rule is four years of qualifying full-time teaching within eight years. | Review `My Activity` on August 14 at 2:00 PM for award status, counseling, agreement-to-serve, certification, and deadlines. Star the message until the required action is known and completed. |
 | P1 | Federal loan | Direct PLUS Loan application | Submission confirmation received 2026-06-30; RIT cannot apply additional aid or loans until full-time enrollment/FTE is confirmed | No separate application action. Monitor through the FTE and RIT Aid follow-up. |
 | P1 | Degree completion | Fall 2026 graduation application | RIT confirmed the application and stated that degree completion is on track if current courses are completed and the required GPA is maintained | Complete; recorded and unstarred on 2026-07-24. |
 | P2 | Campus logistics | 2026-27 parking permit | Reserved permits open 2026-08-10; general permits open **2026-08-12**. Local address must be current at least 24 hours before purchase, the parking account must have a zero balance, and a license plate is required. | Readiness review is calendared for August 9 at 6:00 PM; general-permit purchase is calendared for August 12 at 10:00 AM. No official launch time was stated. |
 | Closed | Fellowship | [Carman International Fellowship](https://www.mosaicinfo.org/application/) | Misclassified using current requirements, older Carman descriptions, and the Luce placement model; reference corrections were sent July 29 | No application, eligibility inquiry, letter check, acknowledgment chase, reminder, or submission remains. |
 | P1 | Job | VDart Data Scientist | July 23 screening reply confirmed in Sent; no recruiter response as of August 3 | Make one final status check on August 10. Do not send a duplicate message or resume without the requested work terms. |
 | Complete | PhD information | [New York Tech Computer Science Ph.D. information session](https://www.nyit.edu/academics/degrees/computer-science-phd/) | Registered for the August 6, 6:00-7:00 PM virtual session using the Computer Science Ph.D., New York City, Fall 2027 selections | Attend the 5:30 PM preparation block and session; ask about assistantship funding, faculty fit, deadlines, and application requirements. Invitation processed and unstarred. |
-| P0 | Research | ICNP 2026 paper #330 | Rejected; authenticated reviews identify writing, novelty, algorithm-definition, physical-grounding, and evaluation-scale gaps | Preserve the review source, meet with coauthors, and retarget only after the gaps are addressed. |
+| P0 | Research | [ICNP 2026 paper #330 A+C roadmap](../../RESEARCH/2026-08-04-icnp-review-classification-and-revision-roadmap.md) | Final decision was rejection, but Reviewer A gave a Weak Accept and Reviewer C recognized the core evaluation contribution while requesting concrete revisions | Preserve A's accepted core, convert C through interface/reproducibility/grounding/scale work, and use B as a final risk audit. Review the [advisor draft](../../ADMIN/2026-08-04-dsci602-quantum-paper-consolidation-advisor-draft.md) August 7; do not send before Piter approves it. |
 | P0 | Security | Repository deletion and implicated token | GitHub Support restored `DBSCAN`, `GAPP`, `Mobile-Detect`, `hello-express`, and `lodge-website`; all five remotes were verified and Support was thanked. The exact implicated `vm-repo-token` is expired, and no extra web session or matching local DataScience script was found. | Restoration is complete. Identify the responsible external Python process before issuing any replacement token; exclude repository-delete and administration permission. Review on August 12 and follow [repository safety](../../REPOSITORY_SAFETY.md). |
 | P0 | Job | [Onward Search Creative Project Manager](https://www.indeed.com/viewjob?jk=03b29d4ec5d73a0b) | Live remote AI/ML project-management contract at $45-$50/hour | Verify weekly hours and time zone, then prepare the project-management resume if compatible with Fall study. |
 | P0 | Job | [Jobot ML Solution Architect](https://jobot.com/details/ml-solution-architect/47904ae801) | Live remote role; strong fit but six-year requirement is a stretch | Prepare one architecture-focused resume, then obtain action-time confirmation before applying. |

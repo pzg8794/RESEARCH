@@ -21,6 +21,13 @@ email response:
    complete through the dietary or special-food question. Piter provides only
    `No` or `Yes: [details]`; then the form can be submitted and the receipt
    preserved.
+3. **Review the DSCI 602 consolidation email:** The [advisor
+   draft](../../ADMIN/2026-08-04-dsci602-quantum-paper-consolidation-advisor-draft.md)
+   is ready for the **August 7, 4:30 PM** review block. It has not been sent.
+4. **Complete the Handshake AI legal and identity handoff:** Review the terms
+   and complete government-ID verification during the **August 8, 2:00 PM**
+   block. Do not store identity material in Git.
+
 ## Completed Today
 
 - **RIT Full-Time Equivalency:** Megan Lehman confirmed that processing is
@@ -42,15 +49,27 @@ email response:
   application was submitted with the targeted teaching resume. Handshake and
   the email receipt both show **Applied on August 4, 2026**.
 - **Jobot Senior AI/ML Engineer:** The 100% remote application was submitted
-  with the current targeted resume, `No` for SMS, a completed Jobot profile,
+  with the current targeted resume, a completed Jobot profile,
   and a three-part evidence-based elevator pitch. Jobot displayed
   `Application Received!`, and the automated interview was completed using
   only documented machine-learning, AI, Python, and .NET experience. Azure,
   RAG, and other unsupported platform claims were left unselected. Recruiter
-  Jeni requested an 8-12 minute screening. A same-day time was declined and
-  later Thursday/Friday afternoon windows were offered under the preparation
-  rule. Wait for one exact time, recheck the live calendar, and use the
-  [Jobot preparation kit](../../PREPARATION/applications/2026-08-04-jobot-senior-ai-ml-engineer.md).
+  Jeni sent a self-initiated 8-12 minute screening link. Preparation is set for
+  August 10 and completion for August 12. The mistaken generic Gmail draft was
+  discarded; no reply was sent. Substantive recruiter SMS is authorized. Use
+  the [Jobot preparation kit](../../PREPARATION/applications/2026-08-04-jobot-senior-ai-ml-engineer.md).
+- **ICNP review conversion plan:** Classified Reviewer A as the Weak-Accept
+  core, Reviewer C as the primary conversion checklist, and Reviewer B as a
+  secondary risk audit. The [A+C-first
+  roadmap](../../RESEARCH/2026-08-04-icnp-review-classification-and-revision-roadmap.md)
+  includes difficulty, completion evidence, thesis integration, and ranked
+  retargeting options.
+- **RIT GA requirement:** Recorded and calendared the required [Cybersecurity
+  Fundamentals course](../../ADMIN/2026-08-04-rit-ga-cybersecurity-fundamentals.md).
+  Complete it August 10; the official deadline is October 30.
+- **Deadline calendar:** Added and live-search verified the August 20 IEEE
+  Network deadline and September 23 Kaggriculture deadline. Both have one-day,
+  one-hour, and ten-minute reminders, in addition to earlier decision blocks.
 - **Remote ML Research Engineer:** Replied once to the stronger of two
   duplicate recruiter messages. The response confirms U.S. citizenship and
   remote availability through December and requests the end client, pay,
@@ -81,8 +100,19 @@ email response:
 | August 7 | Tech Rise and Recovery Audit Solutions response check | Do not duplicate prior messages |
 | August 10, 2:00-2:20 PM | Verify CSCI-739 audit-form status | Confirm the signed form or resolve any correction before processing |
 | August 10, 3:00-3:30 PM | Verify RIT aid acceptance and Fall bill | Escalate only if the accepted offer and bill do not reconcile |
+| August 10, 3:45-4:45 PM | Complete RIT Cybersecurity Fundamentals | Preserve the Workday completion receipt |
+| August 10, 5:15-5:45 PM | Prepare for Jobot screening | Review the linked preparation kit and practice concise answers |
 | August 11, 2:00-3:00 PM | Complete Warner Summer course evaluations | Submit before the August 14 close |
+| August 12, 4:30-5:00 PM | Complete Jobot screening | Use Jeni's self-initiated screening link |
+| August 13, 2:00-3:30 PM | ICNP Reviewer A+C Phase 1 | Preserve A's core; complete the easiest C interface and reproducibility items |
+| August 14, 2:00-2:45 PM | Review TEACH Grant status and service terms | Check the secure account; service terms are four qualifying teaching years within eight years |
+| August 14, 3:15-4:15 PM | Reviewer C threat-grounding plan | Build physical mappings, parameter rationale, sources, and claim boundaries |
 | August 15 | RIT Fall statement due | Verify the final bill after aid review |
+| August 17, 2:00-3:30 PM | Reviewer C scale-experiment design | Plan the medium-scale testbed and 100-node diagnosis |
+| August 19, 4:30-5:30 PM | IEEE Network go/no-go review | Submit only if the A+C gates are complete and coauthors approve |
+| August 20, 3:00-3:30 PM | IEEE Network deadline date | Verified RIT Calendar reminder; this is conditional, not a forced submission |
+| September 2, 3:00-3:30 PM | Kaggriculture go/no-go | Verify rules, compute, time, team fit, and prize terms |
+| September 23, 3:00-3:30 PM | Kaggriculture deadline date | Verified RIT Calendar reminder |
 
 ## Mailbox Coverage
 
@@ -100,3 +130,5 @@ email response:
 - [Job pipeline](./job-pipeline.md)
 - [RIT Google Calendar queue](./rit-google-calendar-queue.md)
 - [RIT CSCI-739 audit record](../../ADMIN/rit-fall-2026-csci739-audit.md)
+- [Near-term income and school-funding queue](./2026-08-04-near-term-income-and-funding.md)
+- [ICNP A+C-first revision roadmap](../../RESEARCH/2026-08-04-icnp-review-classification-and-revision-roadmap.md)

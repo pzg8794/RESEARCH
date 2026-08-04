@@ -51,6 +51,7 @@ Calendar permits them.
 | 2026-08-04, 3:15-3:30 PM | SIGN: RIT CSCI-739 audit form | Completed | The final PDF carries a valid Adobe Acrobat Sign signature timestamped August 4 at 2:54 PM. Advisor/Registrar processing and SIS verification remain separate; 30-minute and 10-minute alerts were active. |
 | 2026-08-04, 3:45-4:15 PM | REVIEW: amended RIT financial aid offer | Synced | FTE is processed and RIT Aid says the amended offer is available in eServices. Piter reviews the offer and makes any acceptance decision; 30-minute and 10-minute alerts |
 | 2026-08-05, 12:00-4:00 PM | UofR Graduate Writing Retreat - Day 1 | Registered; RIT invitation accepted | Bring the RIT data-science thesis/manuscript; 1-day, 1-hour, and 10-minute alerts |
+| 2026-08-05, 4:10-4:50 PM | URGENT: Scholarship deadline sweep | Created and verified on RIT calendar | Use the [near-term income and funding queue](./2026-08-04-near-term-income-and-funding.md); verify eligibility, official deadline, privacy terms, and no-fee status before submitting |
 | 2026-08-06, 12:00-12:45 PM | PREP: Fulbright advising appointment | Synced | Prepare only verified award requirements, deadlines, funding, and Puzzle Plan fit; recovery gap protected before the meeting |
 | 2026-08-06, 1:15-2:15 PM | CONFIRMED: UofR Fulbright advising (Zoom) | Official invitation accepted; synced | Juliet confirmed the appointment and the response was sent. Watch the thread for the Zoom link; layered reminders are active. |
 | 2026-08-06, 5:30-6:00 PM | PREP: New York Tech Computer Science Ph.D. information session | Synced | Prepare assistantship-funding, faculty-fit, research, deadline, and application questions for the [Computer Science Ph.D.](https://www.nyit.edu/academics/degrees/computer-science-phd/) |
@@ -59,26 +60,40 @@ Calendar permits them.
 | 2026-08-07, 9:00-9:15 AM | CONFIRMED IN PERSON: Ashley Johnston - financial aid identity verification | Official UofR invitation accepted; private RIT reminder copy verified | Wallis Hall; arrive early with the required identification. The RIT copy has one-day, two-hour, 30-minute, and ten-minute alerts and links to the preparation kit |
 | 2026-08-07, 10:00-11:00 AM | DEADLINE WORK BLOCK: LearningMate SME | Removed from both calendars after verified submission | Application was submitted and receipt-confirmed on August 3; no obsolete work block remains |
 | 2026-08-07, 12:00-4:00 PM | UofR Graduate Writing Retreat - Day 3 | Registered; RIT invitation accepted | Complete the retreat commitment; 1-day, 1-hour, and 10-minute alerts |
+| 2026-08-07, 4:30-5:15 PM | REVIEW: DSCI 602 quantum-paper consolidation email | Created on RIT calendar | Review the [advisor draft](../../ADMIN/2026-08-04-dsci602-quantum-paper-consolidation-advisor-draft.md) and [A+C roadmap](../../RESEARCH/2026-08-04-icnp-review-classification-and-revision-roadmap.md); no email is sent without Piter's approval |
+| 2026-08-08, 2:00-2:30 PM | REVIEW: Handshake AI terms and identity verification | Created on RIT calendar | Piter reviews legal terms and completes identity verification; do not store identity data in Git |
 | 2026-08-09, 6:00-6:20 PM | REVIEW - RIT parking permit readiness | Synced | Confirm local address, account balance, and whether a permit is needed before reserved/general sales open |
 | 2026-08-10, 10:15-10:45 AM | FOLLOW UP: Diverse Lynx remote AI roles | Synced | Check for client, schedule, start date, authorization/sponsorship, travel/onsite, and interview details; no resume until terms are established; 1-day and 10-minute alerts |
 | 2026-08-10, 2:00-2:20 PM | VERIFY: CSCI-739 audit form status | Updated; synced | Professor Vogt approved and Megan prepared the form. Confirm the signed form was received or resolve any correction before the August 24-31 processing window. See the [registration record](../../ADMIN/rit-fall-2026-csci739-audit.md). |
 | 2026-08-10, 3:00-3:30 PM | VERIFY: RIT aid acceptance + Fall bill | Updated; synced | FTE processing and the aid amendment are confirmed. Verify Piter's aid selections and the resulting Fall bill before August 15; escalate only if they do not reconcile. |
+| 2026-08-10, 3:45-4:45 PM | Complete RIT Cybersecurity Fundamentals | Created and verified on RIT calendar | Complete the required [Workday training](../../ADMIN/2026-08-04-rit-ga-cybersecurity-fundamentals.md) and preserve the completion receipt |
+| 2026-08-10, 5:15-5:45 PM | PREP: Jobot Senior AI/ML screening | Created on RIT calendar | Review the [Jobot preparation kit](../../PREPARATION/applications/2026-08-04-jobot-senior-ai-ml-engineer.md) and practice concise, evidence-based answers |
 | 2026-08-11, 2:00-3:00 PM | COMPLETE: Warner Summer course evaluations | Synced | Complete the evaluations before the official August 14 close; 1-day, 1-hour, and 10-minute alerts |
 | 2026-08-11, 3:15-3:35 PM | FOLLOW UP: Jobot Senior AI/ML Engineer | Created on RIT primary calendar | Check Jobot and RIT email for Jobot Pro Charles Simmons; do not submit a duplicate; 1-day, 1-hour, and 10-minute alerts |
 | 2026-08-12, 9:00-9:45 AM | SECURITY REVIEW: identify GitHub deletion process | Synced | Identify the external `python-requests` process that used the expired token; do not regenerate it until the process is constrained; 1-day and 1-hour alerts |
 | 2026-08-12, 10:00-10:30 AM | ACTION: Buy RIT general parking permit | Synced | Use the [MyParking Portal](https://rit.t2hosted.com/Account/Portal); verify address, zero balance, and license plate. The official email gave no launch time; 1-day and 1-hour alerts |
+| 2026-08-12, 4:30-5:00 PM | COMPLETE: Jobot Senior AI/ML screening | Created on RIT calendar | Use Jeni's self-initiated 8-12 minute screening link after the preparation block; substantive recruiter SMS is authorized |
+| 2026-08-13, 2:00-3:30 PM | RESEARCH: ICNP Reviewer A+C Phase 1 | Created on RIT calendar | Preserve A's accepted core; draft the contribution statement, joint algorithm, context inventory, and allocator-policy interface requested by C |
+| 2026-08-14, 2:00-2:45 PM | REVIEW: TEACH Grant status and service terms | Created on RIT calendar | Review secure status, counseling, agreement-to-serve, certification, deadlines, and the federal four-years-within-eight service requirement |
+| 2026-08-14, 3:15-4:15 PM | RESEARCH: Reviewer C threat-grounding plan | Created on RIT calendar | Build the threat-to-physics mapping, parameter rationale, sources, and claim boundaries |
 | 2026-08-15, all day | DEADLINE - RIT Fall statement | Synced | Recheck billing after FTE and aid updates |
+| 2026-08-17, 2:00-3:30 PM | RESEARCH: Reviewer C scale-experiment design | Created on RIT calendar | Design the 15-20 node testbed and 100-node diagnostic ablations before starting compute-heavy runs |
 | 2026-08-19, 2:00-3:00 PM | HHS - Navigating the Federal Hiring Process: USAJobs | Registration prefilled; calendar sync pending | Complete the applicant-controlled fields in the official registration, verify the receipt, then add the [Handshake event](https://rochester.joinhandshake.com/stu/events/1982973) to this calendar |
+| 2026-08-19, 4:30-5:30 PM | CONDITIONAL REVIEW: IEEE Network quantum series | Created on RIT calendar | Make a go/no-go decision against the official August 20 deadline and the A+C Phase 1 evidence; do not rush an unready manuscript |
+| 2026-08-20, 3:00-3:30 PM | DEADLINE DATE: IEEE Network quantum series (conditional) | Created and verified on RIT calendar | Official deadline is August 20. Submit only with coauthor approval and completed A+C gates; otherwise use the November conference fallback or rolling journal path. One-day, one-hour, and ten-minute reminders are active. |
 | 2026-08-22, all day | DEADLINE - Financial statement review/payment | Synced | Review the official account and pay or arrange before the due date |
 | 2026-08-24, all day | CONDITIONAL - Fulbright campus review packet | Corrected; synced | Proceed only if the July 31 meeting identifies an aligned award; do not request recommendations or submit before requirements are verified |
 | 2026-08-24, 2:00-2:30 PM | ACTION: Process CSCI-739 audit form with Megan | Synced | Use Professor Vogt's written permission, complete the Add/Drop/Audit form, keep DSCI-602 for credit, and confirm tuition/FTE/aid treatment; 1-day, 1-hour, and 10-minute alerts |
 | 2026-08-31, all day | DEADLINE: Complete CSCI-739 audit change | Synced | Verify the form is processed and SIS shows CSCI-739 as audit while DSCI-602 remains for credit; 3-day and 1-day afternoon alerts |
+| 2026-09-02, 3:00-3:30 PM | GO/NO-GO: Kaggriculture competition | Created on RIT calendar | Decide based on rules, compute, expected hours, team fit, and payout probability; official entry deadline is recorded as September 23 |
+| 2026-09-23, 3:00-3:30 PM | DEADLINE DATE: Kaggriculture competition | Created and verified on RIT calendar | Recorded entry deadline is September 23. Submit only after the September 2 review verifies the live rules and fit. One-day, one-hour, and ten-minute reminders are active. |
 | 2026-09-14, 9:00-9:30 AM | ACTION - Complete UofR health insurance enrollment/waiver | Synced | Finish the secure process one day before the Tuesday deadline |
 | 2026-09-15, all day | DEADLINE - UofR health insurance enrollment/waiver | Synced | Complete the mandatory secure UHS process |
 | 2026-10-05, 9:00-10:00 AM | FINAL REVIEW - Fulbright national application | Synced | Finish final review one day before the Tuesday deadline |
 | 2026-10-06, 5:00 PM EDT | DEADLINE - Fulbright national application | Synced | Final 2027-28 U.S. Student application deadline; submit earlier after campus endorsement |
 | 2026-10-19, 9:00-9:30 AM | ACTION - Complete Google Cloud 2-step verification | Synced | Complete secure-account verification one day before the Tuesday deadline |
 | 2026-10-20, all day | DEADLINE - Google Cloud 2-step verification | Synced | Complete secure-account verification before access is affected |
+| 2026-10-30, 4:00-4:30 PM | Deadline: RIT Cybersecurity Fundamentals | Created and verified on RIT calendar | Final checkpoint for required GA training; remove only after Workday completion is verified |
 
 ## Calendar Sync Status
 
@@ -130,6 +145,16 @@ Calendar permits them.
   August 14 close.
 - [x] Added the August 12 GitHub security review and RIT general-permit action;
   both avoid Tuesday/Thursday and include one-day and one-hour alerts.
+- [x] Added the August 5 scholarship sweep; August 7 advisor-draft review;
+  August 8 Handshake AI handoff; August 10 and 12 Jobot preparation/screening;
+  August 13, 14, and 17 A+C revision sessions; August 14 TEACH Grant review;
+  August 19 venue decision; and September 2 competition decision. Each was
+  created with one-day, one-hour, and ten-minute reminders.
+- [x] Verified the August 10 and October 30 RIT Cybersecurity Fundamentals
+  events on the primary RIT calendar.
+- [x] Added and verified separate exact-deadline events for the IEEE Network
+  series on August 20 and Kaggriculture on September 23. Both appear in live
+  RIT Calendar search with one-day, one-hour, and ten-minute reminders.
 - [ ] Complete the HHS USAJobs registration, then add the August 19,
   2:00-3:00 PM event to the primary RIT calendar. Do not mark synced until both
   the registration receipt and live calendar entry are visible.

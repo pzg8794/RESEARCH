@@ -10,13 +10,18 @@ Last updated: 2026-08-04
   page displays `Application Received!`; do not submit a duplicate.
 - Recruiter Jeni requested an 8-12 minute profile call and attempted to call at
   3:48 PM EDT.
+- Jeni's latest message provides a self-initiated `Start screening` link rather
+  than a confirmed live appointment. The mistaken generic Gmail draft was
+  discarded on August 4; no reply or appointment confirmation was sent.
 - A same-day 5:00 PM call was initially offered, then corrected because career
   meetings require at least one full day for preparation and recovery.
-- Current offered windows are Thursday, August 6 from 3:30-4:30 PM EDT or
-  Friday, August 7 from 5:00-6:00 PM EDT. Wait for Jeni to confirm one exact
-  time before creating the final call event. Thursday remains conditional on a
-  fresh private-calendar check; use Friday or a later day if adequate
-  transition, preparation, and recovery time cannot be protected.
+- Piter now permits substantive recruiter SMS when it is useful. The original
+  application's `No` SMS selection is not a blocker; avoid only unrelated
+  marketing contact.
+- Preparation is calendared for Monday, August 10, 5:15-5:45 PM EDT. Complete
+  the self-initiated 8-12 minute screening on Wednesday, August 12,
+  4:30-5:00 PM EDT, unless Jeni supplies a different confirmed time with at
+  least one full calendar day of notice.
 
 ## Role Snapshot
 
