@@ -8,6 +8,7 @@ Use this folder when an opportunity comes from ProFellow, an external fellowship
 
 | Need | File |
 | --- | --- |
+| Latest fellowship/startup email sweep and ranked I-Corps routes | [2026-08-05-fellowship-startup-email-pass.md](./2026-08-05-fellowship-startup-email-pass.md) |
 | Eligibility-first Puzzle Plan evaluation of every fellowship-intake option | [2026-08-02-puzzle-plan-opportunity-evaluation.md](./2026-08-02-puzzle-plan-opportunity-evaluation.md) |
 | Reconciliation of Piter's deep fellowship research with verified applicant-specific eligibility | [2026-08-02-user-research-reconciliation.md](./2026-08-02-user-research-reconciliation.md) |
 | Archived original deep-research report, retained unchanged | [source-research/2026-08-02-deep-research-report-fellowships.md](./source-research/2026-08-02-deep-research-report-fellowships.md) |
@@ -44,7 +45,9 @@ Use this folder when an opportunity comes from ProFellow, an external fellowship
    and the current official opportunity description are verified.
 8. Before accepting an interview or advising appointment, check all course and
    calendar commitments, preserve at least 30 minutes for campus travel, and
-   create a separate 60-minute preparation block with multiple alerts.
+   create a separate preparation block with multiple alerts: at least 30
+   minutes for routine events and at least 45 minutes for interviews, advising,
+   and other high-stakes conversations.
 
 ## Folder intent
 

@@ -5,7 +5,9 @@ Last updated: 2026-08-05
 ## Meeting
 
 - Thursday, August 6, 1:15-2:15 PM EDT by Zoom
-- Separate calendar preparation block: noon-12:45 PM EDT
+- Separate calendar preparation block: Wednesday, August 5, 5:30-6:15 PM EDT
+- Official UofR invitation is accepted and contains the secure Zoom join
+  information; use the calendar invitation rather than copying it into Git
 - UofR Fellowships Office advising
 - Goal: determine whether there is a genuinely aligned Fulbright Open
   Study/Research route and leave with verified requirements, dates, and next

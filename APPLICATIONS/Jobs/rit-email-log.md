@@ -1,6 +1,6 @@
 # RIT Career Email Log
 
-Last updated: 2026-08-04
+Last updated: 2026-08-05
 
 This is the public-safe record of job and career messages processed from the
 RIT Gmail account. It stores decisions and follow-up dates, not private message
@@ -17,6 +17,20 @@ bodies, phone numbers, or personal recruiter addresses.
   or health burden.
 - Priority fields are data science, AI/ML, quantum computing, research
   engineering, bioinformatics, inclusive CS teaching, and education technology.
+
+## Refresh Status - 2026-08-05
+
+- Reviewed the August 4 ProFellow `Open Calls for Applications` digest. It is a
+  discovery message, not an application response.
+- Verified the E2 deadline against the official program page: **September 15**,
+  not the digest's August 15 date. E2 remains low fit unless a genuine
+  environmental advocacy or clean-economy project is defined.
+- Reverified the Luce deadline as **September 8 at 5:00 PM ET**. The existing
+  age-at-departure and Asia-exposure eligibility gates remain unresolved, so no
+  recommendation request or application action was started.
+- The digest's other current items were jobs, arts opportunities, PhD-required
+  fellowships, or faculty-only programs. No personalized fellowship or startup
+  response was found. See the [dated fellowship/startup email pass](../Fellowships/2026-08-05-fellowship-startup-email-pass.md).
 
 ## Refresh Status - 2026-08-04
 

@@ -39,7 +39,7 @@ copying private content.
 | 2026-08-07, noon-4:00 PM | UofR Graduate Writing Retreat - Day 3 | Conditional; advisor-planning agenda only | [Writing Retreat](./meetings/2026-08-05-writing-retreat.md) | 11:30 AM-noon; 30 minutes live |
 | 2026-08-05, 8:15 PM | Circle Medical appointment | Confirmed; secure check-in remains | [Medical appointment checklist](./meetings/2026-08-05-medical-appointment.md) | 7:45-8:15 PM; 30 minutes live |
 | 2026-08-06 and 2026-08-07 | Private family medical support and appointments | Confirmed; exact details remain private | [Family medical checklist](./meetings/family-medical-appointments.md) | Aug 5, 5:00-5:30 PM; Aug 7, 7:15-7:45 AM and 11:00-11:30 AM; live |
-| 2026-08-06, 1:15 PM | UofR Fulbright advising by Zoom | Confirmed | [Fulbright advising](./meetings/2026-08-06-fulbright-advising.md) | Noon-12:45 PM; 45 minutes live |
+| 2026-08-06, 1:15 PM | UofR Fulbright advising by Zoom | Confirmed; official invitation accepted with secure join information | [Fulbright advising](./meetings/2026-08-06-fulbright-advising.md) | 2026-08-05, 5:30-6:15 PM; 45 minutes live |
 | 2026-08-06, 6:00 PM | New York Tech Computer Science Ph.D. information session | Registered | [New York Tech Ph.D. session](./meetings/2026-08-06-nyit-cs-phd-information-session.md) | 5:30-6:00 PM; 30 minutes live |
 | 2026-08-07, 9:00 AM | Financial-aid identity verification | Confirmed in person | [Identity-verification appointment](./meetings/2026-08-07-financial-aid-identity-verification.md) | 7:45-9:00 AM prep/travel; at least 30 minutes review, but Dad/travel conflict remains unresolved |
 
@@ -47,6 +47,7 @@ copying private content.
 
 | Pipeline group | Preparation kit |
 | --- | --- |
+| NSF I-Corps startup-team regional course | [Application and customer-discovery kit](./applications/2026-08-05-nsf-icorps-startup-course.md) |
 | Jobot Senior AI/ML Engineer | [Dedicated urgent kit](./applications/2026-08-04-jobot-senior-ai-ml-engineer.md) |
 | Recovery Audit Solutions, Tech Rise Solutions, Health Data Max, Solu, LearningMate, Carney, and Handshake AI | [Active application kits](./applications/active-application-kits.md) |
 | Diverse Lynx, SUS InfoTech, VDart, Stride, Cardinal Education, Epic, and Bronx Arts and Science | [Active application kits](./applications/active-application-kits.md) |

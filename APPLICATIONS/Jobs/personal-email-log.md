@@ -1,6 +1,6 @@
 # Personal Email Career and Financial Action Log
 
-Last updated: 2026-08-03
+Last updated: 2026-08-05
 
 This is the public-safe record of career, consulting, education-funding, and
 urgent financial messages reviewed in the personal Gmail account. It records
@@ -8,6 +8,12 @@ decisions, deadlines, and secure-account handoffs without storing balances,
 account numbers, addresses, health details, or full message bodies.
 
 ## Career and Consulting
+
+The August 5 fellowship/startup search found no personalized application
+response or actionable startup invitation. A ScholarUp newsletter advertised a
+law-school scholarship restricted to incoming first-year law students, so it is
+not a fit. Other startup hits were general news or marketing rather than grants,
+competitions, or applications. See the [cross-account email pass](../Fellowships/2026-08-05-fellowship-startup-email-pass.md).
 
 | Date processed | Opportunity | Verified fit and constraints | Action | Status / follow-up |
 | --- | --- | --- | --- | --- |

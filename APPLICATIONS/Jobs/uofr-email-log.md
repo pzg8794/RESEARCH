@@ -1,12 +1,33 @@
 # University of Rochester Job and Career Email Log
 
+## Refresh Status - 2026-08-05
+
+- Reviewed the latest fellowship, Fulbright, startup, and I-Corps messages.
+  The official Fulbright invitation for **Thursday, August 6, 1:15-2:15 PM by
+  Zoom** is accepted and now contains the secure join information. Piter's
+  confirmation reply is complete; no duplicate response is due.
+- The live RIT calendar shows the Fulbright preparation block on **Wednesday,
+  August 5, 5:30-6:15 PM**, not Thursday at noon. The preparation kit and
+  calendar queue were corrected to the live state.
+- Removed the stale `To respond` label from the completed confirmation thread,
+  marked the canceled invitation update read, unstarred the superseded
+  `link forthcoming` invitation, and starred the current official invitation.
+  The active meeting is now the item kept visible.
+- The August 5 `@Rochester` newsletter led to a verified NSF I-Corps course
+  comparison. The October 19-November 18 virtual startup-team course, due
+  September 23, is the best schedule and fit; no application has been submitted.
+  See the [dated email pass](../Fellowships/2026-08-05-fellowship-startup-email-pass.md)
+  and [application kit](../../PREPARATION/applications/2026-08-05-nsf-icorps-startup-course.md).
+- No new fellowship or startup acceptance, rejection, interview request, or
+  funding award was found in the latest UofR messages.
+
 ## Refresh Status - 2026-08-04
 
 - Juliet Sullivan confirmed the Fulbright advising appointment for **Thursday,
   August 6, 1:15-2:15 PM by Zoom**. The confirmation reply was sent and the
-  official invitation was accepted. The RIT calendar now has a 12:00-12:45 PM
-  preparation block, recovery time, and layered reminders. Keep the thread
-  visible until the Zoom link arrives.
+  official invitation was accepted. The live RIT calendar has a Wednesday,
+  August 5, 5:30-6:15 PM preparation block and layered reminders. The secure
+  Zoom join information has arrived in the official invitation.
 - Submitted the Carney, Sandoe & Associates 2027-2028 Teaching Fellowship
   application with the targeted teaching resume. Handshake displayed `Applied
   on August 4, 2026`, and the UofR email receipt was verified.

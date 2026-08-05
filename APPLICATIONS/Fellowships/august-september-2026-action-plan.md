@@ -1,10 +1,10 @@
 # August-September 2026 Application Action Plan
 
-Updated: 2026-07-29
+Updated: 2026-08-05
 
-Scheduling rule: avoid Tuesdays and Thursdays for meetings, events, and work
-blocks. Use Thursday after 4:30 PM only when it is the sole option. Keep fixed
-official deadlines on their true dates and prepare earlier.
+Scheduling rule: prefer afternoon work because of chronic illness. Tuesdays and
+Thursdays are available again, but check the live calendar before accepting a
+time. Keep fixed official deadlines on their true dates and prepare earlier.
 
 ## Start Now
 
@@ -76,16 +76,30 @@ official deadlines on their true dates and prepare earlier.
   funded PhD or aligned research opportunity with complete information and
   reasonable notice.
 
-## E2: Priority Due August 15
+## NSF I-Corps: Startup Course Due September 23
 
-- [ ] By August 1, decide whether there is a real sustainability or
-  environmental-justice project that fits the program without forcing the
-  narrative.
-- [ ] If yes, define the advocacy hurdle and economic case.
-- [ ] Draft a 12-month roadmap for the approximately 10-hours-per-month virtual
-  project.
-- [ ] Request a support letter from a community or business partner.
-- [ ] Submit by August 14.
+- [x] Verify the current Northeast Hub course list and compare the open-STEM,
+  medtech, and startup-team schedules.
+- [x] Select the October 19-November 18 startup-team course as the best initial
+  route because it fits deep-tech work and uses mostly noon-2:00 PM sessions.
+- [ ] Use the [application kit](../../PREPARATION/applications/2026-08-05-nsf-icorps-startup-course.md)
+  to choose one technology and first customer hypothesis.
+- [ ] Confirm the current prototype, advisor role, and RIT intellectual-property
+  status before filling ownership or implementation fields.
+- [ ] Submit by September 22; the official form lists September 23 but does not
+  publish a cutoff time.
+
+## E2: Conditional, Official Deadline September 15
+
+- [x] Correct the ProFellow digest's August 15 date against the official E2
+  page, which lists September 15.
+- [ ] Proceed only if a real clean-energy, clean-water, food/agriculture,
+  electrification, or environmental-policy project already exists. Do not force
+  the current AI or education work into an environmental advocacy narrative.
+- [ ] If that gate is met, verify the current project, advocacy hurdle, economic
+  case, support-letter expectation, and 12-month commitment before applying.
+- [ ] Otherwise mark E2 screened out for this cycle without requesting a
+  recommendation.
 
 ## Fulbright Spain ETA: Paused as a Role Mismatch
 

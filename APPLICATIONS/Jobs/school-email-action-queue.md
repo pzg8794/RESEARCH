@@ -1,6 +1,6 @@
 # Email Action Queue
 
-Updated: 2026-08-04
+Updated: 2026-08-05
 
 This is the public-safe todo list for important career, funding, registration,
 degree-completion, and financial email from the RIT, University of Rochester,
@@ -14,6 +14,7 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 - [Next-week watchlist: August 2-8](./next-week-watchlist-2026-08-02.md)
 - [August 3 RIT opportunity and funding pass](./2026-08-03-rit-opportunity-pass.md)
 - [August 4 school and career response pass](./2026-08-04-school-career-response-pass.md)
+- [August 5 fellowship and startup email pass](../Fellowships/2026-08-05-fellowship-startup-email-pass.md)
 - [Near-term income and school-funding queue](./2026-08-04-near-term-income-and-funding.md)
 
 ## Queue Rules
@@ -110,8 +111,18 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
   the receipt, calendar Monday, and thank the organizer.
 - [x] **Complete - UofR / fellowship rescheduling:** The office confirmed
   **Thursday, August 6, 1:15-2:15 PM by Zoom**. The reply was sent and the
-  official invitation was accepted. Use the 12:00-12:45 PM preparation block
-  and keep the thread visible only until the Zoom link arrives.
+  official invitation was accepted. The secure Zoom information is present.
+  Use the Wednesday, August 5, 5:30-6:15 PM preparation block; do not send a
+  duplicate reply.
+- [ ] **P1 - NSF I-Corps startup course:** Review the
+  [application kit](../../PREPARATION/applications/2026-08-05-nsf-icorps-startup-course.md),
+  choose one technology/customer lane, and resolve advisor and RIT IP questions.
+  The preferred virtual cohort is due September 23 and runs October 19-November
+  18; target September 22 for submission.
+- [ ] **P3 - E2 fellowship:** The official deadline is September 15, not
+  August 15. Apply only if existing work supports a genuine environmental
+  advocacy or clean-economy project; otherwise screen it out without involving
+  references.
 - [x] **Complete - Handshake / Carney, Sandoe:** Submitted the 2027-2028
   Teaching Fellowship application with the targeted teaching resume on August
   4. Handshake and the email receipt both confirm the application.
