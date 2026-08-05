@@ -1,6 +1,6 @@
 # Financial-Aid Identity Verification Appointment Kit
 
-Last updated: 2026-08-04
+Last updated: 2026-08-05
 
 This is a public-safe administrative checklist. Keep identity documents,
 account numbers, balances, and private financial records out of this file.
@@ -12,6 +12,8 @@ account numbers, balances, and private financial records out of this file.
 - With Ashley Johnston, Assistant Director, University of Rochester Financial
   Aid Office
 - Protected preparation and travel block begins at 7:45 AM
+- Protect 7:45-8:15 AM for actual checklist review; travel does not replace the
+  required 30 minutes of preparation.
 - The official invitation is accepted on the UofR calendar. A private reminder
   copy is also on the RIT calendar.
 - Dad's 8:20-9:00 AM postoperative visit overlaps the preparation and travel

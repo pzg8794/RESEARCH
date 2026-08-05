@@ -1,10 +1,13 @@
 # Medical Appointment Preparation Checklist
 
-Last updated: 2026-08-04
+Last updated: 2026-08-05
 
 This is intentionally a public-safe checklist. Do not add symptoms, diagnoses,
 medications, laboratory values, insurance information, or private portal links
 to this repository.
+
+The separate calendar preparation block is Wednesday, August 5, 7:45-8:15 PM
+EDT, immediately before the 8:15 PM appointment.
 
 ## Before The Appointment
 
@@ -35,4 +38,3 @@ to this repository.
 - Add confirmed tests, referrals, or follow-up appointments to the RIT Google
   Calendar with reminders and sufficient travel or preparation time.
 - Do not copy medical details into the public RESEARCH repository.
-

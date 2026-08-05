@@ -2,7 +2,7 @@
 
 Calendar account: `pzg8794@g.rit.edu`
 
-Updated: 2026-08-04
+Updated: 2026-08-05
 
 This queue mirrors verified application deadlines, review blocks,
 appointments, and registered events. Every entry should include its source
@@ -21,9 +21,18 @@ Calendar permits them.
   and Piter explicitly chooses it.
 - Keep fixed official deadlines on their true dates and add an earlier
   preparation or final-review block when needed.
+- Every externally scheduled meeting, interview, advising session, information
+  session, medical or administrative appointment, and registered event needs a
+  linked preparation kit and a separate `PREP:` block on the RIT calendar.
+  Protect at least 30 minutes; use at least 45 minutes for interviews, advising,
+  and other high-stakes conversations. Preparation blocks do not recursively
+  need preparation blocks.
+- Preparation must finish before the event. Do not count travel toward the
+  minimum unless at least 30 minutes remain for actual review.
 - Never schedule a critical appointment at the exact end of another obligation.
-- Reserve at least 30 minutes for same-campus travel and a separate 60-minute
-  preparation block for high-stakes appointments.
+- Reserve at least 30 minutes for same-campus travel. For a critical in-person
+  appointment, protect a 60-minute or longer combined preparation-and-travel
+  window while preserving at least 30 minutes for actual review before travel.
 - Use multiple alerts: normally one day, two hours, thirty minutes, and ten
   minutes before the appointment.
 - Treat private health and family-care commitments as protected calendar time.
@@ -52,13 +61,18 @@ Calendar permits them.
 | 2026-08-04, 3:45-4:15 PM | REVIEW: amended RIT financial aid offer | Synced | FTE is processed and RIT Aid says the amended offer is available in eServices. Piter reviews the offer and makes any acceptance decision; 30-minute and 10-minute alerts |
 | 2026-08-05, 12:00-4:00 PM | UofR Graduate Writing Retreat - Day 1 | Canceled for health; UofR and RIT invitations declined | Liz Tinelli was notified at 5:37 AM. The declined invitations remain as accurate records, the duplicate active RIT reminder was removed, and the block no longer counts as meeting time |
 | 2026-08-05, 4:10-4:50 PM | URGENT: Scholarship deadline sweep | Created and verified on RIT calendar | Use the [near-term income and funding queue](./2026-08-04-near-term-income-and-funding.md); verify eligibility, official deadline, privacy terms, and no-fee status before submitting |
+| 2026-08-05, 5:00-5:30 PM | PREP: Dad surgery support + Fulbright timing | Updated and live-verified on RIT calendar | Use the [public-safe family medical checklist](../../PREPARATION/meetings/family-medical-appointments.md); exact medical and account details remain in secure sources |
+| 2026-08-05, 7:45-8:15 PM | PREP: Circle Medical appointment | Created and live-verified on RIT calendar | Use the [public-safe medical checklist](../../PREPARATION/meetings/2026-08-05-medical-appointment.md); complete secure check-in and keep private details out of Git |
 | 2026-08-06, 12:00-12:45 PM | PREP: Fulbright advising appointment | Synced | Prepare only verified award requirements, deadlines, funding, and Puzzle Plan fit; recovery gap protected before the meeting |
 | 2026-08-06, 1:15-2:15 PM | CONFIRMED: UofR Fulbright advising (Zoom) | Official invitation accepted; synced | Juliet confirmed the appointment and the response was sent. Watch the thread for the Zoom link; layered reminders are active. |
 | 2026-08-06, 5:30-6:00 PM | PREP: New York Tech Computer Science Ph.D. information session | Synced | Prepare assistantship-funding, faculty-fit, research, deadline, and application questions for the [Computer Science Ph.D.](https://www.nyit.edu/academics/degrees/computer-science-phd/) |
 | 2026-08-06, 6:00-7:00 PM | New York Tech Virtual Graduate Information Session | Registered; synced | Registration confirmed for Computer Science Ph.D., New York City, Fall 2027; one-day, one-hour, and ten-minute alerts |
+| 2026-08-07, 7:15-7:45 AM | PREP: Dad postoperative eye visit | Created and live-verified on RIT calendar | Use the [public-safe family medical checklist](../../PREPARATION/meetings/family-medical-appointments.md); confirm transportation and the unresolved transition to Wallis Hall |
 | 2026-08-07, 7:45-9:00 AM | PREP + TRAVEL: Financial Aid Appointment | RIT invitation accepted | Prepare University of Rochester student ID and the required identity document, review the verification email, travel to Wallis Hall, and arrive before 9:00 AM. Dad's 8:20-9:00 AM postoperative visit overlaps this block; 1-day, 2-hour, 30-minute, and 10-minute alerts |
 | 2026-08-07, 9:00-9:15 AM | CONFIRMED IN PERSON: Ashley Johnston - financial aid identity verification | Official UofR invitation accepted; private RIT reminder copy verified | Wallis Hall; arrive early with the required identification. The RIT copy has one-day, two-hour, 30-minute, and ten-minute alerts and links to the preparation kit |
 | 2026-08-07, 10:00-11:00 AM | DEADLINE WORK BLOCK: LearningMate SME | Removed from both calendars after verified submission | Application was submitted and receipt-confirmed on August 3; no obsolete work block remains |
+| 2026-08-07, 11:00-11:30 AM | PREP: Dad surgical pre-testing phone call | Created and live-verified on RIT calendar | Use the [public-safe family medical checklist](../../PREPARATION/meetings/family-medical-appointments.md); prepare the secure information and decide how to step away from the retreat for the 1:00 PM call |
+| 2026-08-07, 11:30 AM-12:00 PM | PREP: UofR Graduate Writing Retreat - Day 3 | Created and live-verified on RIT calendar | Use the [writing-retreat kit](../../PREPARATION/meetings/2026-08-05-writing-retreat.md); reassess health and prepare only the advisor decision memo and Reviewer A+C roadmap |
 | 2026-08-07, 12:00-4:00 PM | UofR Graduate Writing Retreat - Day 3 | Conditional; RIT invitation remains accepted | Attend only if health permits. Use the block to prepare the advisor decision memo and Reviewer A+C roadmap; do not rewrite the thesis as though the scope change is approved |
 | 2026-08-07, 4:30-5:15 PM | REVIEW: DSCI 602 quantum-paper consolidation email | Created on RIT calendar | Review the [advisor draft](../../ADMIN/2026-08-04-dsci602-quantum-paper-consolidation-advisor-draft.md) and [A+C roadmap](../../RESEARCH/2026-08-04-icnp-review-classification-and-revision-roadmap.md); no email is sent without Piter's approval |
 | 2026-08-08, 2:00-2:30 PM | REVIEW: Handshake AI terms and identity verification | Created on RIT calendar | Piter reviews legal terms and completes identity verification; do not store identity data in Git |
@@ -154,6 +168,11 @@ Calendar permits them.
 - [x] Registered for the August 6 New York Tech virtual graduate session and
   added both the 5:30 PM preparation block and 6:00 PM event with layered
   reminders.
+- [x] Enforced the preparation-block rule on August 5. Added or extended live
+  `PREP:` blocks for surgery-support planning, the Circle appointment, both
+  Friday family medical items, and Friday's writing retreat. Fulbright, New
+  York Tech, Ashley Johnston, and Jobot already had at least 30 minutes
+  reserved; Ashley's transportation conflict remains unresolved.
 - [x] Replaced the August 10 FTE escalation after RIT confirmed full-time
   processing. The remaining 3:00 PM checkpoint verifies aid acceptance and the
   Fall bill; the Diverse Lynx follow-up remains at 10:15 AM.

@@ -43,6 +43,30 @@ Account-specific addresses, browser profiles, mounted Drive paths, and the
 verified routing table belong only in `AGENTS.private.md`. The public-safe
 email queues remain under `APPLICATIONS/Jobs/`.
 
+## REQUIRED: Meeting Preparation Kit And Calendar Block
+
+Every externally scheduled meeting, interview, recruiter screen, advising
+session, information session, medical or administrative appointment, and
+registered event must have both of the following before it is treated as ready:
+
+1. A public-safe preparation kit under `PREPARATION/` that identifies the
+   purpose, evidence or materials, likely questions, questions to ask, and the
+   required follow-up.
+2. A separate RIT Google Calendar event titled `PREP: <event name>` with at
+   least 30 minutes of protected preparation time. Use at least 45 minutes for
+   interviews, advising meetings, and other high-stakes conversations.
+
+The preparation block must finish before the event begins. Travel does not
+count toward the minimum unless at least 30 minutes remain protected for actual
+review before travel starts. When an event is rescheduled or canceled, move or
+remove its preparation block and update the kit in the same pass. Preparation
+blocks do not recursively require preparation blocks of their own.
+
+If no conflict-free preparation time exists, flag the schedule as unresolved
+instead of claiming the event is ready. Keep private medical, family, identity,
+and account details out of Git; use a public-safe checklist and retain exact
+details only in the private calendar or secure source.
+
 ## FORBIDDEN: DO NOT DELETE GIT REPOSITORIES
 
 Every agent must read and follow [`REPOSITORY_SAFETY.md`](./REPOSITORY_SAFETY.md).

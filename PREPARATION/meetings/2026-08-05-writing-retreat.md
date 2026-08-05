@@ -9,6 +9,7 @@ Last updated: 2026-08-05
   duplicate active RIT reminder was removed.
 - Friday, August 7, noon-4:00 PM EDT: **conditional** on health and a useful
   planning agenda. The invitation remains accepted for now.
+- The separate Friday preparation block is 11:30 AM-noon EDT.
 - Purpose before advisor approval: prepare a thesis-scope decision packet and
   reviewer-response roadmap. Do not rewrite the thesis as though the proposed
   change has already been approved.
