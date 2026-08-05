@@ -50,7 +50,7 @@ Calendar permits them.
 | 2026-08-04, 2:00-2:25 PM | REVIEW: Carney application + Teaching Retreat registration | Partly complete; synced | Carney was submitted and receipt-confirmed. The [Teaching Retreat](https://rochester.joinhandshake.com/stu/events/1956131/attendees/new) still needs Piter's dietary/special-food answer before submission. |
 | 2026-08-04, 3:15-3:30 PM | SIGN: RIT CSCI-739 audit form | Completed | The final PDF carries a valid Adobe Acrobat Sign signature timestamped August 4 at 2:54 PM. Advisor/Registrar processing and SIS verification remain separate; 30-minute and 10-minute alerts were active. |
 | 2026-08-04, 3:45-4:15 PM | REVIEW: amended RIT financial aid offer | Synced | FTE is processed and RIT Aid says the amended offer is available in eServices. Piter reviews the offer and makes any acceptance decision; 30-minute and 10-minute alerts |
-| 2026-08-05, 12:00-4:00 PM | UofR Graduate Writing Retreat - Day 1 | Registered; RIT invitation accepted | Bring the RIT data-science thesis/manuscript; 1-day, 1-hour, and 10-minute alerts |
+| 2026-08-05, 12:00-4:00 PM | UofR Graduate Writing Retreat - Day 1 | Canceled for health; UofR and RIT invitations declined | Liz Tinelli was notified at 5:37 AM. The declined invitations remain as accurate records, the duplicate active RIT reminder was removed, and the block no longer counts as meeting time |
 | 2026-08-05, 4:10-4:50 PM | URGENT: Scholarship deadline sweep | Created and verified on RIT calendar | Use the [near-term income and funding queue](./2026-08-04-near-term-income-and-funding.md); verify eligibility, official deadline, privacy terms, and no-fee status before submitting |
 | 2026-08-06, 12:00-12:45 PM | PREP: Fulbright advising appointment | Synced | Prepare only verified award requirements, deadlines, funding, and Puzzle Plan fit; recovery gap protected before the meeting |
 | 2026-08-06, 1:15-2:15 PM | CONFIRMED: UofR Fulbright advising (Zoom) | Official invitation accepted; synced | Juliet confirmed the appointment and the response was sent. Watch the thread for the Zoom link; layered reminders are active. |
@@ -59,7 +59,7 @@ Calendar permits them.
 | 2026-08-07, 7:45-9:00 AM | PREP + TRAVEL: Financial Aid Appointment | RIT invitation accepted | Prepare University of Rochester student ID and the required identity document, review the verification email, travel to Wallis Hall, and arrive before 9:00 AM. Dad's 8:20-9:00 AM postoperative visit overlaps this block; 1-day, 2-hour, 30-minute, and 10-minute alerts |
 | 2026-08-07, 9:00-9:15 AM | CONFIRMED IN PERSON: Ashley Johnston - financial aid identity verification | Official UofR invitation accepted; private RIT reminder copy verified | Wallis Hall; arrive early with the required identification. The RIT copy has one-day, two-hour, 30-minute, and ten-minute alerts and links to the preparation kit |
 | 2026-08-07, 10:00-11:00 AM | DEADLINE WORK BLOCK: LearningMate SME | Removed from both calendars after verified submission | Application was submitted and receipt-confirmed on August 3; no obsolete work block remains |
-| 2026-08-07, 12:00-4:00 PM | UofR Graduate Writing Retreat - Day 3 | Registered; RIT invitation accepted | Complete the retreat commitment; 1-day, 1-hour, and 10-minute alerts |
+| 2026-08-07, 12:00-4:00 PM | UofR Graduate Writing Retreat - Day 3 | Conditional; RIT invitation remains accepted | Attend only if health permits. Use the block to prepare the advisor decision memo and Reviewer A+C roadmap; do not rewrite the thesis as though the scope change is approved |
 | 2026-08-07, 4:30-5:15 PM | REVIEW: DSCI 602 quantum-paper consolidation email | Created on RIT calendar | Review the [advisor draft](../../ADMIN/2026-08-04-dsci602-quantum-paper-consolidation-advisor-draft.md) and [A+C roadmap](../../RESEARCH/2026-08-04-icnp-review-classification-and-revision-roadmap.md); no email is sent without Piter's approval |
 | 2026-08-08, 2:00-2:30 PM | REVIEW: Handshake AI terms and identity verification | Created on RIT calendar | Piter reviews legal terms and completes identity verification; do not store identity data in Git |
 | 2026-08-08, 5:00-8:00 PM | INCOME: DoorDash dinner peak experiment | Created and live-verified on RIT calendar | Use DoorDash's official dinner peak, current hotspots, Peak Pay, weather, traffic, and an energy/safety check. Record gross, online/active time, miles, costs, and tips; 1-day, 1-hour, and 10-minute alerts |
@@ -118,15 +118,18 @@ Calendar permits them.
   calendar and invitations were sent to `pzg8794@g.rit.edu`.
 - [x] Accepted the August 5 and August 7 writing-retreat invitations and the
   August 7 financial-aid preparation/travel invitation on the primary RIT
-  calendar. Removed the obsolete LearningMate work block from both calendars
-  after the August 3 submission receipt was verified.
+  calendar. On August 5, marked Day 1 declined in both accounts after the health
+  cancellation email and removed the duplicate active RIT reminder; left Day 3
+  accepted but conditional. Removed the obsolete LearningMate work block from
+  both calendars after the August 3 submission receipt was verified.
 - [x] Moved the flexible August 3 career-response review from 9:00 AM to
   10:00-10:45 AM, leaving one hour after the fellowship deadline block for
   receipts and follow-up. The corrected event is live on the UofR calendar and
   invited to RIT.
 - [x] Verified the July 27 writing-retreat registration receipt and restored the
   missing Wednesday and Friday noon-4:00 PM blocks to the live calendar. The
-  Thursday session remains unscheduled because of class.
+  Thursday session remains unscheduled because it overlaps Fulbright
+  preparation and advising.
 - [x] Audited the missed July 31 fellowship appointment. The Poster Fair ended
   at 3:00 PM in LeChase and the appointment began at 3:00 PM in Dewey, while
   the appointment had only a ten-minute alert. Record this as an invalid

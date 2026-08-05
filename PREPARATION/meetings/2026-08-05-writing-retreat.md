@@ -1,13 +1,17 @@
 # Graduate Writing Retreat Preparation Kit
 
-Last updated: 2026-08-04
+Last updated: 2026-08-05
 
 ## Schedule And Purpose
 
-- Wednesday, August 5, noon-4:00 PM EDT
-- Friday, August 7, noon-4:00 PM EDT
-- Purpose: protected writing time for the RIT M.S. Data Science thesis, not a
-  general application or email-processing block
+- Wednesday, August 5, noon-4:00 PM EDT: **canceled for health**. Liz Tinelli
+  was notified by email, both account invitations were declined, and the
+  duplicate active RIT reminder was removed.
+- Friday, August 7, noon-4:00 PM EDT: **conditional** on health and a useful
+  planning agenda. The invitation remains accepted for now.
+- Purpose before advisor approval: prepare a thesis-scope decision packet and
+  reviewer-response roadmap. Do not rewrite the thesis as though the proposed
+  change has already been approved.
 
 ## Thesis In Plain Language
 
@@ -32,24 +36,28 @@ is incomplete or uneven. The thesis tests which fairness principles transfer
 between clinical and quantum systems and which must remain specific to the
 people, risks, and resources involved.
 
-## Day 1 Work Plan
+## Decision Rule Before Friday
 
-1. Read the current abstract, introduction, and research questions once without
-   editing; mark only contradictions or missing definitions.
-2. Make the nonexpert explanation of bandit algorithms consistent throughout.
-3. Define Puzzle Plan and EQUITAS at their first reader need.
-4. Verify that every result statement distinguishes completed evidence,
-   preliminary evidence, and work still being validated.
-5. End the session with one written list of unresolved experiments, figures,
-   citations, and advisor questions.
+Attend Friday only if health permits and the session can be used to prepare for
+the advisor conversation. Do not use the retreat to commit to a new thesis
+scope, remove existing work, or represent the quantum-paper consolidation as
+approved.
 
-## Day 3 Work Plan
+## Friday Planning Agenda
 
-1. Resolve the highest-priority item from the Day 1 list.
-2. Check that clinical and quantum evaluation measures are named consistently.
-3. Revise transitions between the shared framework and domain-specific risks.
-4. Run the repository's existing validation or build steps.
-5. Commit a clean, reviewable change and prepare a concise advisor update.
+1. Draft a one-page advisor decision memo describing the proposed scope change,
+   why combining the quantum paper and thesis would reduce duplicated work, and
+   what degree requirements and deliverables remain unchanged.
+2. Separate work that is already complete from work that would be added,
+   revised, or removed under the proposed scope.
+3. Turn the conference reviews into an action table: prioritize Reviewers A and
+   C because they provide the clearest path to two favorable assessments, while
+   retaining Reviewer B's concerns as risk checks.
+4. Build a realistic milestone plan for advisor approval, experiments,
+   manuscript revision, thesis writing, and the remaining semester.
+5. End with a short list of decisions and questions that only the advisors can
+   answer. Send nothing and change no core thesis direction without Piter's
+   review and advisor approval.
 
 ## Materials To Open Before Leaving
 
@@ -60,16 +68,20 @@ people, risks, and resources involved.
 
 ## If Someone Asks What You Need Today
 
-I need a protected block to make the thesis understandable to a nonexpert
-reader without weakening the technical methodology. My priorities are defining
-the shared decision framework, making the clinical and quantum comparison
-clear, and separating established results from analyses still being validated.
+I need a protected block to prepare a clear proposal for my advisors. I am
+considering consolidating my quantum paper and Data Science thesis so the same
+research effort can satisfy aligned academic and graduate-assistant
+responsibilities. I need help making the proposed scope, evidence, timeline,
+risks, and advisor decisions easy to review; the change has not yet been
+approved.
 
 ## Before And After
 
 - Bring the computer, charger, headphones, water, and any needed medication or
   accessibility supports.
+- Reassess health on Friday morning. Skipping the session is the correct choice
+  if attendance would interfere with recovery or the day's required financial-
+  aid appointment.
 - Do not schedule a recruiter call inside the retreat or immediately after it.
-- Record the exact section changed, remaining blocker, and next writing action
-  before leaving.
-
+- Record the completed planning artifact, unresolved advisor decision, and next
+  action before leaving.

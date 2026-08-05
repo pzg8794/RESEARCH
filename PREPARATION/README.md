@@ -28,7 +28,8 @@ copying private content.
 | Date | Item | Status | Preparation kit |
 | --- | --- | --- | --- |
 | 2026-08-06 or later, exact time pending | Jobot recruiter screening, Senior AI/ML Engineer | Same-day time declined; Thursday and Friday afternoon windows offered | [Jobot recruiter screen](./applications/2026-08-04-jobot-senior-ai-ml-engineer.md) |
-| 2026-08-05, noon-4:00 PM | UofR Graduate Writing Retreat | Registered | [Writing Retreat](./meetings/2026-08-05-writing-retreat.md) |
+| 2026-08-05, noon-4:00 PM | UofR Graduate Writing Retreat - Day 1 | Canceled for health; organizer notified; both accounts declined | [Writing Retreat](./meetings/2026-08-05-writing-retreat.md) |
+| 2026-08-07, noon-4:00 PM | UofR Graduate Writing Retreat - Day 3 | Conditional; advisor-planning agenda only | [Writing Retreat](./meetings/2026-08-05-writing-retreat.md) |
 | 2026-08-05, 8:15 PM | Circle Medical appointment | Confirmed; secure check-in remains | [Medical appointment checklist](./meetings/2026-08-05-medical-appointment.md) |
 | 2026-08-06, 1:15 PM | UofR Fulbright advising by Zoom | Confirmed | [Fulbright advising](./meetings/2026-08-06-fulbright-advising.md) |
 | 2026-08-06, 6:00 PM | New York Tech Computer Science Ph.D. information session | Registered | [New York Tech Ph.D. session](./meetings/2026-08-06-nyit-cs-phd-information-session.md) |
