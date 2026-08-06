@@ -29,6 +29,9 @@ The source materials live across two local DataScience spaces:
 | Writing-sample shortlists by application type | [WRITING_SAMPLE_SHORTLISTS.md](./WRITING_SAMPLE_SHORTLISTS.md) |
 | Canonical Overleaf project status | [OVERLEAF_CANONICAL_STATUS.md](./OVERLEAF_CANONICAL_STATUS.md) |
 | Public-facing repo/showcase strategy | [PUBLIC_REPOSITORY_SHOWCASE_PLAN.md](./PUBLIC_REPOSITORY_SHOWCASE_PLAN.md) |
+| Weekly profile posting itinerary | [profile-weekly-posting-itinerary.md](./profile-weekly-posting-itinerary.md) |
+| Weekly category count tracker | [profile-post-category-tracker.md](./profile-post-category-tracker.md) |
+| Reusable profile and bio snippets | [../STATEMENTS/PROFILE_SNIPPETS.md](../STATEMENTS/PROFILE_SNIPPETS.md) |
 
 ## Working order
 

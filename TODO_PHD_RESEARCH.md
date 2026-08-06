@@ -178,11 +178,11 @@ Items are organized by priority and domain, derived from `MASTER_RESEARCH_INDEX.
 - [ ] Update GitHub profile (bio) to:
   - [ ] Link to `https://github.com/pzg8794/RESEARCH`
   - [ ] 2–3 sentence summary across the three pillars: quantum ML/routing, AI & CS education, inclusive pedagogy
-- [ ] Create `STATEMENTS/PROFILE_SNIPPETS.md` with short bios for:
-  - [ ] Conference / talk context
-  - [ ] Application form (150 words)
-  - [ ] Website / GitHub profile (3 sentences)
-  - [ ] LinkedIn "About" section
+- [x] Create `STATEMENTS/PROFILE_SNIPPETS.md` with short bios for:
+  - [x] Conference / talk context
+  - [x] Application form (150 words)
+  - [x] Website / GitHub profile (3 sentences)
+  - [x] LinkedIn "About" section
 
 ---
 
