@@ -7,6 +7,11 @@ Assistant Award.** This post-meeting record supersedes the award strategy in
 the pre-meeting preparation kit and live sheet. It does not erase the earlier
 analysis, which remains useful for a future Study/Research application.
 
+Execution is tracked in the
+[Fulbright Spain ETA execution plan](../../APPLICATIONS/Fellowships/2026-08-06-fulbright-spain-eta-execution-plan.md),
+including the critical-path checklist, completion tests, and conflict-checked
+work blocks.
+
 ## Controlling Decision
 
 Belinda Redden, a University of Rochester Fulbright Program Adviser,

@@ -48,8 +48,10 @@ time. Keep fixed official deadlines on their true dates and prepare earlier.
 - [x] Submit the Fulbright Planning Tool; receipt confirmed 2026-07-27.
 - [x] Complete the August 6 advising consultation and record Spain ETA as the
   FPA-recommended current-cycle route.
-- [ ] Complete the applicant-written Spain ETA rough draft and online
-  application pass by August 15 for campus submission by August 17.
+- [ ] Execute the
+  [Fulbright Spain ETA plan](./2026-08-06-fulbright-spain-eta-execution-plan.md):
+  complete the applicant-written rough draft and online application pass by
+  August 15 for campus-form submission by August 17.
 - [x] Accept the official advising invitation for **Friday, July 31,
   3:00-4:00 PM EDT** in Dewey Hall 4-209B.
 
@@ -125,6 +127,12 @@ time. Keep fixed official deadlines on their true dates and prepare earlier.
 - [x] Complete the August 6 advising consultation. The FPA recommended Spain
   ETA as the most viable current-cycle route while preserving the corrected
   understanding that it is an English-language and cultural-exchange role.
+- [x] Review the August 6 FPA follow-up instructions and incorporate the campus
+  submission-form, degree-level, referee, character-limit, and transcript
+  controls into the execution plan.
+- [x] Add the conflict-checked work blocks, campus milestones, follow-ups, and
+  deadline alerts to the private RIT primary calendar without inviting any
+  external attendee.
 - [ ] Create or confirm the correct Fulbright U.S. Student application using
   the Rochester email address; select University of Rochester, Spain, and ETA.
   Do not final-submit.
