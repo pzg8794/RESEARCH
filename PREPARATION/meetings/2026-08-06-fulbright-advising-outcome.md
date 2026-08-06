@@ -96,9 +96,45 @@ as a ranked preference before changing the Galicia/La Rioja strategy.
 9. Research real community organizations serving youth with learning
    disabilities or neurodivergent learners in the preferred region. Name an
    example only after confirming that it exists and matches the proposed work.
-10. Review the UofR stories Belinda shared about a recent Dominican graduate,
-    verify the alumna's exact name and contact route from the meeting chat, and
-    make a concise informational outreach.
+10. Review the UofR stories Belinda shared about
+      [Lizmairi Vargas Santa '26](https://www.rochester.edu/newscenter/national-merit-based-award-winners-study-research-and-teaching-606312/),
+      the recent Rochester graduate from Azua, Dominican Republic, and make a
+      concise informational outreach through a verified route.
+
+## Two Dominican References From The Meeting
+
+The transcript contains two distinct references that must not be conflated:
+
+- **Recent graduate:** Post-meeting source verification identified Lizmairi
+   Vargas Santa '26. Rochester's official award story says that she is from
+   Azua, Dominican Republic, and received a $10,000 Projects for Peace grant for
+   `Fostering Curiosity and Creativity for Youth Empowerment and Lasting Peace`.
+   A separate [Rochester story](https://www.rochester.edu/newscenter/penpal-digital-business-card-campus-start-up-648382/)
+   identifies her as a Penpal cofounder. She is **identified, not contacted**.
+   Neither source identifies her as a Fulbright recipient; Projects for Peace
+   and Fulbright are separate programs.
+- **Spanish-faculty recollection:** Belinda separately recalled that one
+   Spanish faculty member might be Dominican, but she did not name that person.
+   [Vialcary Crisóstomo Tejada](https://www.sas.rochester.edu/mlc/people/faculty/crisostomo-vialcary/index.html)
+   is a possible post-meeting match based on her current Spanish and
+   Comparative Literature role and
+   [Dominican-focused scholarship](https://events.rochester.edu/event/humanities-center-work-in-progress-seminar-vialcary-crisostomo-tejada).
+   The official biographies reviewed do not state her nationality or origin,
+   so this remains **unconfirmed**. Do not describe her as Dominican or use
+   that inference to route the Foreign Language Evaluation.
+
+## Post-Meeting Evaluator Routing Update
+
+The meeting and transcript established the Foreign Language Evaluation
+requirement but did not identify or document a named evaluator. Follow-up
+research on August 6 identified
+[Kirt Komocki](https://www.sas.rochester.edu/mlc/people/faculty/komocki_kirt/index.html)
+as the strongest first contact because his current UofR profile explicitly
+lists `Language Placement Advisor, Fulbright assessments`. This is a routing
+discovery, not a confirmation: he has not been contacted, agreed to evaluate,
+or been registered in the Fulbright application. If he is unavailable, request
+the correct alternate through him, Modern Languages and Cultures, or the
+Fellowships Office.
 
 ## Writing Architecture From The Adviser
 

@@ -10,6 +10,8 @@ Use this folder when an opportunity comes from ProFellow, an external fellowship
 | --- | --- |
 | Current Fulbright decision, Spain ETA requirements, and individualized August 17 late-starter draft plan | [August 6 Fulbright advising outcome](../../PREPARATION/meetings/2026-08-06-fulbright-advising-outcome.md) |
 | Fulbright Spain ETA critical path, to-do list, and scheduled work blocks | [2026-08-06-fulbright-spain-eta-execution-plan.md](./2026-08-06-fulbright-spain-eta-execution-plan.md) |
+| Review-only outreach to the officially assigned Spanish Fulbright-assessments contact | [2026-08-06-fulbright-spanish-fle-outreach-draft.md](./2026-08-06-fulbright-spanish-fle-outreach-draft.md) |
+| Review-only introduction and outreach drafts for the verified Dominican Rochester alumna | [2026-08-06-fulbright-dominican-alumna-outreach-draft.md](./2026-08-06-fulbright-dominican-alumna-outreach-draft.md) |
 | Latest fellowship/startup email sweep and ranked I-Corps routes | [2026-08-05-fellowship-startup-email-pass.md](./2026-08-05-fellowship-startup-email-pass.md) |
 | Eligibility-first Puzzle Plan evaluation of every fellowship-intake option | [2026-08-02-puzzle-plan-opportunity-evaluation.md](./2026-08-02-puzzle-plan-opportunity-evaluation.md) |
 | Reconciliation of Piter's deep fellowship research with verified applicant-specific eligibility | [2026-08-02-user-research-reconciliation.md](./2026-08-02-user-research-reconciliation.md) |

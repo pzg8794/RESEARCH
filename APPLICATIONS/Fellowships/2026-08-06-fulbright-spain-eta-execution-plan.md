@@ -67,9 +67,21 @@ computer-science teaching or research appointment.
 - [ ] **Three ETA referees:** choose education-focused evaluators, obtain
   consent, share the official role and five-question form, communicate the
   August 24 campus deadline, and register exact names and email addresses.
-- [ ] **Spanish evaluator:** secure a UofR Modern Languages and Cultures faculty
-  evaluator and register the evaluator for the required September 8 Foreign
-  Language Evaluation.
+- [ ] **Spanish evaluator:** contact
+  [Kirt Komocki](https://www.sas.rochester.edu/mlc/people/faculty/komocki_kirt/index.html),
+  the UofR Associate Professor of Instruction in Spanish whose official profile
+  assigns him `Language Placement Advisor, Fulbright assessments`. As of August
+  6, he is an officially verified candidate but has not been contacted,
+  confirmed, or registered. Obtain consent before entering his information in
+  the application. If he is unavailable, ask him or the MLC office to route the
+  assessment; do not assume another faculty member is authorized.
+- [ ] **Dominican alumna outreach:** review the official Rochester stories
+  about [Lizmairi Vargas Santa '26](https://www.rochester.edu/newscenter/national-merit-based-award-winners-study-research-and-teaching-606312/),
+  then ask Belinda or the Fellowships Office for a warm introduction or to
+  forward the [prepared note](./2026-08-06-fulbright-dominican-alumna-outreach-draft.md).
+  She is identified but has not been contacted. Treat this as optional peer
+  learning, not an evaluator or recommender request, and do not describe her
+  Projects for Peace award as a Fulbright award.
 - [ ] **Transcript ruling:** ask the Fellowships Office what record should
   represent the current Rochester degree. Do not improvise with an unofficial
   Rochester transcript.
@@ -110,7 +122,7 @@ move the work block while preserving its completion date.
 
 | Date and time (ET) | Calendar block | Deliverable |
 | --- | --- | --- |
-| August 7, 4:30-5:30 PM | `ACTION: Fulbright ETA referees + Spanish evaluator` | Candidate list, consent requests, and deadlines sent |
+| August 7, 4:30-5:30 PM | `ACTION: Fulbright ETA referees + Spanish evaluator` | Candidate list, consent requests, evaluator request, and optional alumna-introduction request sent |
 | August 10, 12:00-1:30 PM | `SETUP: Fulbright Spain ETA portal + award audit` | Correct application and award-page checklist |
 | August 11, 12:00-1:30 PM | `RESEARCH: Fulbright Spain placement + community` | Galicia/La Rioja evidence and verified community leads |
 | August 12, 12:00-1:30 PM | `PLAN: Fulbright ETA evidence + statement architecture` | Prompt-to-evidence map and applicant-owned outline |
@@ -170,6 +182,11 @@ fall 2026 application.
 - [Spain English Teaching Assistant Award](https://us.fulbrightonline.org/countries/europe-and-eurasia/spain/1768)
 - [Fulbright ETA application components](https://us.fulbrightonline.org/applicants/application-components/eta)
 - [University of Rochester Fulbright campus timeline](https://www.rochester.edu/college/studentfellowships/deadlines/fulbright.html)
+- [Kirt Komocki, UofR Language Placement Advisor and Fulbright assessments](https://www.sas.rochester.edu/mlc/people/faculty/komocki_kirt/index.html)
+- [Spanish FLE outreach draft](./2026-08-06-fulbright-spanish-fle-outreach-draft.md)
+- [Lizmairi Vargas Santa in Rochester's national-awards story](https://www.rochester.edu/newscenter/national-merit-based-award-winners-study-research-and-teaching-606312/)
+- [Lizmairi Vargas Santa and Penpal in Rochester Newscenter](https://www.rochester.edu/newscenter/penpal-digital-business-card-campus-start-up-648382/)
+- [Dominican alumna outreach draft](./2026-08-06-fulbright-dominican-alumna-outreach-draft.md)
 
 ## Source Boundary
 
