@@ -32,6 +32,18 @@ personal, and MLADIS accounts. Each account keeps its own detailed log:
 
 ## Do First
 
+- [ ] **P0 - UofR / Aetna coverage emergency:** Aetna reports no active plan
+  after the August 1 transition even though the University insurance charge
+  was paid, and the fourth-notice enrollment link failed. An urgent email was
+  sent to UHS Insurance Advisors on August 5 and Gmail confirmed delivery.
+  Direct escalation also went to prior rapid-response advisor Joyce Flagg,
+  with UHS Insurance Advisors and Ashley Johnston copied. On August 6, check
+  the thread at 2:30 PM, call UHS at 585-275-2637 and Aetna at 800-897-7042 at
+  3:00 PM, escalate at 4:00 PM if no owner or workaround exists, and check once
+  more at 7:30 PM. Obtain temporary proof, an effective date of August 1, a
+  case number, and written instructions for prescriptions, care, and claims
+  during the gap. Use the
+  [public-safe incident record](../../ADMIN/2026-08-05-uofr-aetna-coverage-emergency.md).
 - [x] **Complete - Handshake / Tech Rise Solutions:** Submitted the remote
   Data Scientist application with the tailored one-page resume on July 31;
   Handshake and email receipts are verified. Check on August 7.

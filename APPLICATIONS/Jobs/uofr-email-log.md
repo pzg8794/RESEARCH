@@ -2,6 +2,30 @@
 
 ## Refresh Status - 2026-08-05
 
+- Aetna reported no active 2026-2027 plan even though the University
+  insurance charge was paid. The fourth-notice enrollment link did not allow
+  the process to be completed or confirmed. This is now a **P0 medical-access
+  incident**, not a routine September deadline.
+- Sent an urgent escalation to the official UHS Insurance Advisors on August
+  5. Gmail confirmed `Message sent`. It requests activation effective August
+  1, temporary proof of coverage, instructions for urgent prescriptions and
+  care, written claim protection during the administrative gap, and
+  reconciliation of the University payment with Aetna's record.
+- Searched the historical insurance correspondence and verified Joyce Flagg,
+  Senior Student Insurance Advisor, as the prior rapid-response contact. Sent
+  a second direct escalation to Joyce and copied the UHS Insurance Advisors
+  and Ashley Johnston for student-account charge verification. Gmail confirmed
+  the message was sent. Unrelated RIT/Gallagher contacts were not copied because
+  they cannot activate the UofR Aetna record.
+- Added a four-step August 6 escalation sequence to the RIT Google Calendar:
+  2:30 PM preparation and response check, 3:00 PM UHS and Aetna calls, 4:00 PM
+  pre-close escalation, and 7:30 PM final verification. Each event has layered
+  popup reminders. Four timed Apple Reminders at 2:25 PM, 2:55 PM, 3:55 PM,
+  and 7:25 PM provide a second device-alert path.
+- UHS requested the student ID and birth date, and both were included in the
+  private email. No identifier, address, license image, medical detail, or
+  account data is stored in Git. Track the open incident in the
+  [Aetna coverage emergency record](../../ADMIN/2026-08-05-uofr-aetna-coverage-emergency.md).
 - Reviewed the latest fellowship, Fulbright, startup, and I-Corps messages.
   The official Fulbright invitation for **Thursday, August 6, 1:15-2:15 PM by
   Zoom** is accepted and now contains the secure join information. Piter's
@@ -86,9 +110,10 @@
   pays the one-time registration fee, so the form now uses `Purchase Order`
   with the current Teaching Computer Science K-12 student note. Date of birth,
   final five SSN digits, CAPTCHA, and final submission remain secure handoffs.
-- Verified the September 15 health-insurance enroll-or-waive deadline. Keep the
-  notice starred until Piter makes the coverage decision and completes the
-  secure attestation.
+- **Superseded August 5:** September 15 remains the annual-process deadline,
+  but Aetna currently reports no active plan after the August 1 transition.
+  Keep the notice visible until UHS corrects the record, Aetna confirms
+  coverage effective August 1, and the online-process receipt is preserved.
 - Cleared only processed confirmations, expired events, duplicate notices,
   superseded fellowship material, and closed recruiter outreach. Handshake had
   no unread employer reply requiring a new response at the end of this pass.
