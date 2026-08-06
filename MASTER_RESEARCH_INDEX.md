@@ -137,7 +137,7 @@ Every artifact uses this structure:
 - **Summary:** Records the FPA recommendation to pursue Spain ETA this cycle, the Galicia/La Rioja placement focus, role boundaries, supplementary-project limits, recommenders, required Spanish evaluation, and exact campus milestones.
 - **Why this matters for PhD applications:** Separates the feasible current international teaching application from a later host-developed Study/Research grant and ties the ETA experience to the longer-term inclusive-computing research path without mislabeling the role.
 - **GitHub target path:** `PREPARATION/meetings/2026-08-06-fulbright-advising-outcome.md`
-- **Next action:** Complete the applicant-written draft by August 15 for campus submission by August 17, then execute the August 24, September 8, October 1, and October 6 milestones.
+- **Next action:** Complete the applicant-written draft by August 15 for the individualized FPA-approved August 17 late-starter submission, then execute the public August 24, September 8, September 10-22, September 14-25, October 1, and October 6 milestones.
 
 ---
 

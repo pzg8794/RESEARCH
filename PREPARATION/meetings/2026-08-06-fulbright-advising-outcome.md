@@ -132,16 +132,21 @@ how will this help Piter perform the ETA job?
 | Date | Required outcome |
 | --- | --- |
 | August 15 | Piter's internal target for a complete rough draft and online-application pass |
-| August 17 | Adviser-approved deadline for the first rough draft; submit through the campus timeline links |
+| August 17 | Individual FPA-approved late-starter deadline for the first rough draft; submit through the campus timeline links |
 | August 24 | Complete revised application and all three ETA recommendation forms due for campus review; mark `Ready for Review`, do not submit nationally |
 | September 8 | Required Foreign Language Evaluation due through the application system |
 | September 10-22 | Campus endorsement interviews |
+| September 14-25 | Discuss interview feedback and final revisions with the FPA |
 | October 1 | Final campus `Ready for Review` deadline after revisions |
 | October 6, 5:00 PM ET | National Fulbright deadline |
 
 After submitting the first draft, schedule the promised feedback meeting.
 Belinda reported that she would be away August 13-18; questions may be emailed
 to the Fellowships Office, where Julia can respond during that absence.
+
+The current UofR campus timeline controls the public August 24 through October
+1 milestones. The older URL ending in `fulbright/calendar.html` identifies
+itself as the `2020-21 Academic Year` calendar and is not a 2026 source.
 
 ## Future Fulbright Route
 

@@ -45,12 +45,13 @@ computer-science teaching or research appointment.
 | August 11 | Reference and language-evaluation outreach complete | Three ETA referees and one UofR Spanish evaluator have each received an accurate request and deadline |
 | August 12 | Evidence inventory and application architecture complete | Every statement prompt has specific evidence; region and school preferences are fixed provisionally |
 | August 15 | Complete applicant-written rough draft and online pass | All relevant sections are complete and statements are within or close to character limits |
-| August 17 | First draft delivered through the UofR campus form | Campus-form receipt is saved privately; no draft was emailed or attached |
+| August 17 | FPA-approved late-starter first draft delivered through the UofR campus form | Campus-form receipt is saved privately; no draft was emailed or attached |
 | August 18 | Feedback meeting requested | Appointment request is sent after draft submission; the requested time leaves two business days after the submitted draft |
 | August 21 | Revised campus packet passes final internal review | Online sections, abstract, statements, recommendations, and transcript handling have been checked |
 | August 24 | Campus review packet complete | Application is `Ready for Review`; all three ETA forms are submitted; national submit remains untouched |
 | September 8 | Foreign Language Evaluation complete | Evaluator submission is visible in the application system |
 | September 10-22 | Campus interview completed | Invitation is accepted without conflict and a separate 45-minute preparation block exists |
+| September 14-25 | Interview feedback and revisions discussed with the FPA | Interview notes are converted into an approved revision list and the final application is being completed |
 | October 1 | Final campus review checkpoint complete | All revisions and support materials are present and application is `Ready for Review` |
 | October 6, 5:00 PM ET | National deadline | Submit only after FPA approval; retain private confirmation |
 
@@ -147,6 +148,21 @@ Until the August 24 campus checkpoint is protected, defer discretionary Luce,
 E2, I-Corps, and lower-priority research work when it conflicts with a block in
 this plan. Do not move fixed academic, financial, medical, or official
 appointment obligations without a separate decision.
+
+## Deadline Source Note
+
+The controlling public campus source is the current
+[University of Rochester Fulbright campus endorsement timeline](https://www.rochester.edu/college/studentfellowships/deadlines/fulbright.html).
+It establishes the August 24, September 8, September 10-22, September 14-25,
+and October 1 milestones. The August 17 first-draft date is Piter's
+individualized late-starter deadline approved during the August 6 FPA
+consultation; it is not presented as a general public deadline.
+
+The similarly named legacy
+[Fulbright campus calendar](https://www.rochester.edu/College/studentfellowships/fulbright/calendar.html)
+still displays `2020-21 Academic Year`. Its June 15, July 27, August 20 and 31,
+September 4 and 11-25, and October 3 dates are historical and do not control the
+fall 2026 application.
 
 ## Sources
 

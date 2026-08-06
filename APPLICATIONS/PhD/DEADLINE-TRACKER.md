@@ -67,11 +67,12 @@ This is the canonical multi-country deadline tracker for all PhD, fellowship, an
 | **Jun 30, 2026** | Jun 28 | 🌍 Fulbright | Fulbright campus draft ready for UofR internal review | Fulbright U.S. Student | 🟠 Build now |
 | Jul 1, 2026 | Jul 1 | 🌍 Fulbright | Late-starter cutoff: FPQ + Planning Tool at UofR | Fulbright U.S. Student | Safety net |
 | Jul 31, 2026 | Jul 30 | 🇸🇪 Sweden | [KTH PhD: Deep Learning for Biological Systems](https://www.kth.se/lediga-jobb/928557?l=en) | Direct PhD vacancy | 🟡 Later |
-| **Aug 17, 2026** | Aug 15 | 🇪🇸 Spain | Spain ETA applicant-written first draft and online-application pass through campus links | Fulbright U.S. Student | 🔴 Submit draft |
+| **Aug 17, 2026** | Aug 15 | 🇪🇸 Spain | Individual FPA-approved late-starter deadline: Spain ETA applicant-written first draft and online-application pass through campus links | Fulbright U.S. Student | 🔴 Submit draft |
 | **Aug 24, 2026** | Aug 22 | 🇪🇸 Spain | Complete revised Spain ETA application and three ETA recommendation forms; mark `Ready for Review`, do not submit nationally | Fulbright U.S. Student | 🟠 Active/Urgent |
 | Aug 25–Sep 8, 2026 | Aug 24 | 🇫🇮 Finland | University of Turku doctoral application window (incl. funded researcher contracts) | Doctoral admissions | 🔵 Calendar |
 | **Sep 8, 2026** | Sep 6 | 🇪🇸 Spain | Required Spanish Foreign Language Evaluation due in the application system | Fulbright U.S. Student | 🟠 Active/Urgent |
 | Sep 10–22, 2026 | Sep 9 | 🇪🇸 Spain | UofR campus endorsement interviews | Fulbright U.S. Student | 🔵 Calendar |
+| Sep 14–25, 2026 | Sep 14 | 🇪🇸 Spain | Discuss interview feedback and final application revisions with the FPA | Fulbright U.S. Student | 🔵 Calendar |
 | **Oct 1, 2026** | Sep 29 | 🇪🇸 Spain | Final revised application marked `Ready for Review` for campus approval | Fulbright U.S. Student | 🔵 Calendar |
 | ~Sep–Oct 2026 | Sep 15 | 🌍 US | NSF Graduate Research Fellowship Program (GRFP) | Fellowship | 🔵 Major priority |
 | ~Sep–Oct 2026 | Sep 15 | 🌍 US | Microsoft Research PhD Fellowship | Fellowship | 🔵 Calendar |

@@ -51,7 +51,8 @@ time. Keep fixed official deadlines on their true dates and prepare earlier.
 - [ ] Execute the
   [Fulbright Spain ETA plan](./2026-08-06-fulbright-spain-eta-execution-plan.md):
   complete the applicant-written rough draft and online application pass by
-  August 15 for campus-form submission by August 17.
+  August 15 for the individualized FPA-approved late-starter submission by
+  August 17.
 - [x] Accept the official advising invitation for **Friday, July 31,
   3:00-4:00 PM EDT** in Dewey Hall 4-209B.
 
@@ -144,7 +145,8 @@ time. Keep fixed official deadlines on their true dates and prepare earlier.
   preference order because their official profile includes education, AI,
   software, biomedical computing, data analysis, CS, and ML.
 - [ ] Finish the applicant-written rough draft and online application by
-  August 15; submit through the campus timeline links by August 17.
+  August 15; submit through the campus timeline links by the individualized
+  FPA-approved August 17 late-starter deadline.
 - [ ] Obtain consent from three education-focused recommenders, review the ETA
   five-question form, and register full names and email addresses before the
   August 24 campus review.

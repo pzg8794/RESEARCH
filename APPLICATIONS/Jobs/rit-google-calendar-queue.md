@@ -2,7 +2,7 @@
 
 Calendar account: `pzg8794@g.rit.edu`
 
-Updated: 2026-08-05
+Updated: 2026-08-06
 
 This queue mirrors verified application deadlines, review blocks,
 appointments, and registered events. Every entry should include its source
@@ -106,15 +106,19 @@ Calendar permits them.
 | 2026-08-19, 4:30-5:30 PM | CONDITIONAL REVIEW: IEEE Network quantum series | Created on RIT calendar | Make a go/no-go decision against the official August 20 deadline and the A+C Phase 1 evidence; do not rush an unready manuscript |
 | 2026-08-20, 3:00-3:30 PM | DEADLINE DATE: IEEE Network quantum series (conditional) | Created and verified on RIT calendar | Official deadline is August 20. Submit only with coauthor approval and completed A+C gates; otherwise use the November conference fallback or rolling journal path. One-day, one-hour, and ten-minute reminders are active. |
 | 2026-08-22, all day | DEADLINE - Financial statement review/payment | Synced | Review the official account and pay or arrange before the due date |
-| 2026-08-24, all day | CONDITIONAL - Fulbright campus review packet | Corrected; synced | Proceed only if the July 31 meeting identifies an aligned award; do not request recommendations or submit before requirements are verified |
+| 2026-08-24, all day | DEADLINE - Fulbright Spain ETA campus review packet | Active; corrected and synced | Current UofR timeline: complete revised application and three ETA forms; mark `Ready for Review`; do not submit nationally |
 | 2026-08-24, 2:00-2:30 PM | ACTION: Process CSCI-739 audit form with Megan | Synced | Use Professor Vogt's written permission, complete the Add/Drop/Audit form, keep DSCI-602 for credit, and confirm tuition/FTE/aid treatment; 1-day, 1-hour, and 10-minute alerts |
 | 2026-08-31, all day | DEADLINE: Complete CSCI-739 audit change | Synced | Verify the form is processed and SIS shows CSCI-739 as audit while DSCI-602 remains for credit; 3-day and 1-day afternoon alerts |
 | 2026-09-02, 3:00-3:30 PM | GO/NO-GO: Kaggriculture competition | Created on RIT calendar | Decide based on rules, compute, expected hours, team fit, and payout probability; official entry deadline is recorded as September 23 |
-| 2026-09-23, 3:00-3:30 PM | DEADLINE DATE: Kaggriculture competition | Created and verified on RIT calendar | Recorded entry deadline is September 23. Submit only after the September 2 review verifies the live rules and fit. One-day, one-hour, and ten-minute reminders are active. |
+| 2026-09-08, all day | DEADLINE - Fulbright Spain ETA Foreign Language Evaluation | Created on RIT calendar | Current UofR timeline: evaluator submits the required assessment through the Fulbright application system |
+| 2026-09-10 through 2026-09-22, all day | WINDOW - Fulbright campus endorsement interviews | Created on RIT calendar | Accept the official invitation when received and add a separate 45-minute preparation block; do not invent an interview time |
 | 2026-09-14, 9:00-9:30 AM | FALLBACK ONLY - UofR health insurance process | Synced; superseded by P0 incident | This is not the coverage-restoration date. Complete and preserve the annual secure-process receipt immediately after UHS restores access; retain this only as a final deadline safeguard. |
 | 2026-09-15, all day | DEADLINE - UofR health insurance enrollment/waiver | Synced; final safeguard | Official annual-process deadline only; current August coverage failure requires immediate correction and must not wait until this date. |
 | 2026-09-22, 3:00-3:45 PM | FINAL REVIEW: NSF I-Corps startup application | Created and live-verified on RIT calendar | Verify every substantive answer, implementation claim, ownership statement, team commitment, and customer hypothesis; target submission after this review; one-day, one-hour, and ten-minute reminders are active |
 | 2026-09-23, all day | DEADLINE: NSF I-Corps startup regional course | Created and live-verified on RIT calendar | Official form lists September 23 without a cutoff time, so submit September 22; all-day alerts are set for three days and one day before at 3:00 PM |
+| 2026-09-23, 3:00-3:30 PM | DEADLINE DATE: Kaggriculture competition | Created and verified on RIT calendar | Recorded entry deadline is September 23. Submit only after the September 2 review verifies the live rules and fit. One-day, one-hour, and ten-minute reminders are active. |
+| 2026-09-24, 2:00-3:00 PM | REVISE: Fulbright interview feedback | Created on RIT calendar | Work within the official September 14-25 FPA discussion and revision window; adjust only after the actual interview date is known |
+| 2026-10-01, all day | DEADLINE - Fulbright final campus Ready for Review | Created on RIT calendar | Current UofR timeline: finish revisions and supporting materials, mark `Ready for Review`, and do not submit until FPA approval |
 | 2026-10-05, 9:00-10:00 AM | FINAL REVIEW - Fulbright national application | Synced | Finish final review one day before the Tuesday deadline |
 | 2026-10-06, 5:00 PM EDT | DEADLINE - Fulbright national application | Synced | Final 2027-28 U.S. Student application deadline; submit earlier after campus endorsement |
 | 2026-10-19, 9:00-9:30 AM | ACTION - Complete Google Cloud 2-step verification | Synced | Complete secure-account verification one day before the Tuesday deadline |
@@ -208,8 +212,10 @@ Calendar permits them.
   3:00-3:30 PM Fulbright hold.
 - [x] Accepted the official UofR invitation for Friday, July 31,
   3:00-4:00 PM in Dewey Hall 4-209B.
-- [x] Changed the August 24 Fulbright event to a conditional checkpoint with
-  an explicit no-recommender/no-submission boundary until an award is verified.
+- [x] Replaced the stale conditional August 24 Fulbright checkpoint after the
+  August 6 consultation with the active Spain ETA campus-review deadline. Added
+  the September 8 language-evaluation deadline, September 10-22 interview
+  window, September 14-25 revision work, and October 1 final campus checkpoint.
 - [x] Added a Friday, July 31, 2:45-3:00 PM transition reminder, but the later
   audit confirms this was insufficient because the required Poster Fair could
   continue until the exact appointment start in another building.
