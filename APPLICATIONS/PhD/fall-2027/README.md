@@ -1,6 +1,6 @@
 # Fall 2027 US PhD Application Dashboard
 
-Updated: 2026-08-03
+Updated: 2026-08-06
 
 Applicant: Piter Garcia
 
@@ -17,7 +17,13 @@ Start now. The strongest portfolio is not one application to a single famous sch
 - reliable quantum-computing and network workflows;
 - disability inclusion and accessible computer science education.
 
-The initial portfolio contains seven applications. RIT is the anchor, Rochester Computer Science and Rochester Statistics are strong local programs with different methodological strengths, NYU CDS and UW iSchool are high-fit reaches, CMU HCII is a high-fit reach pending its cycle update, and MIT EECS is a major reach worth attempting with a sharply focused research case.
+The active portfolio is capped at nine applications. RIT is the anchor;
+Rochester Computer Science and Rochester Statistics are strong local programs
+with different methodological strengths; NYU CDS, UW iSchool, Michigan
+Information, Stanford GSE LSTD, and CMU HCII are high-fit reaches; and MIT EECS
+is a major reach worth attempting with a sharply focused research case. Cornell
+Information Science and Northwestern Learning Sciences are ordered alternates,
+not additional active applications.
 
 ## Canonical program board
 
@@ -30,6 +36,8 @@ The initial portfolio contains seven applications. RIT is the anchor, Rochester 
 | 5 | [University of Washington Information Science PhD](./programs/uw-information-science.md) | High-fit reach | Dec 2, 2026, 11:59 PM PT | At least four years of tuition, stipend, and health coverage | Explicit Autumn 2027 page | Opens Sep 1, 2026 | Build ranked list of 3-4 faculty and the required short rationales |
 | 6 | [Carnegie Mellon HCII PhD](./programs/cmu-hcii.md) | High-fit reach | Not yet posted for Fall 2027 | Full tuition and living allowance expected, renewable in good standing | Official page says Fall 2027 cycle will open in Fall 2026 | Watch / pre-application | Monitor official page and begin accessibility, HCI, and learning-sciences faculty matching |
 | 7 | [MIT EECS PhD](./programs/mit-eecs.md) | Major reach | Dec 1 on the current official page | New admits are considered for assistantships and fellowships; assistantships include tuition and stipend | Current official page; Fall 2027 cycle must be rechecked | Pre-application | Identify three credible faculty or research-group connections and define the EECS contribution |
+| 8 | [University of Michigan PhD in Information](./programs/umich-information.md) | High-fit accessibility and equitable-technology reach | Dec 1, 2026, 11:59 PM ET | Guaranteed while progress is satisfactory: fall/winter tuition and stipend, year-round health benefits, and one summer stipend | Explicit Fall 2027 page and current program funding page | Pre-application; portal closed | Build the two-adviser fit map and attend one official information session |
+| 9 | [Stanford GSE PhD in Learning Sciences and Technology Design](./programs/stanford-gse-lstd.md) | High-fit computing-education and learning-sciences reach | Nov 16, 2026 | Five years of tuition plus fellowship and assistantship support covering Stanford's standard cost of attendance | Explicit 2027-28 requirements and current GSE funding page | Opens mid-Sep 2026 | Decide the linked home area and prepare a focused LSTD research statement |
 
 ## Application rules that cannot be missed
 
@@ -39,6 +47,8 @@ The initial portfolio contains seven applications. RIT is the anchor, Rochester 
 4. CMU HCII has not posted its Fall 2027 deadline. Do not copy a date from CMU SCS, LTI, or a prior cycle.
 5. Do not ask recommenders to submit anything until the portal is open, the program is confirmed, and the recommender receives a complete school-specific packet.
 6. Do not upload private transcripts, identification, health records, recommendation letters, or portal exports to this public repository.
+7. Keep the active portfolio at nine. Replace a failed candidate with an alternate instead of adding a tenth application without an explicit portfolio review.
+8. Michigan requires a 4-6 page statement naming two or three potential UMSI faculty. Stanford LSTD requires a linked home-area choice; the GRE is optional and faculty contact is not required.
 
 ## Internal launch schedule
 
@@ -48,6 +58,8 @@ The initial portfolio contains seven applications. RIT is the anchor, Rochester 
 | Aug 19, 2026 | Faculty-fit matrix: three or four faculty per program, with evidence and a two-sentence fit rationale | Ready to schedule |
 | Aug 26, 2026 | Academic CV v1 and common two-page research statement v1 | Ready to schedule |
 | Sep 1, 2026 | Open and inspect the UW iSchool application; record every portal field | Official opening verified |
+| Mid-Sep 2026 | Open and inspect Stanford GSE; verify the LSTD linked-area route and every portal field | Official opening window verified; exact day requires recheck |
+| Oct 16, 2026 | Attend the UMSI doctoral admissions information session | Official 11:00 AM-noon ET alternative verified after the Sep 28 session conflicted with Fulbright finalization; register before attending |
 | Late Sep 2026 | Open NYU CDS and other available portals; finalize recommender assignments and packets | Date window verified for NYU; other portals require recheck |
 
 ## Internal submission targets
@@ -56,6 +68,8 @@ These targets create review time before each official deadline. They are not off
 
 | Program | Internal submit target | Official deadline |
 | --- | --- | --- |
+| Stanford GSE LSTD | Nov 2, 2026 | Nov 16, 2026 |
+| Michigan Information | Nov 13, 2026 | Dec 1, 2026 |
 | MIT EECS | Nov 17, 2026 | Dec 1 |
 | Rochester Statistics | Nov 18, 2026 | Dec 1 priority / Dec 15 final |
 | UW Information Science | Nov 19, 2026 | Dec 2 |
@@ -68,6 +82,7 @@ These targets create review time before each official deadline. They are not off
 
 - [Common applicant dossier](./COMMON_DOSSIER.md)
 - [Calendar and milestone ledger](./CALENDAR_AND_MILESTONES.md)
+- [National funded program shortlist and alternates](./NATIONAL_FUNDED_PROGRAM_SHORTLIST.md)
 - [Local and Drive source map](../LOCAL_SOURCE_MAP.md)
 - [Transcript source index](../TRANSCRIPT_SOURCE_INDEX.md)
 - [Recommendation reference lock](../review-by-application/00-reference-lock/README.md)
@@ -81,6 +96,8 @@ These targets create review time before each official deadline. They are not off
 - [NYU CDS PhD requirements](https://cds.nyu.edu/phd-admissions-requirements/) and [NYU GSAS application policy](https://apply.gsas.nyu.edu/apply/)
 - [UW iSchool application process](https://ischool.uw.edu/programs/phd/admissions/application-process) and [materials](https://ischool.uw.edu/programs/phd/admissions/application-materials)
 - [CMU HCII PhD admissions](https://www.hcii.cmu.edu/academics/phd-hci/admissions)
+- [Michigan PhD in Information](https://www.si.umich.edu/programs/phd-information), [application instructions](https://www.si.umich.edu/programs/phd-information/how-do-i-apply-phd-information), [funding](https://www.si.umich.edu/programs/phd-information/phd-student-funding), and [doctoral admissions events](https://www.si.umich.edu/programs/phd-information/connect-doctoral-program-team)
+- [Stanford GSE LSTD](https://ed.stanford.edu/academics/doctoral/lstd), [2027-28 requirements](https://ed.stanford.edu/admissions/application-reqs/programs), and [doctoral financing](https://ed.stanford.edu/admissions/financing/doctoral)
 
 ## Update protocol
 
