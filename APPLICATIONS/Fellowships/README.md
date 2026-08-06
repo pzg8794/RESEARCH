@@ -8,6 +8,7 @@ Use this folder when an opportunity comes from ProFellow, an external fellowship
 
 | Need | File |
 | --- | --- |
+| Current Fulbright decision, Spain ETA requirements, and August 17 draft plan | [August 6 Fulbright advising outcome](../../PREPARATION/meetings/2026-08-06-fulbright-advising-outcome.md) |
 | Latest fellowship/startup email sweep and ranked I-Corps routes | [2026-08-05-fellowship-startup-email-pass.md](./2026-08-05-fellowship-startup-email-pass.md) |
 | Eligibility-first Puzzle Plan evaluation of every fellowship-intake option | [2026-08-02-puzzle-plan-opportunity-evaluation.md](./2026-08-02-puzzle-plan-opportunity-evaluation.md) |
 | Reconciliation of Piter's deep fellowship research with verified applicant-specific eligibility | [2026-08-02-user-research-reconciliation.md](./2026-08-02-user-research-reconciliation.md) |
@@ -17,17 +18,17 @@ Use this folder when an opportunity comes from ProFellow, an external fellowship
 | RIT opportunity review and verified deadlines | [rit-opportunity-log-2026-07-23.md](./rit-opportunity-log-2026-07-23.md) |
 | August-September execution checklist | [august-september-2026-action-plan.md](./august-september-2026-action-plan.md) |
 | Correct advisor reference recovery plan for funded PhD applications | [advisor-reference-recovery-plan.md](./advisor-reference-recovery-plan.md) |
-| Retracted Fulbright Spain ETA redirect, retained for audit | [fulbright-spain-eta-reference-recovery-plan.md](./fulbright-spain-eta-reference-recovery-plan.md) |
+| Historical Spain ETA reference analysis, superseded by the August 6 adviser ruling | [fulbright-spain-eta-reference-recovery-plan.md](./fulbright-spain-eta-reference-recovery-plan.md) |
 | Luce official description, requirements, and eligibility gate | [luce-2027-2028-opportunity-dossier.md](./luce-2027-2028-opportunity-dossier.md) |
 | Carman source correction | [carman-2027-source-correction.md](./carman-2027-source-correction.md) |
 | Closed Carman live-form workbook, retained for audit only | [carman-2027-form-and-essay-workbook.md](./carman-2027-form-and-essay-workbook.md) |
 | Closed Carman checklist, with all follow-ups cancelled | [carman-2027-application-checklist.md](./carman-2027-application-checklist.md) |
 | Closed Carman reference packet and correction receipt | [carman-2027-reference-packet.md](./carman-2027-reference-packet.md) |
-| Retracted Fulbright Spain ETA intake checklist | [fulbright-italy-late-entry-checklist.md](./fulbright-italy-late-entry-checklist.md) |
-| Retracted Fulbright Spain ETA intake resume, retained for audit | [PDF](./application-materials/2026-07-27-fulbright-spain-eta-resume.pdf) and [LaTeX source](./application-materials/2026-07-27-fulbright-spain-eta-resume.tex) |
+| Historical Spain ETA intake checklist, retained for audit and superseded by the August 6 outcome | [fulbright-italy-late-entry-checklist.md](./fulbright-italy-late-entry-checklist.md) |
+| Existing Spain ETA intake resume, retained for review before application use | [PDF](./application-materials/2026-07-27-fulbright-spain-eta-resume.pdf) and [LaTeX source](./application-materials/2026-07-27-fulbright-spain-eta-resume.tex) |
 | Current ProFellow capture queue | [profellow-opportunity-queue-2026-05-27.md](./profellow-opportunity-queue-2026-05-27.md) |
-| Current Fulbright award queue | [fulbright-awards-queue-2026-05-27.md](./fulbright-awards-queue-2026-05-27.md) |
-| Verified Fulbright research shortlist, funding, and reference plan | [fulbright-study-research-shortlist-2027-2028.md](./fulbright-study-research-shortlist-2027-2028.md) |
+| Current Fulbright award queue, led by Spain ETA for this cycle | [fulbright-awards-queue-2026-05-27.md](./fulbright-awards-queue-2026-05-27.md) |
+| Future-cycle Fulbright Study/Research shortlist and host-planning record | [fulbright-study-research-shortlist-2027-2028.md](./fulbright-study-research-shortlist-2027-2028.md) |
 | Repeatable discovery workflow | [profellow-search-routine.md](./profellow-search-routine.md) |
 | Active Mira packet already staged | [../Mira/2026-05-27-mira-written-materials.tex](../Mira/2026-05-27-mira-written-materials.tex) |
 | Active Mira PDF artifact | [../Mira/2026-05-27-mira-written-materials.pdf](../Mira/2026-05-27-mira-written-materials.pdf) |

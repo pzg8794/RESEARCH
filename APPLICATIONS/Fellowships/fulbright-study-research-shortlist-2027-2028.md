@@ -2,16 +2,25 @@
 
 Verified: 2026-07-28
 
+Status update: **Future-cycle research planning as of 2026-08-06.** The August
+6 consultation established the Spain English Teaching Assistant Award as the
+current-cycle application. See the
+[post-meeting outcome](../../PREPARATION/meetings/2026-08-06-fulbright-advising-outcome.md).
+This shortlist remains valid research-award analysis, but its former
+current-cycle priority is superseded.
+
 ## Bottom line
 
-Fulbright is still a real option. The earlier Spain English Teaching Assistant
-route was the wrong award type, not evidence that Fulbright has nothing for
-Piter Garcia.
+Fulbright Study/Research remains a real future option. The earlier conclusion
+that Spain ETA should not be mislabeled as a CS-teaching or research award is
+still correct; the later adviser ruling established that the actual ETA role is
+nevertheless a viable current-cycle fit for Piter Garcia.
 
-The strongest current Fulbright route is an **Open Study/Research Award** built
-around one defined CS-related research project and a host researcher abroad.
-This is a funded 6-10 month research or graduate-study grant. It is not, by
-itself, a multi-year funded PhD position.
+The strongest later Fulbright research route is an **Open Study/Research
+Award** built around one defined CS-related research project and a host
+researcher abroad. This is a funded 6-10 month research or graduate-study
+grant. It is not, by itself, a multi-year funded PhD position, and it should be
+developed over months rather than rushed alongside the current ETA application.
 
 ## Verified shortlist
 
@@ -75,12 +84,14 @@ applicant's preparation to complete the proposed project, adapt to the host
 country, engage with the community, represent the United States, and benefit
 from the award.
 
-No new recommender request or correction email should be sent until the
-Fulbright Program Adviser confirms the award and project direction.
+Do not send a recommendation request for one of these research awards during
+the current ETA application. Reopen the research reference plan only after a
+future country, host, project, and competition cycle are fixed.
 
-## July 31 adviser meeting
+## Historical July 31 Planning Assumptions
 
-Use the scheduled meeting to:
+The following was the pre-consultation plan and is retained for the audit
+trail. It is not the current action list:
 
 1. Confirm the correction from Spain ETA to Open Study/Research.
 2. Compare Norway, Sweden, and Germany for eligibility and campus feasibility.
@@ -91,6 +102,7 @@ Use the scheduled meeting to:
 
 ## Decision
 
-Keep Fulbright active, with Norway Open Study/Research as the lead. Do not
-represent Fulbright as a full multi-year PhD scholarship. Run the Fulbright
-research grant in parallel with separately funded PhD applications.
+Historical decision, superseded August 6: Norway Open Study/Research was the
+lead research comparison. The current-cycle decision is Spain ETA. Retain this
+shortlist for a later research-grant cycle, and do not represent any Fulbright
+U.S. Student award as a full multi-year PhD scholarship.

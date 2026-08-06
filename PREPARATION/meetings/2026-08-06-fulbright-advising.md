@@ -1,6 +1,16 @@
 # Fulbright Advising Preparation Kit
 
-Last updated: 2026-08-06
+Last updated: 2026-08-06 (post-meeting annotation)
+
+## Post-Meeting Status
+
+This file preserves the preparation and pre-meeting hypotheses. It is no
+longer the controlling strategy record. Belinda Redden recommended proceeding
+this cycle with the Fulbright Spain English Teaching Assistant Award, initially
+focused on secondary or vocational placements in Galicia and La Rioja. See the
+[post-meeting outcome](./2026-08-06-fulbright-advising-outcome.md) for the
+verified award boundaries, application tasks, recommender and language
+evaluation requirements, and agreed dates.
 
 ## Meeting
 

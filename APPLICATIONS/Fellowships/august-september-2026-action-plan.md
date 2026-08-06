@@ -1,6 +1,6 @@
 # August-September 2026 Application Action Plan
 
-Updated: 2026-08-05
+Updated: 2026-08-06
 
 Scheduling rule: prefer afternoon work because of chronic illness. Tuesdays and
 Thursdays are available again, but check the live calendar before accepting a
@@ -46,9 +46,10 @@ time. Keep fixed official deadlines on their true dates and prepare earlier.
   resume](./application-materials/2026-07-27-fulbright-spain-eta-resume.pdf)
   and [late-entry checklist](./fulbright-italy-late-entry-checklist.md).
 - [x] Submit the Fulbright Planning Tool; receipt confirmed 2026-07-27.
-- [ ] Do not submit the Spain ETA intake as the default route. Use the July 31
-  advising meeting to identify a genuinely aligned Fulbright option, if one
-  exists.
+- [x] Complete the August 6 advising consultation and record Spain ETA as the
+  FPA-recommended current-cycle route.
+- [ ] Complete the applicant-written Spain ETA rough draft and online
+  application pass by August 15 for campus submission by August 17.
 - [x] Accept the official advising invitation for **Friday, July 31,
   3:00-4:00 PM EDT** in Dewey Hall 4-209B.
 
@@ -101,7 +102,7 @@ time. Keep fixed official deadlines on their true dates and prepare earlier.
 - [ ] Otherwise mark E2 screened out for this cycle without requesting a
   recommendation.
 
-## Fulbright Spain ETA: Paused as a Role Mismatch
+## Fulbright Spain ETA: Active Current-Cycle Application
 
 - [x] Confirm U.S.-citizenship eligibility from the prior live application
   profile; reconfirm in the secure Fulbright form.
@@ -118,15 +119,33 @@ time. Keep fixed official deadlines on their true dates and prepare earlier.
 - [x] Open and inventory the Prospective Applicant Form and Planning Tool.
 - [x] Prepare the current one-page intake resume.
 - [x] Submit the Fulbright Planning Tool; receipt confirmed 2026-07-27.
-- [ ] Do not submit the Spain ETA intake as the default route. Use the July 31
-  advising meeting to ask whether a Study/Research award or another verified
-  route fits CS, AI, data, quantum, bioinformatics, or CS education.
 - [x] Accept the official meeting invitation for **Friday, July 31,
   3:00-4:00 PM EDT** in Dewey Hall 4-209B.
-- [ ] Attend the confirmed meeting with the corrected role assessment.
-- [ ] Continue in Fulbright only if the adviser identifies a genuinely aligned
-  award.
 - [x] Retract Spain ETA as the automatic replacement for Carman.
+- [x] Complete the August 6 advising consultation. The FPA recommended Spain
+  ETA as the most viable current-cycle route while preserving the corrected
+  understanding that it is an English-language and cultural-exchange role.
+- [ ] Create or confirm the correct Fulbright U.S. Student application using
+  the Rochester email address; select University of Rochester, Spain, and ETA.
+  Do not final-submit.
+- [ ] Read the complete official Spain award page, including the Galicia, La
+  Rioja, supplementary-project, and special-instruction sections.
+- [ ] State Galicia and La Rioja secondary or vocational placements as the
+  initial preferences while remaining flexible about the final placement.
+- [ ] Ask whether the three UCJC university ETA placements should enter the
+  preference order because their official profile includes education, AI,
+  software, biomedical computing, data analysis, CS, and ML.
+- [ ] Finish the applicant-written rough draft and online application by
+  August 15; submit through the campus timeline links by August 17.
+- [ ] Obtain consent from three education-focused recommenders, review the ETA
+  five-question form, and register full names and email addresses before the
+  August 24 campus review.
+- [ ] Secure a UofR Spanish faculty evaluator for the mandatory Foreign
+  Language Evaluation due September 8.
+- [ ] Confirm the current-degree transcript process with the Fellowships
+  Office; do not upload an unofficial UofR transcript.
+- [ ] Treat Open Study/Research as a future Ph.D.-stage route requiring months
+  of host and project development, not as a competing application this cycle.
 
 ## Luce: Due September 8
 
@@ -143,8 +162,9 @@ time. Keep fixed official deadlines on their true dates and prepare earlier.
 
 ## Advisor Reference Recovery
 
-- [x] Reject Fulbright Spain ETA as the reference redirect because its central
-  role is English teaching.
+- [x] Preserve the July correction: the advisers were not redirected to an
+  unverified ETA application immediately after Carman. The August 6 FPA ruling
+  now supports a separate, accurate ETA recommendation request.
 - [x] Map Travis Desell, Daniel Krutz, and Zenon Borys to distinct,
   evidence-grounded PhD admissions lenses.
 - [x] Obtain Piter's approval of the
@@ -152,8 +172,9 @@ time. Keep fixed official deadlines on their true dates and prepare earlier.
 - [x] Send only the correction; do not redirect the advisers within the
   cleanup message.
 - [x] Remove Daniel's and Travis's processed replies from Starred.
-- [ ] For the next verified application, send a separate request with the
-  official program details, evidence packet, and reasonable notice.
+- [ ] For Spain ETA, ask three verified teaching/education references through
+  a separate request with the official award details, five-question form,
+  evidence packet, and August 24 deadline.
 - [ ] Verify every PhD program, funding package, deadline, and recommendation
   format before sending any portal invitation.
 

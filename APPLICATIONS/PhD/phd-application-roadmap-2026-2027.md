@@ -1,27 +1,34 @@
 # PhD and Research Application Roadmap, 2026-2027
 
-Updated: 2026-05-26
+Updated: 2026-08-06
 
 This roadmap tracks the active Fall 2027 PhD admission cycle and the 2027-2028 research/fellowship cycle. Older Fall 2026 application deadlines should be treated as historical.
 
 ## What must start ASAP
 
-1. Live Sweden doctoral vacancy sprint
-   - The local PHD tracker already identifies funded doctoral vacancies at Uppsala and KTH with deadlines from May 29 through July 31, 2026.
-   - These are job-style doctoral appointments, not annual U.S.-style admissions cycles. Treat each as due one day early because official systems close on Sweden/Central Europe time.
-   - Highest immediate fit: Uppsala Machine Learning for Data-Driven Precision Medicine and Diagnostics, due June 1, 2026.
-   - Fast triage needed: Uppsala AI Supported Decision-Making is due May 29, 2026, but the official page requires good spoken and written Swedish.
+1. Fulbright Spain ETA execution
+    - The August 6 FPA consultation established Spain ETA as the active
+       current-cycle application. Open Study/Research is not being rushed this
+       cycle.
+    - Complete the applicant-written rough draft and online application by
+       August 15 for submission through the campus links by August 17.
+    - Register three education-focused ETA recommenders for the August 24
+       campus review and secure a UofR Spanish evaluator for September 8.
+    - Lead with Galicia and La Rioja secondary or vocational preferences while
+       remaining flexible about final placement. Keep English communication and
+       U.S. cultural exchange central.
 
-2. Fulbright eligibility and country fit
-   - Confirm U.S. Student Program eligibility before investing heavy time: the program requires U.S. citizenship or U.S. national status at the application deadline.
-   - If eligible, treat Fulbright Europe/Eurasia as the most urgent research application: the national deadline is October 6, 2026 at 5:00 PM ET, and campus deadlines often arrive 4-6 weeks earlier.
-   - Best immediate matches from the current research direction: Norway Open Study/Research and Sweden Open Study/Research, because both allow research projects and require host affiliation.
+2. Sweden doctoral-vacancy follow-through
+    - The May-July Sweden sprint is historical. Use the deadline tracker and
+       application receipts for submitted or closed outcomes rather than
+       treating those deadlines as current actions.
 
-3. Host affiliation outreach
-   - Identify 6-10 possible host faculty/labs in Norway and Sweden by June 2026.
-   - Send short affiliation inquiries by late June or early July 2026.
-   - Aim to secure an affiliation letter by August 2026.
-   - Project angle: equitable diagnostics, ML/bioinformatics, disability/CLD advocacy, and the Puzzle Plan research framework.
+3. Future Fulbright host and project development
+    - Preserve Norway, Sweden, and Germany as later Study/Research comparisons.
+    - Begin a future application months ahead with one defined project, a real
+       in-country collaborator, mutual project design, and a feasible affiliation
+       letter.
+    - Keep this work separate from the current Spain ETA application.
 
 4. Common PhD packet
    - Build one reusable packet by August 2026: CV, 2-page statement of purpose, 1-2 page research statement, writing/publication sample, transcript list, and recommender packet.
@@ -42,9 +49,9 @@ This roadmap tracks the active Fall 2027 PhD admission cycle and the 2027-2028 r
 | KTH PhD: Machine Learning for Reliable Quantum Computing | Funded doctoral position, Sweden | June 8, 2026 | High | Prepare quantum-focused CV/application letter using GA-Work and quantum/network ML evidence; verify public-safety of any manuscript sample before sharing. |
 | KTH PhD: Machine Learning | Funded doctoral position, Sweden | June 17, 2026 | Active backup | KTH official vacancies list confirms the date; open exact detail page before drafting. Keep as backup unless faculty/project fit is strong. |
 | KTH PhD: Deep Learning for Biological Systems | Funded doctoral position, Sweden | July 31, 2026 | Active later | Build biology/ML packet after urgent June calls; reuse precision medicine, BIOL550, and diagnostics framing. |
-| Fulbright U.S. Student Program, Europe/Eurasia | Research / study fellowship | National deadline: October 6, 2026, 5:00 PM ET. Campus deadline may be 4-6 weeks earlier. | Highest | Confirm eligibility, contact campus Fulbright adviser, pick 1-2 countries, draft project, begin affiliation outreach. |
-| Fulbright Norway Open Study/Research Award | Research / study fellowship | October 6, 2026, 5:00 PM ET through Fulbright U.S. Student Program. | Highest | Build Norway host list, request affiliation, frame project around Norway-relevant research interests. |
-| Fulbright Sweden Open Study/Research Award | Research / study fellowship | October 6, 2026, 5:00 PM ET through Fulbright U.S. Student Program. | Highest | Build Sweden host list, request affiliation, frame project around Swedish research environment and graduate-level fit. |
+| Fulbright Spain English Teaching Assistant Award | Teaching / cultural-exchange fellowship | August 17 first draft; August 24 application and ETA forms; September 8 Foreign Language Evaluation; October 1 final campus review; October 6, 2026, 5:00 PM ET national deadline | Highest current | Complete the applicant-written application, Galicia/La Rioja placement case, recommender forms, Spanish evaluation, and campus revisions; do not final-submit before FPA approval. |
+| Fulbright Norway Open Study/Research Award | Future-cycle research fellowship | Later competition cycle after host and project development | Future | Retain the verified analysis and build a Norway host relationship well before reopening an application. |
+| Fulbright Sweden Open Study/Research Award | Future-cycle research fellowship | Later competition cycle after host and project development | Future | Retain the verified analysis and build a Sweden host relationship well before reopening an application. |
 | NSF GRFP | Graduate research fellowship | FY2027 dates not posted as of this update; recent CISE/STEM Education deadline was mid-November. | High if eligible | Start research statement and personal statement in June; verify the new solicitation once posted. |
 | GFSD / STEM fellowships | Graduate fellowship | Next cycle should be checked in late August 2026; prior cycle closed January 15, 2026. | Medium | Re-check opening date in August and decide whether the profile fits. |
 | Google PhD Fellowship Program | External doctoral fellowship | 2026 cycle closed; next cycle should be watched in March-April 2027. University nomination is required. | Medium later | Track only after the doctoral shortlist is narrower and the institutional nomination path is clearer. |
@@ -84,8 +91,8 @@ Tier 1: Start now or by June 2026
 - Uppsala precision medicine / diagnostics ML PhD, due June 1, 2026
 - KTH single-cell cancer data PhD, due June 3, 2026
 - KTH reliable quantum computing PhD, due June 8, 2026
-- Fulbright Norway Open Study/Research
-- Fulbright Sweden Open Study/Research
+- Fulbright Spain ETA for the current cycle
+- Fulbright Norway and Sweden Open Study/Research for future-cycle planning
 - NYU Data Science PhD
 - NYU Courant Computer Science PhD
 - University of Rochester Biostatistics and Computational Biology
@@ -114,6 +121,9 @@ Tier 3: Keep scanning monthly
 
 ## June-August 2026 working plan
 
+The June and July bullets below preserve the original planning sequence. Their
+Open Study/Research assumptions are superseded by the August 6 adviser outcome.
+
 June 2026:
 
 - Submit or close the urgent Uppsala and KTH live-vacancy applications.
@@ -132,15 +142,20 @@ July 2026:
 
 August 2026:
 
-- Secure or continue pursuing Fulbright affiliation letter.
-- Finish recommender packet.
+- Complete the applicant-written Spain ETA application by August 15 and submit
+   the first draft through the campus links by August 17.
+- Register three ETA recommenders and prepare them for the August 24
+   five-question form deadline.
+- Secure the required UofR Spanish Foreign Language Evaluation for September 8.
 - Draft first NYU/UofR/RIT SOP versions.
 - Re-check NSF GRFP and GFSD cycles.
 
 September-October 2026:
 
-- Submit campus Fulbright materials before internal deadline.
-- Submit national Fulbright application by October 6, 2026 at 5:00 PM ET.
+- Complete campus interviews September 10-22 and mark the revised application
+   `Ready for Review` by October 1.
+- Submit the Spain ETA application nationally by October 6, 2026 at 5:00 PM ET
+   only after campus approval.
 - Open Fall 2027 PhD applications and begin official forms.
 
 November 2026-January 2027:
@@ -154,6 +169,8 @@ November 2026-January 2027:
 - ProFellow fully funded CS PhD long-list: [official page](https://www.profellow.com/fellowships/fully-funded-phd-programs-in-computer-science/)
 - Fulbright Europe and Eurasia country list: [official page](https://us.fulbrightonline.org/countries/europe-and-eurasia)
 - Fulbright getting started and eligibility: [official page](https://us.fulbrightonline.org/applicants/getting-started)
+- Fulbright Spain English Teaching Assistant Award: [official page](https://us.fulbrightonline.org/countries/europe-and-eurasia/spain/1768)
+- University of Rochester Fulbright timeline: [official page](https://www.rochester.edu/college/studentfellowships/deadlines/fulbright.html)
 - Fulbright Norway Open Study/Research Award: [official page](https://us.fulbrightonline.org/countries/europe-and-eurasia/norway/1739)
 - Fulbright Sweden Open Study/Research Award: [official page](https://us.fulbrightonline.org/countries/europe-and-eurasia/sweden/1722)
 - Uppsala AI Supported Decision-Making PhD: [official page](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=932281)

@@ -66,7 +66,7 @@ Every artifact uses this structure:
 - **Summary:** Tracks the active Fall 2027 PhD admission cycle and 2027-2028 research/fellowship cycle, including Fulbright Europe/Eurasia, NYU, University of Rochester, RIT, NSF GRFP, GFSD, ProFellow-derived CS long-list programs, and European vacancy-based doctoral positions.
 - **Why this matters for PhD applications:** Converts scattered program deadlines into a version-controlled action plan, with urgent work separated from later-cycle applications.
 - **GitHub target path:** `APPLICATIONS/PhD/phd-application-roadmap-2026-2027.md`
-- **Next action:** Confirm Fulbright eligibility and campus process, begin Norway/Sweden host-affiliation outreach, and verify official PhD program deadlines again when Fall 2027 pages refresh.
+- **Next action:** Execute the Spain ETA campus plan through October 6, retain Norway/Sweden Study/Research work for a later cycle, and verify official PhD program deadlines again when Fall 2027 pages refresh.
 
 ---
 
@@ -120,10 +120,24 @@ Every artifact uses this structure:
 - **Category:** Applications / Planning
 - **Status:** Canonical
 - **Public/Private:** Public-safe
-- **Summary:** Captures the current official Fulbright U.S. Student Program shortlist with priority tiers, host-affiliation requirements, partnership-award caveats, and the strongest Europe-focused options for research and graduate study.
-- **Why this matters for PhD applications:** Keeps Fulbright discovery organized as a real application pipeline instead of a loose set of country pages, while separating high-fit Nordic and European options from lower-priority monitors.
+- **Summary:** Tracks Spain ETA as the FPA-recommended current-cycle application and preserves the strongest Europe-focused Study/Research and graduate-award comparisons for later cycles.
+- **Why this matters for PhD applications:** Keeps the active ETA application distinct from future research-grant planning while preserving the verified Nordic and European analysis.
 - **GitHub target path:** `APPLICATIONS/Fellowships/fulbright-awards-queue-2026-05-27.md`
-- **Next action:** Confirm the exact eligibility route, build host lists for Sweden/Norway/Germany, and decide whether Finland partnership awards are worth the extra admissions workload.
+- **Next action:** Complete the Spain ETA draft, recommender, language-evaluation, and campus-review milestones; reopen Sweden/Norway/Germany host work only as future-cycle planning.
+
+---
+
+### Fulbright Advising Outcome, August 6, 2026
+
+- **Link / Filename:** `2026-08-06-fulbright-advising-outcome.md`
+- **Type:** Advising outcome / application decision and execution record
+- **Category:** Applications / Fellowships
+- **Status:** Canonical
+- **Public/Private:** Public-safe synthesis; raw transcripts and private portal details remain outside Git
+- **Summary:** Records the FPA recommendation to pursue Spain ETA this cycle, the Galicia/La Rioja placement focus, role boundaries, supplementary-project limits, recommenders, required Spanish evaluation, and exact campus milestones.
+- **Why this matters for PhD applications:** Separates the feasible current international teaching application from a later host-developed Study/Research grant and ties the ETA experience to the longer-term inclusive-computing research path without mislabeling the role.
+- **GitHub target path:** `PREPARATION/meetings/2026-08-06-fulbright-advising-outcome.md`
+- **Next action:** Complete the applicant-written draft by August 15 for campus submission by August 17, then execute the August 24, September 8, October 1, and October 6 milestones.
 
 ---
 

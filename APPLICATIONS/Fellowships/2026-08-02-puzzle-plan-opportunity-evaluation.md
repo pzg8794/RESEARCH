@@ -2,6 +2,11 @@
 
 Verified: 2026-08-02
 
+Post-meeting update: The August 6 consultation superseded this file's
+current-cycle Fulbright award choice. Spain ETA is now the active application;
+Open Study/Research is retained for future Ph.D.-stage planning. See the
+[Fulbright advising outcome](../../PREPARATION/meetings/2026-08-06-fulbright-advising-outcome.md).
+
 The [user-provided deep-research report](./source-research/2026-08-02-deep-research-report-fellowships.md)
 has been preserved and compared against this applicant-specific evaluation.
 See the [reconciliation record](./2026-08-02-user-research-reconciliation.md)
@@ -27,11 +32,12 @@ For the current form:
   Computational Science Graduate Fellowship; DoD NDSEG Fellowship; GEM PhD
   Fellowship; DAAD RISE Professional.`
 
-The highest-priority listed application is **Fulbright Open Study/Research**.
-The highest-priority listed PhD scholarship is **Gates Cambridge**. The best
+The highest-priority listed application is now **Fulbright Spain ETA**. The
+highest-priority listed PhD scholarship is **Gates Cambridge**. The best
 missing programs are **NIH Oxford-Cambridge**, **DOE CSGF**, and **NDSEG**.
 Direct fully funded PhD applications remain the main goal and should run in
-parallel with these fellowships.
+parallel with the ETA application. Open Study/Research remains a later
+Fulbright route after proper host and project development.
 
 ## Evaluation Basis
 
@@ -90,7 +96,7 @@ hard eligibility rule.
 | [Critical Language Scholarship](https://clscholarship.org/applicants/eligibility) | **Likely yes** for the 2027 cycle if the application is submitted while Piter remains enrolled in fall 2026 | 3/5 | [Fall 2026; exact 2027 date not yet posted](https://clscholarship.org/apply) | Fully funded eight-week language immersion. Useful only if a specific language supports a planned host-country research or community partnership. Spanish is not a CLS language; beginner Portuguese could support a defined Latin American health-equity route. **Keep as secondary, not core.** |
 | [DAAD RISE Germany](https://www.daad.de/rise/en/rise-germany/find-an-internship/what-applicants-need-to-know/) | **No.** Must remain an undergraduate throughout the 2027 internship | 4/5 thematic, 0/5 actionable | October 15-November 30, 2026 | The listed program is the wrong career stage. Use [DAAD RISE Professional](https://www.daad.de/rise/en/rise-professional/find-an-internship/what-applicants-need-to-know/) under `Other` for graduate students and eligible recent graduates. **Replace, do not select.** |
 | [Projects for Peace](https://www.middlebury.edu/projects-for-peace/summer-grants/partners-liaisons) | **No through the current schools.** The published partner list marks graduate-eligible institutions with an asterisk; University of Rochester has no asterisk, and RIT is absent | 4/5 thematic, 0/5 actionable | 2026 cycle passed | Community co-design, inclusive CS, and diagnostic-equity outreach could make a strong project, but the current institutional routes do not permit Piter to lead the application. A future role mentoring an eligible undergraduate is possible. **Skip as applicant; recheck only if a later partner list changes.** |
-| [Fulbright U.S. Student Program](https://us.fulbrightonline.org/applicants/getting-started) | **Yes.** U.S. citizen with a bachelor's degree and no completed PhD | 5/5 | **August 24, 2026 campus application and recommendations; September 8 affiliation; October 6 national** | **Start now.** Use an Open Study/Research Award, not an English Teaching Assistant award. Build one feasible project around equitable/reliable ML for biological or health data, reliable ML for quantum systems, or inclusive CS education. Norway is the current lead; Sweden and Germany are alternatives. See the [verified shortlist](./fulbright-study-research-shortlist-2027-2028.md). Fulbright funds 6-10 months, not a whole PhD. |
+| [Fulbright U.S. Student Program](https://us.fulbrightonline.org/applicants/getting-started) | **Yes at the program level.** U.S. citizen with a bachelor's degree and no completed PhD; Spain-specific dual-nationality and residency answers still require secure verification | 5/5 | **August 17 first draft; August 24 campus application and three ETA forms; September 8 Foreign Language Evaluation; October 6 national** | **Start Spain ETA now.** The FPA recommended the ETA route because it is feasible within the remaining cycle and fits the teaching, English-learner, Spanish-language, technical, and inclusion evidence. Keep the role accurate: English communication and U.S. cultural exchange are primary; science/technology support and a bounded supplementary project are secondary. Begin Open Study/Research host and project development for a future cycle. |
 | [Gaither Junior Fellows](https://carnegieendowment.org/james-c-gaither-junior-fellows-program) | **No.** Graduating seniors or people who completed their first degree in the prior academic year | 2/5 | 2026 cycle passed | International policy research is adjacent to the translational-policy side of the Puzzle Plan, but the 2012 first degree is outside the eligibility window and the work is not primarily technical. **Skip.** |
 | [Goldwater Scholarship](https://goldwaterscholarship.gov/eligibility/) | **No.** Sophomore or junior undergraduate | 4/5 thematic, 0/5 actionable | 2026 cycle passed | Excellent research-career theme, wrong career stage. **Skip.** |
 | [Luce Scholars Program](https://lucescholars.org/selection/) | **Conditional.** Must be under 33 at departure, clear the Asia-exposure rules, and commit to 13 months | 3/5 | **September 8, 2026, 5:00 PM ET** | Luce can develop intercultural leadership and stakeholder-centered practice, but it is a placement fellowship, not a PhD grant, and no AI, quantum, bioinformatics, or teaching placement is guaranteed. **Discuss only after the age and Asia gates are confirmed and only if postponing the PhD/job route for 13 months is acceptable.** |
@@ -204,8 +210,9 @@ hard eligibility rule.
 
 ### Start now
 
-1. **Fulbright Open Study/Research:** choose one country and one project, then
-   begin host outreach. Campus materials and recommendations are due August 24.
+1. **Fulbright Spain ETA:** complete the applicant-written draft and online
+  application by August 15 for campus submission by August 17; register three
+  ETA recommenders and secure the mandatory Spanish evaluation.
 2. **NDSEG eligibility check:** opens August 3. Spend proposal time only after
    the current academic-status checker returns eligible.
 3. **Gates Cambridge project screen:** identify one department, two or three
@@ -242,7 +249,8 @@ into unrelated competitions.
 | --- | --- |
 | AI, computational science, quantum, DOE CSGF, or NDSEG | Travis for neural networks, DSCI 601, research advising, and current technical trajectory; Daniel for software/data rigor and project execution |
 | Inclusive CS education and broader impacts | Zenon for teaching and advising; Travis for teaching plus technical research |
-| Fulbright Open Study/Research | Select three only after country and project are fixed; letters must address project preparation, adaptability, community engagement, and representation |
+| Fulbright Spain ETA | Select three people who can evaluate teaching and commitment to education; Warner faculty are the strongest default, with one RIT recommender possible. They complete the ETA five-question form, not a conventional research letter. |
+| Future Fulbright Open Study/Research | Select three only after a later competition cycle, country, host, and project are fixed; letters must address project preparation, adaptability, community engagement, and representation. |
 | NIH OxCam biomedical computing | Use references who can document actual research independence and biomedical/computational readiness; do not rely on a generic service or teaching letter |
 | Gates Cambridge | Two academic references plus a distinct Gates reference aligned to intellectual ability, course choice, commitment to improving lives, and leadership |
 
@@ -254,8 +262,8 @@ reference.
 
 The best strategy is not to chase every prestigious title. It is to combine:
 
-1. **Fulbright Open Study/Research** for a near-term international research
-   project;
+1. **Fulbright Spain ETA** for the current-cycle international teaching and
+  cultural-exchange application;
 2. **Gates Cambridge and NIH OxCam** as high-reach, fully funded international
    PhD routes;
 3. **DOE CSGF, NDSEG, and GEM** as U.S. doctoral-funding routes;
@@ -264,7 +272,8 @@ The best strategy is not to chase every prestigious title. It is to combine:
    graduation.
 
 This portfolio covers the Puzzle Plan without forcing one application to carry
-every interest: biomedical equity belongs in Fulbright or NIH OxCam;
-AI/quantum/HPC belongs in Gates, DOE CSGF, or NDSEG; and inclusive teaching
-belongs in the broader-impact and translational components or in a dedicated
-education-focused PhD application.
+every interest: the ETA application should center teaching and reciprocal
+cultural exchange; biomedical equity can belong in a later Study/Research or
+NIH OxCam proposal; AI/quantum/HPC belongs in Gates, DOE CSGF, or NDSEG; and
+inclusive teaching belongs in the ETA evidence, broader-impact work, or a
+dedicated education-focused PhD application.

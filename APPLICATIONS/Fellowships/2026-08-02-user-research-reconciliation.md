@@ -2,6 +2,11 @@
 
 Reconciled: 2026-08-02
 
+Status update: The August 6 Fulbright consultation superseded the
+current-cycle priority below. Spain ETA is now the active application; Open
+Study/Research remains future-cycle planning. See the
+[post-meeting outcome](../../PREPARATION/meetings/2026-08-06-fulbright-advising-outcome.md).
+
 ## Source and Status
 
 - Original report, preserved unchanged: [deep-research-report-fellowships.md](./source-research/2026-08-02-deep-research-report-fellowships.md)
@@ -22,16 +27,18 @@ Several opportunities that the report labels as conditional or high priority
 are already resolved as ineligible from Piter Garcia's documented degree
 history.
 
-The working portfolio remains:
+The working portfolio is now:
 
-1. **Fulbright Open Study/Research** as the most urgent listed opportunity.
-2. **Gates Cambridge** as the strongest listed fully funded PhD route.
-3. **NIH Oxford-Cambridge Scholars Program** as a strong missing biomedical
+1. **Fulbright Spain ETA** as the active current-cycle application.
+2. **Fulbright Open Study/Research** as future Ph.D.-stage planning after host
+  and project development.
+3. **Gates Cambridge** as the strongest listed fully funded PhD route.
+4. **NIH Oxford-Cambridge Scholars Program** as a strong missing biomedical
    computing PhD route.
-4. **Direct fully funded PhD applications** as the main strategy.
-5. **DOE CSGF, NDSEG, and GEM** only after their program-specific eligibility
+5. **Direct fully funded PhD applications** as the main strategy.
+6. **DOE CSGF, NDSEG, and GEM** only after their program-specific eligibility
    and institution rules are cleared.
-6. **Luce or CLS** only when Piter deliberately chooses the professional-year
+7. **Luce or CLS** only when Piter deliberately chooses the professional-year
    or language pathway they actually fund.
 
 ## Findings Adopted
@@ -48,9 +55,10 @@ The following parts of the report strengthen the existing strategy:
 - Keep each application focused on one research question. Do not give quantum,
   bioinformatics, AI ethics, teaching, advocacy, and policy equal weight in a
   short proposal.
-- For Fulbright, establish a country-specific necessity: a named host, method,
-  dataset or institutional context, research question, community-engagement
-  plan, and feasible deliverable.
+- For a future Fulbright Study/Research application, establish a
+  country-specific necessity: a named host, method, dataset or institutional
+  context, research question, community-engagement plan, and feasible
+  deliverable.
 - Avoid another general master's degree unless it adds a specific capability
   that the current computer science, data science, and teaching degrees do not
   provide.
@@ -83,8 +91,8 @@ Replace NSF GRFP and Knight-Hennessy with:
 
 ## Immediate Use
 
-The report's strongest writing guidance should now be applied to the active
-work, especially Fulbright:
+The report's strongest writing guidance should be applied to future
+Study/Research and Ph.D. proposals:
 
 1. Choose one primary technical question.
 2. Identify the foreign host and why that setting is necessary.
@@ -92,3 +100,7 @@ work, especially Fulbright:
 4. Use evidence from completed coursework, research, teaching, repositories,
    and the thesis without presenting aspirational Puzzle Plan work as finished.
 5. Preserve reference capacity for applications that pass every hard gate.
+
+For the active ETA application, use the role-specific structure and evidence
+rules in the [August 6 outcome](../../PREPARATION/meetings/2026-08-06-fulbright-advising-outcome.md),
+not this research-proposal checklist.

@@ -2,6 +2,12 @@
 
 Corrected: 2026-07-28
 
+Current status: **Historical intake record, superseded for Spain ETA on
+2026-08-06.** Italy Deafness Studies remains screened out. The FPA later
+recommended proceeding with Spain ETA as accurately defined; follow the
+[post-meeting outcome](../../PREPARATION/meetings/2026-08-06-fulbright-advising-outcome.md)
+and current action plan instead of this checklist.
+
 Status: **Do not continue either route as previously framed.**
 
 ## Italy Deafness Studies
