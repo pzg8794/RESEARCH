@@ -53,6 +53,7 @@ The strongest technical direction is machine learning for quantum network routin
 | Artifact | Path |
 | --- | --- |
 | Master Research Index | [`MASTER_RESEARCH_INDEX.md`](./MASTER_RESEARCH_INDEX.md) |
+| Community Bridge Reading Path | [`PORTFOLIO/COMMUNITY_BRIDGE_READING_PATH.md`](./PORTFOLIO/COMMUNITY_BRIDGE_READING_PATH.md) |
 | TODO / Follow-up Tasks | [`TODO_PHD_RESEARCH.md`](./TODO_PHD_RESEARCH.md) |
 | Public Repository Showcase Plan | [`APPLICATIONS/PhD/PUBLIC_REPOSITORY_SHOWCASE_PLAN.md`](./APPLICATIONS/PhD/PUBLIC_REPOSITORY_SHOWCASE_PLAN.md) |
 | Statement Theme Library | [`STATEMENTS/statement-theme-library.md`](./STATEMENTS/statement-theme-library.md) |
@@ -110,6 +111,9 @@ RESEARCH/
 ├── PROJECTS/
 │   ├── AI_as_partner/
 │   └── AI_Business_Model_Project/
+├── PORTFOLIO/
+│   ├── COMMUNITY_BRIDGE_READING_PATH.md # Reader-first community-partner sequence
+│   └── PORTFOLIO_INDEX.md               # Broader portfolio inventory
 ├── APPLICATIONS/
 │   ├── Fellowships/                 # ProFellow queue, bookmarks, and discovery workflow
 │   ├── Jobs/                        # Job pipeline and public-safe communication logs

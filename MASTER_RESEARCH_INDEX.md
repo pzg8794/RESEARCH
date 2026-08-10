@@ -732,6 +732,22 @@ Every artifact uses this structure:
 
 ---
 
+### Community Bridge Reading Path
+- **Link / Filename:** [`PORTFOLIO/COMMUNITY_BRIDGE_READING_PATH.md`](./PORTFOLIO/COMMUNITY_BRIDGE_READING_PATH.md)
+- **Primary source repositories:**
+  - [ED400 Comprehensive Teaching Portfolio](https://github.com/pzg8794/ED400-Comprehensive_Teaching_Portfolio)
+  - [EDU498 Joy-Oriented Literacy Pursuit Journal](https://github.com/pzg8794/EDU498-joy_oriented_literacy_pursuit_journal) *(provenance only; use the reviewed lower-disclosure derivative for community sharing)*
+  - [EDU442 Teaching AI as a Learning Partner](https://github.com/pzg8794/edu442-impacting-practice-ai-pd)
+- **Type:** Curated cross-repository reading sequence
+- **Category:** Community partnership / Inclusive teaching / Broader impact
+- **Status:** Verified public-safe index; source artifacts retain their own completion and submission status
+- **Public/Private:** Public-safe index. Restricted sharing should still use direct reviewed artifacts or named-viewer UofR copies.
+- **Summary:** Orders three complementary works as identity and purpose, the learning experience young people deserve, and a scalable practice contribution. It distinguishes the verified controlled derivative `02-What-Learning-Should-Feel-Like-Joy-Access-and-Shared-Possibility.pdf` from the older, higher-disclosure public version and separates deeper follow-up readings from materials that require an intentional audience decision.
+- **Why this matters for applications and partnerships:** Provides a concise bridge among lived experience, neurodivergent and CLD access, youth dignity and agency, joyful literacy, and ethical technology design without exposing broad workspaces or private evidence.
+- **Next action:** Re-verify direct artifacts and repository visibility before each external share.
+
+---
+
 ### EDU 498 – Literacy Learning as Social Practice (Course Artifacts)
 - **Link / Filename:**
   - `EDU-498-Literacy-Learning-as-Social-Practice-Now-Open.pdf` (Google Drive)

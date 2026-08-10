@@ -1,6 +1,6 @@
 # GitHub Repo Registry for CV, Profile, and Application Evidence
 
-Updated: 2026-05-26
+Updated: 2026-08-10
 
 This registry links GitHub repositories that matter for PhD, fellowship, CV, public-profile, and application evidence work back into the RESEARCH repo.
 
@@ -49,13 +49,22 @@ These are useful when applications need teaching, equity, inclusion, Noyce/Warne
 | Repository | Visibility on GitHub | Application role | RESEARCH action |
 | --- | --- | --- | --- |
 | [pzg8794/ED400-Comprehensive_Teaching_Portfolio](https://github.com/pzg8794/ED400-Comprehensive_Teaching_Portfolio) | Public | Public teaching portfolio evidence. | Candidate broader-impact/teaching link. |
+| [pzg8794/ED400A-Trauma_Informed_Teaching-Reflection](https://github.com/pzg8794/ED400A-Trauma_Informed_Teaching-Reflection) | Public | Trauma-informed reflection provenance and evidence package, including conversation notes and anonymous transcript evidence. | Do not share the whole repository with a community partner; first prepare or select one reviewed direct artifact. |
 | [pzg8794/ED452B-Innovative-Unit-Plan-Portfolio](https://github.com/pzg8794/ED452B-Innovative-Unit-Plan-Portfolio) | Public | Inclusive CS unit-plan portfolio. | Candidate teaching/inclusion artifact. |
 | [pzg8794/ED452C](https://github.com/pzg8794/ED452C) | Public | ED452C course materials and discussion documentation. | Reference when documenting education-research identity. |
-| [pzg8794/EDU498](https://github.com/pzg8794/EDU498) | Private | EDU498 literacy/teaching repo documentation. | Reference privately; copy only public-safe synthesis. |
-| [pzg8794/teaching-placement](https://github.com/pzg8794/teaching-placement) | Private | Teaching placement evidence. | Keep private; use de-identified summaries only. |
+| [pzg8794/EDU498](https://github.com/pzg8794/EDU498) | Public | Broad EDU498 literacy/teaching workspace. | Visibility verified 2026-08-10. Do not use as a direct audience link; share only a reviewed artifact or public-safe synthesis. |
+| [pzg8794/EDU498-joy_oriented_literacy_pursuit_journal](https://github.com/pzg8794/EDU498-joy_oriented_literacy_pursuit_journal) | Public | Joy-oriented literacy source repository with a higher-disclosure personal version and de-identified/blurred placement evidence. | Provenance source, not a direct community-partner link. Use the verified restricted derivative `02-What-Learning-Should-Feel-Like-Joy-Access-and-Shared-Possibility.pdf`. |
+| [pzg8794/EDU498-Literacy_as_Power-Journal](https://github.com/pzg8794/EDU498-Literacy_as_Power-Journal) | Public | Communication access, neurodivergence, and social-justice journal. | Repository identifies the work as a working draft; hold until revision and disclosure review. |
+| [pzg8794/EDU498-minecraft_identity-mini_unit](https://github.com/pzg8794/EDU498-minecraft_identity-mini_unit) | Public | Identity-, community-, access-, and criticality-centered Minecraft mini-unit. | Candidate teaching artifact; review learner-profile context before external sharing. |
+| [pzg8794/teaching-placement](https://github.com/pzg8794/teaching-placement) | Public | Broad teaching-placement evidence workspace; default branch is `teaching_placement_shared`. | Visibility verified 2026-08-10. Do not share the broad repository; use reviewed, de-identified direct artifacts only. |
 | [pzg8794/EDU442-Bias_Deconstruct-Assignment](https://github.com/pzg8794/EDU442-Bias_Deconstruct-Assignment) | Public | Equity/bias deconstruction assignment. | Candidate broader-impact writing evidence. |
 | [pzg8794/edu442-impacting-practice-ai-pd](https://github.com/pzg8794/edu442-impacting-practice-ai-pd) | Public | AI professional-development module for equitable elementary AI use. | Candidate public teaching/AI artifact. |
 | [pzg8794/ede498c-integrating-cs-across-curriculum](https://github.com/pzg8794/ede498c-integrating-cs-across-curriculum) | Public | Integrated CS across curriculum evidence. | Candidate public teaching/CS artifact. |
+| [pzg8794/EDE448-module1-Introduction_to-Autism_and_Other_Complex_Support_Need](https://github.com/pzg8794/EDE448-module1-Introduction_to-Autism_and_Other_Complex_Support_Need) | Public | Module 1 reflection on naming, interpretation, support, and environmental design. | Candidate second-conversation community reading after exact-artifact review. |
+| [pzg8794/EDE448-Module2_Journal](https://github.com/pzg8794/EDE448-Module2_Journal) | Public | Dignity-, consent-, and neurodiversity-centered Module 2 journal package. | Repository states it is an almost-ready review draft and not submitted; do not present as final. |
+| [pzg8794/EDE448_Sensory_Walk_LaTeX_Package](https://github.com/pzg8794/EDE448_Sensory_Walk_LaTeX_Package) | Public | Sensory-access and environmental-redesign artifact. | Candidate practical inclusion evidence after exact-artifact review. |
+| [pzg8794/EDE448-Prevent_Teach_Reinforce_Planning](https://github.com/pzg8794/EDE448-Prevent_Teach_Reinforce_Planning) | Public | Prevent-Teach-Reinforce planning through access, agency, and richer evidence. | Candidate practice example; share the reviewed direct artifact, not a broad course workspace. |
+| [pzg8794/EDE448-Positive_Classroom_Support_Plan](https://github.com/pzg8794/EDE448-Positive_Classroom_Support_Plan) | Public | Whole-class positive-support planning, communication, and productive-failure framing. | Repository identifies it as an unsubmitted review draft; hold until final review. |
 
 ## Not Centered
 
