@@ -1,6 +1,6 @@
 # DeepBrain AI for Education research application
 
-Status: **SAVED; LIVE APPLICATION OPEN; SECOND VIBER MODIFY CORRECTIONS APPLIED; PDF READY FOR FINAL APPROVAL**
+Status: **SAVED; LIVE APPLICATION OPEN; VIBER APPROVED; READY FOR SUBMISSION WORKFLOW**
 
 ## Posting
 
@@ -49,9 +49,9 @@ open; a stale public copy must not override the Handshake state.
 
 ## Remaining action
 
-Visually review the newly compiled three-page tailored resume, run it through
-Viber's final approval gate together with the committed cover letter, then
-upload both files to Handshake, answer the screening question truthfully,
+The three-page tailored resume was compiled and visually reviewed. Viber
+returned `APPROVE` with no remaining correction after commit `23bfd10`. Upload
+the approved resume and cover letter to Handshake, answer the screening question truthfully,
 submit, preserve the receipt, and create a Git-linked response check.
 
 ## Viber correction applied on 2026-08-18
