@@ -30,6 +30,12 @@ Packet follow-through completed while Viber reviewed the queue:
 1. Education, curriculum, educational research, program coordination, instructional design, and education/data intersections first.
 2. Data science, analytics, ML/AI, research, and data/platform work second.
 3. Prefer remote paid work compatible with completing two M.S. degrees and teaching commitments.
+   Work must be fully remote from Rochester through December 2026. A role may
+   remain viable when it permits remote work through that date and requests
+   onsite, hybrid, or relocation beginning January 2027; classify that pattern
+   as `MODIFY / narrow inquiry`, not an automatic skip. Skip for location only
+   when regular onsite presence is required before January 2027 without
+   flexibility.
 4. Exclude unreliable tutoring marketplaces, unpaid roles, and roles whose core requirements would require unsupported claims.
 5. Credential gaps may be tested through honest experience equivalency. Do not claim current Ph.D. enrollment; the verified position is preparation for Fall 2027 doctoral study.
 
