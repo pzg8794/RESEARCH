@@ -1,15 +1,15 @@
 # Remote paid roles — Viber-gated application set
 
-Status: Viber decisions recorded; two applications are ready for action-time confirmation, two require correction, and one is skipped.
+Status: four applications submitted on Aug 18, 2026; one role skipped after Viber review.
 
 ## Candidate set
 
 | Role | Source | Terms | Account | Status |
 |---|---|---|---|---|
-| Neuromatch Curriculum Specialist, NeuroAI for High School | [Handshake](https://app.joinhandshake.com/jobs/11307533) / [Neuromatch](https://neuromatch.io/careers/) | Remote; ~15 hr/week; $40–50/hr; 6–12 months; deadline Aug 30, 2026 | garciapiterz@gmail.com | **APPROVE** — ready for action-time confirmation |
-| Academic Eye AI/ML Intern | [Handshake](https://app.joinhandshake.com/jobs/11263225) | Remote or St. Louis hybrid; part-time; $1–2K/month; Aug 3, 2026–May 28, 2027; deadline Aug 31, 2026 | garciapiterz@gmail.com | **APPROVE** — ready for action-time confirmation |
+| Neuromatch Curriculum Specialist, NeuroAI for High School | [Handshake](https://app.joinhandshake.com/jobs/11307533) / [Neuromatch](https://neuromatch.io/careers/) | Remote; ~15 hr/week; $40–50/hr; 6–12 months; deadline Aug 30, 2026 | garciapiterz@gmail.com | **SUBMITTED Aug 18, 2026** — form confirmed receipt; response expected in 2–3 weeks |
+| Academic Eye AI/ML Intern | [Handshake](https://app.joinhandshake.com/jobs/11263225) | Remote or St. Louis hybrid; part-time; $1–2K/month; Aug 3, 2026–May 28, 2027; deadline Aug 31, 2026 | garciapiterz@gmail.com | **SUBMITTED Aug 18, 2026** — Handshake confirmed; used `2026-07-31-tech-rise-data-scientist-resume.pdf` |
 | Academic Eye Curriculum & Standards Alignment Intern | [Handshake](https://app.joinhandshake.com/jobs/11263267) | Remote or St. Louis hybrid; part-time; $10–15/hr; Aug 3, 2026–May 28, 2027; deadline Aug 31, 2026 | garciapiterz@gmail.com | **SUBMITTED Aug 18, 2026** — Handshake confirmed submission; used `2026-07-23-learningmate-sme-resume.pdf` |
-| EQseer Knowledge Graph/Data Ontology Intern | [Handshake](https://app.joinhandshake.com/jobs/11285660) | Remote; paid; part-time; Sep 1–Dec 31, 2026; deadline Sep 7, 2026 | garciapiterz@gmail.com | **MODIFY** — tailor only to verified schema/data-modeling/pipeline work; do not claim RDF/OWL/SPARQL |
+| EQseer Knowledge Graph/Data Ontology Intern | [Handshake](https://app.joinhandshake.com/jobs/11285660) | Remote; paid; part-time; Sep 1–Dec 31, 2026; deadline Sep 7, 2026 | garciapiterz@gmail.com | **SUBMITTED Aug 18, 2026** — Handshake confirmed; used truthful data-science résumé without RDF/OWL/SPARQL claims |
 | Global Origin Game Analytics Intern | [Handshake](https://app.joinhandshake.com/jobs/11258399) | Remote; part-time; Aug 1–Nov 1, 2026; 20 assignments/90 days at 3–6 hours each; compensation not stated; description calls it a volunteer ambassador track despite a paid label | garciapiterz@gmail.com | **SKIP** — unreliable income model |
 
 ## Exclusion rule
@@ -32,9 +32,9 @@ Before each final submission, Viber receives the posting, intended account, rés
 
 ## Live handoff
 
-- Neuromatch: required text fields are complete; résumé and cover-letter uploads plus final submit remain pending action-time confirmation.
-- Academic Eye AI/ML: Quick Apply is open with the existing data-science résumé attached; final submit remains pending action-time confirmation.
-- EQseer: Quick Apply is open with the existing data-science résumé attached. It must not claim RDF, OWL, SPARQL, or unverified ontology-engineering experience.
+- Neuromatch: submitted with the tailored résumé, one-page cover letter, and 200-word response. Confirmation says applicants should receive next steps in 2–3 weeks.
+- Academic Eye AI/ML: submitted through Handshake with the existing data-science résumé.
+- EQseer: submitted through Handshake with the existing data-science résumé; no RDF, OWL, SPARQL, or unverified ontology-engineering claim was added.
 - Academic Eye Curriculum: submitted through Handshake on Aug 18, 2026 with the curriculum/standards-focused LearningMate SME résumé. Viber's pay/classification concern remains documented for any interview or offer-stage follow-up.
 
 ### Academic Eye availability positioning
