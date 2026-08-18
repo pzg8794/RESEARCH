@@ -36,3 +36,7 @@ Before each final submission, Viber receives the posting, intended account, rés
 - Academic Eye AI/ML: Quick Apply is open with the existing data-science résumé attached; final submit remains pending action-time confirmation.
 - EQseer: Quick Apply is open with the existing data-science résumé attached. It must not claim RDF, OWL, SPARQL, or unverified ontology-engineering experience.
 - Academic Eye Curriculum: submitted through Handshake on Aug 18, 2026 with the curriculum/standards-focused LearningMate SME résumé. Viber's pay/classification concern remains documented for any interview or offer-stage follow-up.
+
+### Academic Eye availability positioning
+
+Use this in recruiter follow-up or an interview: Piter is available remotely through Fall 2026 while completing his graduate programs and teaching commitments. Beginning around January 2027, he can discuss in-person or hybrid work in Missouri if the organization remains interested. He is seeking a durable role and is willing to continue beyond the internship when there is a mutual fit.
