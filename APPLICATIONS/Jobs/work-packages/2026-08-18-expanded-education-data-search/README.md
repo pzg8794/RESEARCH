@@ -4,6 +4,20 @@ Updated: 2026-08-18
 
 Purpose: preserve the Handshake opportunities identified for focused work next week. This is a candidate backlog, not a submission log. Every role below was saved in Handshake on 2026-08-18 unless otherwise noted.
 
+Viber review: **IN PROGRESS.** The complete GitHub backlog and operating rules
+were sent to Viber on 2026-08-18 for an education-first, then data/CS,
+evidence-grounded `APPROVE` / `MODIFY` / `SKIP` decision on every role. Final
+decisions must be recorded here when returned; the request itself is not an
+approval.
+
+Packet follow-through completed while Viber reviewed the queue:
+
+- DeepBrain's Viber-requested resume corrections were compiled, visually
+  checked, documented, and pushed in commit `3dc235e`.
+- NAFA's committed resume, cover letter, schedule/travel qualification, and
+  final-gate checklist were consolidated in a role-specific work package in
+  commit `c92b864`.
+
 ## Status vocabulary
 
 - `SAVED / NEEDS VIBER REVIEW`: bookmarked in Handshake; posting and application materials still require source-grounded review.
