@@ -1,6 +1,6 @@
 # DeepBrain AI for Education research application
 
-Status: **SAVED; LIVE APPLICATION OPEN; EQUIVALENCY PACKET PREPARED**
+Status: **SAVED; LIVE APPLICATION OPEN; VIBER MODIFY CORRECTIONS APPLIED; PDF READY FOR FINAL CHECK**
 
 ## Posting
 
@@ -38,7 +38,10 @@ open; a stale public copy must not override the Handshake state.
 
 ## Materials
 
-- Resume candidate: `../../application-materials/2026-06-01-ntnu-quantum-compiler-cv.pdf`
+- Tailored resume source:
+  `../../application-materials/2026-08-18-deepbrain-ai-education-research-resume.tex`
+- Tailored resume PDF:
+  `../../application-materials/2026-08-18-deepbrain-ai-education-research-resume.pdf`
 - Tailored cover letter source:
   `../../application-materials/2026-08-18-deepbrain-ai-education-research-cover-letter.tex`
 - Screening answer: **Yes**. Piter has participated in academic paper writing;
@@ -46,6 +49,16 @@ open; a stale public copy must not override the Handshake state.
 
 ## Remaining action
 
-Upload the tailored cover letter to Handshake, select the research resume,
-answer the screening question truthfully, submit, preserve the receipt, and
-create a Git-linked response check.
+Visually review the newly compiled four-page tailored resume, run it through
+Viber's final evidence gate together with the committed cover letter, then
+upload both files to Handshake, answer the screening question truthfully,
+submit, preserve the receipt, and create a Git-linked response check.
+
+## Viber correction applied on 2026-08-18
+
+- Replaced both outdated August 2026 completion dates with December 2026.
+- Removed the NTNU/SPQR/PoliMi-specific fit section.
+- Replaced `manuscript under review` with `research manuscript`.
+- Removed the unverified secondary University of Rochester email.
+- Added DeepBrain-relevant AI, education, research, accessibility, and
+  reproducible-evaluation positioning grounded in the existing record.
