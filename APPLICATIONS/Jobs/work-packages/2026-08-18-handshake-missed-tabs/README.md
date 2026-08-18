@@ -52,7 +52,10 @@ the Ph.D. credential.
   webinars, Excel, coordination, service, and written communication
 - Requires approximately 5–6 trips per year and occasional event overtime
 - Viber decision: **SKIP** based on full-time/travel/compensation tradeoff;
-  retained as Saved while Piter's broader role-family strategy is documented
+  Piter's corrected rule changes this to **MODIFY**, not an automatic close
+- Tailored one-page resume created and visually verified:
+  `../../application-materials/2026-08-18-nafa-education-coordinator-resume.pdf`
+- Status: **SAVED; APPLICATION MATERIAL PREPARED; SUBMISSION NOT YET CONFIRMED**
 
 ### SAP — Internship Experience Program (iXp)
 
@@ -84,4 +87,5 @@ the Ph.D. credential.
 - [x] Final Viber decisions recorded
 - [x] Healthcare and MLE application packages selected/prepared
 - [x] Healthcare and MLE applications submitted and receipts preserved
-- [ ] Git-linked follow-up events created
+- [ ] Git-linked follow-up events created — Google Calendar connector was
+  disconnected when attempted; do not mark this complete
