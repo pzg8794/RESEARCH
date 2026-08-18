@@ -1,6 +1,6 @@
 # Babel Institute — Children and Youth in Conflict Analyst
 
-Status: **application email staged with all three verified attachments; Gmail Send control is currently disabled**
+Status: **submitted by email on August 18, 2026**
 
 ## Opportunity
 
@@ -28,15 +28,14 @@ Status: **application email staged with all three verified attachments; Gmail Se
 - [x] Verified public writing sample selected
 - [x] Babel-specific interest statement drafted within the 150–200-word requirement
 - [x] PDFs rendered and visually checked
-- [ ] Email package sent
-- [ ] Receipt preserved
+- [x] Email package sent from the University of Rochester account
+- [x] Gmail `Message sent` confirmation observed
 - [x] Posting saved in Handshake
 - [x] Calendar follow-up created for September 8, 2026 with this GitHub preparation link
 
-## Current handoff
+## Submission record
 
-The University of Rochester Gmail compose window contains the correct recipient,
-subject, body, resume, interest statement, and writing sample. The uploads are
-complete, but Gmail is holding the Send control disabled. Preserve that populated
-draft and send only after Gmail re-enables the control; do not recreate or replace
-the verified package.
+The email to `internships@babelinstitute.us` used the required subject and
+included the verified resume, 192-word interest statement, and 1,031-word writing
+sample. Gmail displayed `Message sent`. The posting is saved in Handshake, and the
+September 8 follow-up event links back to this package.
