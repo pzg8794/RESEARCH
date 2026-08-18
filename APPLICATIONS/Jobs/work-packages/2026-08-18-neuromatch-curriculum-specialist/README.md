@@ -10,10 +10,13 @@ Status: prepared; final submissions remain pending Viber decisions and action-ti
 | Academic Eye AI/ML Intern | [Handshake](https://app.joinhandshake.com/jobs/11263225) | Remote or St. Louis hybrid; part-time; $1–2K/month; Aug 3, 2026–May 28, 2027; deadline Aug 31, 2026 | garciapiterz@gmail.com | Viber review pending |
 | Academic Eye Curriculum & Standards Alignment Intern | [Handshake](https://app.joinhandshake.com/jobs/11263267) | Remote or St. Louis hybrid; part-time; $10–15/hr; Aug 3, 2026–May 28, 2027; deadline Aug 31, 2026 | garciapiterz@gmail.com | Viber review pending |
 | EQseer Knowledge Graph/Data Ontology Intern | [Handshake](https://app.joinhandshake.com/jobs/11285660) | Remote; paid; part-time; Sep 1–Dec 31, 2026; deadline Sep 7, 2026 | garciapiterz@gmail.com | Viber review pending |
+| Global Origin Game Analytics Intern | [Handshake](https://app.joinhandshake.com/jobs/11258399) | Remote; paid; part-time; Aug 1–Nov 1, 2026; deadline Aug 29, 2026; compensation not stated in posting snapshot | garciapiterz@gmail.com | Viber review pending |
 
 ## Exclusion rule
 
 Tutor marketplaces and on-demand tutoring roles are excluded unless the posting specifies dependable hours or guaranteed monthly income. The UNFPA Data Intern was not included because the posting requires Power BI experience not verified in the current RESEARCH sources.
+
+Data Driven Enterprises Data Analyst (Handshake 11274375) was reviewed and not added: it is full-time and remote-or-hybrid, which conflicts with the current school/teaching-compatible gig criterion.
 
 ## Materials
 
