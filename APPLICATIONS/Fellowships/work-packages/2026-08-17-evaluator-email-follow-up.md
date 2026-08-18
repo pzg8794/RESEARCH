@@ -1,18 +1,17 @@
 # Fulbright Evaluator Email Follow-Up
 
-## Status (17 August 2026)
+## Verified Responses (17 August 2026)
 
-The user reports a new evaluator response and other follow-up emails. The currently connected Gmail mailbox does not expose the evaluator thread, so no sender, subject, response content, or reply recipient is inferred here.
+- **Foreign Language Evaluator — Professor Kirt Komocki:** reviewed the Spanish-evaluation materials, added options, and confirmed that two of the four written texts are needed. For the written component, a recent essay may be used. He asked Piter to let him know when the materials are complete so they can select a day and time.
+- **Recommender — Professor Alyse Cunzio:** confirmed that she is happy to help with the Fulbright recommendation and asked Piter to send the system request.
 
 ## Action When the Correct Mailbox Is Visible
 
-1. Read the evaluator's full thread, including any quoted context and attachments.
-2. Separate confirmed requests, deadlines, and feedback from general information.
-3. Record each requested change in the Fulbright application tracker before replying.
-4. Draft a warm, concise reply that acknowledges the feedback and states only actions actually completed or explicitly planned.
-5. Preserve the draft for Piter's review unless the user explicitly authorizes sending that specific reply.
-6. Search the same mailbox for other unread or unanswered Fulbright, evaluator, recommender, campus-review, and application messages.
-7. Add any real deadlines or appointments to the calendar with a link to this prep record.
+1. Save and review Kirt's revised materials and select the two written-text options.
+2. Choose a recent essay suitable for the written component.
+3. Reply to Kirt with a thank-you and propose scheduling only once the materials are ready.
+4. Send Alyse the Fulbright system recommendation request, then acknowledge her confirmation warmly.
+5. Record any resulting completion dates or meeting time in the application tracker and calendar.
 
 ## Current Calendar Handoff
 
@@ -20,4 +19,4 @@ The existing **FOLLOW UP: Request Fulbright feedback meeting** block remains the
 
 ## Evidence Boundary
 
-No evaluator identity, email address, message text, deadline, or application change is recorded until the correct mailbox and thread are visible. This prevents cross-account mix-ups and stale-response drafting.
+No private attachments, personal contact information, or evaluator-submitted content is stored in this public-safe repository. The record captures only the verified application tasks and their status.
