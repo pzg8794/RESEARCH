@@ -1,6 +1,6 @@
 # Remote paid roles — Viber-gated application set
 
-Status: four applications submitted on Aug 18, 2026; one role skipped after Viber review.
+Status: four applications submitted and saved in Handshake on Aug 18, 2026; additional candidates remain under active Viber-gated review.
 
 ## Candidate set
 
@@ -11,6 +11,12 @@ Status: four applications submitted on Aug 18, 2026; one role skipped after Vibe
 | Academic Eye Curriculum & Standards Alignment Intern | [Handshake](https://app.joinhandshake.com/jobs/11263267) | Remote or St. Louis hybrid; part-time; $10–15/hr; Aug 3, 2026–May 28, 2027; deadline Aug 31, 2026 | garciapiterz@gmail.com | **SUBMITTED Aug 18, 2026** — Handshake confirmed submission; used `2026-07-23-learningmate-sme-resume.pdf` |
 | EQseer Knowledge Graph/Data Ontology Intern | [Handshake](https://app.joinhandshake.com/jobs/11285660) | Remote; paid; part-time; Sep 1–Dec 31, 2026; deadline Sep 7, 2026 | garciapiterz@gmail.com | **SUBMITTED Aug 18, 2026** — Handshake confirmed; used truthful data-science résumé without RDF/OWL/SPARQL claims |
 | Global Origin Game Analytics Intern | [Handshake](https://app.joinhandshake.com/jobs/11258399) | Remote; part-time; Aug 1–Nov 1, 2026; 20 assignments/90 days at 3–6 hours each; compensation not stated; description calls it a volunteer ambassador track despite a paid label | garciapiterz@gmail.com | **SKIP** — unreliable income model |
+| AcceleratED Learning Elementary Curriculum Developer | [Handshake](https://app.joinhandshake.com/jobs/11246198) | Remote; 10 hr/week; $15/hr; Aug 15–Oct 30, 2026; application requires résumé, cover letter, and transcript | garciapiterz@gmail.com | **SKIP** — Viber confirmed the undergraduate-class-year mismatch and Rochester pay below New York's 2026 minimum wage make the application poor value |
+| Reseller Bro Mobile App Developer | [Handshake](https://app.joinhandshake.com/jobs/11264301) | Remote; one-time 15–20 hour launch sprint; firm $500 cap | garciapiterz@gmail.com | **SKIP** — Viber confirmed this is not dependable recurring income |
+| Columbia Business School Research Assistant | [Handshake](https://app.joinhandshake.com/jobs/11262620) | Remote/hybrid; 15 hr/week; $20/hr; Aug 10–Oct 31, 2026 | garciapiterz@gmail.com | **SKIP** — posting requires current Columbia University enrollment |
+| Academic Eye Software Engineering Intern | [Handshake](https://app.joinhandshake.com/jobs/11263204) | Remote/hybrid; part-time; $1–2K/month; Aug 3, 2026–May 28, 2027 | garciapiterz@gmail.com | **VIBER REVIEW IN PROGRESS** — proposed verified developer-education résumé |
+| Academic Eye Web Developer Intern | [Handshake](https://app.joinhandshake.com/jobs/11263216) | Remote/hybrid; part-time; $1–2K/month; Aug 3, 2026–May 28, 2027 | garciapiterz@gmail.com | **VIBER REVIEW IN PROGRESS** — Viber checking direct React evidence before submission |
+| Babel Institute Children and Youth in Conflict Analyst | [Handshake](https://app.joinhandshake.com/jobs/11264841) | Remote; 8–10 hr/week; $19.50/hr; Sep 21–Nov 21, 2026 | garciapiterz@gmail.com | **SCREENED — VIBER PACKAGE PENDING** — requires résumé, 850–1,200-word writing sample, and 150–200-word interest statement |
 
 ## Exclusion rule
 
@@ -28,7 +34,7 @@ Data Driven Enterprises Data Analyst (Handshake 11274375) was reviewed and not a
 
 ## Gate
 
-Before each final submission, Viber receives the posting, intended account, résumé/supporting documents, and RESEARCH/Drive evidence. Record its exact APPROVE, MODIFY, or SKIP decision here before transmitting an application.
+Before each final submission, Viber receives the posting, intended account, résumé/supporting documents, and RESEARCH/Drive evidence. Record its exact APPROVE, MODIFY, or SKIP decision here before transmitting an application. After each submission: verify the receipt, save the job in Handshake, update this GitHub package, and create a calendar follow-up containing this preparation link and the posting URL.
 
 ## Live handoff
 
@@ -36,6 +42,7 @@ Before each final submission, Viber receives the posting, intended account, rés
 - Academic Eye AI/ML: submitted through Handshake with the existing data-science résumé.
 - EQseer: submitted through Handshake with the existing data-science résumé; no RDF, OWL, SPARQL, or unverified ontology-engineering claim was added.
 - Academic Eye Curriculum: submitted through Handshake on Aug 18, 2026 with the curriculum/standards-focused LearningMate SME résumé. Viber's pay/classification concern remains documented for any interview or offer-stage follow-up.
+- Handshake tracking: Neuromatch, Academic Eye AI/ML, Academic Eye Curriculum, and EQseer were all saved after submission so they remain visible in Handshake's Saved/search views.
 
 ### Academic Eye availability positioning
 
