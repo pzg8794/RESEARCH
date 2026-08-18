@@ -6,7 +6,12 @@
 - **When:** Thursday, August 27, 2026, 11:00 AM-2:30 PM EDT
 - **Format:** Virtual
 - **Handshake:** https://rochester.joinhandshake.com/stu/events/1980103
-- **Status:** Registration recorded in Handshake on August 17, 2026.
+- **Official event:** https://ibmdevday-bob.bemyapp.com/
+- **Dev Day:** Thursday, August 27, 2026, 10:00 AM-2:30 PM EDT
+  (hackathon enablement begins at 10:00 AM; main program begins at 11:00 AM)
+- **Hackathon:** Friday-Sunday, August 28-30, 2026
+- **Status:** Handshake registration recorded August 17. Direct IBM/BeMyApp
+  registration is in progress and requires completion after IBMid sign-in.
 
 ## Why this fits
 
@@ -24,3 +29,32 @@ development workflow without implying prior production experience with IBM Bob.
    and supports human review.
 4. Record reusable lessons for research, teaching, and future applications.
 
+## Competition direction: MLADIS inquiry-agent workflow
+
+Build a sanitized, Bob-assisted developer workflow around the existing MLADIS
+short-term-rental inquiry system. The competition submission should be about
+how Bob helps developers safely build, test, validate, and maintain the agent,
+not merely about presenting a rental chatbot.
+
+### Demonstration workflow
+
+1. Ingest a synthetic rental inquiry and extract dates, occupancy, preferences,
+   and special requests.
+2. Check sample availability and policy data, then prepare a response or quote
+   for human review.
+3. Track approval, booking, payment-authorization, and follow-up states.
+4. Use Bob to trace requirements to implementation, generate and run tests,
+   detect missing or contradictory transaction states, validate documentation,
+   and prepare a reproducible release handoff.
+5. Compare the workflow before and after Bob using elapsed time, manual steps,
+   errors caught, and rework avoided.
+
+### Guardrails
+
+- Use only synthetic guest, property, booking, and payment data.
+- Do not expose private MLADIS records, credentials, payment details, identity
+  information, production logs, or browsing history.
+- Preserve the existing repository and Git history; use a bounded hackathon
+  branch or sanitized sample project.
+- Verify the current payment implementation before describing it. Do not claim
+  that separate stay and deposit holds are complete without working evidence.
