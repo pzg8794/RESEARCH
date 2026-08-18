@@ -1,5 +1,7 @@
 # Rochester School for the Deaf — ASL Teacher
 
+> **Closed — not pursuing.** Piter does not know American Sign Language, so this role is not a fit if ASL proficiency is required. The application-work and deadline calendar events were removed on 17 August 2026.
+
 ## Verified Opportunity
 
 - **Employer:** Rochester School for the Deaf
@@ -10,7 +12,7 @@
 - **Handshake deadline:** 12 September 2026 at 11:00 PM EDT
 - **Source:** UofR Handshake notification received 16 August 2026
 
-## Preparation Checklist
+## Archived Preparation Checklist
 
 1. Open the Handshake posting from the original UofR email and confirm that it remains active.
 2. Save the complete job description, required qualifications, and requested documents.

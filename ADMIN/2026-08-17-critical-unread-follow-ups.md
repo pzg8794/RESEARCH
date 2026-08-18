@@ -17,6 +17,7 @@
 - Two unread insurer notifications from 11–12 August report new documents in the member portal.
 - Sign in through the official member website, identify whether each document requires action, and record only the resulting deadline or administrative task in the private calendar.
 - Keep plan, member, claim, and health details outside this repository.
+- **Calendar status:** the review event was removed at Piter's request on 17 August 2026; do not recreate it without a new request.
 
 ## Completion Rule
 
