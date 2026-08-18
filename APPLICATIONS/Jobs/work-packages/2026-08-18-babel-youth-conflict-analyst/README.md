@@ -1,6 +1,6 @@
 # Babel Institute — Children and Youth in Conflict Analyst
 
-Status: **application package in preparation after Viber MODIFY**
+Status: **application email staged with all three verified attachments; Gmail Send control is currently disabled**
 
 ## Opportunity
 
@@ -27,8 +27,16 @@ Status: **application package in preparation after Viber MODIFY**
 - [x] Viber MODIFY decision recorded
 - [x] Verified public writing sample selected
 - [x] Babel-specific interest statement drafted within the 150–200-word requirement
-- [ ] PDFs rendered and visually checked
+- [x] PDFs rendered and visually checked
 - [ ] Email package sent
 - [ ] Receipt preserved
-- [ ] Posting saved in Handshake
-- [ ] Calendar follow-up created with this GitHub preparation link
+- [x] Posting saved in Handshake
+- [x] Calendar follow-up created for September 8, 2026 with this GitHub preparation link
+
+## Current handoff
+
+The University of Rochester Gmail compose window contains the correct recipient,
+subject, body, resume, interest statement, and writing sample. The uploads are
+complete, but Gmail is holding the Send control disabled. Preserve that populated
+draft and send only after Gmail re-enables the control; do not recreate or replace
+the verified package.
