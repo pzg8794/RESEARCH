@@ -22,9 +22,10 @@ Status: **queued for evidence-grounded screening and individualized application 
 - Blocking mismatch: the posting explicitly requires a completed Ph.D.; the
   verified record supports two M.S. degrees expected December 2026 and a planned
   Fall 2027 Ph.D., not a current Ph.D.
-- Status: **Viber decision pending**; any application must disclose the mismatch
-  and ask about a remote research-fellow/associate arrangement without implying
-  current doctoral status.
+- Viber decision: **SKIP** — do not apply to the posted role because the
+  completed-Ph.D. requirement is hard. A separate, truthful inquiry about a
+  remote research-associate role remains permissible, but it must not imply
+  that Piter meets this posting's qualifications.
 
 ### 2. NEX2 — App Development Intern
 
@@ -33,7 +34,9 @@ Status: **queued for evidence-grounded screening and individualized application 
 - Requires a resume plus a GitHub, live site, or app link
 - The posting also says the candidate should be based in or able to work from
   the Miami area, which conflicts with a Rochester-based remote-semester plan.
-- Status: **Viber decision pending**.
+- Viber decision: **SKIP** — the explicit Miami-area condition conflicts with
+  the Rochester-based remote-semester requirement. Reconsider only if NEX2
+  confirms in writing that the work can be completed entirely from Rochester.
 
 ### 3. AcceleratED Learning — Elementary Curriculum Developer
 
@@ -43,7 +46,9 @@ Status: **queued for evidence-grounded screening and individualized application 
 - Blocking concerns: the Handshake class-year preferences list only
   undergraduates, and $15/hour is below the applicable New York minimum wage for
   this remote New York worker.
-- Status: **expected SKIP; Viber reconfirmation pending**.
+- Viber decision: **SKIP** — the rate is below the applicable 2026 New York
+  minimum wage for work performed from Rochester, and the class-year mismatch
+  remains unresolved.
 
 ### 4. CampusMesh — Software Engineering Intern
 
@@ -54,7 +59,9 @@ Status: **queued for evidence-grounded screening and individualized application 
   resume; and provide genuine product feedback after actual use.
 - Required package includes resume, two or three campus-connection sentences,
   three genuine likes, three genuine dislikes, and interview availability.
-- Status: **queued after the active Babel handoff and Viber reconfirmation**.
+- Viber decision: **MODIFY confirmed** — this is the sole actionable role in
+  this batch. Proceed only with truthful graduate status, no React claim, and
+  genuine product evaluation completed by Piter.
 
 ## Current completion state
 
@@ -62,9 +69,11 @@ Status: **queued for evidence-grounded screening and individualized application 
 - [x] All four postings and requirements read
 - [x] CampusMesh saved in Handshake
 - [x] NEX2 saved in Handshake
-- [ ] DeepBrain save state confirmed
-- [ ] AcceleratED Learning save state confirmed
+- [x] DeepBrain screened and closed as SKIP
+- [x] AcceleratED Learning screened and closed as SKIP
 - [x] Batch sent to Viber for final screening
+- [x] Viber final gate recorded: DeepBrain SKIP; NEX2 SKIP; AcceleratED SKIP;
+  CampusMesh MODIFY
 - [ ] Individual application packages prepared
 - [ ] Submissions completed and receipts preserved
 - [ ] Git-linked follow-up events created
