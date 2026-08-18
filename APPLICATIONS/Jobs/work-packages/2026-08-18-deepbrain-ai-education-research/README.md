@@ -1,6 +1,6 @@
 # DeepBrain AI for Education research application
 
-Status: **SAVED; LIVE APPLICATION OPEN; VIBER MODIFY CORRECTIONS APPLIED; PDF READY FOR FINAL CHECK**
+Status: **SAVED; LIVE APPLICATION OPEN; SECOND VIBER MODIFY CORRECTIONS APPLIED; PDF READY FOR FINAL APPROVAL**
 
 ## Posting
 
@@ -49,8 +49,8 @@ open; a stale public copy must not override the Handshake state.
 
 ## Remaining action
 
-Visually review the newly compiled four-page tailored resume, run it through
-Viber's final evidence gate together with the committed cover letter, then
+Visually review the newly compiled three-page tailored resume, run it through
+Viber's final approval gate together with the committed cover letter, then
 upload both files to Handshake, answer the screening question truthfully,
 submit, preserve the receipt, and create a Git-linked response check.
 
@@ -62,3 +62,12 @@ submit, preserve the receipt, and create a Git-linked response check.
 - Removed the unverified secondary University of Rochester email.
 - Added DeepBrain-relevant AI, education, research, accessibility, and
   reproducible-evaluation positioning grounded in the existing record.
+- Corrected the Pine Brook entry to K--5 Computer Science Student Teacher,
+  February--May 2026.
+- Replaced unverified compiler/QEC-stack claims with the verified Python
+  multi-testbed, bandit-routing, validation, logging, dataset, and experiment
+  tracking evidence.
+- Replaced the VIOME uncertainty/model-monitoring claim with the verified
+  healthcare ML workflow evidence.
+- Replaced the unsupported dollar value with `full tuition waiver` for the
+  Noyce scholarship.
