@@ -10,8 +10,9 @@
 - **Dev Day:** Thursday, August 27, 2026, 10:00 AM-2:30 PM EDT
   (hackathon enablement begins at 10:00 AM; main program begins at 11:00 AM)
 - **Hackathon:** Friday-Sunday, August 28-30, 2026
-- **Status:** Handshake registration recorded August 17. Direct IBM/BeMyApp
-  registration is in progress and requires completion after IBMid sign-in.
+- **Status:** Registered through Handshake on August 17 and directly through
+  IBM/BeMyApp on August 18, 2026. Hackathon participation was selected; the
+  completed registration returned to the authenticated event page.
 
 ## Why this fits
 
