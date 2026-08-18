@@ -10,22 +10,31 @@ action, and evidence link are recorded here. A past calendar time does **not**
 prove completion; absent a receipt or live confirmation, the status remains
 `NEEDS VERIFICATION`.
 
-### Controlling opportunity filter
+### Controlling opportunity strategy
 
-Pursue only opportunities that satisfy at least one of these paths:
+Follow the [Application Operating Process](./APPLICATION_OPERATING_PROCESS.md).
+Pursue evidence-grounded roles across education/curriculum, programming and
+data platforms, data science/ML/AI, and scientist/applied-research work.
 
-1. Remote work that is realistically compatible with doctoral study; or
-2. Teaching children, which is a core career passion.
+Through December 2026, prioritize remote or Rochester-area roles whose actual
+schedule, travel, start date, and compensation can work with current school and
+teaching obligations. Treat a preferred degree, years-of-experience figure, or
+advanced credential as an equivalency question when Piter's decade-plus
+professional experience and current research provide a credible case. Close a
+role only for a genuine hard conflict, not merely because the conventional
+candidate profile differs.
 
-Skill overlap, compensation, employer prestige, adult corporate training, or a
-nominal New York location does not override this filter. Reject roles requiring
-substantial travel, fixed onsite attendance, or adult sales enablement unless
-Piter explicitly changes the boundary.
+For Ph.D.-level roles, use the truthful status: two M.S. degrees expected
+December 2026 and preparation to begin doctoral study in Fall 2027. Never call
+Piter a current Ph.D. student or candidate. Every Handshake job evaluated must
+be Saved, with `SAVED` tracked separately from `SUBMITTED`.
 
 ## Confirmed completed actions
 
 | Item | Status | Evidence / next checkpoint |
 |---|---|---|
+| NeuroHire Healthcare Data Scientist | **SAVED AND APPLICATION SUBMITTED** | Submitted through Handshake Aug. 18 with the verified healthcare-focused resume; Handshake displayed `Application submitted!`. [Work package](./work-packages/2026-08-18-handshake-missed-tabs/README.md) |
+| NeuroHire Machine Learning Engineer | **SAVED AND APPLICATION SUBMITTED** | Submitted through Handshake Aug. 18 with the verified data-science/ML resume; December 2026 completion remained truthful and Handshake displayed `Application submitted!`. [Work package](./work-packages/2026-08-18-handshake-missed-tabs/README.md) |
 | HHS — Navigating the Federal Hiring Process: USAJobs | **REGISTERED** | Handshake displayed `You're registered!` on Aug. 17. Attend Aug. 19, 2:00-3:00 PM EDT. [Preparation](./work-packages/2026-08-19-hhs-usajobs-workshop/README.md) |
 | IBM Dev Day: Bob in Action + Hackathon | **FULLY REGISTERED — PREPARATION SCHEDULED** | Handshake registration was verified Aug. 17; direct IBM/BeMyApp registration and hackathon participation were completed Aug. 18. Calendar sequence: scope Aug. 20; final prep Aug. 26; enablement and Dev Day Aug. 27; build/finalize Aug. 28-30. [Preparation](./work-packages/2026-08-27-ibm-dev-day/README.md) |
 | Handshake AI — Project Ivy Offline Evaluations | **INTEREST SUBMITTED** | Submitted Aug. 17; check for invitation Aug. 24. [Status and preparation](./work-packages/2026-08-17-handshake-ai-projects/README.md) |

@@ -1,13 +1,15 @@
 # Handshake missed-tab recovery — August 18, 2026
 
-Status: **five previously missed postings recovered, saved, and sent to Viber**
+Status: **five postings recovered and saved; two high-fit applications submitted**
 
 ## Scope correction
 
 This package records every unique job still open in the user's Handshake tabs.
 The earlier batch inventory missed these five roles. Babel Institute job 11264841
-was already submitted; NEX2 job 11272622 and DeepBrain job 11128588 were already
-closed as Viber SKIP decisions.
+was already submitted. NEX2 job 11272622 and DeepBrain job 11128588 previously
+received Viber SKIP decisions; DeepBrain is being reconsidered under Piter's
+August 18 experience-equivalency rule rather than treated as closed solely for
+the Ph.D. credential.
 
 ## Recovered queue
 
@@ -19,7 +21,14 @@ closed as Viber SKIP decisions.
   visualization, and healthcare-data experience
 - Strong overlap with verified data-science, healthcare-analytics,
   bioinformatics, responsible-AI, and ML work
-- Status: **saved; Viber decision pending**
+- Viber decision: **MODIFY** — preserve verified healthcare evidence and do not
+  claim EHR/claims, FHIR/HL7/ICD, or HIPAA experience without a primary source
+- Resume used: `2026-07-27-health-data-max-clinical-business-analyst-resume.pdf`
+- Status: **SAVED AND SUBMITTED August 18, 2026**; Handshake displayed
+  `Application submitted!`
+- A more role-specific one-page source/PDF was also created at
+  `../../application-materials/2026-08-18-neurohire-healthcare-data-scientist-resume.tex`
+  and `../../application-materials/build-neurohire-healthcare/2026-08-18-neurohire-healthcare-data-scientist-resume.pdf`
 
 ### NeuroHire — Machine Learning Engineer
 
@@ -29,7 +38,11 @@ closed as Viber SKIP decisions.
   SQL, cloud, and software-engineering fundamentals
 - Handshake preference says graduation by May 2026; verified expected completion
   is December 2026 and must remain truthful
-- Status: **saved; Viber decision pending**
+- Viber decision: **MODIFY** — keep December 2026 graduation truthful and do
+  not invent production RAG/LLM depth
+- Resume used: `2026-07-31-tech-rise-data-scientist-resume.pdf`
+- Status: **SAVED AND SUBMITTED August 18, 2026**; Handshake displayed
+  `Application submitted!`
 
 ### NAFA Fleet Management Association — Education Coordinator
 
@@ -38,7 +51,8 @@ closed as Viber SKIP decisions.
 - Entry level; current-year graduates encouraged; education programs, LMS,
   webinars, Excel, coordination, service, and written communication
 - Requires approximately 5–6 trips per year and occasional event overtime
-- Status: **saved; Viber decision pending**
+- Viber decision: **SKIP** based on full-time/travel/compensation tradeoff;
+  retained as Saved while Piter's broader role-family strategy is documented
 
 ### SAP — Internship Experience Program (iXp)
 
@@ -46,7 +60,8 @@ closed as Viber SKIP decisions.
 - Remote or hybrid, part-time, September 2026–March 2027
 - This is an umbrella program listing that directs applicants to separate SAP
   openings rather than defining one position and application package
-- Status: **saved; Viber decision pending**
+- Viber decision: **SKIP AS AN APPLICATION TARGET**; use the saved umbrella
+  listing to discover and evaluate specific SAP iXp requisitions
 
 ### Cardiff — Python Engineer, Financial Data Platform & Integrations
 
@@ -56,7 +71,9 @@ closed as Viber SKIP decisions.
   substantial production Snowflake, AWS data pipelines, financial integrations,
   and regulated-data practices
 - Also requires a 2–3 minute video, GitHub, and a visible production project
-- Status: **saved; Viber decision pending**
+- Viber decision: **SKIP** because substantial production Snowflake, recent
+  Python-backend ownership, financial-provider integration, and the complete
+  AWS data-services combination are not yet established; keep Saved for record
 
 ## Completion checklist
 
@@ -64,7 +81,7 @@ closed as Viber SKIP decisions.
 - [x] Full requirements read for all five
 - [x] All five postings saved in Handshake
 - [x] Exact requirements sent to Viber
-- [ ] Final Viber decisions recorded
-- [ ] Approved or modified application packages prepared
-- [ ] Applications submitted and receipts preserved
+- [x] Final Viber decisions recorded
+- [x] Healthcare and MLE application packages selected/prepared
+- [x] Healthcare and MLE applications submitted and receipts preserved
 - [ ] Git-linked follow-up events created
