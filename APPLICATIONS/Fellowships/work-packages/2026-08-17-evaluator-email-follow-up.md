@@ -3,19 +3,20 @@
 ## Verified Responses (17 August 2026)
 
 - **Foreign Language Evaluator — Professor Kirt Komocki:** reviewed the Spanish-evaluation materials, added options, and confirmed that two of the four written texts are needed. For the written component, a recent essay may be used. He asked Piter to let him know when the materials are complete so they can select a day and time.
-- **Recommender — Professor Alyse Cunzio:** confirmed that she is happy to help with the Fulbright recommendation and asked Piter to send the system request.
+- **Foreign Language Evaluator reply:** Piter sent a Spanish thank-you and confirmed that he will review the options, choose two texts and a recent essay, and contact Professor Komocki when ready to schedule. Sent 17 August 2026.
+- **Recommender — Professor Alyse Cunzio:** confirmed that she is happy to help with the Fulbright recommendation. Piter had already sent the official Fulbright system request and thanked her on 15 August 2026; no duplicate reply is needed.
 
-## Action When the Correct Mailbox Is Visible
+## Remaining Action
 
 1. Save and review Kirt's revised materials and select the two written-text options.
 2. Choose a recent essay suitable for the written component.
-3. Reply to Kirt with a thank-you and propose scheduling only once the materials are ready.
-4. Send Alyse the Fulbright system recommendation request, then acknowledge her confirmation warmly.
-5. Record any resulting completion dates or meeting time in the application tracker and calendar.
+3. Contact Kirt with proposed scheduling options only after the materials are ready.
+4. Verify the Foreign Language Evaluation and all recommendation statuses in the Fulbright portal as their submission deadlines approach.
+5. Record the agreed evaluation time and any resulting completion dates in the application tracker and calendar.
 
 ## Current Calendar Handoff
 
-The existing **FOLLOW UP: Request Fulbright feedback meeting** block remains the next Fulbright action. Its prep link should point here once this record is merged.
+The 18 August **ACTION: Fulbright references + transcript status** block points to this record. The next evaluator work is selecting two texts and a recent essay; scheduling follows only when those materials are ready.
 
 ## Evidence Boundary
 
