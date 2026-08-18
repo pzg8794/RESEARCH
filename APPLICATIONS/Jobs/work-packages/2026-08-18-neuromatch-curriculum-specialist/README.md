@@ -1,6 +1,6 @@
 # Remote paid roles — Viber-gated application set
 
-Status: four applications submitted and saved in Handshake on Aug 18, 2026; additional candidates remain under active Viber-gated review.
+Status: six applications submitted and saved in Handshake on Aug 18, 2026; additional candidates remain under active Viber-gated review.
 
 ## Candidate set
 
@@ -14,8 +14,8 @@ Status: four applications submitted and saved in Handshake on Aug 18, 2026; addi
 | AcceleratED Learning Elementary Curriculum Developer | [Handshake](https://app.joinhandshake.com/jobs/11246198) | Remote; 10 hr/week; $15/hr; Aug 15–Oct 30, 2026; application requires résumé, cover letter, and transcript | garciapiterz@gmail.com | **SKIP** — Viber confirmed the undergraduate-class-year mismatch and Rochester pay below New York's 2026 minimum wage make the application poor value |
 | Reseller Bro Mobile App Developer | [Handshake](https://app.joinhandshake.com/jobs/11264301) | Remote; one-time 15–20 hour launch sprint; firm $500 cap | garciapiterz@gmail.com | **SKIP** — Viber confirmed this is not dependable recurring income |
 | Columbia Business School Research Assistant | [Handshake](https://app.joinhandshake.com/jobs/11262620) | Remote/hybrid; 15 hr/week; $20/hr; Aug 10–Oct 31, 2026 | garciapiterz@gmail.com | **SKIP** — posting requires current Columbia University enrollment |
-| Academic Eye Software Engineering Intern | [Handshake](https://app.joinhandshake.com/jobs/11263204) | Remote/hybrid; part-time; $1–2K/month; Aug 3, 2026–May 28, 2027 | garciapiterz@gmail.com | **VIBER REVIEW IN PROGRESS** — proposed verified developer-education résumé |
-| Academic Eye Web Developer Intern | [Handshake](https://app.joinhandshake.com/jobs/11263216) | Remote/hybrid; part-time; $1–2K/month; Aug 3, 2026–May 28, 2027 | garciapiterz@gmail.com | **VIBER REVIEW IN PROGRESS** — Viber checking direct React evidence before submission |
+| Academic Eye Software Engineering Intern | [Handshake](https://app.joinhandshake.com/jobs/11263204) | Remote/hybrid; part-time; $1–2K/month; Aug 3, 2026–May 28, 2027 | garciapiterz@gmail.com | **SUBMITTED + SAVED Aug 18, 2026** — Viber APPROVE; used `2026-08-10-codigo-developer-education-intern-resume.pdf`; no FastAPI claim |
+| Academic Eye Web Developer Intern | [Handshake](https://app.joinhandshake.com/jobs/11263216) | Remote/hybrid; part-time; $1–2K/month; Aug 3, 2026–May 28, 2027 | garciapiterz@gmail.com | **SUBMITTED + SAVED Aug 18, 2026** — Viber MODIFY; used verified developer résumé and made no React claim; screening answers: CS degree Yes, English Yes |
 | Babel Institute Children and Youth in Conflict Analyst | [Handshake](https://app.joinhandshake.com/jobs/11264841) | Remote; 8–10 hr/week; $19.50/hr; Sep 21–Nov 21, 2026 | garciapiterz@gmail.com | **SCREENED — VIBER PACKAGE PENDING** — requires résumé, 850–1,200-word writing sample, and 150–200-word interest statement |
 
 ## Exclusion rule
@@ -42,7 +42,9 @@ Before each final submission, Viber receives the posting, intended account, rés
 - Academic Eye AI/ML: submitted through Handshake with the existing data-science résumé.
 - EQseer: submitted through Handshake with the existing data-science résumé; no RDF, OWL, SPARQL, or unverified ontology-engineering claim was added.
 - Academic Eye Curriculum: submitted through Handshake on Aug 18, 2026 with the curriculum/standards-focused LearningMate SME résumé. Viber's pay/classification concern remains documented for any interview or offer-stage follow-up.
-- Handshake tracking: Neuromatch, Academic Eye AI/ML, Academic Eye Curriculum, and EQseer were all saved after submission so they remain visible in Handshake's Saved/search views.
+- Academic Eye Software Engineering: submitted through Handshake with the verified developer-education résumé after Viber APPROVE. The application makes no FastAPI claim.
+- Academic Eye Web Developer: submitted through Handshake with the same verified developer résumé after Viber MODIFY. Direct React experience was not claimed.
+- Handshake tracking: all six submitted Handshake roles were saved after submission so they remain visible in Handshake's Saved/search views.
 
 ### Academic Eye availability positioning
 
@@ -52,6 +54,6 @@ Use this in recruiter follow-up or an interview: Piter is available remotely thr
 
 All events include this GitHub preparation page and the applicable posting link.
 
-- Sep 1, 2026, 11:00–11:30 AM ET — Academic Eye AI/ML and Curriculum applications.
+- Sep 1, 2026, 11:00–11:30 AM ET — all four Academic Eye applications: AI/ML, Curriculum, Software Engineering, and Web Developer.
 - Sep 2, 2026, 11:00–11:30 AM ET — EQseer Knowledge Graph/Data Ontology application.
 - Sep 8, 2026, 11:00–11:30 AM ET — Neuromatch Curriculum Specialist; aligned with the employer's stated 2–3 week response window.
