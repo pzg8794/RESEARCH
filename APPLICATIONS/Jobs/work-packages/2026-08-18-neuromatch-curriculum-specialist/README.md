@@ -29,3 +29,10 @@ Data Driven Enterprises Data Analyst (Handshake 11274375) was reviewed and not a
 ## Gate
 
 Before each final submission, Viber receives the posting, intended account, résumé/supporting documents, and RESEARCH/Drive evidence. Record its exact APPROVE, MODIFY, or SKIP decision here before transmitting an application.
+
+## Live handoff
+
+- Neuromatch: required text fields are complete; résumé and cover-letter uploads plus final submit remain pending action-time confirmation.
+- Academic Eye AI/ML: Quick Apply is open with the existing data-science résumé attached; final submit remains pending action-time confirmation.
+- EQseer: Quick Apply is open with the existing data-science résumé attached. It must not claim RDF, OWL, SPARQL, or unverified ontology-engineering experience.
+- Academic Eye Curriculum: a rate/classification clarification message is drafted to the hiring contact and intentionally unsent pending action-time confirmation.
