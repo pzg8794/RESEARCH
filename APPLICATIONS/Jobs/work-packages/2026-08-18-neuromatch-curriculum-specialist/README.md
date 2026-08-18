@@ -40,3 +40,11 @@ Before each final submission, Viber receives the posting, intended account, rés
 ### Academic Eye availability positioning
 
 Use this in recruiter follow-up or an interview: Piter is available remotely through Fall 2026 while completing his graduate programs and teaching commitments. Beginning around January 2027, he can discuss in-person or hybrid work in Missouri if the organization remains interested. He is seeking a durable role and is willing to continue beyond the internship when there is a mutual fit.
+
+## Calendar follow-ups
+
+All events include this GitHub preparation page and the applicable posting link.
+
+- Sep 1, 2026, 11:00–11:30 AM ET — Academic Eye AI/ML and Curriculum applications.
+- Sep 2, 2026, 11:00–11:30 AM ET — EQseer Knowledge Graph/Data Ontology application.
+- Sep 8, 2026, 11:00–11:30 AM ET — Neuromatch Curriculum Specialist; aligned with the employer's stated 2–3 week response window.
