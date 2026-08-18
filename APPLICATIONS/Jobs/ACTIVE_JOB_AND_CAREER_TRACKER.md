@@ -10,32 +10,51 @@ action, and evidence link are recorded here. A past calendar time does **not**
 prove completion; absent a receipt or live confirmation, the status remains
 `NEEDS VERIFICATION`.
 
+### Controlling opportunity filter
+
+Pursue only opportunities that satisfy at least one of these paths:
+
+1. Remote work that is realistically compatible with doctoral study; or
+2. Teaching children, which is a core career passion.
+
+Skill overlap, compensation, employer prestige, adult corporate training, or a
+nominal New York location does not override this filter. Reject roles requiring
+substantial travel, fixed onsite attendance, or adult sales enablement unless
+Piter explicitly changes the boundary.
+
 ## Confirmed completed actions
 
 | Item | Status | Evidence / next checkpoint |
 |---|---|---|
 | HHS — Navigating the Federal Hiring Process: USAJobs | **REGISTERED** | Handshake displayed `You're registered!` on Aug. 17. Attend Aug. 19, 2:00-3:00 PM EDT. [Preparation](./work-packages/2026-08-19-hhs-usajobs-workshop/README.md) |
-| IBM Dev Day: Bob in Action + Hackathon | **REGISTERED** | Handshake displayed `You're registered!` on Aug. 17. Attend Aug. 27, 11:00 AM-2:30 PM EDT. [Preparation](./work-packages/2026-08-27-ibm-dev-day/README.md) |
+| IBM Dev Day: Bob in Action + Hackathon | **FULLY REGISTERED — PREPARATION SCHEDULED** | Handshake registration was verified Aug. 17; direct IBM/BeMyApp registration and hackathon participation were completed Aug. 18. Calendar sequence: scope Aug. 20; final prep Aug. 26; enablement and Dev Day Aug. 27; build/finalize Aug. 28-30. [Preparation](./work-packages/2026-08-27-ibm-dev-day/README.md) |
 | Handshake AI — Project Ivy Offline Evaluations | **INTEREST SUBMITTED** | Submitted Aug. 17; check for invitation Aug. 24. [Status and preparation](./work-packages/2026-08-17-handshake-ai-projects/README.md) |
 | Handshake AI — Project Ivy Online Ranking | **INTEREST SUBMITTED** | Submitted Aug. 17; check for invitation Aug. 24. [Status and preparation](./work-packages/2026-08-17-handshake-ai-projects/README.md) |
-| Jobot Senior AI/ML screening | **RESPONSE SENT** | Screening response and targeted resume sent Aug. 10; check for a substantive recruiter reply, but do not resend. [Work package](./work-packages/2026-08-10-jobot-senior-ai-ml-screening/README.md) |
+| Jobot Senior AI/ML screening | **AWAITING RECRUITER DECISION** | Screening response and targeted resume sent Aug. 10. Jeni confirmed the same day that the response was shared with the relevant team and that they would contact Piter if selected. Rechecked Aug. 17: no newer substantive response; do not resend. [Work package](./work-packages/2026-08-10-jobot-senior-ai-ml-screening/README.md) |
+| Jobot Senior Data Scientist | **WAITLISTED** | Jobot reported Aug. 13 that the application was waitlisted and not approved. Status email reviewed and cleared from the active-star queue Aug. 17; continue searching rather than following up on the automated notice. |
+| Jobot Senior MLOps Engineer | **SUBMITTED, THEN CLOSED / DO NOT PURSUE** | Jobot's one-click flow registered the application as received on Aug. 17 before the deep production Azure/AKS mismatch was treated as dispositive. The skills check truthfully selected none of AKS, Azure, or Kubernetes. Per Piter's direction, do not pursue this role, do not prepare additional materials, and decline or close any role-specific screening outreach. [Receipt and closure](./work-packages/2026-08-17-jobot-senior-mlops/README.md) |
 | Recovery Audit Solutions internship | **APPLICATION SUBMITTED** | Submitted July 31; response check remains open. |
 | Health Data Max Clinical Business Analyst Intern | **APPLICATION SUBMITTED** | Submitted July 27; response check remains open. |
 | Tech Rise Data Scientist | **APPLICATION SUBMITTED** | Submitted July 31; do not duplicate. |
 | Hegemon Data Scientist | **APPLICATION SUBMITTED** | Application was already present when reviewed; do not duplicate. |
 | Sevita recruiting event invitation | **DECLINED** | Courtesy decline sent Aug. 17 because available roles did not match current teaching and AI/data goals. |
 | Lucky Mishra AI Developer outreach | **REPLIED** | Response confirmed sent in RIT Gmail Aug. 17; await substantive terms. |
+| Harsha Softcom AI Architect outreach | **REPLIED / CLOSED FOR CURRENT ROLE** | The original Torrance, California hybrid contract was from March. A courtesy response was sent Aug. 17 requesting consideration for future remote or compatible hybrid AI/data roles; do not send another reply unless Harsha responds. |
+| RIT Fall course-support requests | **NOT NEEDED** | Piter confirmed Aug. 17 that only one Fall course remains and no additional Disability Services coordination is needed. No follow-up should be sent unless that need changes. |
+| Carney, Sandoe & Associates 2027-2028 Teaching Fellowship | **APPLICATION SUBMITTED** | Submitted Aug. 4; Handshake and email receipts were verified. Monitor for a response and do not submit a duplicate. |
 
 ## Immediate action queue
 
 | Priority | Item | Current evidence status | Next action |
 |---|---|---|---|
-| P0 | Current WRP/federal application | **NEEDS VERIFICATION** | Resume and documents were prepared and uploaded, but preserve/verify the final submission receipt before calling it submitted. Use the existing application and work package; do not restart. |
-| P0 | RIT Fall course-support requests | **NEEDS VERIFICATION** | Calendar block passed Aug. 17; no completion receipt was verified in this reconciliation. Check the existing school workflow and send only missing requests. |
-| P0 | Carney CandidateConnect application receipt | **NEEDS VERIFICATION** | Calendar receipt-check block passed Aug. 17; verify the application receipt without submitting a duplicate. |
-| P0 | DASA and SAVE registration/course dates | **NEEDS VERIFICATION** | Aug. 15 calendar block passed without a verified completion receipt. Confirm registration state and required dates. |
-| P0 | Active application responses | **OPEN** | Check Jobot, Recovery Audit Solutions, Health Data Max, Tech Rise, Hegemon, and current recruiter threads once; reply to substantive messages and record every outcome here. |
-| P1 | Team PBS recruiter follow-up | **OPEN / EVENT PASSED** | The Aug. 14 event has passed. Check the Handshake thread Aug. 18 for a recruiter response or future session; do not resend if nothing changed. |
+| P0 | Current WRP/federal application | **BLOCKED - SCHEDULE A LETTER REQUESTED** | The application is saved with the tailored resume and RIT/UofR transcripts. A request for a compliant Schedule A letter was sent to the treating provider Aug. 17. When received, verify the required language, upload it, complete the applicant attestation, submit, and preserve the receipt. [Work package](./work-packages/2026-08-17-wrp-follow-up/README.md) |
+| P0 | RIT email opportunity sweep | **COMPLETED AUG. 17 - ALL CATEGORIES** | Rechecked RIT All Mail across Primary, Social, Updates, job-alert, and response-label results. The Lucky Mishra remote AI Developer reply is sent and has no newer recruiter response; the Torrance hybrid role remains closed for the current opening; the Schedule A request remains pending. Automated role digests were screened and the worthwhile leads are captured below. |
+| P1 | IBM AI/open-roles digest | **DISCOVERY - ROLE-LEVEL SCREEN NEEDED** | IBM Talent Acquisition sent an Aug. 17 skills-and-open-roles digest. Treat it as a source of leads, not an application or recruiter contact; screen the linked official IBM roles for remote/NY fit and AI, data, education, or responsible-AI alignment before applying. |
+| P1 | TEKsystems ML Consultant recommendation | **DISCOVERY - LISTING VERIFICATION NEEDED** | The Aug. 11 automated TEKsystems recommendations include an ML Consultant lead. Verify employer, location/remote status, contract terms, qualifications, and active closing status before preparing an application. No email reply is warranted to the automated digest. |
+| P0 | Jobot Machine Learning Engineer - Predictive Intelligence | **NEW HIGH-FIT LEAD - PACKET NEEDED** | Jobot's Aug. 13 alert lists a remote role tied to Hoboken plus two locations at $140,000-$180,000 and recommends applying based on the current resume. Verify the official job description and experience requirements, then prepare a targeted predictive-ML application; do not use 1-Click Apply until the packet and transmission are checked. |
+| P0 | DASA and SAVE registration/course dates | **SCHEDULED - AUG. 22** | Registration remains incomplete. A replacement block is saved for Saturday, Aug. 22, 2:00-2:45 PM with Warner instructions and the RESEARCH preparation link. Register for both courses using Purchase Order; Piter must enter DOB, last five SSN digits, CAPTCHA, and submit. |
+| P0 | Active application responses | **CHECKED AUG. 17 - MONITORING** | Jobot recruiter thread has no response beyond the Aug. 10 acknowledgment; Senior Data Scientist is waitlisted. No substantive newer response was found for Recovery Audit Solutions, Health Data Max, Tech Rise, or Hegemon across the checked RIT, UofR, and personal mailboxes. No reply is currently warranted; monitor for new human responses. |
+| P1 | Team PBS recruiter follow-up | **CHECKED AUG. 17 - AWAITING REPLY** | The Handshake thread was checked after Piter's Aug. 14 apology and request for materials/future session. Shaheen has not replied. Do not send a duplicate; monitor for a new recruiter response. |
 | P1 | ChatGPT Business waitlist decision | **OPEN** | Review Aug. 18 at 1:00 PM; record whether it has career/business value before joining. |
 | P1 | NYIT graduate information session | **SCHEDULED, ATTENDANCE NOT VERIFIED** | Prep Aug. 19 at 9:15 AM; session Aug. 19 at 10:00 AM. Decide whether the program advances the existing doctoral/career plan. |
 | P1 | St. Jude volunteer webinar | **DECISION PENDING** | Decide/register Aug. 22 before the Aug. 24 deadline only if it supports community/research goals. |
@@ -48,11 +67,11 @@ These calendar blocks occurred, but completion is not established unless noted.
 |---|---|
 | Warner course evaluations | **COMPLETED in the guided evaluation workflow** |
 | Fulbright application/campus-review package | **COMPLETED for the current campus-review stage; national submission remains separate** |
-| DSCI 602 A+C interface/reproducibility work | **NEEDS VERIFICATION** |
-| DSCI 602 physical grounding and claim calibration | **NEEDS VERIFICATION** |
-| DSCI 602 scale-experiment design | **NEEDS VERIFICATION** |
-| Teaching Retreat materials review | **NEEDS VERIFICATION** |
-| BigQuery Data Transfer label-change check | **NEEDS VERIFICATION** |
+| DSCI 602 A+C interface/reproducibility work | **RESCHEDULED: Aug. 18, 4:00-6:00 PM** |
+| DSCI 602 physical grounding and claim calibration | **RESCHEDULED: Aug. 19, 4:00-6:00 PM** |
+| DSCI 602 scale-experiment design | **RESCHEDULED: Aug. 20, 4:00-6:00 PM** |
+| Teaching Retreat materials review | **BLOCKED - BOX ACCESS / IT-1343022** |
+| BigQuery Data Transfer label-change check | **NOT AFFECTED / CLOSED** - Repository scan found no BigQuery Data Transfer client or transfer-configuration scripts requiring the legacy label-filter change. |
 | Volvo inspection | **BLOCKED / DO NOT TREAT AS COMPLETE** |
 
 ## Deliberately not pursued
@@ -64,6 +83,9 @@ These calendar blocks occurred, but completion is not established unless noted.
 | Rochester School for the Deaf ASL Teacher | Closed: ASL proficiency is not established. |
 | Palmyra-Macedon substitute math role | Not pursued: subject and Fall teaching-placement fit were weak. |
 | AT&T interview-preparation event | Not registered: lower priority than the HHS and IBM events already selected. |
+| KIPP NYC - 2026-2027 Computer Science, Middle School | LinkedIn job 4449831317 was checked Aug. 17 and states that it is no longer accepting applications. Do not build or submit a packet for this closed listing. |
+| AWS Trainer and Coach, WWFE Global Trainer Centre of Excellence | Not pursued: this is an adult sales-enablement role based in New York with up to 50% travel. It fails the controlling search boundary: roles must be remote and compatible with doctoral study, or involve teaching children. Skills overlap alone is not sufficient. |
+| Boston Consulting Group experienced-consultant collection | Not pursued: the Aug. 17 ProFellow collection lists office-specific or multi-office roles and does not identify any role as remote. It fails the remote/PhD-compatible or teaching-children filter. Do not screen or surface this collection again unless a separate official BCG listing explicitly states remote work. |
 
 ## Email-retention receipt
 
@@ -73,4 +95,3 @@ the weekly profile-notice email, and two other promotional/event notices from
 the approved cleanup set. They remain recoverable from Gmail Trash during
 Google's retention window. No further opportunity email should be deleted until
 its status is captured in this tracker.
-
