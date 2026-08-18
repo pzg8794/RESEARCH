@@ -1,16 +1,16 @@
 # Remote paid roles — Viber-gated application set
 
-Status: prepared; final submissions remain pending Viber decisions and action-time confirmation.
+Status: Viber decisions recorded; two applications are ready for action-time confirmation, two require correction, and one is skipped.
 
 ## Candidate set
 
 | Role | Source | Terms | Account | Status |
 |---|---|---|---|---|
-| Neuromatch Curriculum Specialist, NeuroAI for High School | [Handshake](https://app.joinhandshake.com/jobs/11307533) / [Neuromatch](https://neuromatch.io/careers/) | Remote; ~15 hr/week; $40–50/hr; 6–12 months; deadline Aug 30, 2026 | garciapiterz@gmail.com | Viber review pending |
-| Academic Eye AI/ML Intern | [Handshake](https://app.joinhandshake.com/jobs/11263225) | Remote or St. Louis hybrid; part-time; $1–2K/month; Aug 3, 2026–May 28, 2027; deadline Aug 31, 2026 | garciapiterz@gmail.com | Viber review pending |
-| Academic Eye Curriculum & Standards Alignment Intern | [Handshake](https://app.joinhandshake.com/jobs/11263267) | Remote or St. Louis hybrid; part-time; $10–15/hr; Aug 3, 2026–May 28, 2027; deadline Aug 31, 2026 | garciapiterz@gmail.com | Viber review pending |
-| EQseer Knowledge Graph/Data Ontology Intern | [Handshake](https://app.joinhandshake.com/jobs/11285660) | Remote; paid; part-time; Sep 1–Dec 31, 2026; deadline Sep 7, 2026 | garciapiterz@gmail.com | Viber review pending |
-| Global Origin Game Analytics Intern | [Handshake](https://app.joinhandshake.com/jobs/11258399) | Remote; paid; part-time; Aug 1–Nov 1, 2026; deadline Aug 29, 2026; compensation not stated in posting snapshot | garciapiterz@gmail.com | Viber review pending |
+| Neuromatch Curriculum Specialist, NeuroAI for High School | [Handshake](https://app.joinhandshake.com/jobs/11307533) / [Neuromatch](https://neuromatch.io/careers/) | Remote; ~15 hr/week; $40–50/hr; 6–12 months; deadline Aug 30, 2026 | garciapiterz@gmail.com | **APPROVE** — ready for action-time confirmation |
+| Academic Eye AI/ML Intern | [Handshake](https://app.joinhandshake.com/jobs/11263225) | Remote or St. Louis hybrid; part-time; $1–2K/month; Aug 3, 2026–May 28, 2027; deadline Aug 31, 2026 | garciapiterz@gmail.com | **APPROVE** — ready for action-time confirmation |
+| Academic Eye Curriculum & Standards Alignment Intern | [Handshake](https://app.joinhandshake.com/jobs/11263267) | Remote or St. Louis hybrid; part-time; $10–15/hr; Aug 3, 2026–May 28, 2027; deadline Aug 31, 2026 | garciapiterz@gmail.com | **MODIFY** — verify a New York-compliant rate/classification before applying |
+| EQseer Knowledge Graph/Data Ontology Intern | [Handshake](https://app.joinhandshake.com/jobs/11285660) | Remote; paid; part-time; Sep 1–Dec 31, 2026; deadline Sep 7, 2026 | garciapiterz@gmail.com | **MODIFY** — tailor only to verified schema/data-modeling/pipeline work; do not claim RDF/OWL/SPARQL |
+| Global Origin Game Analytics Intern | [Handshake](https://app.joinhandshake.com/jobs/11258399) | Remote; part-time; Aug 1–Nov 1, 2026; 20 assignments/90 days at 3–6 hours each; compensation not stated; description calls it a volunteer ambassador track despite a paid label | garciapiterz@gmail.com | **SKIP** — unreliable income model |
 
 ## Exclusion rule
 
