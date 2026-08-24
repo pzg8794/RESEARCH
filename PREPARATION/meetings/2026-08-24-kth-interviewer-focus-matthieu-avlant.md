@@ -108,7 +108,61 @@ A strong candidate does **not** need to be a finished expert in both areas. A st
 
 ---
 
-## 4. What NOT to spend time studying tonight
+## 4. DSCI 640 RNN refresher - use OUR course language
+
+Do **not** learn a new RNN explanation tonight. Refresh from the exact material already used in RIT Neural Networks.
+
+### Slides
+
+1. **Lecture 5 - Recurrent Neural Networks and the RNN Forward Pass**  
+   <https://drive.google.com/file/d/1E3V3M-cL8DdqpYRgkMLVzS5yDvbtjzJE/view?usp=drivesdk>  
+   Best first refresher. Covers what RNNs are, sequential/temporal data, traditional recurrent architectures, recurrent connections, forward pass and loss functions.
+
+2. **Lecture 6 - RNN Backward Pass, Weight Initialization and Dealing with Numerical Issues**  
+   <https://drive.google.com/file/d/1KEBQz-2Z9O373hVoE44ibeh8CwbiT7xd/view?usp=drivesdk>  
+   Use only if needed to reactivate backpropagation-through-time intuition, accumulated recurrent deltas, initialization, gradient clipping/scaling/boosting.
+
+3. **Lecture 7 - RNN Memory Cells**  
+   <https://drive.google.com/file/d/1ELmiTOTOreE9lQgGg-4Qs3-1PsLjAXRY/view?usp=drivesdk>  
+   Most relevant to Avlant's RNN-based architecture. Covers LSTM, GRU, MGU, UGRNN and Delta-RNN. The LSTM material uses the language already familiar from class: **input gate, forget gate, output gate, cell memory, current input, previous cell value, and gated information flow through time**.
+
+### Programming Assignment 2 - what Piter actually implemented
+
+- **PA2 Part 1 - RNN structure + forward pass**  
+  <https://drive.google.com/file/d/1K-rD3x05MrIPYisk-9CPL6nnfC0cxQ-2/view?usp=drivesdk>  
+  Implemented/filled in `connectNodes`, **Jordan recurrent connections**, **Elman recurrent connections**, `RecurrentNeuralNetwork.forwardPass`, tanh/sigmoid behavior, and loss functions. The assignment used `RecurrentNeuralNetwork.java`, `RecurrentNode.java`, `RecurrentEdge.java`, one-hot encoded sequence data, and Penn Treebank examples.
+
+- **PA2 Part 2 - RNN backward pass**  
+  <https://drive.google.com/file/d/1K2b__Ui7lzatv142KabnLKKPPRnbUc_y/view?usp=drivesdk>  
+  Implemented recurrent backward propagation in `Edge`, `RecurrentEdge`, `RecurrentNode`, and `RecurrentNeuralNetwork`, plus Xavier/Kaiming initialization and numerical-gradient checking.
+
+- **PA2 Part 3 - time-series RNN training**  
+  <https://drive.google.com/file/d/1K8sVVDxkopa7hs3_sSBrHG2Px2pFlMum/view?usp=drivesdk>  
+  Extended the recurrent forward/backward path for **time-series prediction**, regression losses, normalization, and batch/minibatch/stochastic gradient descent.
+
+- **PA2 Part 4 - LSTM implementation**  
+  <https://drive.google.com/file/d/1K8zJDmrcyVUy3Yi6EPbn1XpIC8VxIWnP/view?usp=drivesdk>  
+  **Most important evidence if asked whether Piter has actually coded recurrent memory cells.** The assignment required completing `LSTMNode.java`, including both `propagateForward` and `propagateBackward`, initialization of all weights/biases, and the forget-gate bias. Optional extensions included GRU, MGU, UGRNN or Delta-RNN.
+
+- **Programming Assignment 2 overview / notes**  
+  <https://docs.google.com/document/d/121cQHygwY1SxNHgUTwx3FZRoXfhifZAS07AJU55UtSo/edit>  
+  Quick text reference to the codebase and required methods.
+
+### What to remember for the interview
+
+The course framing is enough:
+
+- RNNs operate on **sequential/temporal data**.
+- Recurrent connections let information from earlier time steps affect later computation.
+- Elman/Jordan structures are concrete recurrence patterns already implemented in class.
+- Training requires forward propagation through time and backward propagation through those recurrent dependencies.
+- LSTM adds **gates** that regulate how information enters memory, is retained/forgotten, and leaves the cell.
+
+Do not claim to have developed a cancer-specific RNN. The defensible statement is stronger and simpler: **Piter has formal graduate RNN training and hands-on implementation experience down to recurrent edges, forward/backward propagation and LSTM memory-cell code.**
+
+---
+
+## 5. What NOT to spend time studying tonight
 
 Do not spend meaningful preparation time memorizing Alexandre Proutiere or Anna Herland biographies for this 20-minute interview. Know only that the broader project environment includes expertise in learning/optimization and experimental/in-vitro systems.
 
@@ -116,6 +170,6 @@ If Matthieu or Avlant mention either person, listen carefully and use that as ne
 
 ---
 
-## 5. One-line strategy for tomorrow
+## 6. One-line strategy for tomorrow
 
 > **Show Matthieu that you can become a rigorous scientific-ML/control researcher, and show Avlant that you can become a rigorous computational cancer-systems researcher - while giving both evidence that you already know how to build, test, question and explain computational models.**
