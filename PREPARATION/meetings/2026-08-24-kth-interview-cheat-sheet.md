@@ -1,7 +1,9 @@
 # KTH PhD Interview — One-Page Cheat Sheet
 
-**Interview:** Aug. 24, 2026 · 07:00 New York / 13:00 Stockholm · Zoom · 20 minutes  
-**Interviewers:** Matthieu Barreau + Avlant Nilsson  
+**Interview completed:** Aug. 24, 2026 · approximately 07:30–08:03 New York / 13:30–14:03 Stockholm · Zoom · first round
+
+**Panel:** Matthieu Barreau + Avlant Nilsson + Alexandre Proutiere
+
 **Role:** Doctoral student in deep learning for biological systems
 
 Keep this page open. Use the index to jump; use the linked [full evidence guide](2026-08-24-kth-live-interview-guide.md) only if they probe.
@@ -10,6 +12,7 @@ Keep this page open. Use the index to jump; use the linked [full evidence guide]
 
 | I need… | Jump |
 | --- | --- |
+| What happened and what to improve | [First-round debrief](2026-08-24-kth-first-round-interview-debrief.md) |
 | My core message | [10-second reset](#reset) |
 | My opening answer | [Tell us about yourself](#intro) |
 | A fast answer | [Why / why me / why KTH / gap / start](#answers) |

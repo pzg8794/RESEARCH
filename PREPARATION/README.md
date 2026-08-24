@@ -32,7 +32,7 @@ copying private content.
 
 ## Immediate Preparation
 
-**KTH interview quick access:** [one-page cheat sheet and index](./meetings/2026-08-24-kth-interview-cheat-sheet.md#index) · [full interview guide](./meetings/2026-08-24-kth-live-interview-guide.md)
+**KTH interview quick access:** [first-round evidence debrief and improvement plan](./meetings/2026-08-24-kth-first-round-interview-debrief.md) · [one-page cheat sheet and index](./meetings/2026-08-24-kth-interview-cheat-sheet.md#index) · [full interview guide](./meetings/2026-08-24-kth-live-interview-guide.md)
 
 | Date | Item | Status | Preparation kit | Calendar preparation |
 | --- | --- | --- | --- | --- |
