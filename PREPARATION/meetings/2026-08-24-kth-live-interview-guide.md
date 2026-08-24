@@ -1,764 +1,703 @@
-# KTH LIVE INTERVIEW GUIDE — APPLICATION + OUR DISCUSSIONS
+# KTH LIVE INTERVIEW GUIDE — WHAT I MEANT, WHY IT FITS, AND HOW I DEFEND IT
 
-**Keep this page open during the interview.**  
-Use it to answer questions such as:
+**Interview:** Aug. 24, 2026 · 07:00 New York / 13:00 Stockholm  
+**Interviewers:** Matthieu Barreau + Avlant Nilsson  
+**Position:** Doctoral student in deep learning for biological systems
 
-- **Why did you say this in the application?**
-- **What did you mean by this?**
-- **What did you actually do?**
-- **How does that connect to this PhD?**
+> Keep this open during the interview. This is not a paper and not a script. It is a reminder of **what I meant when I wrote the application, why I was genuinely excited about it, what work backs it up, and what I can point to if they ask.**
 
-The guide follows the **actual application language first**, then gives a **simple natural explanation** based only on the work and connections we already discussed.
-
-**Application files:** [KTH application folder](../../APPLICATIONS/PhD/review-by-application/05-kth-deep-learning-biological-systems/) · [Submitted CV](../../APPLICATIONS/PhD/review-by-application/05-kth-deep-learning-biological-systems/2026-07-31-kth-deep-learning-biological-systems-cv.pdf)
+**Application:** [folder](../../APPLICATIONS/PhD/review-by-application/05-kth-deep-learning-biological-systems/) · [submitted CV](../../APPLICATIONS/PhD/review-by-application/05-kth-deep-learning-biological-systems/2026-07-31-kth-deep-learning-biological-systems-cv.pdf)
 
 ---
 
-# 1. THE MAIN FIT — QUESTION, WORK, ENVIRONMENT
+# 1. THE PART THAT MADE THIS FEEL LIKE *MY* PHD
 
-## THE QUESTION THAT ATTRACTS ME
+## The scientific question that clicked for me
 
-**How can we model a complex biological system well enough to understand how it changes and predict what happens when it is perturbed?**
+The question underneath this project is basically:
 
-This is the clearest way to connect what I wrote in the application to what I understand more deeply now.
+> **Can we learn the state and dynamics of a complex biological system well enough to understand what is happening, predict what will happen when it is perturbed, and use that knowledge to identify a better intervention?**
 
-### If they ask why this is interesting to me
+That is why I got excited.
 
-Say:
+It is not just **“use deep learning on cancer data.”** It is the same kind of question I keep circling in my own work:
 
-> I am interested in problems where the model has to do more than predict a label. I want to understand how the system changes, what information matters over time, and how the response changes when the environment is perturbed.
+- What is the **state of the system now**?
+- What **history/context** produced that state?
+- What information is **missing, noisy, or uncertain**?
+- What happens when the environment is **changed or perturbed**?
+- Can the model predict what happens **next**, not just describe what already happened?
+- Can that prediction help us choose a **better action/intervention**?
 
-That connects directly to things I already work with:
+That is the thread connecting a lot of what I already do — even though the domains are different.
 
-- **RNA structure:** biological structure matters; a good metric alone is not enough.
-- **RNA-seq:** noisy molecular data and QC affect the biological conclusion.
-- **RNN/LSTM work:** previous state affects the next state.
-- **Bandit work:** context, uncertainty, changing conditions, prediction, and action.
+### If they ask, “Why are you so interested in this question?”
 
----
+> I think this is where several directions I have been moving toward finally meet. I have been pulling my computational work toward health for years — medical diagnosis, hospital readmission, healthcare data, RNA structure, RNA-seq — and at the same time my machine-learning work has increasingly focused on context, sequence, uncertainty, changing conditions, and what happens next. What excited me here is that the biological problem itself needs all of those things. It is not only prediction; it is understanding an evolving system well enough to reason about what happens when you perturb it.
 
-## THE WORK I ALREADY BRING
-
-The connection is **not** that my previous work is already cancer-cell modeling.
-
-The connection is that I already work with pieces of the same kind of reasoning:
-
-- **biological data**
-- **model validation**
-- **temporal / sequential information**
-- **uncertainty**
-- **context**
-- **changing conditions / perturbations**
-- **reproducible experiments**
-
-### Simple way to say it
-
-> My previous projects are in different domains, but the questions are familiar: what describes the state of the system, what information from the past matters, what happens when conditions change, and how do we know whether the model is actually reliable?
+That is much closer to **why I actually want this PhD** than “I like deep learning.”
 
 ---
 
-## THE ENVIRONMENT I WAS LOOKING FOR
+## Why the work feels connected to me
 
-This is what the cover letter meant by wanting an interdisciplinary environment.
+### BIO614 taught me: a model can look good and still be biologically wrong
 
-- **Matthieu:** dynamics, model fidelity, uncertainty, system identification, control.
-- **Avlant:** signaling, gene regulation, metabolism, recurrent biological models, perturbations.
-- **KTH / SciLifeLab / KI:** computation connected to biological and experimental work.
+I had simple synthetic RNA structures where the approach looked very strong.
 
-### Simple way to say it
+Then realistic tRNA / 5S structures exposed the problem:
 
-> What makes the environment especially attractive is that the computational model is not isolated from the biology. The machine-learning, dynamical-systems, and experimental sides are all part of the same research problem.
+- high-looking specificity was not enough;
+- the model was missing important topology / multiloop structure;
+- the objective was simpler than the biology.
 
----
+That changed how I think about biological modeling.
 
-# 2. APPLICATION QUESTION 1 — WHY THIS POSITION?
+> **A good score is not enough if the model is not representing what actually matters biologically.**
 
-## What is saved in the application record
+That is exactly why “biologically meaningful inference” and “mechanistic understanding” in the KTH project matter to me.
 
-> **I am interested in this project because it combines deep learning, biological systems, and precision-medicine questions in a way that requires both strong modeling and careful scientific interpretation. The focus on cell-cell interactions and biologically meaningful system dynamics is especially compelling to me.**
-
-## If they ask: **“Why did you say that?”**
-
-Say:
-
-> Because I wanted a PhD where deep learning is being used to understand a biological system, not only to make a prediction. The focus on cell interactions and system dynamics means the model has to represent how the biology changes and how those interactions affect the outcome.
-
-## If they ask: **“What do you mean by biologically meaningful system dynamics?”**
-
-Say:
-
-> I mean that the state at one point should be connected to what came before it and to the underlying biology — signaling, gene regulation, metabolism, and cell interactions — rather than treating each measurement as unrelated.
-
-## If they ask: **“What work makes you ready for that?”**
-
-Pick the most relevant 2–3:
-
-- **BIO614** — structure + thermodynamics + failure on realistic RNA.
-- **BIOL550** — RNA-seq + QC + biological interpretation.
-- **DSCI640** — RNN/LSTM + temporal state/memory.
-- **GA / DSCI601** — context + uncertainty + prediction + changing conditions.
-
-**Proof:** [BIO614](https://drive.google.com/file/d/1x_xLkbu-JGHrqH8gf7DaFwNMtGs-qquZ/view?usp=drivesdk) · [BIOL550](https://github.com/pzg8794/BIOL550-Project_Paper) · [DSCI640 LSTM](https://drive.google.com/file/d/1K8zJDmrcyVUy3Yi6EPbn1XpIC8VxIWnP/view?usp=drivesdk) · [DSCI601](https://github.com/pzg8794/DSCI601-Project_Proposal)
+**Proof:** [BIO614 KTH writing sample](https://drive.google.com/file/d/1x_xLkbu-JGHrqH8gf7DaFwNMtGs-qquZ/view?usp=drivesdk) · [Overleaf](https://www.overleaf.com/project/68a761a470c296440522a537)
 
 ---
 
-# 3. APPLICATION QUESTION 2 — WHAT CAN I CONTRIBUTE?
+### BIOL550 moved me into real high-dimensional molecular data
 
-## What is saved in the application record
+RNA-seq made the upstream side of biological modeling very concrete:
 
-> **I can contribute reproducible machine-learning workflows, strong data-analysis practice, and experience working with noisy, high-dimensional biological data. I would bring disciplined evaluation, transparent reporting, and a computational perspective shaped by both ML research and computational biology work.**
+- preprocessing;
+- QC;
+- alignment evidence;
+- differential expression;
+- PCA / distance / dispersion;
+- biological interpretation.
 
-## If they ask: **“What do you mean by reproducible ML workflows?”**
+The lesson I carry into this project:
 
-Say:
+> **If the data and biological assumptions are weak, a sophisticated downstream model does not rescue the science.**
 
-> I mean being able to trace the experiment from preprocessing through the final result — the data preparation, model settings, baselines, metrics, logs, and analysis — so that the result can be repeated and challenged.
-
-Examples:
-
-- **GA:** repeated testbeds, common evaluation, logging, algorithm comparisons.
-- **ISTE780:** common framework, Optuna, cross-validation, statistics.
-- **BIOL550:** preprocessing/QC through differential expression.
-- **BIO614:** same evaluation across synthetic and biological structures.
-
-## If they ask: **“What noisy, high-dimensional biological data?”**
-
-Say:
-
-> The strongest example is the RNA-seq work in BIOL550. I also worked with RNA sequence and structure data in BIO614 and ISTE780, and I have industry experience with healthcare and microbiome-oriented data pipelines.
-
-## If they ask: **“What does fairness-aware analytics contribute here?”**
-
-Say:
-
-> The transferable part is the evaluation habit. I am used to checking whether an overall score hides systematic failure under different kinds of inputs or conditions.
-
-For **ISTE780**, the groups were:
-
-- RNA type
-- GC-content bin
-- sequence-length bin
-
-**Not human demographic groups.**
-
-**Proof:** [ISTE780](https://drive.google.com/file/d/1VvE4oNsAx6lFlppTv0VjI_GTGDsbkN-v/view?usp=drivesdk) · [BIOL550](https://github.com/pzg8794/BIOL550-Project_Paper) · [QuantumFaultTolerant](https://github.com/pzg8794/QuantumFaultTolerant)
+**Proof:** [BIOL550 repo](https://github.com/pzg8794/BIOL550-Project_Paper) · [main paper](https://github.com/pzg8794/BIOL550-Project_Paper/blob/main/main.tex) · [pipeline diagram](https://github.com/pzg8794/BIOL550-Project_Paper/blob/main/assets_methods/biol550_pipeline_architecture_diagram.svg)
 
 ---
 
-# 4. THE OTHER 500-CHARACTER VERSION I SHARED HERE
+### RNN/LSTM work made the “state over time” idea familiar
 
-I also shared this wording in our discussion:
+The part that clicked while reviewing DSCI 640:
 
-> **This project is compelling because deep learning for biological systems sits at the intersection of data-rich science and practical impact. I am especially interested in research that turns complex biological signals into reliable models, while staying attentive to evaluation quality, reproducibility, and the needs of downstream biomedical interpretation.**
+**a system does not reset at every measurement.**
 
-If they use wording like **“complex biological signals,” “reliable models,” or “biomedical interpretation,”** the answer is the same:
+RNN idea:
 
-> What I mean is that biological data are noisy and high-dimensional, so a useful model has to be evaluated carefully and still produce something that can be interpreted in the biological context.
+```text
+current input + previous state -> new state -> prediction
+```
 
-And I shared this contribution wording:
+That is why RNNs feel natural for this project:
 
-> **I can contribute disciplined machine learning experimentation, strong coding and data analysis habits, and experience working with high-dimensional datasets and reproducible research workflows. My background in fairness-aware analytics, bioinformatics, and quantum/AI experimentation helps me approach biological modeling with care, quantitative rigor, and clear communication.**
+- signaling changes over time;
+- gene regulation changes over time;
+- metabolism changes over time;
+- each current molecular state partly reflects what happened before;
+- perturbations can push the trajectory somewhere different.
 
-If they ask **“What does quantum/AI experimentation add?”**:
+LSTM adds the idea of **learning what information to keep, forget, and expose**.
 
-> It gives me experience designing controlled comparisons under uncertainty and changing conditions. The quantum domain itself is different, but the experimental discipline and sequential reasoning transfer.
-
----
-
-# 5. COVER LETTER — WHY THIS PROJECT
-
-## What I wrote
-
-> **I am drawn to this project because it combines machine learning, mathematical modeling, and biologically meaningful inference in a way that could directly support precision medicine.**
-
-## If they ask: **“What did you mean by that?”**
-
-Say:
-
-> I meant that I want to work on models that do more than learn an input-output relationship. I want the model to represent something meaningful about the biological system so the prediction can support scientific understanding and, eventually, better intervention.
-
-### What I understand more clearly now
-
-The wording maps naturally to the work we later studied:
-
-- **Matthieu:** learned models of dynamical systems + model fidelity + control.
-- **Avlant:** biologically informed neural models + molecular interactions + perturbations.
-
-### If they ask: **“Did you know all of that when you applied?”**
-
-Say:
-
-> I knew the scientific themes from the project description when I applied. Reading the group’s work more deeply afterward showed me how closely those themes matched the questions I was already interested in.
+**Proof:** [RNN lecture](https://drive.google.com/file/d/1E3V3M-cL8DdqpYRgkMLVzS5yDvbtjzJE/view?usp=drivesdk) · [memory cells](https://drive.google.com/file/d/1ELmiTOTOreE9lQgGg-4Qs3-1PsLjAXRY/view?usp=drivesdk) · [LSTM implementation assignment](https://drive.google.com/file/d/1K8zJDmrcyVUy3Yi6EPbn1XpIC8VxIWnP/view?usp=drivesdk)
 
 ---
 
-# 6. COVER LETTER — UNCERTAINTY, DATA QUALITY, SCIENTIFIC INTERPRETATION
+### Bandit / GA work made perturbation + changing conditions feel familiar
 
-## What I wrote
+My quantum work is obviously not cancer biology.
 
-> **My goal is to contribute to research that builds strong computational models for complex biological systems while remaining careful about uncertainty, data quality, and the scientific interpretation of results.**
+The connection is the question underneath it:
 
-## If they ask: **“Why uncertainty?”**
+- current observation is not always enough;
+- context can be incomplete / noisy;
+- conditions change;
+- an attack or other perturbation can invalidate what worked before;
+- the system has to decide using uncertainty and partial feedback.
 
-Say:
+That is why Avlant’s perturbation work immediately felt familiar conceptually.
 
-> Because an estimate should not automatically be treated as equally reliable in every condition. In my bandit work, uncertainty affects whether the system trusts the current estimate, explores, or changes its decision.
+**Their setting:** observed molecular trajectory does not automatically tell you the response to a new drug perturbation.  
+**My setting:** observed network behavior does not automatically tell you how the policy behaves after attack / changing conditions.
 
-## If they ask: **“Why data quality?”**
+Different science. Same instinct:
 
-Say:
-
-> BIOL550 made that very concrete. If preprocessing, QC, alignment, or other upstream steps are poor, the downstream differential-expression result can be misleading even if the analysis code runs correctly.
-
-## If they ask: **“Why scientific interpretation?”**
-
-Use BIO614:
-
-> BIO614 is the clearest example. On simple synthetic motifs the method looked very strong, but on realistic tRNA and 5S structures it failed biologically. That showed me that a strong-looking metric is not enough if the model does not represent the structure that matters.
-
-**Proof:** [BIO614](https://drive.google.com/file/d/1x_xLkbu-JGHrqH8gf7DaFwNMtGs-qquZ/view?usp=drivesdk) · [BIOL550](https://github.com/pzg8794/BIOL550-Project_Paper) · [QuantumFaultTolerant](https://github.com/pzg8794/QuantumFaultTolerant)
-
----
-
-# 7. COVER LETTER — MY BACKGROUND
-
-## What I wrote
-
-> **My background combines graduate training in computer science and data science, applied machine learning experience, and current work in computational biology and high-dimensional data analysis.**
-
-## If they ask: **“What computational biology?”**
-
-Say:
-
-> RNA secondary-structure prediction in BIO614, RNA-seq differential-expression analysis in BIOL550, and fairness-aware evaluation of RNA prediction methods in ISTE780.
-
-Then stop unless they ask for one project in detail.
-
----
-
-## What I wrote
-
-> **In research and industry settings, I have built reproducible machine learning workflows across local, Colab, and GCP environments, with emphasis on evaluation discipline, data quality, and transparent technical reporting.**
-
-## If they ask: **“Give me an example.”**
-
-Say:
-
-> My current GA work is the strongest research example. We compare multiple learning algorithms across different network conditions and threats using common evaluation, logging, and analysis so that we can tell whether a result is robust or just specific to one test.
-
-If they ask about environment:
-
-- local — development/testing
-- Colab — coursework / experiments
-- GCP — research compute
-- AWS — prior industry work
-
----
-
-## What I wrote
-
-> **In computational biology coursework and project work, I have focused on sequencing data analysis, structured quality control, and interpretation of noisy biological signal.**
-
-## If they ask: **“What did you actually do?”**
-
-Say:
-
-> In BIOL550 I worked through the RNA-seq pipeline from preprocessing and QC into differential-expression analysis and biological interpretation. In BIO614 I worked at the sequence and structure level, comparing predicted RNA structures with biological and synthetic references.
-
----
-
-## What I wrote
-
-> **That experience has made me especially motivated by questions where meaningful biological insight depends on careful modeling rather than predictive accuracy alone.**
-
-## If they ask: **“What does that mean?”**
-
-Say:
-
-> BIO614 is the simplest example. The model could look successful on an easy structure and still fail on realistic RNA topology. That taught me that the biological question and the model assumptions matter as much as the final score.
-
----
-
-# 8. COVER LETTER — WHAT INTERESTS ME MOST
-
-## What I wrote
-
-> **What interests me most in this position is the opportunity to work on deep learning methods for biological systems that connect computation with mechanistic and clinically relevant understanding.**
-
-## If they ask: **“What do you mean by mechanistic understanding?”**
-
-Say:
-
-> I mean that the model should use or recover information about how the biological components interact, not only learn correlations that happen to predict an output.
-
-## If they ask: **“Why is that important to you?”**
-
-Say:
-
-> Because if the goal is eventually to reason about intervention, I want to know why the model expects a response to change, not only that it predicts a different value.
-
----
-
-## What I wrote
-
-> **I am particularly interested in problems where machine learning must represent complex interactions, heterogeneous data, and uncertain structure without losing scientific usefulness.**
-
-## If they ask: **“What kind of complex interactions?”**
-
-Say:
-
-> In this project, signaling, gene regulation, metabolism, and cell-cell interactions are the clearest examples. They influence one another, so the model needs to represent the state of the system rather than treat them as isolated measurements.
-
-This is where the **RNN connection** fits naturally.
-
----
-
-## What I wrote
-
-> **The focus on modeling cell-cell interactions, biological dynamics, and healthier system states is compelling because it requires both methodological rigor and strong interdisciplinary reasoning.**
-
-## If they ask: **“Why healthier system states?”**
-
-Say:
-
-> Because the interesting endpoint is not only describing the current cancer-promoting state. It is understanding the dynamics well enough to identify a perturbation that could move the system toward a healthier response.
-
-Do not overclaim that I have already done this experimentally.
-
----
-
-## What I wrote
-
-> **My strongest current preparation is in machine learning, reproducible pipeline development, and biological-data analysis, and I would be excited to extend that preparation toward deeper work on biological modeling and precision medicine applications.**
-
-## If they ask: **“What are your gaps?”**
-
-Say:
-
-> My strongest preparation is computational. I am not already a cancer systems biologist or a formal control theorist. Those are exactly the areas I want to deepen in this PhD while contributing immediately on the machine-learning, data, and evaluation side.
-
----
-
-# 9. COVER LETTER — WHY KTH / THE ENVIRONMENT
-
-## What I wrote
-
-> **KTH is especially attractive because this project sits in a strong interdisciplinary environment connecting machine learning, systems modeling, and translational biological research.**
-
-## If they ask: **“Why does that matter to you?”**
-
-Say:
-
-> Because I want the computational model to stay connected to the biological question and to experimental evidence. This project brings those pieces together rather than making the machine-learning work an isolated exercise.
-
-### What we later learned that makes this sentence concrete
-
-- **Matthieu / DCS:** modeling + dynamics + control.
-- **Avlant / SciLifeLab / KI:** cancer biology + mechanistically informed deep learning.
-- broader project: **in silico + in vitro** validation.
-
----
-
-## What I wrote
-
-> **I am looking for a PhD setting where strong computational work is directly connected to important biomedical questions, and where collaboration across technical and life-science domains is treated as central research practice.**
-
-## If they ask: **“Why collaboration?”**
-
-Say:
-
-> Because I do not expect one person or one model to answer the whole biological question. I want to work where the computational assumptions can be challenged by people who understand the biology and where the biological questions can shape what we build computationally.
-
----
-
-# 10. CV PROFILE — IF THEY QUOTE IT BACK TO ME
-
-## CV says
-
-> **Graduate researcher focused on deep learning and computational biology, with hands-on experience in neural network-based approaches to biological sequence and structure data.**
-
-## If they ask: **“What hands-on neural-network work?”**
-
-Say:
-
-> My direct RNN/LSTM implementation comes from DSCI640 Neural Networks, where I worked with recurrent connections, forward and backward propagation, time-series prediction, and LSTM memory cells. In the biological projects, ISTE780 also compared neural-style RNA prediction baselines.
-
-**Important:** BIO614 itself is **Nussinov + thermodynamics**, not an LSTM paper.
-
-**Proof:** [RNN slides](https://drive.google.com/file/d/1E3V3M-cL8DdqpYRgkMLVzS5yDvbtjzJE/view?usp=drivesdk) · [LSTM assignment](https://drive.google.com/file/d/1K8zJDmrcyVUy3Yi6EPbn1XpIC8VxIWnP/view?usp=drivesdk) · [ISTE780](https://drive.google.com/file/d/1VvE4oNsAx6lFlppTv0VjI_GTGDsbkN-v/view?usp=drivesdk)
-
----
-
-## CV says
-
-> **RNA secondary structure prediction with thermodynamic deep learning enhancements (BIO614)**
-
-## If they ask exactly what that means
-
-Say:
-
-> BIO614 combined Nussinov dynamic programming with thermodynamic information from Turner parameters and ViennaRNA/RNAfold. I would phrase the CV wording more carefully today: that manuscript itself is not a deep-learning paper. My deep-learning work is supported separately by Neural Networks coursework and related projects.
-
-Do not try to defend an imprecise phrase by inventing an implementation.
-
----
-
-## CV says
-
-> **RNA-seq differential-expression analysis (BIO550)**
-
-Say:
-
-> I worked on a murine DRG RNA-seq reanalysis after sciatic nerve injury, including preprocessing, QC, differential expression with DESeq2, and interpretation of the gene-expression results.
-
-**Proof:** [BIOL550 repo](https://github.com/pzg8794/BIOL550-Project_Paper)
-
----
-
-## CV says
-
-> **fairness-aware ML applied to bioinformatics diagnostics (ISTE-780)**
-
-Say:
-
-> I built a common evaluation framework for RNA prediction methods and checked whether performance differed systematically by RNA type, GC content, and sequence length. I treat that as methodological fairness at the sequence level, not demographic clinical fairness.
-
-**Proof:** [ISTE780](https://drive.google.com/file/d/1VvE4oNsAx6lFlppTv0VjI_GTGDsbkN-v/view?usp=drivesdk)
-
----
-
-## CV says
-
-> **Current Graduate Assistant work deepens expertise in neural architectures, uncertainty quantification, and structured experimental methodology.**
-
-Say:
-
-> My GA work compares contextual, adversarial, and neural bandit methods under changing network conditions. The important transferable skills are uncertainty-aware decisions, predictive context, controlled evaluation, and understanding what happens when the environment changes.
+> **Do not assume the observed past tells you the changed future. Model the evolving state and test what happens when conditions change.**
 
 **Proof:** [QuantumFaultTolerant](https://github.com/pzg8794/QuantumFaultTolerant) · [DSCI601](https://github.com/pzg8794/DSCI601-Project_Proposal)
 
 ---
 
-# 11. RESEARCH & PROFESSIONAL EXPERIENCE — WHAT I ACTUALLY DID
+## Why the environment feels unusually right
 
-## RIT — Graduate Assistant, Quantum and AI Research
+This is the other part we got excited about: **the environment itself mirrors the scientific question.**
 
-### What I did
+### Matthieu
 
-- built/evaluated contextual, adversarial, neural bandit methods
-- quantum routing + qubit/resource allocation
-- stochastic + adversarial conditions
-- structured experiment design
-- logging + common baselines
-- uncertainty + partial feedback + predictive context
+He brings the side I want to deepen:
 
-### If they ask why this matters for KTH
+- dynamical systems;
+- state / system identification;
+- model fidelity;
+- uncertainty / robustness;
+- control;
+- digital-twin thinking.
 
-> The application domain is different, but I already think about evolving state, incomplete context, uncertainty, prediction, and how a decision should change when the environment changes.
+So with him the question becomes:
 
-**Proof:** [QuantumFaultTolerant](https://github.com/pzg8794/QuantumFaultTolerant) · [DSCI601](https://github.com/pzg8794/DSCI601-Project_Proposal) · [iCMAB integration notes](https://docs.google.com/document/d/19D_XEKoh6HEgOiXioooDyPGoSI1lWsUcKOOCUoHEZkQ/edit?usp=drivesdk)
+> **Do we understand the dynamics well enough to trust the model and eventually use it to guide intervention?**
 
----
+### Avlant
 
-## University of Rochester — NSF Noyce / CS Teacher Candidate
+He brings the biological / mechanistic side:
 
-### What I did
+- signaling;
+- gene regulation;
+- metabolism;
+- molecular interaction networks;
+- RNN-based biological modeling;
+- time-series / perturbation;
+- drug response;
+- cancer.
 
-- K–12 CS instruction
-- computational thinking
-- UDL / inclusive pedagogy
-- adapting instruction to different learners
-- explaining technical ideas clearly
+So with him the question becomes:
 
-### If they ask why this belongs in a research CV
+> **Does the model actually represent enough of the biology to predict how molecular state changes under perturbation?**
 
-> It strengthens my ability to communicate technical ideas, collaborate across different backgrounds, and explain complex systems clearly.
+### KTH + SciLifeLab + KI
 
-**Proof:** [EDE448](https://github.com/pzg8794/EDE448)
+This is what I meant in the cover letter by wanting an interdisciplinary environment.
 
----
+I do **not** want to do machine learning where biology is simply handed to me as a feature matrix and the job ends at AUC.
 
-## BIO614 — RNA Structure Prediction
+I want:
 
-### What I did
+> **computation + biological mechanism + experimental reality**
 
-- Nussinov dynamic programming
-- thermodynamic MFE information
-- Turner parameters
-- ViennaRNA / RNAfold
-- sensitivity / specificity / MCC
-- synthetic + biological RNA structures
+That is what makes this environment different for me.
 
-### Most important result
+### If they ask, “Why this environment specifically?”
 
-**Synthetic motifs worked very well. Realistic tRNA / 5S structures exposed major limitations.**
-
-### If they ask what I learned
-
-> A high metric does not automatically mean the biological structure is right. The model objective and the biological constraints have to match the real structure.
-
-**Proof:** [KTH BIO614 sample](https://drive.google.com/file/d/1x_xLkbu-JGHrqH8gf7DaFwNMtGs-qquZ/view?usp=drivesdk) · [Overleaf](https://www.overleaf.com/project/68a761a470c296440522a537)
+> Because the environment matches the question. Matthieu’s side brings dynamics, model fidelity and control. Avlant’s side brings mechanistic cancer biology and perturbation. And the SciLifeLab/KI connection means the computational model stays connected to biological and experimental work. That is exactly the kind of environment I was trying to describe in the cover letter — one where I do not have to separate the computational question from the biological one.
 
 ---
 
-## BIOL550 — RNA-seq Differential Expression
+# 2. APPLICATION QUESTION 1 — WHY THIS POSITION?
 
-### What I did
+## What I wrote in the application
 
-- preprocessing
-- QC
-- alignment support
-- DESeq2
-- PCA / distance / dispersion interpretation
-- biological/pathway interpretation
+> **I am interested in this project because it combines deep learning, biological systems, and precision-medicine questions in a way that requires both strong modeling and careful scientific interpretation. The focus on cell-cell interactions and biologically meaningful system dynamics is especially compelling to me.**
 
-### If they ask what I learned
+## What I was really saying
 
-> Upstream data quality and experimental assumptions can completely change the biological conclusion downstream.
+This answer was already pointing at the exact things we later dug into more deeply:
 
-**Proof:** [BIOL550 repo](https://github.com/pzg8794/BIOL550-Project_Paper) · [Pipeline diagram](https://github.com/pzg8794/BIOL550-Project_Paper/blob/main/assets_methods/biol550_pipeline_architecture_diagram.svg)
+**deep learning**  
+→ not just because it is modern ML, but because the project needs a model that can represent complex nonlinear state.
+
+**biological systems**  
+→ not a single isolated measurement; signaling, regulation, metabolism, cell interactions all influence one another.
+
+**precision medicine**  
+→ the point is eventually to understand which perturbation/intervention makes sense for a particular biological state, not only classify disease.
+
+**strong modeling + careful scientific interpretation**  
+→ exactly the lesson from BIO614: the model can score well and still miss the biology.
+
+**cell-cell interactions + system dynamics**  
+→ this is what made the project feel like more than another biomedical ML application. It is about how the system evolves.
+
+### If they point to this answer and ask, “Why did you write this?”
+
+> Because this is where my work has been heading. I started with health-prediction questions years ago, then moved closer to the biology through RNA structure and RNA-seq, while my ML work kept moving toward context, sequence, uncertainty and changing conditions. When I saw that this project was about cell interactions and biological dynamics — not just classifying a sample — it clicked. It brings together the computational questions I already think about with the health and biological direction I have been deliberately moving toward.
+
+### If they ask, “What do you mean by biologically meaningful system dynamics?”
+
+> I mean that the current state of the cell should not be treated as if it appeared from nowhere. It comes from what happened before and from the interaction of signaling, gene regulation, metabolism and other cells. The part that excites me is learning that evolving state well enough to predict how it changes when the system is perturbed.
+
+### If they ask, “Why precision medicine?”
+
+> Because for me the useful endpoint is not only saying what state the system is in. It is understanding enough about that state and its dynamics to make a better prediction about which intervention could change the outcome.
+
+### Work I can point to immediately
+
+- **BIO614** → biological structure + model mismatch + interpretation
+- **BIOL550** → noisy/high-dimensional molecular data + QC
+- **DSCI640** → RNN/LSTM state over time
+- **GA / DSCI601** → context + uncertainty + prediction under changing conditions
+
+**Links:** [BIO614](https://drive.google.com/file/d/1x_xLkbu-JGHrqH8gf7DaFwNMtGs-qquZ/view?usp=drivesdk) · [BIOL550](https://github.com/pzg8794/BIOL550-Project_Paper) · [LSTM assignment](https://drive.google.com/file/d/1K8zJDmrcyVUy3Yi6EPbn1XpIC8VxIWnP/view?usp=drivesdk) · [DSCI601](https://github.com/pzg8794/DSCI601-Project_Proposal)
+
+---
+
+# 3. APPLICATION QUESTION 2 — WHAT CAN I CONTRIBUTE?
+
+## What I wrote in the application
+
+> **I can contribute reproducible machine-learning workflows, strong data-analysis practice, and experience working with noisy, high-dimensional biological data. I would bring disciplined evaluation, transparent reporting, and a computational perspective shaped by both ML research and computational biology work.**
+
+## What I meant by that
+
+I was not claiming to arrive as a finished cancer systems biologist.
+
+I was saying I already bring a strong computational/research-engineering base that is useful immediately:
+
+- I know how to turn an experiment into a reproducible pipeline;
+- I am comfortable with messy/high-dimensional data;
+- I compare models rather than falling in love with one;
+- I pay attention to failure cases;
+- I am used to uncertainty and partial information;
+- I document what I did so someone else can challenge it.
+
+### If they ask, “What can you contribute from day one?”
+
+> On day one, my strongest contribution would be on the computational side: coding, reproducible experimentation, model evaluation, high-dimensional data analysis and careful comparison of methods. I also already have enough computational-biology experience to understand why QC, biological structure and interpretation matter. The cancer-systems-biology and formal-control depth are the parts I would be building with the group.
+
+### If they ask, “What do you mean by reproducible workflows?”
+
+> I mean I should be able to trace the result from the raw/prepared data through preprocessing, model settings, baselines, metrics, logs and final analysis. If a result only exists because one notebook happened to run once, I do not consider that strong research evidence.
+
+**Examples:**
+
+- GA → common testbeds, logging, algorithm comparison
+- ISTE780 → common evaluation framework, Optuna, CV, statistics
+- BIOL550 → preprocessing/QC through DE analysis
+- BIO614 → controlled comparison across synthetic + biological examples
+
+### If they ask, “What high-dimensional biological data?”
+
+> BIOL550 is the strongest academic example because it involved RNA-seq data and the full analysis/QC story. BIO614 and ISTE780 gave me sequence/structure data experience, and VIOME gave me industry exposure to healthcare and microbiome-oriented data workflows.
+
+### If they ask, “What does fairness-aware work add here?”
+
+> The biggest transfer is the evaluation habit: do not let one aggregate score hide where the model systematically fails. In ISTE780 I looked across RNA type, GC-content bins and length bins. I treat that as sequence-level methodological fairness, not demographic clinical fairness.
+
+**Links:** [ISTE780](https://drive.google.com/file/d/1VvE4oNsAx6lFlppTv0VjI_GTGDsbkN-v/view?usp=drivesdk) · [BIOL550](https://github.com/pzg8794/BIOL550-Project_Paper) · [QuantumFaultTolerant](https://github.com/pzg8794/QuantumFaultTolerant)
+
+---
+
+# 4. COVER LETTER — “MACHINE LEARNING, MATHEMATICAL MODELING, AND BIOLOGICALLY MEANINGFUL INFERENCE”
+
+## What I wrote
+
+> **I am drawn to this project because it combines machine learning, mathematical modeling, and biologically meaningful inference in a way that could directly support precision medicine.**
+
+### If they ask what I meant
+
+> I meant that I do not want the model to be useful only because it predicts well. I want its representation of the system to tell us something biologically meaningful about why the state changes and what could happen under intervention. That is what makes this more interesting to me than a normal classification problem.
+
+### Why this now feels even more concrete
+
+When I applied, I already knew the project description emphasized the themes.
+
+After reading the team’s work more deeply, I could see the pieces more clearly:
+
+- **Matthieu** → dynamical models, state, model fidelity, control
+- **Avlant** → mechanistic neural models, signaling/regulation/metabolism, perturbation
+
+### If they ask, “Did you only discover that after applying?”
+
+> The interest was already there — that is why those words are in the cover letter and short answers. What the deeper reading did was make the fit much more concrete. I could see exactly how the two sides of the supervisory environment line up with the questions I was already trying to describe.
+
+---
+
+# 5. COVER LETTER — “UNCERTAINTY, DATA QUALITY, AND SCIENTIFIC INTERPRETATION”
+
+## What I wrote
+
+> **My goal is to contribute to research that builds strong computational models for complex biological systems while remaining careful about uncertainty, data quality, and the scientific interpretation of results.**
+
+### Why uncertainty matters to me
+
+My bandit work made this practical:
+
+- estimates have different confidence;
+- partial context matters;
+- the best action can change when the environment changes;
+- uncertainty affects exploration vs exploitation.
+
+> I do not want a model to act as though every prediction is equally trustworthy.
+
+### Why data quality matters to me
+
+BIOL550:
+
+> poor upstream QC / preprocessing can contaminate the entire downstream biological conclusion.
+
+### Why scientific interpretation matters to me
+
+BIO614:
+
+> a model can look strong on one metric and still be wrong about the biology.
+
+That is probably the strongest concrete example I can give.
+
+---
+
+# 6. COVER LETTER — “CAREFUL MODELING RATHER THAN PREDICTIVE ACCURACY ALONE”
+
+## What I wrote
+
+> **That experience has made me especially motivated by questions where meaningful biological insight depends on careful modeling rather than predictive accuracy alone.**
+
+### If they ask “What experience?”
+
+Go straight to BIO614:
+
+> On simple synthetic RNA motifs, the model looked very strong. But on realistic tRNA and 5S structures, it failed to recover the biology because the objective and topology were too simple. That was a very useful lesson for me: a strong metric does not guarantee a biologically meaningful model.
+
+### Why that points toward this PhD
+
+> This project is attractive because the biological structure is not an afterthought. The whole point is to build a model whose dynamics and perturbation predictions remain meaningful in the biology.
+
+---
+
+# 7. COVER LETTER — “COMPLEX INTERACTIONS, HETEROGENEOUS DATA, AND UNCERTAIN STRUCTURE”
+
+## What I wrote
+
+> **I am particularly interested in problems where machine learning must represent complex interactions, heterogeneous data, and uncertain structure without losing scientific usefulness.**
+
+### What that means here
+
+The interactions are not abstract anymore:
+
+- signaling;
+- gene regulation;
+- metabolism;
+- cell-cell communication;
+- perturbations / drug response.
+
+### If they ask why that interests me
+
+> Because those processes are not independent features. They influence one another and evolve together. That makes the problem much closer to learning the state of a system than simply fitting a predictor to a table.
+
+This is where RNNs become a natural bridge.
+
+---
+
+# 8. COVER LETTER — “CELL-CELL INTERACTIONS, BIOLOGICAL DYNAMICS, AND HEALTHIER SYSTEM STATES”
+
+## What I wrote
+
+> **The focus on modeling cell-cell interactions, biological dynamics, and healthier system states is compelling because it requires both methodological rigor and strong interdisciplinary reasoning.**
+
+### Why this sentence matters
+
+This was already in the application **before** we did the deeper interviewer/paper reading.
+
+So if they ask about it, I can genuinely say:
+
+> That was one of the parts of the project description that caught me immediately. I was already interested in dynamic systems and decision-making under changing conditions, and here the state is biological and the intervention has a potential health consequence. That combination is exactly what I want to grow into.
+
+### “Healthier system states” in plain language
+
+> I mean understanding a cancer-promoting or pathological state well enough to predict what perturbation could move the system toward a healthier response. I am interested in the modeling problem behind that — not claiming I have already solved the biological-control problem myself.
+
+---
+
+# 9. COVER LETTER — WHY THE ENVIRONMENT
+
+## What I wrote
+
+> **KTH is especially attractive because this project sits in a strong interdisciplinary environment connecting machine learning, systems modeling, and translational biological research.**
+
+> **I am looking for a PhD setting where strong computational work is directly connected to important biomedical questions, and where collaboration across technical and life-science domains is treated as central research practice.**
+
+### If they ask, “Why does that matter to you?”
+
+> Because I do not want to build the computational model in isolation and then hand it over to biology at the end. I want the biological question to shape the model from the beginning, and I want experimental evidence to be able to challenge what the model thinks it has learned.
+
+### Why this particular team makes sense to me
+
+**Matthieu** → dynamics / control / model fidelity  
+**Avlant** → mechanism / cancer biology / perturbation  
+**SciLifeLab / KI / KTH** → computational + experimental life-science environment
+
+> That combination is almost exactly the environment I was trying to describe in the letter before I knew the details as deeply as I do now.
+
+---
+
+# 10. MY RESEARCH JOURNEY — IF THEY ASK “HOW DID YOU END UP HERE?”
+
+This is not six unrelated projects.
+
+It is a direction that kept getting more biological and more dynamic.
+
+```text
+Big Data Medical Diagnosis
+health + prediction + data quality
+        ↓
+Hospital Readmission ML
+modern clinical ML workflow
+        ↓
+BIO614 RNA Structure
+biological structure + mechanism + model failure
+        ↓
+ISTE780
+where does the model fail across conditions/groups?
+        ↓
+BIOL550 RNA-seq
+high-dimensional molecular data + QC + interpretation
+        ↓
+RNN / LSTM
+history + state + temporal evolution
+        ↓
+Bandits / GA
+context + uncertainty + changed conditions + action
+        ↓
+KTH
+biological dynamics + perturbation + intervention
+```
+
+### Natural answer
+
+> I did not start by saying I wanted to build cancer RNNs. The direction developed over time. I was interested in medical prediction very early, then modern clinical ML, then moved closer to the biological mechanisms through RNA structure and RNA-seq. At the same time my ML work kept becoming more sequential and uncertainty-aware. This project feels like the point where those two directions finally meet.
+
+---
+
+# 11. RESEARCH / PROFESSIONAL EXPERIENCE — IF THEY ASK “WHAT DID YOU ACTUALLY DO?”
+
+## RIT Graduate Assistant — Quantum + AI
+
+**What I did:**
+
+- multi-armed / contextual / adversarial / neural bandit evaluation;
+- quantum routing / resource allocation;
+- uncertainty-aware exploration;
+- changing / adversarial environments;
+- predictive context;
+- reproducible multi-testbed evaluation;
+- manuscript-level technical analysis.
+
+**How it transfers:**
+
+> state/context + uncertainty + changing conditions + action + feedback.
+
+**Proof:** [QuantumFaultTolerant](https://github.com/pzg8794/QuantumFaultTolerant) · [DSCI601](https://github.com/pzg8794/DSCI601-Project_Proposal)
+
+---
+
+## BIO614 — RNA Structure
+
+**What I did:**
+
+- Nussinov dynamic programming;
+- MFE / Turner parameters / ViennaRNA;
+- environmental / energy corrections;
+- synthetic + biological RNA validation;
+- sensitivity / specificity / MCC;
+- structure visualization;
+- failure analysis.
+
+**What I learned:**
+
+> biological validity != one strong metric.
+
+**Proof:** [KTH writing sample](https://drive.google.com/file/d/1x_xLkbu-JGHrqH8gf7DaFwNMtGs-qquZ/view?usp=drivesdk)
+
+### CV wording warning
+
+If they quote **“thermodynamic deep learning enhancements”**:
+
+> The BIO614 manuscript itself was Nussinov plus thermodynamic modeling. My RNN/LSTM implementation came from my Neural Networks coursework. The CV compressed those two strands too much.
+
+---
+
+## BIOL550 — RNA-seq
+
+**What I did:**
+
+- preprocessing / QC;
+- alignment evidence;
+- DESeq2 differential expression;
+- PCA / distance / dispersion interpretation;
+- biological / pathway interpretation.
+
+**Proof:** [repo](https://github.com/pzg8794/BIOL550-Project_Paper) · [pipeline](https://github.com/pzg8794/BIOL550-Project_Paper/blob/main/assets_methods/biol550_pipeline_architecture_diagram.svg)
 
 ---
 
 ## ISTE780 — Equitable Bioinformatics
 
-### What I did
+**What I did:**
 
-- 20 RNA sequences
-- six algorithmic approaches
-- Optuna
-- five-fold CV
-- statistical testing
-- disparity analysis by RNA type / GC / length
+- RNA structure methods comparison;
+- 20-sequence final dataset;
+- six method families;
+- Optuna;
+- five-fold CV;
+- statistical tests;
+- sequence-level disparity auditing.
 
-### If they ask why it matters
+**Groups actually used:** RNA type · GC-content bin · length bin.
 
-> It trained me to look beyond the average result and ask whether the model fails systematically under certain kinds of inputs.
+**NOT:** human demographic fairness.
 
-**Proof:** [KTH ISTE780 sample](https://drive.google.com/file/d/1VvE4oNsAx6lFlppTv0VjI_GTGDsbkN-v/view?usp=drivesdk)
+**Proof:** [KTH writing sample](https://drive.google.com/file/d/1VvE4oNsAx6lFlppTv0VjI_GTGDsbkN-v/view?usp=drivesdk)
+
+---
+
+## DSCI640 — RNN / LSTM
+
+**What I implemented / worked with:**
+
+- Jordan recurrence;
+- Elman recurrence;
+- recurrent forward pass;
+- recurrent backpropagation / BPTT;
+- time-series prediction;
+- LSTM node / gates.
+
+**Proof:** [RNN lecture](https://drive.google.com/file/d/1E3V3M-cL8DdqpYRgkMLVzS5yDvbtjzJE/view?usp=drivesdk) · [LSTM assignment](https://drive.google.com/file/d/1K8zJDmrcyVUy3Yi6EPbn1XpIC8VxIWnP/view?usp=drivesdk)
 
 ---
 
 ## VIOME
 
-### What I did
+**What I can defend:** healthcare / microbiome-oriented data workflows, preprocessing, feature engineering, ML experimentation/evaluation, AWS context.
 
-- healthcare / microbiome-oriented data workflows
-- preprocessing
-- feature engineering
-- ML experimentation / evaluation
-- AWS environment
-
-### If they ask what this contributes
-
-> It gave me experience with real-world biological and health data where preprocessing and data quality are not clean academic assumptions.
-
-**Boundary:** company code/data are proprietary.
+**Boundary:** proprietary employer work; do not pretend there is a public repo proving production details.
 
 ---
 
 ## VEDADATA
 
-### What I did
+**What I can defend:** Python data pipelines, ingestion, preprocessing/validation, statistical diagnostics, analytics-ready data, AWS / traceable quality checks.
 
-- Python data pipelines
-- validation
-- statistical diagnostics
-- analytics-ready datasets
-- AWS / cloud workflows
-- data-quality checks
-
-### If they ask what this contributes
-
-> It gave me production discipline around data quality, repeatability, and traceable pipelines.
-
-**Boundary:** company code/data are proprietary.
+**Boundary:** proprietary employer code.
 
 ---
 
-# 12. SELECTED TECHNICAL WRITING — THE JOURNEY
+# 12. SELECTED TECHNICAL WRITING — THE JOURNEY THEY SAW ON THE CV
 
 ## Big Data Medical Diagnosis
 
-**What it shows:** early interest in medical prediction + data quality + temporal patterns.
+**Why it matters in the story:** I was already trying to connect computation, prediction, and health years ago.
 
-Say:
+**Do not oversell it as modern deep learning.**
 
-> The importance of that old work is that health-data prediction and data quality were already questions I was interested in very early. I would not describe that old project as modern deep learning.
-
-**Proof:** [Artifact folder](https://github.com/pzg8794/opc-data-mining/tree/main/papers/Data%20Cleaning%20%26%20Processing/Data%20Cleaning/Big%20Data%20Medical%20Diagnosis%20-%20Papers)
+**Proof:** [artifact folder](https://github.com/pzg8794/opc-data-mining/tree/main/papers/Data%20Cleaning%20%26%20Processing/Data%20Cleaning/Big%20Data%20Medical%20Diagnosis%20-%20Papers)
 
 ---
 
 ## Predicting Hospital Readmission Rates — DSCI633
 
-**What I did:** diabetic readmission prediction · cleaning · feature engineering · Decision Tree · Random Forest · Logistic Regression · SVM · evaluation.
+**What:** diabetic readmission prediction · feature engineering · model comparison · evaluation.
 
-Say:
+**Methods:** Decision Tree · Random Forest · Logistic Regression · SVM.
 
-> That project moved the health interest into a modern machine-learning workflow with model comparison and reproducible analysis.
-
-**Proof:** [DSCI633 project](https://drive.google.com/file/d/1R6NLciyevSHcyiBYvHjRX4jF8cGaqJuP/view?usp=drivesdk)
+**Proof:** [project PDF](https://drive.google.com/file/d/1R6NLciyevSHcyiBYvHjRX4jF8cGaqJuP/view?usp=drivesdk)
 
 ---
 
-## BIO614
+## BIO614 Final Project
 
-**What it added:** molecular structure + thermodynamics + biological validation.
+**What:** RNA structure + thermodynamic modeling + rigorous validation + biological failure analysis.
 
-Say:
-
-> That project pushed me from health-data prediction toward modeling actual biological structure and thinking much harder about whether a computational objective matches the biology.
+**Proof:** [writing sample](https://drive.google.com/file/d/1x_xLkbu-JGHrqH8gf7DaFwNMtGs-qquZ/view?usp=drivesdk)
 
 ---
 
-## ISTE780
+## Equitable Bioinformatics — ISTE780
 
-**What it added:** fairness / systematic failure / comparison across conditions.
+**What:** fairness-style evaluation of RNA prediction methods across sequence conditions.
 
-Say:
-
-> It made the evaluation question more explicit: where does the model work, where does it fail, and does the average hide important differences?
+**Proof:** [writing sample](https://drive.google.com/file/d/1VvE4oNsAx6lFlppTv0VjI_GTGDsbkN-v/view?usp=drivesdk)
 
 ---
 
-## BIOL550
+## BIOL550 — Differential Gene Expression
 
-**What it added:** high-throughput molecular data + QC + gene-expression interpretation.
+**What:** reproducible bulk RNA-seq pipeline + DESeq2 + QC + biological interpretation.
 
-Say:
-
-> It gave me experience with a very different biological data type and reinforced how important preprocessing and experimental context are.
+**Proof:** [repo](https://github.com/pzg8794/BIOL550-Project_Paper)
 
 ---
 
-## DSCI601 / GA
+## DSCI601 — Fairness-Aware Bandits
 
-**What it added:** time + context + uncertainty + action.
+**What:** sequential decision-making under partial feedback, context, uncertainty, non-stationarity, with quantum and **synthetic clinical** settings.
 
-Say:
-
-> This moved the question from only predicting a result to deciding what to do next when the system is changing and the information is incomplete.
-
-**Proof:** [KTH-submitted DSCI601 sample](https://drive.google.com/file/d/1W2cLgsNpA5gilPmpaiM-dECPiVzjTSPO/view?usp=drivesdk) · [DSCI601](https://github.com/pzg8794/DSCI601-Project_Proposal)
+**Proof:** [KTH writing sample](https://drive.google.com/file/d/1W2cLgsNpA5gilPmpaiM-dECPiVzjTSPO/view?usp=drivesdk) · [repo](https://github.com/pzg8794/DSCI601-Project_Proposal)
 
 ---
 
-# 13. RNN / LSTM / ARIMA — SIMPLE DEFINITIONS
+# 13. RNN / LSTM / ARIMA — QUICK DEFINITIONS IF THEY COME UP
 
 ## RNN
 
-**Simple:** a neural network that carries information from previous time steps forward, so the current prediction depends on the current input **and** previous state.
+**Simple:** neural network for sequential data that carries a learned state from previous time steps.
 
 ```text
-current input + previous state → new state → prediction
+x(t) + h(t-1) -> RNN -> h(t) -> prediction
 ```
 
-### Why useful here
-
-> A biological system does not reset between measurements. Its current state depends partly on what happened before.
+**Why here:** molecular state now partly depends on molecular state before.
 
 ---
 
 ## LSTM
 
-**Simple:** an RNN with gates that help it decide what information to keep, forget, and use over longer sequences.
+**Simple:** RNN with gated memory that learns what to keep, forget, and expose.
 
 ```text
-FORGET → what old information stays?
-INPUT  → what new information is stored?
-OUTPUT → what memory affects the current state?
+FORGET -> what old info stays?
+INPUT  -> what new info enters?
+OUTPUT -> what memory affects the current state?
 ```
 
 ---
 
 ## ARIMA
 
-**Simple:** a statistical time-series model where we specify how previous values and previous errors are used to forecast the next value.
+**Simple:** statistical forecasting model where we specify how past values / errors enter the forecast.
 
-```text
-past values + past errors → forecast
-```
+**Our current iCPursuit:** ARIMA -> predicted context -> bandit decision.
 
-### Difference
+### Difference I should remember
 
-- **ARIMA:** we specify the memory structure.
-- **RNN:** the network learns a recurrent state.
-- **LSTM:** the RNN also learns what to keep/forget through gates.
+**ARIMA:** we specify the memory structure.  
+**RNN:** network learns a recurrent state.  
+**LSTM:** RNN with gated longer-term memory.
 
 ---
 
-# 14. THE PERTURBATION CONNECTION WE DISCUSSED
+# 14. IF THEY ASK ABOUT MY GAPS
 
-## Avlant’s biological problem
+Do not apologize for them.
 
-Observed biological time-series data tell us what happened under the observed condition.
-
-The harder question is:
-
-**What will happen under a new drug / perturbation?**
-
-## Our bandit / quantum problem
-
-Observed network behavior tells us what happened under the observed condition.
-
-The harder question is:
-
-**What will happen when conditions change or an attacker perturbs the environment?**
-
-### Simple way to explain the connection
-
-> The biological and quantum domains are completely different, but the methodological question is familiar to me: observations under one condition do not automatically tell us what happens after a perturbation, so the model has to use structure, history, and context to predict or adapt.
+> My strongest preparation is on the computational side — machine learning, neural networks, reproducible experimentation, sequential decision-making and computational-biology data analysis. I am not already a cancer systems biologist or a formal control theorist. Those are precisely the areas I want to deepen here.
 
 ---
 
-# 15. WHY RNNs MAKE SENSE FOR THIS PROJECT
+# 15. QUESTIONS I WANT TO ASK THEM
 
-From the RNN material we reviewed:
+## Best one
 
-- multiple variables can be predicted together
-- future steps can be predicted beyond only `t+1`
-- previous time steps influence the current state
-- recurrent connections carry information forward
-- LSTM helps keep useful longer-term information
+> Because the project sits between DCS and the biological/experimental side, what do you currently see as the hardest scientific bottleneck: learning the underlying state and dynamics from the available data, making the model sufficiently identifiable and biologically interpretable, or experimentally validating the intervention predictions?
 
-### Simple way to say it
+## Second
 
-> RNNs make sense because the biological variables evolve together through time. The model needs a way to carry information from previous molecular states into the next state instead of treating every time point independently.
+> What would you want the doctoral student to own independently during the first six to twelve months, and where do you expect the closest day-to-day collaboration between DCS and the biological team?
 
 ---
 
-# 16. IF THEY ASK ABOUT MY GAPS
+# 16. IF I FREEZE — COME BACK TO THIS
 
-Say:
+**WHY I WANT IT:**  
+I have been moving my computing toward **human health + deeper biology**, and this project combines **dynamic modeling + biological mechanism + perturbation + intervention**.
 
-> My strongest preparation is in machine learning, data science, reproducible experimentation, sequential decision-making, and computational biology. I have not yet specialized in cancer systems biology or formal control, and those are areas I would expect to deepen during the PhD.
+**WHY I FIT:**  
+RNA structure · RNA-seq · RNN/LSTM · uncertainty · sequential decisions · reproducible experiments.
 
-No apology. No exaggeration.
+**WHY THIS TEAM:**  
+Matthieu = dynamics/control.  
+Avlant = mechanism/cancer/perturbation.  
+SciLifeLab/KI/KTH = computation connected to experimental biology.
 
----
-
-# 17. TWO QUESTIONS FOR THEM
-
-### Scientific question
-
-> From your perspective, what is currently the hardest part of the project: learning the biological state and dynamics from the available data, making the model biologically interpretable, or validating the perturbation predictions experimentally?
-
-### First-year question
-
-> What would you expect the doctoral student to own independently during the first six to twelve months, and where would the closest day-to-day collaboration between the computational and biological sides happen?
-
----
-
-# 18. LAST-MINUTE REMINDERS
-
-If they quote something from the application:
-
-1. **Recognize the exact sentence.**
-2. Explain **what I meant in plain English.**
-3. Give **one concrete project**.
-4. Stop and let them ask deeper.
-
-If I do not know something:
-
-> I have not worked on that exact problem yet. My closest experience is ____. What transfers is ____, and the part I would need to deepen is ____.
+**WHAT I DO NOT CLAIM:**  
+I am not already a cancer systems biologist or control theorist. I am coming in with the computational foundation and biological trajectory to grow into exactly that intersection.
