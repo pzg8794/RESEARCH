@@ -148,7 +148,7 @@ Do **not** learn a new RNN explanation tonight. Refresh from the exact material 
   <https://docs.google.com/document/d/121cQHygwY1SxNHgUTwx3FZRoXfhifZAS07AJU55UtSo/edit>  
   Quick text reference to the codebase and required methods.
 
-### Simple definitions and visuals: RNN vs ARIMA
+### Simple definitions and visuals: RNN, LSTM, ARIMA
 
 #### RNN - Recurrent Neural Network
 
@@ -171,6 +171,50 @@ current input + previous learned state -> new state -> prediction
 ```
 
 Why it matters here: signaling, gene regulation and metabolism are **evolving interacting processes**. An RNN can carry a learned representation of prior molecular state forward as the system changes.
+
+#### LSTM - Long Short-Term Memory
+
+**Simple definition:** A gated type of RNN designed to preserve useful information over longer sequences by controlling what enters memory, what is kept or forgotten, and what leaves the cell as output.
+
+```text
+                         cell memory c(t-1)
+                               |
+                               v
+x(t) + h(t-1) ---> [ FORGET GATE ] --- what old information stays?
+        |                    |
+        |                    v
+        +----------> [ INPUT GATE ] --- what new information enters?
+                               |
+                               v
+                         [ cell c(t) ]
+                               |
+                               v
+                       [ OUTPUT GATE ] --- what information is exposed?
+                               |
+                               v
+                            h(t)
+```
+
+Mental shorthand:
+
+```text
+FORGET: what old information should I keep/remove?
+INPUT:  what new information should I store?
+OUTPUT: what part of memory should influence the current output/state?
+```
+
+The two states to remember:
+
+```text
+c(t) = cell memory       -> longer-term information path
+h(t) = hidden/output     -> current recurrent state/output
+```
+
+Why LSTM exists: a simple RNN can struggle to preserve useful information across long sequences during training. LSTM provides a gated memory path so important information can survive across more time steps while irrelevant information can be forgotten.
+
+Why it matters here: a biological response at time `t` may depend on molecular events much earlier than `t-1`. LSTM-style memory gives the model a mechanism for carrying selected longer-term signaling/regulatory information forward.
+
+**Our direct evidence:** PA2 Part 4 required implementing `LSTMNode.java`, including both forward and backward propagation, weight/bias initialization and the forget-gate bias.
 
 #### ARIMA - AutoRegressive Integrated Moving Average
 
@@ -207,9 +251,12 @@ ARIMA: WE specify how much history enters the forecast.
 
 RNN:   THE NETWORK learns a state that represents useful history.
        x(t) + h(t-1) -> h(t) -> x_hat(t+1)
+
+LSTM:  AN RNN WITH GATED MEMORY learns what history to keep,
+       what to forget, and what to expose as the current state/output.
 ```
 
-Both use temporal information. **ARIMA has an explicit statistical memory structure; RNNs learn a recurrent state representation.**
+Both ARIMA and recurrent neural networks use temporal information. **ARIMA has an explicit statistical memory structure; RNNs learn a recurrent state representation; LSTM adds gated long-term memory to that recurrent representation.**
 
 Connection to our work:
 
@@ -219,6 +266,7 @@ history -> ARIMA forecast -> predicted context -> bandit decision
 
 Original iCMAB direction:
 history -> EXAMM-RNN world/controller models -> predicted context/reward -> bandit decision
+          (EXAMM can evolve recurrent cell types including gated-memory structures)
 
 KTH/Avlant direction:
 molecular history -> biologically constrained RNN state -> future molecular/cellular state under perturbation
