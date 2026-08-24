@@ -4,15 +4,208 @@
 **Interviewers:** Matthieu Raphael Barreau + Avlant Nilsson  
 **Position:** PA-2026-1420 — Doctoral student in deep learning for biological systems
 
-> **USE THIS PAGE DURING THE INTERVIEW.** It is not a study packet. Every section is designed to answer: **What did I actually do? How do I explain it in 30–60 seconds? Where is the proof if I need to open it?**
+> **USE THIS PAGE DURING THE INTERVIEW.** It is not a study packet. Every section answers: **What did I tell KTH? What did I actually do? How do I say it naturally? Where is the evidence if they probe?**
 
-**Rule:** answer first, evidence second. Do not read links aloud. If they probe, open the relevant artifact.
+**Rule:** answer first, evidence second. Do not read links aloud.
 
-**Submitted KTH CV:** [GitHub packet PDF](../../APPLICATIONS/PhD/review-by-application/05-kth-deep-learning-biological-systems/2026-07-31-kth-deep-learning-biological-systems-cv.pdf) · [Drive copy](https://drive.google.com/file/d/1H145KE2bxEG0R7klIoGkqfn86kcd4olg/view?usp=drivesdk)
+**Application evidence:** [Submitted KTH CV](../../APPLICATIONS/PhD/review-by-application/05-kth-deep-learning-biological-systems/2026-07-31-kth-deep-learning-biological-systems-cv.pdf) · [Submitted cover letter](../../APPLICATIONS/PhD/review-by-application/05-kth-deep-learning-biological-systems/2026-07-31-kth-deep-learning-biological-systems-cover-letter.txt) · [May 28 application review record](https://drive.google.com/file/d/1Bpw4V-Dj5Cq_ke0DleFfOPRb5N3Ds-aJ/view?usp=drivesdk)
 
 ---
 
-## 1. Research-profile claim defense
+# 0. APPLICATION ANCHOR — the fit was already in what I submitted
+
+The safest and strongest story is **not** “I discovered all of this last night.”
+
+It is:
+
+> **When I applied, I already knew the kind of scientific question, work, and research environment I wanted. Reading Matthieu's and Avlant's work more deeply afterward made those same ideas much more concrete.**
+
+Do **not** imply a May application sentence secretly referred to a paper or implementation detail I had not yet read. The deeper reading **confirmed and sharpened** the fit; it did not invent it.
+
+## The visual: QUESTION → WORK → ENVIRONMENT
+
+```mermaid
+flowchart LR
+    APP["WHAT I SUBMITTED<br/>May 2026"]
+
+    Q["QUESTION<br/>biologically meaningful inference<br/>uncertainty + interpretation<br/>not accuracy alone"]
+    W["WORK<br/>cell-cell interactions<br/>biological dynamics<br/>healthier system states"]
+    E["ENVIRONMENT<br/>ML + systems modeling<br/>translational biology"]
+
+    AV["AVLANT<br/>biological constraints<br/>RNN / molecular dynamics<br/>multiomics + perturbations"]
+    MB["MATTHIEU<br/>state + dynamics<br/>model fidelity + uncertainty<br/>scientific ML + control"]
+    ENV["KTH DCS + SciLifeLab + KI<br/>in silico ↔ in vitro<br/>computation ↔ biology"]
+
+    APP --> Q --> AV
+    APP --> W
+    W --> AV
+    W --> MB
+    APP --> E --> ENV
+```
+
+---
+
+## 0.1 Cover-letter anchors
+
+### THE QUESTION was already there
+
+The submitted cover letter said:
+
+> **“machine learning, mathematical modeling, and biologically meaningful inference”**
+
+> **“remaining careful about uncertainty, data quality, and the scientific interpretation of results”**
+
+> **“meaningful biological insight depends on careful modeling rather than predictive accuracy alone”**
+
+> **“machine learning must represent complex interactions, heterogeneous data, and uncertain structure without losing scientific usefulness”**
+
+### How to say that now
+
+> When I applied, I was already looking for a problem where the scientific question could not be reduced to maximizing a predictive metric. I wrote specifically about biologically meaningful inference, uncertainty, data quality and interpretation. Reading your work more closely afterward gave those phrases a much more concrete form: Avlant's work asks how molecular states evolve under perturbation while respecting biological mechanism, while Matthieu's work asks what can be inferred reliably from noisy or sparse observations and how a dynamical model can eventually support intervention or control.
+
+**Evidence:** [Cover letter](../../APPLICATIONS/PhD/review-by-application/05-kth-deep-learning-biological-systems/2026-07-31-kth-deep-learning-biological-systems-cover-letter.txt) · [Avlant SciLifeLab](https://www.scilifelab.se/researchers/avlant-nilsson/) · [Avlant 2026 time-series paper](https://publications-affiliated.scilifelab.se/publication/53deef8658d14591b6b08382650120d7) · [Matthieu KTH](https://www.kth.se/profile/barreau)
+
+---
+
+### THE WORK was already there
+
+The submitted cover letter said:
+
+> **“The focus on modeling cell-cell interactions, biological dynamics, and healthier system states is compelling”**
+
+and:
+
+> **“I would be excited to extend that preparation toward deeper work on biological modeling and precision medicine applications.”**
+
+### What that means scientifically
+
+```text
+complex molecular / cellular state
+        ↓
+learn interactions + dynamics
+        ↓
+predict how state evolves
+        ↓
+perturb the system
+        ↓
+validate the response
+        ↓
+identify interventions that move it toward a healthier state
+```
+
+### How to say that now
+
+> The phrase I used in the cover letter was “cell-cell interactions, biological dynamics, and healthier system states.” What became clearer to me after reading the work more deeply is how literally this project implements that idea. Avlant's side models interacting molecular processes and their evolution under perturbation. Matthieu's side brings the dynamical-systems questions of state, observability, model fidelity and eventual control. My earlier projects touch pieces of that problem, but this PhD is where those pieces become one scientific system.
+
+**Important:** the cover letter did **not** name RNNs. The correct connection is: **I named a dynamic, interaction-heavy biological problem; deeper reading showed why a biologically constrained recurrent architecture is a natural way to attack it.**
+
+---
+
+### THE ENVIRONMENT was already there
+
+The submitted cover letter said:
+
+> **“KTH is especially attractive because this project sits in a strong interdisciplinary environment connecting machine learning, systems modeling, and translational biological research.”**
+
+and:
+
+> **“collaboration across technical and life-science domains is treated as central research practice.”**
+
+### What that means now
+
+```text
+KTH Decision & Control Systems
+Matthieu: dynamics / SciML / observation / control
+                    ↓
+          SHARED PhD PROBLEM
+                    ↑
+KI + SciLifeLab
+Avlant: cancer biology / molecular networks / multiomics / perturbations
+                    ↓
+in silico modeling ↔ biological / in-vitro validation ↔ translational goal
+```
+
+### How to say that now
+
+> This is actually something I highlighted before I knew the details as deeply as I do now. I wrote that I wanted an environment connecting machine learning, systems modeling and translational biology. Looking more closely, that is exactly how this project is organized: DCS contributes dynamics and control, Avlant's group and SciLifeLab bring mechanistic cancer biology and molecular data, and the project connects computational modeling to biological validation. The deeper I looked, the more specific the fit became rather than the motivation changing.
+
+**Evidence:** [Cover letter](../../APPLICATIONS/PhD/review-by-application/05-kth-deep-learning-biological-systems/2026-07-31-kth-deep-learning-biological-systems-cover-letter.txt) · [Official KTH posting](https://www.kth.se/lediga-jobb/928557?l=en) · [Matthieu](https://www.kth.se/profile/barreau) · [Avlant](https://www.scilifelab.se/researchers/avlant-nilsson/)
+
+---
+
+## 0.2 The two optional Varbi answers — also part of the application anchor
+
+**Important record note:** the May 28 application-review record contains these two answers. They differ slightly from another draft/version I later recovered, so use **these recorded versions** when saying “what I submitted.”
+
+### Question 1 — why this position/project?
+
+**Recorded application answer:**
+
+> I am interested in this project because it combines deep learning, biological systems, and precision-medicine questions in a way that requires both strong modeling and careful scientific interpretation. The focus on cell-cell interactions and biologically meaningful system dynamics is especially compelling to me.
+
+### How I would say it aloud now
+
+> I was interested from the beginning because the project sits exactly where deep learning, biological systems and precision medicine meet. What mattered to me was that it was not only a prediction problem — the application itself talks about cell-cell interactions and biologically meaningful dynamics. After reading the supervisors' work more deeply, I now understand the implementation much better: recurrent modeling of evolving molecular state on one side, and dynamical-systems, model-fidelity and control questions on the other.
+
+### The key bridge
+
+```text
+SUBMITTED:
+strong modeling + careful scientific interpretation
+cell-cell interactions + meaningful system dynamics
+
+NOW MORE CONCRETE:
+biological constraints + RNN state evolution + perturbation
+                  +
+state inference + uncertainty + dynamical systems + control
+```
+
+---
+
+### Question 2 — what can I contribute?
+
+**Recorded application answer:**
+
+> I can contribute reproducible machine-learning workflows, strong data-analysis practice, and experience working with noisy, high-dimensional biological data. I would bring disciplined evaluation, transparent reporting, and a computational perspective shaped by both ML research and computational biology work.
+
+### How I would say it aloud now
+
+> The contribution I described in the application is still the contribution I would lead with: reproducible ML experimentation, strong data-analysis habits, experience with noisy and high-dimensional biological data, and disciplined evaluation. I can also bring the sequential-learning perspective from my current research — thinking carefully about state, context, uncertainty, changing conditions and feedback. I would contribute those strengths immediately while deepening the areas that are new for me, particularly cancer systems biology and formal control.
+
+### The key bridge
+
+```text
+WHAT I SAID I CAN CONTRIBUTE
+reproducible ML + data analysis + noisy/high-dimensional biology
++ disciplined evaluation + transparent reporting
+
+PROOF IN MY WORK
+BIO614  -> model assumptions + biological validation + failure analysis
+BIOL550 -> RNA-seq + QC + high-dimensional molecular data
+ISTE780 -> cross-validation + subgroup/condition auditing
+DSCI640 -> RNN/LSTM implementation
+GA/601  -> uncertainty + context + sequential decisions
+```
+
+**Application-record evidence:** [May 28 review packet](https://drive.google.com/file/d/1Bpw4V-Dj5Cq_ke0DleFfOPRb5N3Ds-aJ/view?usp=drivesdk)
+
+---
+
+## 0.3 “Why is this the right fit?” — 45–60 second answer anchored to the application
+
+> When I applied, I wrote that I was looking for a project combining deep learning, biological systems and precision medicine, but with strong modeling and careful scientific interpretation rather than predictive accuracy alone. I specifically mentioned cell-cell interactions, biological dynamics, uncertainty, data quality and an interdisciplinary environment connecting machine learning, systems modeling and translational biology. The more closely I have read the work behind the project, the more concrete those sentences have become. Avlant's research gives me the biologically constrained, recurrent and perturbation side of that problem; Matthieu's gives me the dynamical-systems, model-fidelity, uncertainty and control side; and the KTH–SciLifeLab–KI environment connects the computation back to biological validation. So the deeper reading did not create the fit — it showed me how unusually literal the fit I described in my application actually is.
+
+### 20-second version
+
+> The fit is not something I invented for the interview. My application already centered biologically meaningful dynamics, uncertainty, precision medicine and interdisciplinary systems modeling. Reading the supervisors' work more deeply simply showed me the concrete form of those ideas: biologically constrained recurrent models on one side, dynamics and control on the other, connected to biological validation.
+
+### If they ask “Did you know all of this when you applied?”
+
+> I knew the project-level scientific direction, and that was why I applied. I did not yet know every implementation detail or every paper. The deeper reading afterward strengthened the fit because the specific methods and research questions were consistent with the reasons I had already written down, rather than requiring me to invent a new reason for wanting the position.
+
+---
+
+# 1. Research-profile claim defense
 
 ### CV claim: “Graduate researcher focused on deep learning and computational biology”
 
@@ -42,7 +235,7 @@
 
 ### CV claim: “RNA secondary structure prediction with thermodynamic deep learning enhancements (BIO614)”
 
-**What I actually did:** I implemented and extended Nussinov dynamic programming, integrated thermodynamic MFE information using Turner parameters and ViennaRNA/RNAfold, added environmental/energy corrections, generated structure visualizations, and validated predictions using sensitivity, specificity, MCC and energetic comparisons. Synthetic motifs such as the hairpin and mini-helix performed extremely well; realistic tRNA and 5S rRNA exposed the model’s inability to capture multiloops/junctions and realistic topology.
+**What I actually did:** I implemented and extended Nussinov dynamic programming, integrated thermodynamic MFE information using Turner parameters and ViennaRNA/RNAfold, added environmental/energy corrections, generated structure visualizations, and validated predictions using sensitivity, specificity, MCC and energetic comparisons. Synthetic motifs such as the hairpin and mini-helix performed extremely well; realistic tRNA and 5S rRNA exposed the model's inability to capture multiloops/junctions and realistic topology.
 
 **Best interview message:** the failure is stronger evidence of research maturity than the “>90% synthetic accuracy” line.
 
@@ -118,7 +311,7 @@
 
 ---
 
-## 2. Research and Professional Experience — live defense map
+# 2. Research and Professional Experience — live defense map
 
 ### RIT Graduate Assistant — Quantum and AI Research
 
@@ -172,15 +365,15 @@
 
 **What I did:** Healthcare-oriented Python/ML data workflows, preprocessing, feature engineering, experimentation/evaluation and sequencing/microbiome-oriented data preparation in AWS-based environments.
 
-**Boundary:** Employer code/data are proprietary. The value for KTH is real-world exposure to noisy health/biological data pipelines, not a claim that I personally developed VIOME’s biological models.
+**Boundary:** Employer code/data are proprietary. The value for KTH is real-world exposure to noisy health/biological data pipelines, not a claim that I personally developed VIOME's biological models.
 
 **Proof/context:** [Shared Career Evidence](../shared-career-evidence.md) · [CV profile source](https://github.com/pzg8794/CV_Piter-Garcia/blob/main/reports/profile_master_source.md)
 
 ---
 
-## 3. Selected Technical Writing — the research journey
+# 3. Selected Technical Writing — the research journey
 
-This is the visual story to remember if they ask **“How did you get from computer science to this PhD?”**
+This is the visual story if they ask **“How did you get from computer science to this PhD?”**
 
 ```mermaid
 flowchart LR
@@ -203,13 +396,11 @@ flowchart LR
 
 **What I did:** Early graduate work explored medical diagnosis as a data-mining/prediction problem, including medical-data cleaning/quality, symptom similarity, temporal patterns, hybrid recommendation/prediction ideas and methods drawn from data mining and web prediction.
 
-**Important precision:** surviving repo artifacts begin in **2013** and are better evidence of an early medical-data/prediction direction than of modern deep learning. If asked about the CV’s “ensemble and deep learning” wording, do not force that label onto the old artifact.
+**Important precision:** surviving repo artifacts begin in **2013** and are better evidence of an early medical-data/prediction direction than of modern deep learning. If asked about the CV's “ensemble and deep learning” wording, do not force that label onto the old artifact.
 
-**Best defense:**
+> The importance of that project in my trajectory is not that it was sophisticated by today's deep-learning standards. It shows that medical prediction and data quality were already problems I was trying to understand very early in my graduate work.
 
-> The importance of that project in my trajectory is not that it was sophisticated by today’s deep-learning standards. It shows that medical prediction and data quality were already problems I was trying to understand very early in my graduate work.
-
-**Proof:** [Big Data Medical Diagnosis artifact folder](https://github.com/pzg8794/opc-data-mining/tree/main/papers/Data%20Cleaning%20%26%20Processing/Data%20Cleaning/Big%20Data%20Medical%20Diagnosis%20-%20Papers) · [Paper 1 source](https://github.com/pzg8794/opc-data-mining/blob/main/papers/Data%20Cleaning%20%26%20Processing/Data%20Cleaning/Big%20Data%20Medical%20Diagnosis%20-%20Papers/Big%20Data%20Medical%20Diagnosis%20-%20Paper1/report.tex) · [Paper 2 source](https://github.com/pzg8794/opc-data-mining/blob/main/papers/Data%20Cleaning%20%26%20Processing/Data%20Cleaning/Big%20Data%20Medical%20Diagnosis%20-%20Papers/Big%20Data%20Medical%20Diagnosis%20-%20Paper2/report.tex)
+**Proof:** [Artifact folder](https://github.com/pzg8794/opc-data-mining/tree/main/papers/Data%20Cleaning%20%26%20Processing/Data%20Cleaning/Big%20Data%20Medical%20Diagnosis%20-%20Papers) · [Paper 1](https://github.com/pzg8794/opc-data-mining/blob/main/papers/Data%20Cleaning%20%26%20Processing/Data%20Cleaning/Big%20Data%20Medical%20Diagnosis%20-%20Papers/Big%20Data%20Medical%20Diagnosis%20-%20Paper1/report.tex)
 
 ---
 
@@ -217,13 +408,11 @@ flowchart LR
 
 **What I did:** Built an ML workflow around diabetic-patient readmission prediction with data exploration/sanitization, feature engineering/selection, train/test evaluation, hyperparameter search and multiple classical classifiers including Decision Tree, Random Forest, Logistic Regression and SVM.
 
-**Best defense:**
-
 > This was the point where the health interest became a modern, reproducible machine-learning workflow rather than only a conceptual medical-data problem.
 
 **Proof:** [DSCI633 project PDF](https://drive.google.com/file/d/1R6NLciyevSHcyiBYvHjRX4jF8cGaqJuP/view?usp=drivesdk) · [DSCI633 intake/index](../../PAPERS/Data_Science_and_Machine_Learning/DSCI633_PROJECT_INTAKE.md)
 
-**Precision:** unless a specific experiment is opened and verified, do not oversell this as a formal distribution-shift study. The strongest direct evidence is predictive modeling, feature engineering, validation and model comparison.
+**Precision:** do not oversell this as a formal distribution-shift study unless the specific experiment is opened and verified.
 
 ---
 
@@ -263,13 +452,13 @@ flowchart LR
 
 **Why it moved the journey forward:** It shifted the research question from **“What does the model predict?”** toward **“What should the system do next when state information is incomplete and the consequences unfold over time?”**
 
-**Proof:** [Exact KTH-submitted DSCI601 sample](https://drive.google.com/file/d/1W2cLgsNpA5gilPmpaiM-dECPiVzjTSPO/view?usp=drivesdk) · [DSCI601 repo](https://github.com/pzg8794/DSCI601-Project_Proposal) · [Overleaf](https://www.overleaf.com/project/69941bd7ee1169df5004fd26) · [clean application copy](https://www.overleaf.com/project/6a17c004b31cb222b4ffa75a)
+**Proof:** [Exact KTH-submitted DSCI601 sample](https://drive.google.com/file/d/1W2cLgsNpA5gilPmpaiM-dECPiVzjTSPO/view?usp=drivesdk) · [DSCI601 repo](https://github.com/pzg8794/DSCI601-Project_Proposal) · [Overleaf](https://www.overleaf.com/project/69941bd7ee1169df5004fd26)
 
 **Precision:** the clinical environment is synthetic. Do not imply patient validation.
 
 ---
 
-## 4. RNN / LSTM / ARIMA — 15-second live refresher
+# 4. RNN / LSTM / ARIMA — 15-second live refresher
 
 ### RNN
 
@@ -318,7 +507,7 @@ past error(s) -----+
 
 ---
 
-## 5. The strongest bridge to this PhD
+# 5. The strongest bridge to this PhD
 
 > My prior projects are not the same as this cancer-modeling problem. The connection is the progression in the questions I have been asking: how to represent complex biological information, how to validate a model beyond one metric, how to deal with temporal context and uncertainty, and how predictions change under intervention or changing conditions. This PhD is where those questions come together in a much more rigorous mechanistic system.
 
@@ -332,10 +521,10 @@ past error(s) -----+
 
 ---
 
-## 6. Two honesty lines that can save the interview
+# 6. Two honesty lines that can save the interview
 
 > **“I have not worked directly on that exact problem yet. My closest experience is ____. What transfers is ____, and the part I would need to deepen is ____.”**
 
 > **“I can go one level deeper into the implementation if that would be useful.”**
 
-These are not weakness lines. They demonstrate scientific judgment.
+These demonstrate scientific judgment, not weakness.
