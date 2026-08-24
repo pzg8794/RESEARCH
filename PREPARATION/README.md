@@ -1,6 +1,6 @@
 # Preparation Center
 
-Last updated: 2026-08-06
+Last updated: 2026-08-24
 
 This directory is the public-safe preparation center for active applications,
 recruiter calls, interviews, advising meetings, information sessions, and
@@ -31,6 +31,8 @@ repository. A kit may link to a secure portal or a public-safe record without
 copying private content.
 
 ## Immediate Preparation
+
+**KTH interview quick access:** [one-page cheat sheet and index](./meetings/2026-08-24-kth-interview-cheat-sheet.md#index) · [full interview guide](./meetings/2026-08-24-kth-live-interview-guide.md)
 
 | Date | Item | Status | Preparation kit | Calendar preparation |
 | --- | --- | --- | --- | --- |

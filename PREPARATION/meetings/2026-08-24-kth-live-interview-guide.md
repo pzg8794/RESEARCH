@@ -6,6 +6,8 @@
 
 > **USE THIS WHILE TALKING.** Exact words they saw or words from the position come first. Under each one: what I meant, what I can say naturally, and the work that proves it.
 
+**Quick navigation:** [one-page cheat sheet + index](2026-08-24-kth-interview-cheat-sheet.md#index)
+
 **Preparation:** [submitted cover-letter text](../../APPLICATIONS/PhD/review-by-application/05-kth-deep-learning-biological-systems/2026-07-31-kth-deep-learning-biological-systems-cover-letter.txt) · [20-minute scenarios](2026-08-24-kth-20-minute-interview-scenarios.md) · [interviewer focus](2026-08-24-kth-interviewer-focus-matthieu-avlant.md)
 
 **Privacy note:** the frozen submitted CV remains part of the internal application evidence, but this public guide does not link directly to the PDF because it contains personal contact information.
@@ -13,6 +15,8 @@
 ---
 
 # 0. ONE-SCREEN LIVE CARD — KEEP THIS BESIDE ZOOM
+
+[↑ Back to cheat-sheet index](2026-08-24-kth-interview-cheat-sheet.md#index)
 
 **Use, do not recite.** Answer the question first, give one piece of evidence, state what it taught me, and connect it to KTH. Most answers should stop after 45–60 seconds so they can probe.
 
@@ -42,7 +46,11 @@
 
 ---
 
-# A. EXPANDED PERSONAL ANSWER BANK
+# Full answers
+
+**Expanded personal answer bank**
+
+[↑ Back to cheat-sheet index](2026-08-24-kth-interview-cheat-sheet.md#index)
 
 ## What KTH is actually scoring
 
@@ -89,7 +97,11 @@ and help reason about intervention
 
 This is why the application is not an invented story. **My work keeps returning to health, then moving closer to the biology.**
 
-## “Tell us about yourself” — natural 75–90 second answer
+## Full intro
+
+**“Tell us about yourself” — natural 75–90 second answer**
+
+[↑ Back to cheat-sheet index](2026-08-24-kth-interview-cheat-sheet.md#index)
 
 > My path into this work has one consistent question: what happens when a system has to make an important decision from incomplete evidence? I first approached that computationally during my earlier computer-science master's through Big Data Medical Diagnosis. Later, my own experiences navigating health systems made the consequences of missing context personal. When I returned to data science, I tested the issue more concretely in hospital-readmission modeling: a model could reach about 82.6% accuracy while recalling only about 7.7% of the readmission class. That made the danger of aggregate metrics very real to me. I then moved closer to biological mechanism through RNA structure and RNA-seq. My RNA-structure work succeeded on simple synthetic motifs but failed on realistic tRNA and 5S structures, teaching me not to confuse a strong-looking metric with biological validity. My current bandit and quantum-network research adds uncertainty, partial feedback, and changing conditions. KTH feels like the convergence of that journey: applying rigorous dynamical modeling to biological systems with a direct human-health purpose.
 
@@ -115,7 +127,11 @@ Then return immediately to the science:
 
 > In this project, that means a digital twin whose predictions can be tested, contradicted, and improved through biological experiments.
 
-## The evidence stories I can reach for
+## Full evidence
+
+**The evidence stories I can reach for**
+
+[↑ Back to cheat-sheet index](2026-08-24-kth-interview-cheat-sheet.md#index)
 
 | If they test… | Use… | Core point |
 | --- | --- | --- |
@@ -126,7 +142,11 @@ Then return immediately to the science:
 | Deep-learning foundation | **DSCI 640 Neural Networks** | Coursework and assignments covered recurrent structures, BPTT, and LSTM forward/backward logic; distinguish this from the non-neural BIO614 paper and do not claim a completed cancer RNN. |
 | Uncertainty / changing systems | **GA + DSCI601 bandits** | Partial context, non-stationarity, sequential decisions, common baselines, and reproducible evaluation transfer methodologically—not biologically. The clinical environment was synthetic. |
 
-### If they ask about independent work
+### Full behavior
+
+**If they ask about independent work**
+
+[↑ Back to cheat-sheet index](2026-08-24-kth-interview-cheat-sheet.md#index)
 
 > In my sole-authored hospital-readmission project, the challenge was that class imbalance made accuracy look reassuring. I built and compared logistic-regression, decision-tree, random-forest, and SVM workflows, including feature selection, tuning, and imbalance handling. When tuned logistic regression reached 82.56% accuracy but only 7.66% recall for readmission, I did not present accuracy as success; I changed the evaluation story to center class-specific failure. That is how I work independently: implement, test the assumption behind the metric, and let the failure change the conclusion.
 
@@ -156,7 +176,11 @@ If they notice the older CV date:
 
 > Since I applied, my expected completion date has been updated to December 2026 because of the remaining program and teaching requirements.
 
-## Technical anchors — explain, do not perform
+## Full technical
+
+**Technical anchors — explain, do not perform**
+
+[↑ Back to cheat-sheet index](2026-08-24-kth-interview-cheat-sheet.md#index)
 
 **Digital twin:** a computational representation calibrated against a real biological interaction system, able to reproduce relevant dynamics and make intervention predictions that can be tested in vitro and used to revise the model.
 
@@ -170,7 +194,11 @@ If they notice the older CV date:
 
 **Validation ladder:** simpler baselines → held-out trajectories/conditions → held-out perturbations → uncertainty/calibration → mechanistic plausibility → prospective in vitro test → revise the model after failure.
 
-## The two questions I want to ask
+## Full questions
+
+**The two questions I want to ask**
+
+[↑ Back to cheat-sheet index](2026-08-24-kth-interview-cheat-sheet.md#index)
 
 Ask the first; ask the second only if time permits.
 
@@ -178,7 +206,11 @@ Ask the first; ask the second only if time permits.
 
 > How do you expect supervision and day-to-day work to divide among dynamical systems and control, biologically informed deep learning, and in vitro validation?
 
-## Accuracy boundaries — do not let a compressed CV force a false answer
+## Full guardrails
+
+**Accuracy boundaries — do not let a compressed CV force a false answer**
+
+[↑ Back to cheat-sheet index](2026-08-24-kth-interview-cheat-sheet.md#index)
 
 - **The KTH posting confirms:** cell-cell interactions · cancer-promoting equilibria · in silico and in vitro models · digital twins · steering toward healthier states.
 - **Nilsson-group research provides context, not a guaranteed architecture:** mechanistic networks · signaling/gene regulation/metabolism · multi-omics · biologically informed recurrent models · perturbation prediction.
