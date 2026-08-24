@@ -103,8 +103,12 @@ Answer pattern: **problem → what I personally did → result/failure → lesso
 - **System identification:** infer dynamics from observed states, outputs, interventions, and noise.
 - **Control:** choose a constrained intervention and timing that move the system toward a desired state.
 - **Biologically informed deep learning:** encode defensible prior interactions while retaining flexibility because the prior network is incomplete.
+- **Omics:** large-scale measurement of one molecular layer—genomics (DNA), transcriptomics (RNA), proteomics/phosphoproteomics (proteins and signaling), or metabolomics (metabolites).
+- **Multi-omics:** connect several molecular layers while respecting their different timing, noise, missingness, scale, and biological meaning; do not merely concatenate every feature.
 - **Why recurrence:** current biological state depends on history; stability, partial observation, and validation still matter.
 - **Validation ladder:** baseline → held-out conditions → held-out perturbations → uncertainty → mechanism → prospective in vitro test → revise after failure.
+
+**If asked how I would integrate multi-omics:** preprocess each modality appropriately, align samples/time points/perturbations, connect measurements through biological pathways or a structured representation, compare fusion strategies, and test what each layer adds through ablation and held-out validation.
 
 [Full technical notes](2026-08-24-kth-live-interview-guide.md#full-technical) · [↑ Back to index](#index)
 
@@ -119,6 +123,7 @@ Answer pattern: **problem → what I personally did → result/failure → lesso
 - **BIO614:** Nussinov dynamic programming + thermodynamics; not deep learning.
 - **DSCI640:** coursework and assignment materials; do not claim a verified completed LSTM implementation.
 - **BIOL550:** group project; identify my documented writing/integration contribution.
+- **My verified omics experience:** transcriptomics/RNA-seq. Proteomics, phosphoproteomics, and metabolomics are relevant Nilsson-group context and areas to learn—not completed-work claims.
 - **ISTE780 groups:** RNA type, GC bin, and length—not human demographic groups.
 - **DSCI601:** synthetic simulation; not patient or clinical validation.
 - **Formal control:** learning goal, not current specialization.

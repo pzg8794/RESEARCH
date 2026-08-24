@@ -190,6 +190,12 @@ If they notice the older CV date:
 
 **Biologically constrained deep learning:** encode defensible interaction knowledge into architecture, connectivity, state, or loss—but retain learnable flexibility because prior networks are incomplete and sometimes wrong.
 
+**Omics:** large-scale measurement of a molecular layer: genomics for DNA, transcriptomics for RNA, proteomics/phosphoproteomics for proteins and signaling, and metabolomics for metabolites.
+
+**Multi-omics:** connect several of those layers without treating them as an arbitrary feature matrix. Their scale, timing, missingness, noise, and causal proximity differ, so integration should follow the biological relationships among the measurements.
+
+**My boundary:** my verified hands-on evidence is transcriptomics/RNA-seq through BIOL550. The other omics layers are important Nilsson-group research context and areas I am prepared to learn, not experiences I should claim as completed.
+
 **Why recurrence may help:** molecular state evolves; the current state depends on history. An RNN can represent that dependence, but stability, partial observation, long time scales, and biological validation still matter.
 
 **Validation ladder:** simpler baselines → held-out trajectories/conditions → held-out perturbations → uncertainty/calibration → mechanistic plausibility → prospective in vitro test → revise the model after failure.
