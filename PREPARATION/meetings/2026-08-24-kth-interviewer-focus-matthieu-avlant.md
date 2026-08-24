@@ -148,6 +148,82 @@ Do **not** learn a new RNN explanation tonight. Refresh from the exact material 
   <https://docs.google.com/document/d/121cQHygwY1SxNHgUTwx3FZRoXfhifZAS07AJU55UtSo/edit>  
   Quick text reference to the codebase and required methods.
 
+### Simple definitions and visuals: RNN vs ARIMA
+
+#### RNN - Recurrent Neural Network
+
+**Simple definition:** A neural network for sequential or temporal data that carries information from previous passes forward through recurrent connections, allowing the current prediction to depend on both the current input and learned information from the past.
+
+```text
+x(t-2)      x(t-1)       x(t)
+  |           |           |
+  v           v           v
+[RNN] -----> [RNN] -----> [RNN] -----> prediction
+  | h(t-2)     | h(t-1)     | h(t)
+  +------------+------------+
+        learned memory/state moves forward
+```
+
+Mental shorthand:
+
+```text
+current input + previous learned state -> new state -> prediction
+```
+
+Why it matters here: signaling, gene regulation and metabolism are **evolving interacting processes**. An RNN can carry a learned representation of prior molecular state forward as the system changes.
+
+#### ARIMA - AutoRegressive Integrated Moving Average
+
+**Simple definition:** A statistical time-series forecasting model that predicts future values from a specified number of past values, optional differencing, and past prediction errors.
+
+For the current quantum implementation, **ARIMA(1,0,1)** means approximately:
+
+- **AR(1):** use one previous observed value;
+- **I(0):** no differencing;
+- **MA(1):** use one previous prediction error.
+
+```text
+previous value x(t)
+        |
+        +------+
+               v
+          [ ARIMA ] -----> prediction x_hat(t+1)
+               ^
+               |
+        previous error e(t)
+```
+
+Mental shorthand:
+
+```text
+specified past values + specified past errors -> forecast
+```
+
+#### The difference to remember
+
+```text
+ARIMA: WE specify how much history enters the forecast.
+       x(t), x(t-1), errors -> x_hat(t+1)
+
+RNN:   THE NETWORK learns a state that represents useful history.
+       x(t) + h(t-1) -> h(t) -> x_hat(t+1)
+```
+
+Both use temporal information. **ARIMA has an explicit statistical memory structure; RNNs learn a recurrent state representation.**
+
+Connection to our work:
+
+```text
+Current iCPursuitNeuralUCB:
+history -> ARIMA forecast -> predicted context -> bandit decision
+
+Original iCMAB direction:
+history -> EXAMM-RNN world/controller models -> predicted context/reward -> bandit decision
+
+KTH/Avlant direction:
+molecular history -> biologically constrained RNN state -> future molecular/cellular state under perturbation
+```
+
 ### What to remember for the interview
 
 The course framing is enough:
