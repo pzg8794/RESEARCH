@@ -10,6 +10,65 @@
 
 ---
 
+<a id="index"></a>
+## Interview Navigation Index
+
+**Quick jump:** [Evaluation format](#evaluation-format) · [Parte 1 — Lectura](#parte-1) · [Parte 2 — Escritura](#parte-2) · [Parte 3 — Conversación](#parte-3) · [Parte 4 — Audición](#parte-4) · [Cross-topic questions](#cross-topic) · [Language background](#language-background) · [Clarification phrases](#clarification) · [45-minute prep](#final-prep) · [Mental map](#mental-map) · [Source links](#sources) · [Final reminder](#final-reminder)
+
+### Full document index
+
+1. [What Kirt actually asked me to prepare](#evaluation-format)
+2. [PARTE 1 — LECTURA](#parte-1)
+   - [Selected Texto 2 — Terremoto en Colombia](#texto-2)
+     - [Main idea](#texto-2-main)
+     - [¿Cuál es la idea principal?](#texto-2-principal)
+     - [¿Qué detalle te llamó más la atención?](#texto-2-detalle)
+     - [¿Qué deberían hacer los gobiernos?](#texto-2-gobiernos)
+     - [My opinion](#texto-2-opinion)
+     - [Useful vocabulary](#texto-2-vocab)
+     - [20-second version](#texto-2-20)
+   - [Selected Texto 4 — Comunidades indígenas protegen el Amazonas](#texto-4)
+     - [Main idea](#texto-4-main)
+     - [Facts worth remembering](#texto-4-facts)
+     - [¿Cuál es la idea principal?](#texto-4-principal)
+     - [¿Qué te pareció más interesante?](#texto-4-interesante)
+     - [¿Qué relación ves entre tecnología y comunidad?](#texto-4-tecnologia)
+     - [¿Por qué es importante proteger la Amazonia?](#texto-4-amazonia)
+     - [Useful vocabulary](#texto-4-vocab)
+     - [20-second version](#texto-4-20)
+   - [Compare the two readings](#compare-readings)
+3. [PARTE 2 — ESCRITURA](#parte-2)
+   - [Writing sample submitted](#writing-sample)
+   - [What the document is about](#writing-about)
+   - [My role — be precise](#writing-role)
+   - [¿Por cuánto tiempo participaste?](#writing-duration)
+   - [¿Qué hiciste tú específicamente?](#writing-specific)
+   - [¿Qué aprendiste de esa investigación?](#writing-learned)
+   - [¿Cómo se conecta ese trabajo con lo que haces ahora?](#writing-now)
+4. [PARTE 3 — CONVERSACIÓN](#parte-3)
+   - [A. Tus metas — highest priority](#metas)
+   - [B. Fulbright y España](#fulbright-spain)
+   - [C. La globalización](#globalizacion)
+   - [D. El medio ambiente](#medio-ambiente)
+   - [E. Los derechos humanos](#derechos-humanos)
+   - [F. La historia](#historia)
+   - [G. La música, el arte y la cultura](#cultura)
+   - [H. Los medios sociales](#medios-sociales)
+   - [I. La política](#politica)
+5. [PARTE 4 — AUDICIÓN](#parte-4)
+   - [Audio/Video 1 — La importancia de las comunidades indígenas](#audio-1)
+   - [Audio/Video 2 — Importancia de las lenguas para la preservación de la cultura indígenas](#audio-2)
+6. [Likely cross-topic questions](#cross-topic)
+7. [Questions about my language background](#language-background)
+8. [Quick clarification phrases](#clarification)
+9. [45-minute final prep](#final-prep)
+10. [Last-minute mental map](#mental-map)
+11. [Source links](#sources)
+12. [Final reminder](#final-reminder)
+
+---
+
+<a id="evaluation-format"></a>
 ## 1. What Kirt actually asked me to prepare
 
 Kirt's evaluation has four parts:
@@ -21,10 +80,16 @@ Kirt's evaluation has four parts:
 
 Kirt has also said directly that we can talk in the interview about **my goals and interests**, so that is a major preparation area, not an extra.
 
+**Navigation:** [⬆ Back to index](#index) · [Lectura](#parte-1) · [Escritura](#parte-2) · [Conversación](#parte-3) · [Audición](#parte-4)
+
 ---
 
+<a id="parte-1"></a>
 # PARTE 1 — LECTURA
 
+**Navigation:** [⬆ Back to index](#index) · [Texto 2](#texto-2) · [Texto 4](#texto-4) · [Compare readings](#compare-readings)
+
+<a id="texto-2"></a>
 ## Selected Texto 2 — Terremoto en Colombia
 
 **Evaluator instruction:** Read the first two or three sections.  
@@ -33,26 +98,32 @@ https://apnews.com/article/terremoto-colombia-ecuador-panama-bcac483d238678517bc
 
 **Title:** *Fuerte terremoto sacude a Colombia y se siente en Ecuador y Panamá*
 
+<a id="texto-2-main"></a>
 ### Main idea I should be able to explain
 
 > El texto informa sobre un fuerte terremoto de magnitud 7,4 que sacudió Colombia y se sintió también en países vecinos, entre ellos Ecuador y Panamá. El epicentro estuvo cerca de San José del Palmar, en Chocó, y el sismo causó daños en edificios, evacuaciones y reportes iniciales de personas heridas. Una de las cosas que destaca el texto es que el impacto no se limitó al lugar del epicentro: se sintió en ciudades grandes y cruzó fronteras, lo que muestra la dimensión regional de este tipo de desastre.
 
+<a id="texto-2-principal"></a>
 ### If Kirt asks: **¿Cuál es la idea principal?**
 
 > La idea principal es que fue un terremoto muy fuerte con efectos amplios, no solamente en la zona del epicentro. El texto presenta los daños iniciales, las evacuaciones y la manera en que el sismo fue percibido en varios países de la región.
 
+<a id="texto-2-detalle"></a>
 ### If he asks: **¿Qué detalle te llamó más la atención?**
 
 > Me llamó la atención la extensión geográfica del terremoto. El epicentro estuvo en Colombia, pero se sintió en Ecuador y Panamá. Eso recuerda que los desastres naturales no respetan fronteras y que la preparación y la cooperación regional pueden ser muy importantes.
 
+<a id="texto-2-gobiernos"></a>
 ### If he asks: **¿Qué deberían hacer los gobiernos ante una situación así?**
 
 > Primero, proteger vidas: comunicar información clara, evacuar cuando sea necesario, identificar daños estructurales y asegurar acceso a servicios de emergencia. Después viene la recuperación, pero también la prevención: revisar infraestructura, mejorar los sistemas de alerta y aprender de lo ocurrido para reducir el riesgo en el futuro.
 
+<a id="texto-2-opinion"></a>
 ### If he asks for my opinion
 
 > Para mí, una parte importante es no pensar solamente en el fenómeno natural, sino también en quién tiene más dificultad para recuperarse. Dos familias pueden vivir el mismo terremoto, pero no necesariamente tienen los mismos recursos, acceso a información, vivienda segura o apoyo. Por eso la respuesta también tiene una dimensión de equidad.
 
+<a id="texto-2-vocab"></a>
 ### Useful vocabulary
 
 - terremoto / sismo
@@ -71,21 +142,27 @@ https://apnews.com/article/terremoto-colombia-ecuador-panama-bcac483d238678517bc
 - prevención
 - damnificados
 
+<a id="texto-2-20"></a>
 ### 20-second version
 
 > Fue un terremoto de magnitud 7,4 con epicentro en Chocó, Colombia. Causó daños y evacuaciones y se sintió también en Ecuador y Panamá. Para mí, el punto más importante es que un desastre así tiene consecuencias regionales y también muestra la importancia de la preparación, la infraestructura y una respuesta equitativa.
 
+[⬆ Back to index](#index) · [Back to Parte 1 menu](#parte-1)
+
 ---
 
+<a id="texto-4"></a>
 ## Selected Texto 4 — Comunidades indígenas protegen el Amazonas
 
 **NASA Ciencia:**  
 https://ciencia.nasa.gov/ciencias-terrestres/comunidades-indigenas-protegen-el-amazonas/
 
+<a id="texto-4-main"></a>
 ### Main idea I should be able to explain
 
 > El artículo explica que las comunidades indígenas desempeñan un papel muy importante en la protección de los bosques amazónicos. La investigación citada muestra que los bosques administrados por pueblos indígenas y otras comunidades han funcionado como sumideros de carbono, mientras que muchos bosques fuera de esa gestión han perdido más carbono. El artículo también muestra cómo los datos de satélites de la NASA pueden apoyar el monitoreo comunitario de la deforestación.
 
+<a id="texto-4-facts"></a>
 ### Facts worth remembering — not because I need to recite all of them
 
 - Aproximadamente **1,5 millones** de indígenas viven en los bosques de la Amazonia.
@@ -95,22 +172,27 @@ https://ciencia.nasa.gov/ciencias-terrestres/comunidades-indigenas-protegen-el-a
 - Se usaron datos de satélites y misiones de la NASA para estudiar el carbono y la biomasa.
 - En un análisis de comunidades de la Amazonia peruana que utilizaron alertas satelitales, la tasa de deforestación bajó de forma importante.
 
+<a id="texto-4-principal"></a>
 ### If Kirt asks: **¿Cuál es la idea principal?**
 
 > La idea principal es que las comunidades indígenas no son simplemente habitantes de la Amazonia, sino actores fundamentales en su conservación. El texto presenta evidencia de que los territorios bajo gestión indígena pueden proteger mejor los bosques y mantener el carbono almacenado.
 
+<a id="texto-4-interesante"></a>
 ### If he asks: **¿Qué te pareció más interesante?**
 
 > Me interesó mucho la combinación entre conocimiento comunitario y tecnología. El artículo no presenta los datos satelitales como un reemplazo del conocimiento local. Más bien muestra cómo una herramienta tecnológica puede fortalecer el trabajo que las comunidades ya están haciendo para proteger sus propios territorios.
 
+<a id="texto-4-tecnologia"></a>
 ### If he asks: **¿Qué relación ves entre tecnología y comunidad?**
 
 > Creo que la tecnología funciona mejor cuando responde a las necesidades de las personas que la van a utilizar. En este caso, los satélites y las alertas de deforestación ofrecen información útil, pero las comunidades siguen siendo quienes conocen el territorio, toman decisiones y actúan. Esa relación me interesa mucho porque también se parece a cómo pienso sobre la ciencia de datos y la educación: la tecnología debe apoyar a las personas, no sustituir su conocimiento ni quitarles agencia.
 
+<a id="texto-4-amazonia"></a>
 ### If he asks: **¿Por qué es importante proteger la Amazonia?**
 
 > Por muchas razones: biodiversidad, clima, almacenamiento de carbono, agua y también porque es el territorio y la base cultural de muchas comunidades. No se puede separar completamente la protección ambiental de los derechos y la participación de las personas que viven allí.
 
+<a id="texto-4-vocab"></a>
 ### Useful vocabulary
 
 - Amazonia
@@ -129,12 +211,16 @@ https://ciencia.nasa.gov/ciencias-terrestres/comunidades-indigenas-protegen-el-a
 - alertas de deforestación
 - autonomía / agencia
 
+<a id="texto-4-20"></a>
 ### 20-second version
 
 > El artículo muestra que las comunidades indígenas son fundamentales para proteger la Amazonia y que los territorios gestionados por ellas pueden conservar mejor los bosques y el carbono. Lo que más me interesa es cómo los datos satelitales pueden apoyar el conocimiento y la acción de las comunidades en vez de reemplazarlos.
 
+[⬆ Back to index](#index) · [Back to Parte 1 menu](#parte-1)
+
 ---
 
+<a id="compare-readings"></a>
 ## Compare the two readings if Kirt asks
 
 ### **¿Qué tienen en común estos dos textos?**
@@ -145,49 +231,67 @@ https://ciencia.nasa.gov/ciencias-terrestres/comunidades-indigenas-protegen-el-a
 
 > El de la Amazonia me interesó más porque conecta directamente comunidad, datos, tecnología y medio ambiente. Es una combinación muy cercana a mis intereses. Me gusta especialmente que la tecnología aparezca como una herramienta que fortalece la capacidad de una comunidad y no como algo que llega desde afuera a decidir por ella.
 
+[⬆ Back to index](#index) · [Back to Parte 1 menu](#parte-1)
+
 ---
 
+<a id="parte-2"></a>
 # PARTE 2 — ESCRITURA
 
+**Navigation:** [⬆ Back to index](#index) · [Writing sample](#writing-sample) · [My role](#writing-role) · [What I learned](#writing-learned) · [Connection to current work](#writing-now)
+
+<a id="writing-sample"></a>
 ## Writing sample submitted
 
 **Title:** *La Cuenca del Ozama - Riesgo Ciudad Alternativa - Intro*  
 **Document:** use the Google Doc already sent to Kirt; do not duplicate a share link in this public repository.
 
+<a id="writing-about"></a>
 ### What the document is about
 
 > El trabajo forma parte de un proyecto sobre comunidades ubicadas a orillas del río Ozama en Santo Domingo. El objetivo general era generar información actualizada sobre las características sociodemográficas y económicas de las familias y comprender los factores que componían su estructura de riesgo. El informe combinaba datos del censo con grupos focales y entrevistas para interpretar la realidad desde la perspectiva de las propias comunidades.
 
+<a id="writing-role"></a>
 ### My role — be precise
 
 > Participé aproximadamente cuatro meses en el proyecto. Mi trabajo se concentró principalmente en la redacción y la edición del informe. Los análisis estadísticos fueron realizados por otros colaboradores. Lo que me pareció valioso fue ver cómo se combinaban los datos cuantitativos con entrevistas y grupos focales para entender la realidad de la comunidad con más contexto.
 
+<a id="writing-duration"></a>
 ### If Kirt asks: **¿Por cuánto tiempo participaste?**
 
 > Aproximadamente cuatro meses.
 
+<a id="writing-specific"></a>
 ### **¿Qué hiciste tú específicamente?**
 
 > Mi participación se concentró principalmente en la redacción y edición del informe. Otros colaboradores realizaron las estadísticas y los análisis cuantitativos. Yo trabajé con el material para ayudar a comunicar los resultados y la interpretación del estudio con claridad.
 
+<a id="writing-learned"></a>
 ### **¿Qué aprendiste de esa investigación?**
 
 > Aprendí que los datos por sí solos no siempre explican la experiencia de una comunidad. El censo podía mostrar patrones de vivienda, empleo, pobreza o educación, pero las entrevistas y los grupos focales ayudaban a explicar cómo las personas vivían esas condiciones. Esa combinación entre datos y contexto todavía influye mucho en la manera en que pienso sobre la ciencia de datos.
 
+<a id="writing-now"></a>
 ### **¿Cómo se conecta ese trabajo con lo que haces ahora?**
 
 > Hay una conexión muy clara. Ahora trabajo con ciencia de datos, inteligencia artificial y educación, pero sigo haciéndome una pregunta parecida: qué información falta cuando un sistema intenta entender a una persona o una comunidad. Mi interés actual en la equidad viene en parte de esa necesidad de no reducir a las personas a una cifra o a una categoría sin contexto.
 
+[⬆ Back to index](#index) · [Back to Parte 2 menu](#parte-2)
+
 ---
 
+<a id="parte-3"></a>
 # PARTE 3 — CONVERSACIÓN
 
 Kirt dijo que la conversación será de unos diez minutos y puede tocar temas como globalización, metas, medio ambiente, derechos humanos, historia, cultura, medios sociales y política. He also explicitly said we can discuss **my goals and interests**.
 
 The responses below are deliberately conversational. Use the ideas, not exact memorized wording.
 
+**Conversation menu:** [⬆ Index](#index) · [A. Metas](#metas) · [B. Fulbright/España](#fulbright-spain) · [C. Globalización](#globalizacion) · [D. Medio ambiente](#medio-ambiente) · [E. Derechos humanos](#derechos-humanos) · [F. Historia](#historia) · [G. Cultura](#cultura) · [H. Medios sociales](#medios-sociales) · [I. Política](#politica)
+
 ---
 
+<a id="metas"></a>
 ## A. **Tus metas** — highest priority
 
 ### **¿Cuáles son tus metas académicas y profesionales?**
@@ -202,8 +306,11 @@ The responses below are deliberately conversational. Use the ideas, not exact me
 
 > Porque quiero pasar de aplicar tecnología y enseñar con ella a investigar de manera más profunda cómo se diseñan esos sistemas y cómo podemos mejorarlos. También quiero que la investigación tenga una conexión real con la práctica educativa. No me interesa hacer investigación que solamente funcione en un laboratorio; quiero que ayude a formular mejores decisiones y mejores herramientas para personas reales.
 
+[⬆ Back to index](#index) · [Back to conversation menu](#parte-3)
+
 ---
 
+<a id="fulbright-spain"></a>
 ## B. **Fulbright y España**
 
 ### **¿Por qué quieres hacer Fulbright?**
@@ -222,8 +329,11 @@ The responses below are deliberately conversational. Use the ideas, not exact me
 
 > Aportaría experiencia en ciencias de la computación, STEM, ciencia de datos y enseñanza. Me gustaría utilizar esos temas para crear conversaciones reales en inglés: discutir tecnología, analizar recomendaciones hechas por inteligencia artificial, resolver problemas en parejas o hablar de ciencia y de temas que interesen a los estudiantes. También aportaría mi experiencia de haber tenido que construir confianza académica en inglés después de haberme educado en español.
 
+[⬆ Back to index](#index) · [Back to conversation menu](#parte-3)
+
 ---
 
+<a id="globalizacion"></a>
 ## C. **La globalización**
 
 ### **¿Qué piensas de la globalización?**
@@ -234,8 +344,11 @@ The responses below are deliberately conversational. Use the ideas, not exact me
 
 > Hace las dos cosas. Reduce distancias y permite acceso rápido a información y colaboración, pero también amplifica desigualdades cuando el acceso, los datos o las plataformas están controlados por pocos actores. Por eso la alfabetización tecnológica y la capacidad de cuestionar lo que produce una herramienta son tan importantes.
 
+[⬆ Back to index](#index) · [Back to conversation menu](#parte-3)
+
 ---
 
+<a id="medio-ambiente"></a>
 ## D. **El medio ambiente**
 
 ### **¿Qué problema ambiental te preocupa?**
@@ -246,8 +359,11 @@ The responses below are deliberately conversational. Use the ideas, not exact me
 
 > Tenemos responsabilidad individual, pero no creo que la solución pueda depender solamente de decisiones individuales. Reciclar, reducir desperdicios o cuidar recursos importa, pero también necesitamos infraestructura, políticas públicas, empresas responsables y decisiones colectivas. Los problemas grandes requieren acción en varios niveles.
 
+[⬆ Back to index](#index) · [Back to conversation menu](#parte-3)
+
 ---
 
+<a id="derechos-humanos"></a>
 ## E. **Los derechos humanos**
 
 ### **¿Qué significan para ti los derechos humanos?**
@@ -258,8 +374,11 @@ The responses below are deliberately conversational. Use the ideas, not exact me
 
 > La educación afecta la capacidad de una persona para participar en la sociedad, acceder a oportunidades y defender sus propios intereses. Por eso la equidad educativa no es solamente una cuestión pedagógica; también tiene una dimensión de derechos y dignidad.
 
+[⬆ Back to index](#index) · [Back to conversation menu](#parte-3)
+
 ---
 
+<a id="historia"></a>
 ## F. **La historia**
 
 ### **¿Por qué es importante estudiar historia?**
@@ -270,8 +389,11 @@ The responses below are deliberately conversational. Use the ideas, not exact me
 
 > La relación histórica entre España y América Latina es compleja y no se puede resumir solamente como intercambio cultural ni solamente como conflicto. Hay lengua, religión, instituciones y tradiciones compartidas, pero también colonización, violencia y pérdida. Me interesa poder hablar de esa historia reconociendo las dos cosas: las conexiones que existen hoy y el costo histórico con el que muchas de ellas se formaron.
 
+[⬆ Back to index](#index) · [Back to conversation menu](#parte-3)
+
 ---
 
+<a id="cultura"></a>
 ## G. **La música, el arte y la cultura**
 
 ### **¿Qué importancia tiene la cultura?**
@@ -282,8 +404,11 @@ The responses below are deliberately conversational. Use the ideas, not exact me
 
 > Podría pedirles a los estudiantes que expliquen en inglés una tradición, un lugar natural, una comida, una canción o un monumento que para ellos tenga valor. Entonces el inglés deja de ser solamente un ejercicio y se convierte en una herramienta para expresar algo que ya les importa.
 
+[⬆ Back to index](#index) · [Back to conversation menu](#parte-3)
+
 ---
 
+<a id="medios-sociales"></a>
 ## H. **Los medios sociales**
 
 ### **¿Son positivos o negativos?**
@@ -294,8 +419,11 @@ The responses below are deliberately conversational. Use the ideas, not exact me
 
 > Los algoritmos ya deciden qué contenido vemos, en qué orden y con qué frecuencia. Con la inteligencia artificial generativa ahora también se vuelve más difícil saber quién creó una imagen, un video o un texto. Eso hace que la alfabetización digital y el pensamiento crítico sean todavía más importantes.
 
+[⬆ Back to index](#index) · [Back to conversation menu](#parte-3)
+
 ---
 
+<a id="politica"></a>
 ## I. **La política**
 
 Keep this analytical and nonpartisan unless Kirt asks about a specific issue.
@@ -308,12 +436,18 @@ Keep this analytical and nonpartisan unless Kirt asks about a specific issue.
 
 > Me preocupa cómo regulamos sistemas de inteligencia artificial que toman o influyen decisiones sobre personas. La innovación es importante, pero también necesitamos transparencia, responsabilidad y formas de evaluar si un sistema perjudica de manera desproporcionada a ciertos grupos.
 
+[⬆ Back to index](#index) · [Back to conversation menu](#parte-3)
+
 ---
 
+<a id="parte-4"></a>
 # PARTE 4 — AUDICIÓN
 
 Kirt's instruction: listen to **both** videos. We will discuss them. The goal is the **main points**, not every word.
 
+**Navigation:** [⬆ Back to index](#index) · [Audio 1](#audio-1) · [Audio 2](#audio-2)
+
+<a id="audio-1"></a>
 ## Audio/Video 1 — “La importancia de las comunidades indígenas” — 2:09
 
 https://www.youtube.com/watch?v=cVBKXA8R5qE
@@ -343,8 +477,11 @@ Listen twice:
 - Ejemplo concreto: __________________________________________
 - Palabra/frase clave: ________________________________________
 
+[⬆ Back to index](#index) · [Back to Parte 4 menu](#parte-4)
+
 ---
 
+<a id="audio-2"></a>
 ## Audio/Video 2 — “Importancia de las lenguas para la preservación de la cultura indígenas” — 1:26
 
 https://www.youtube.com/watch?v=r1qNsTyZnKQ
@@ -375,8 +512,11 @@ The UN description identifies the central issue as the **loss of ancestral Indig
 - revitalización
 - comunidad de hablantes
 
+[⬆ Back to index](#index) · [Back to Parte 4 menu](#parte-4)
+
 ---
 
+<a id="cross-topic"></a>
 # LIKELY CROSS-TOPIC QUESTIONS
 
 These are especially likely because they let Kirt move naturally between the assigned material and my goals.
@@ -397,8 +537,11 @@ These are especially likely because they let Kirt move naturally between the ass
 
 > Quiero conocer una cultura desde la vida cotidiana y no solamente como visitante. Me interesa conocer las diferencias regionales, escuchar cómo las personas hablan de su identidad, participar en la comunidad y aprender de la naturaleza, la comida, la música, la historia y las lenguas del lugar donde viva. También quiero entender mejor cómo esas dimensiones culturales entran en una escuela y en las relaciones entre estudiantes y profesores.
 
+[⬆ Back to index](#index)
+
 ---
 
+<a id="language-background"></a>
 # QUESTIONS ABOUT MY LANGUAGE BACKGROUND
 
 ## **¿Cuál es tu relación con el español?**
@@ -413,8 +556,11 @@ These are especially likely because they let Kirt move naturally between the ass
 
 > Me ayuda a entender que un estudiante puede tener una idea compleja aunque todavía no pueda expresarla con la misma precisión en la nueva lengua. También me recuerda que corregir es importante, pero la corrección no debe impedir que la persona participe o tenga confianza para seguir intentando.
 
+[⬆ Back to index](#index)
+
 ---
 
+<a id="clarification"></a>
 # QUICK CLARIFICATION PHRASES
 
 If I genuinely do not hear or understand something, use normal Spanish rather than guessing.
@@ -430,8 +576,11 @@ If I genuinely do not hear or understand something, use normal Spanish rather th
 
 These are not signs of weak Spanish. They show normal conversational control and prevent me from inventing an answer.
 
+[⬆ Back to index](#index)
+
 ---
 
+<a id="final-prep"></a>
 # 45-MINUTE FINAL PREP
 
 ## 0–10 min — Texto 2
@@ -486,8 +635,11 @@ Say these aloud once each:
 - Keep this document open only as an emergency reference.
 - Answer naturally instead of trying to reproduce paragraphs word for word.
 
+[⬆ Back to index](#index)
+
 ---
 
+<a id="mental-map"></a>
 # LAST-MINUTE MENTAL MAP
 
 If I forget everything else:
@@ -499,8 +651,11 @@ If I forget everything else:
 **Metas:** Data Science + Human Development/Teaching → fairness, AI, education, people behind the data.  
 **Fulbright:** teach English + learn from another educational system + reciprocal cultural exchange.
 
+[⬆ Back to index](#index)
+
 ---
 
+<a id="sources"></a>
 ## Source links
 
 ### Assigned by Kirt
@@ -516,8 +671,11 @@ If I forget everything else:
 - [Spain ETA execution plan](./2026-08-06-fulbright-spain-eta-execution-plan.md)
 - [Belinda follow-up meeting prep](./2026-08-21-belinda-fulbright-meeting-prep.md)
 
+[⬆ Back to index](#index)
+
 ---
 
+<a id="final-reminder"></a>
 ## Final reminder
 
 Kirt's own instructions repeatedly emphasize the same principle: **I do not need every word; I need the main points.**
@@ -529,3 +687,5 @@ For the interview, the strongest evidence of proficiency will be that I can:
 3. give an opinion,
 4. connect it to another idea,
 5. respond naturally when he follows up.
+
+[⬆ Back to index](#index)
