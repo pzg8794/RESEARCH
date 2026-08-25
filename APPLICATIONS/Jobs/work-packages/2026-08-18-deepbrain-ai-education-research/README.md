@@ -1,6 +1,6 @@
 # DeepBrain AI for Education research application
 
-Status: **SAVED; LIVE APPLICATION OPEN; VIBER APPROVED; READY FOR SUBMISSION WORKFLOW**
+Status: **SUBMITTED 2026-08-25; SAVED; RECEIPT VERIFIED**
 
 ## Posting
 
@@ -44,15 +44,26 @@ open; a stale public copy must not override the Handshake state.
   `../../application-materials/2026-08-18-deepbrain-ai-education-research-resume.pdf`
 - Tailored cover letter source:
   `../../application-materials/2026-08-18-deepbrain-ai-education-research-cover-letter.tex`
+- Tailored cover letter PDF:
+  `../../application-materials/2026-08-18-deepbrain-ai-education-research-cover-letter.pdf`
 - Screening answer: **Yes**. Piter has participated in academic paper writing;
   this does not claim a peer-reviewed publication that is not established.
 
-## Remaining action
+## Submission evidence
 
-The three-page tailored resume was compiled and visually reviewed. Viber
-returned `APPROVE` with no remaining correction after commit `23bfd10`. Upload
-the approved resume and cover letter to Handshake, answer the screening question truthfully,
-submit, preserve the receipt, and create a Git-linked response check.
+- Submitted through Handshake on August 25, 2026.
+- Handshake displayed `Application submitted!` and
+  `Applied on August 25, 2026`.
+- Submitted the verified role-specific resume and cover letter listed above.
+- Answered the academic-paper-writing screening question **Yes**.
+- Viber returned `APPROVE` with no remaining correction after commit
+  `23bfd10`.
+
+## Follow-up
+
+Monitor Handshake and the application email account for a human response. Do
+not send a duplicate application. Use the truthful-positioning points above to
+prepare for any recruiter or research interview.
 
 ## Viber correction applied on 2026-08-18
 
