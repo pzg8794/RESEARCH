@@ -3,11 +3,11 @@
 ## Status
 
 - **Handshake:** Saved
-- **Official application:** Located but not submitted
+- **Official application:** Fully completed and saved as a draft; not submitted
 - **Employer deadline:** August 25, 2026
-- **Current gate:** The employer account-creation page is prefilled, but the
-  applicant must choose and confirm a password and accept the required data
-  privacy statement before the application form opens.
+- **Current gate:** The candidate account is active and every required form
+  answer has been completed. Chrome is refusing the two local PDF attachments.
+  Upload the tailored resume and cover letter listed below, then select Apply.
 - **Scheduled completion follow-up:** August 25, 2026 at 2:00 PM ET, linked to
   this preparation package.
 
@@ -21,17 +21,25 @@
 
 ## Immediate Completion Checklist
 
-1. Return to the open HMH account-creation tab.
-2. Choose and confirm a password that meets the displayed employer rules.
-3. Review and accept the required data privacy statement.
-4. Turn off optional job-posting notifications unless they are intentionally
-   wanted.
-5. Create the candidate account and open requisition 20774.
-6. Record every required application field before selecting a résumé or writing
-   any role-specific response.
-7. Submit only after the completed form and selected documents have been
-   checked against the verified profile evidence.
-8. Preserve the employer confirmation and update the shared tracker.
+1. Return to the saved HMH application for requisition 20774.
+2. Upload `2026-08-25-hmh-sr-data-analyst-resume.pdf` as Resume/CV.
+3. Upload `2026-08-25-hmh-sr-data-analyst-cover-letter.pdf` as Cover Letter.
+4. Select Apply. The applicant has explicitly authorized this submission.
+5. Preserve the employer confirmation and update the shared tracker.
+
+## Tailored Materials
+
+- [Resume](../../application-materials/2026-08-25-hmh-sr-data-analyst-resume.pdf)
+- [Cover letter](../../application-materials/2026-08-25-hmh-sr-data-analyst-cover-letter.pdf)
+
+## Verified Draft State — 2026-08-25
+
+- HMH displayed: `The draft application was saved successfully.`
+- Contact, location, referral, relocation, job-type, travel, education,
+  work-authorization, experience, voluntary self-identification, availability,
+  compensation, and certification fields were completed.
+- The application is not recorded as submitted because no employer receipt has
+  been displayed.
 
 ## Shared Tracker
 
