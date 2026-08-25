@@ -8,6 +8,8 @@
 - **Current gate:** The employer account-creation page is prefilled, but the
   applicant must choose and confirm a password and accept the required data
   privacy statement before the application form opens.
+- **Scheduled completion follow-up:** August 25, 2026 at 2:00 PM ET, linked to
+  this preparation package.
 
 ## Role
 

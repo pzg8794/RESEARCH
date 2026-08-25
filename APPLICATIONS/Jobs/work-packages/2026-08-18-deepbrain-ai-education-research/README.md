@@ -65,6 +65,11 @@ Monitor Handshake and the application email account for a human response. Do
 not send a duplicate application. Use the truthful-positioning points above to
 prepare for any recruiter or research interview.
 
+- Scheduled follow-up: **September 9, 2026 at 10:00 AM ET**.
+- The active Codex follow-up points back to this work package and instructs the
+  review to check Handshake and relevant email, record only verified status,
+  and avoid a duplicate application.
+
 ## Viber correction applied on 2026-08-18
 
 - Replaced both outdated August 2026 completion dates with December 2026.
