@@ -7,7 +7,7 @@
 - **USAJOBS application:** [Resume application](https://www.usajobs.gov/applicant/application/879836900/resumes/)
 - **USA Staffing application:** [Resume application 126262757](https://apply.usastaffing.gov/Application/ReviewSubmit/126262757)
 - **Deadline:** October 4, 2026
-- **Current state (August 17, 2026):** Application questions complete; supporting documents incomplete; not submitted.
+- **Current state (August 26, 2026):** Application questions, tailored resume, and RIT/UofR transcripts complete; signed Schedule A letter received August 19 and verified; letter not yet uploaded; application not submitted.
 
 ## Completed Today
 
@@ -16,24 +16,25 @@
 - Added the University of Rochester transcript to the required Transcript category.
 - Reviewed the optional demographic questions without guessing sensitive information.
 - Sent the treating provider a request for a compliant Schedule A certification letter.
+- Received the replacement provider letter on August 19 and verified that it is signed, dated, on professional letterhead, identifies the applicant, and includes Schedule A / 5 CFR 213.3102(u) eligibility language.
 - Preserved the application at Review and Submit without submitting it.
 
-## Remaining Blocker
+## Remaining Gate
 
-The application needs a signed Schedule A certification letter. The existing accommodation letter does not contain the required Schedule A language. The replacement should be on professional letterhead, name the applicant, and state that the applicant has a psychiatric disability and may be considered for federal employment under Schedule A, 5 CFR 213.3102(u). It does not need to disclose a diagnosis.
+The document requirement is now satisfied by a signed provider letter received August 19. The remaining work is to upload that private medical document securely as **Disability Letter (Schedule A)**, verify that both Application and Documents show complete, complete the final attestation, submit only with authorization, and preserve the receipt privately.
 
 - [OPM sample Schedule A letters](https://www.opm.gov/policy-data-oversight/disability-employment/getting-a-job/sampleschedaletters.pdf)
 
-## Resume Checklist When the Letter Arrives
+## Finalization Checklist
 
-1. Confirm that the letter is signed, dated, and on professional letterhead.
-2. Confirm that it identifies the applicant and includes Schedule A / 5 CFR 213.3102(u) eligibility language.
-3. Upload it as **Disability Letter (Schedule A)**.
-4. Return to [USA Staffing Review and Submit](https://apply.usastaffing.gov/Application/ReviewSubmit/126262757).
-5. Verify that both **Application** and **Documents** show complete.
-6. Review the final package and document list.
-7. Submit only after Piter completes the final attestation and explicitly approves submission.
-8. Save the submission confirmation and receipt in the private application record.
+1. [x] Confirm that the letter is signed, dated, and on professional letterhead.
+2. [x] Confirm that it identifies the applicant and includes Schedule A / 5 CFR 213.3102(u) eligibility language.
+3. [ ] Upload it securely as **Disability Letter (Schedule A)**.
+4. [ ] Return to [USA Staffing Review and Submit](https://apply.usastaffing.gov/Application/ReviewSubmit/126262757).
+5. [ ] Verify that both **Application** and **Documents** show complete.
+6. [ ] Review the final package and document list.
+7. [ ] Complete the final attestation and submit only with explicit authorization.
+8. [ ] Save the submission confirmation and receipt in the private application record.
 
 ## Materials Used
 

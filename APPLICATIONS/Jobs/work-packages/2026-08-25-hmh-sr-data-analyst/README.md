@@ -3,13 +3,10 @@
 ## Status
 
 - **Handshake:** Saved
-- **Official application:** Fully completed and saved as a draft; not submitted
+- **Official application:** Submitted August 25, 2026; employer receipt verified
 - **Employer deadline:** August 25, 2026
-- **Current gate:** The candidate account is active and every required form
-  answer has been completed. Chrome is refusing the two local PDF attachments.
-  Upload the tailored resume and cover letter listed below, then select Apply.
-- **Scheduled completion follow-up:** August 25, 2026 at 2:00 PM ET, linked to
-  this preparation package.
+- **Receipt evidence:** SuccessFactors sent `Application Received for Sr Data Analyst at HMH` on August 25 and identified job opening `20774 - Sr Data Analyst`.
+- **Current gate:** No submission action remains. Monitor for a human review or interview response and do not reapply.
 
 ## Role
 
@@ -19,27 +16,24 @@
 - Strong fit: education data, SQL, Python/R, reproducible workflows, quality
   assurance, analysis documentation, and communication
 
-## Immediate Completion Checklist
+## Post-Submission Checklist
 
-1. Return to the saved HMH application for requisition 20774.
-2. Upload `2026-08-25-hmh-sr-data-analyst-resume.pdf` as Resume/CV.
-3. Upload `2026-08-25-hmh-sr-data-analyst-cover-letter.pdf` as Cover Letter.
-4. Select Apply. The applicant has explicitly authorized this submission.
-5. Preserve the employer confirmation and update the shared tracker.
+1. Do not reopen or duplicate requisition 20774.
+2. Monitor the application email account for review, interview, or status outreach.
+3. Preserve the employer receipt only in the authorized private record.
+4. Update the shared tracker if HMH sends a substantive response.
 
 ## Tailored Materials
 
 - [Resume](../../application-materials/2026-08-25-hmh-sr-data-analyst-resume.pdf)
 - [Cover letter](../../application-materials/2026-08-25-hmh-sr-data-analyst-cover-letter.pdf)
 
-## Verified Draft State — 2026-08-25
+## Verified Submission State — 2026-08-25
 
-- HMH displayed: `The draft application was saved successfully.`
-- Contact, location, referral, relocation, job-type, travel, education,
-  work-authorization, experience, voluntary self-identification, availability,
-  compensation, and certification fields were completed.
-- The application is not recorded as submitted because no employer receipt has
-  been displayed.
+- SuccessFactors sent the receipt `Application Received for Sr Data Analyst at HMH`.
+- The receipt identifies job opening `20774 - Sr Data Analyst`.
+- HMH states that the submitted resume will be reviewed.
+- No review decision or interview invitation is yet verified.
 
 ## Shared Tracker
 
