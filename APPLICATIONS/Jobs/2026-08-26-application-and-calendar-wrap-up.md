@@ -46,6 +46,24 @@ credentials are intentionally excluded from Git.
 - Handshake Support confirmed access restoration; the acknowledgment was sent
   and no further support reply is needed.
 
+## UofR Mailbox Reconciled
+
+- The live UofR inbox was processed through the prior seven days on August 26.
+  No unread inbox message remains in that window.
+- Completed, duplicated, expired, marketing, and clearly incompatible alerts
+  were marked read and unstarred, including the already-submitted Academic Eye
+  and Neurohire notifications and the already-declined Positive Development
+  outreach.
+- Actionable school/financial records were marked read but kept starred: the
+  student-account payment notice, newly available Workday transcript, federal
+  aid disbursement confirmation, ED480 course instructions, and the August 27
+  IBM Dev Day reminder.
+- Five new job alerts remain read and starred for role-level verification rather
+  than being mislabeled as applications: City of Rochester Real Time
+  Information Analyst, Ajaia Education Research & Data Analyst, First
+  Presbyterian Church Data Analyst, Sonibel Machine Learning Engineer Intern,
+  and California Department of Public Health Research Data Analyst.
+
 ## Older Recruiter/Application Threads Reconciled
 
 | Thread | Verified state | Action |
