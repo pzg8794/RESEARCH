@@ -17,6 +17,7 @@ credentials are intentionally excluded from Git.
 | Opportunity | Verified state | Next action |
 | --- | --- | --- |
 | WRP Application 101 | Registration approved August 26 for September 9, 2026, 3:00–4:30 PM ET | Attend the registered session. This registration does not submit the separate WRP/federal application. |
+| RIT Resume Writing for Graduate Students | Career Connect displays **“You're Attending”** for September 3, 2026, 3:30–5:00 PM in Cybersecurity Hall 1710 | Bring a computer, current resume or CV, and a sample job description. |
 
 ## Open Application Work
 
@@ -45,15 +46,14 @@ credentials are intentionally excluded from Git.
   provisional because the placement's exact final date has not been verified.
 - External state: imported into the University of Rochester Google Calendar on
   August 26, 2026. Google Calendar confirmed **"Imported 37 out of 37 events."**
-- RIT resume/CV workshop registration is not complete; the registration route
-  is currently blocked at RIT SSO/Duo.
+- RIT resume/CV workshop registration completed August 26, 2026. Career Connect
+  confirmed **"You're Attending."**
 
 ## Secure Handoffs Preserved
 
 - USAJOBS document-selection page for the WRP/federal application.
 - CandidateConnect sign-in page for the Carney official application stage.
 - RIT Student Government CampusGroups application form.
-- RIT SSO/Duo gate for the resume/CV workshop registration.
 
 Do not change any row to `submitted`, `sent`, or `imported` without a visible
 provider confirmation or receipt.
