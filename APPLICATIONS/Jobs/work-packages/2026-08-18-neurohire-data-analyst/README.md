@@ -1,12 +1,15 @@
 # Neurohire.ai — Data Analyst
 
-Updated: 2026-08-18
+Updated: 2026-08-25
 
 - Handshake: https://rochester.joinhandshake.com/jobs/11244765
 - Work arrangement: remote
 - Viber decision: `APPROVE`
-- Application state: packet prepared; not submitted
+- Application state: **submitted and saved August 25, 2026; awaiting response**
 - Distinct role: do not confuse with the previously submitted Neurohire Data Scientist / Machine Learning Engineer application.
+
+The verified August 25 application record supersedes the pre-submission steps
+below. Monitor the existing application and do not reapply.
 
 ## Tailored packet
 
@@ -17,7 +20,7 @@ The packet emphasizes verified SQL, Excel, Python, R, data cleaning, validation,
 statistics, KPI analysis, reporting, healthcare analytics, and stakeholder
 communication. It does not add unsupported BI tools or certifications.
 
-## Next actions
+## Historical pre-submission actions
 
 1. Recheck the live posting and application fields.
 2. Send the exact packet to Viber for the final submission gate.

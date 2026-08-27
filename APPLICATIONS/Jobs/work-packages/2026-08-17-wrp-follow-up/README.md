@@ -30,11 +30,16 @@
 - Uploaded and selected the private Schedule A letter with the tailored resume and both current graduate-school transcripts.
 - Reached the federal truth-certification page without checking the certification or submitting the application.
 - Completed the evidence-grounded USAJOBS profile fields: Student and Schedule A hiring paths; the verified VEDADATA role; both current master's programs; English and Spanish; telework; and internship, permanent, temporary, term, full-time, and part-time preferences.
-- Preserved the application without submitting it. The USAJOBS session timed out before the separate resume-bank upload could be completed.
+- Verified that the two-page federal resume is already present in the separate
+  USAJOBS profile resume bank and searchable through August 17, 2027.
+- Preserved the application without submitting it.
 
 ## Remaining Gate
 
-The application document package is complete and selected. The remaining application gate is the federal truth certification, which requires Piter's action-time confirmation, followed by authorized submission and private preservation of the receipt. Separately, the two-page federal resume still needs to be added to the USAJOBS profile resume bank after signing in again; the prior session timed out before that profile-only upload.
+The application document package and searchable profile resume are complete.
+The remaining application gate is the federal truth certification, which
+requires Piter's action-time confirmation, followed by authorized submission
+and private preservation of the receipt.
 
 - [OPM sample Schedule A letters](https://www.opm.gov/policy-data-oversight/disability-employment/getting-a-job/sampleschedaletters.pdf)
 
@@ -48,7 +53,7 @@ The application document package is complete and selected. The remaining applica
 6. [ ] Complete the federal truth certification only with Piter's action-time confirmation.
 7. [ ] Submit only with explicit authorization.
 8. [ ] Save the submission confirmation and receipt in the private application record.
-9. [ ] After signing back in, add the two-page federal resume to the separate USAJOBS profile resume bank.
+9. [x] Verify the two-page federal resume in the separate USAJOBS profile resume bank.
 
 ## Materials Used
 
