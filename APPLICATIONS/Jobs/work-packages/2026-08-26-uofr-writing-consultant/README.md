@@ -1,6 +1,6 @@
 # University of Rochester Graduate Writing Consultant application
 
-Status: **DRAFT PACKET COMPILED; NOT EMAILED OR SUBMITTED**
+Status: **GMAIL DRAFT FULLY PREPARED WITH THREE VERIFIED ATTACHMENTS; NOT SENT**
 
 ## Posting
 
@@ -86,12 +86,20 @@ The email should briefly state that the CV, cover letter, and twelve-page
 academic writing sample are attached, then provide the required private fields
 directly in Gmail. Do not duplicate the cover letter in the email body.
 
+On August 26, 2026, the draft was prepared in Piter's University of Rochester
+Gmail account to the official public application address. The required private
+fields were added directly in Gmail and are not reproduced in this repository.
+Gmail verified all three attachments by filename: the tailored CV, tailored
+cover letter, and `BIO614-FinalProjectProposal.pdf`. The message remains a
+draft and has not been sent.
+
 ## Final gate
 
-1. Review the compiled CV and cover letter for voice and factual accuracy.
-2. Add the required private personal information directly in the email.
-3. Attach the CV, cover letter, and canonical twelve-page writing sample.
-4. Verify all three attachments in Gmail before sending.
-5. Send only after the required final action-time confirmation.
-6. Preserve the sent message or an authoritative receipt before changing this
+1. [x] Review the compiled CV and cover letter for voice and factual accuracy.
+2. [x] Add the required private personal information directly in the email.
+3. [x] Attach the CV, cover letter, and canonical twelve-page writing sample.
+4. [x] Verify all three attachments in Gmail before sending.
+5. [ ] Review the populated Gmail draft and send only after the required final
+   action-time confirmation.
+6. [ ] Preserve the sent message or an authoritative receipt before changing this
    package from `DRAFT` to `SUBMITTED`.

@@ -26,7 +26,7 @@ credentials are intentionally excluded from Git.
 | --- | --- | --- |
 | WRP / federal application | Login.gov access was completed August 26 and the USAJOBS document-selection page is open; application questions, tailored resume, transcripts, and the required private eligibility document are ready; application is not submitted | Securely upload the private document, verify the final packet, submit with explicit approval, and preserve the receipt privately. |
 | Carney, Sandoe & Associates Teaching Fellowship | Handshake submission is receipt-verified; the separate CandidateConnect stage is not receipt-confirmed | Piter must sign in to CandidateConnect. Complete only the missing official stage, preserve its receipt, and then notify the recruiter. |
-| UofR Writing Consultant | Packet complete; not sent: tailored two-page resume, one-page cover letter, and verified 12-page writing sample | Add the required private contact fields, review the final email and attachments, send, and preserve the sent-state evidence. [Preparation package](./work-packages/2026-08-26-uofr-writing-consultant/README.md) |
+| UofR Writing Consultant | Gmail draft fully prepared in the UofR account; required private fields entered directly in Gmail; tailored two-page resume, one-page cover letter, and verified 12-page writing sample attached and upload-confirmed; not sent | Review the populated draft, send only after final action-time confirmation, and preserve the sent-state evidence. [Preparation package](./work-packages/2026-08-26-uofr-writing-consultant/README.md) |
 
 ## Semester Calendar Package
 
