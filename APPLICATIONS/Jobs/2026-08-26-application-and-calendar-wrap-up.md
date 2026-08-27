@@ -43,8 +43,8 @@ credentials are intentionally excluded from Git.
   registration block on August 29.
 - Evidence boundary: the teaching block begins August 31 and remains explicitly
   provisional because the placement's exact final date has not been verified.
-- External state: calendar import has **not** been executed. Import requires a
-  final browser-side approval because it creates calendar events.
+- External state: imported into the University of Rochester Google Calendar on
+  August 26, 2026. Google Calendar confirmed **"Imported 37 out of 37 events."**
 - RIT resume/CV workshop registration is not complete; the registration route
   is currently blocked at RIT SSO/Duo.
 
@@ -52,7 +52,6 @@ credentials are intentionally excluded from Git.
 
 - USAJOBS document-selection page for the WRP/federal application.
 - CandidateConnect sign-in page for the Carney official application stage.
-- UofR Calendar import page with the validated calendar file ready locally.
 - RIT Student Government CampusGroups application form.
 - RIT SSO/Duo gate for the resume/CV workshop registration.
 

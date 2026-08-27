@@ -15,8 +15,8 @@
 - **Session:** September 9, 2026, 3:00–4:30 PM ET
 - **Evidence boundary:** The session registration is complete, but it does not
   submit or complete the separate WRP/federal application documented below.
-- **Calendar state:** Included in the validated 37-event calendar import file;
-  calendar import has not been executed.
+- **Calendar state:** Imported into the University of Rochester Google Calendar
+  on August 26, 2026; Google Calendar confirmed 37 of 37 events imported.
 
 ## Completed Today
 
