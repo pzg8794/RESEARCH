@@ -48,8 +48,10 @@ credentials are intentionally excluded from Git.
 
 ## UofR Mailbox Reconciled
 
-- The live UofR inbox was processed through the prior seven days on August 26.
-  No unread inbox message remains in that window.
+- The live UofR inbox was processed through the prior seven days on August 26,
+  and a separate 30-day pass cleared the remaining unread UofR/Warner human and
+  school-origin messages. No unread inbox message remains in the seven-day
+  window, and no unread UofR/Warner sender remains in the 30-day window.
 - Completed, duplicated, expired, marketing, and clearly incompatible alerts
   were marked read and unstarred, including the already-submitted Academic Eye
   and Neurohire notifications and the already-declined Positive Development
@@ -58,15 +60,23 @@ credentials are intentionally excluded from Git.
   student-account payment notice, newly available Workday transcript, federal
   aid disbursement confirmation, ED480 course instructions, and the August 27
   IBM Dev Day reminder.
-- Five new job alerts remain read and starred for role-level verification rather
-  than being mislabeled as applications: City of Rochester Real Time
-  Information Analyst, Ajaia Education Research & Data Analyst, First
-  Presbyterian Church Data Analyst, Sonibel Machine Learning Engineer Intern,
-  and California Department of Public Health Research Data Analyst.
+- Five new job alerts were verified and then unstarred without applying. The
+  City of Rochester, Minnesota RTIC Analyst, Ajaia Education Research & Data
+  Analyst, Sonibel Machine Learning Engineer Intern, and California Department
+  of Public Health Research Data Analyst roles require onsite or hybrid work
+  incompatible with the current remote-first school schedule. The First
+  Presbyterian Church Data Analyst listing is nominally remote, but its low
+  stated pay and unresolved employer-authenticity discrepancy make it unsafe
+  to transmit application data without independent confirmation. No local
+  submission or reply record was found for any of the five. [Verification
+  record](./work-packages/2026-08-26-uofr-alert-verification/README.md)
 - The new UofR student-account payment notice is marked read and starred. A
   private RIT-calendar follow-up was created for September 8, 8:30-8:45 PM ET,
   with two-day and one-hour reminders and this GitHub status record linked in
   the description. The exact balance remains outside Git.
+- Alyse Cunzio's earlier human reply and the still-required health-insurance
+  notice are read but remain starred because the Fulbright third-slot receipt
+  and annual insurance action are not yet independently closed.
 
 ## Older Recruiter/Application Threads Reconciled
 

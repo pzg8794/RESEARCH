@@ -86,12 +86,15 @@ The email should briefly state that the CV, cover letter, and twelve-page
 academic writing sample are attached, then provide the required private fields
 directly in Gmail. Do not duplicate the cover letter in the email body.
 
-On August 26, 2026, the draft was prepared in Piter's University of Rochester
-Gmail account to the official public application address. The required private
-fields were added directly in Gmail and are not reproduced in this repository.
-Gmail verified all three attachments by filename: the tailored CV, tailored
-cover letter, and `BIO614-FinalProjectProposal.pdf`. The message remains a
-draft and has not been sent.
+On August 26, 2026, the current Gmail API did not expose the earlier reported
+draft, so a fresh draft was recreated in Piter's verified University of
+Rochester Gmail account rather than trusting stale status. It is addressed to
+the official WSAP application address and contains the required private fields,
+which are not reproduced in this repository. Gmail then verified the draft and
+all three attachments by filename: `Piter_Garcia_Writing_Consultant_CV.pdf`,
+`Piter_Garcia_Writing_Consultant_Cover_Letter.pdf`, and
+`BIO614-FinalProjectProposal.pdf`. The writing sample remains 12 pages after
+email-size optimization. The message remains a draft and has not been sent.
 
 ## Final gate
 
