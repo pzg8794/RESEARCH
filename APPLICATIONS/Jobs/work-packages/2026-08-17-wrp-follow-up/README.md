@@ -7,7 +7,7 @@
 - **USAJOBS application:** [Resume application](https://www.usajobs.gov/applicant/application/879836900/resumes/)
 - **USA Staffing application:** [Resume application 126262757](https://apply.usastaffing.gov/Application/ReviewSubmit/126262757)
 - **Deadline:** October 4, 2026
-- **Current state (August 26, 2026):** Application questions, tailored resume, and RIT/UofR transcripts complete; signed Schedule A letter received August 19 and verified; letter not yet uploaded; application not submitted.
+- **Current state (August 26, 2026):** Login.gov access complete and the USAJOBS document-selection page reopened; application questions, tailored resume, and RIT/UofR transcripts complete; signed Schedule A letter received August 19 and verified; letter not yet uploaded; application not submitted.
 
 ## WRP Application 101 Registration
 
@@ -26,6 +26,7 @@
 - Reviewed the optional demographic questions without guessing sensitive information.
 - Sent the treating provider a request for a compliant Schedule A certification letter.
 - Received the replacement provider letter on August 19 and verified that it is signed, dated, on professional letterhead, identifies the applicant, and includes Schedule A / 5 CFR 213.3102(u) eligibility language.
+- Completed Login.gov access on August 26 and reopened the USAJOBS **Select Documents** page.
 - Preserved the application at Review and Submit without submitting it.
 
 ## Remaining Gate

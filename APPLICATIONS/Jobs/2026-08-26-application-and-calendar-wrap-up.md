@@ -22,7 +22,7 @@ credentials are intentionally excluded from Git.
 
 | Opportunity | Current state | Exact gate |
 | --- | --- | --- |
-| WRP / federal application | Application questions, tailored resume, transcripts, and the required private eligibility document are ready; application is not submitted | Piter must complete Login.gov access. Then securely upload the private document, verify the final packet, submit with explicit approval, and preserve the receipt privately. |
+| WRP / federal application | Login.gov access was completed August 26 and the USAJOBS document-selection page is open; application questions, tailored resume, transcripts, and the required private eligibility document are ready; application is not submitted | Securely upload the private document, verify the final packet, submit with explicit approval, and preserve the receipt privately. |
 | Carney, Sandoe & Associates Teaching Fellowship | Handshake submission is receipt-verified; the separate CandidateConnect stage is not receipt-confirmed | Piter must sign in to CandidateConnect. Complete only the missing official stage, preserve its receipt, and then notify the recruiter. |
 | RIT Student Government Technology Services | Documentation Writer is the strongest role; application answers are ready; CampusGroups form is not submitted | Review the prepared answers, complete the remaining form steps, and preserve the submission receipt. Compensation remains unverified. [Preparation package](./work-packages/2026-08-26-rit-student-government-tech/README.md) |
 | UofR Writing Consultant | Packet complete; not sent: tailored two-page resume, one-page cover letter, and verified 12-page writing sample | Add the required private contact fields, review the final email and attachments, send, and preserve the sent-state evidence. [Preparation package](./work-packages/2026-08-26-uofr-writing-consultant/README.md) |
@@ -50,7 +50,7 @@ credentials are intentionally excluded from Git.
 
 ## Secure Handoffs Preserved
 
-- Login.gov sign-in page for the WRP/federal application.
+- USAJOBS document-selection page for the WRP/federal application.
 - CandidateConnect sign-in page for the Carney official application stage.
 - UofR Calendar import page with the validated calendar file ready locally.
 - RIT Student Government CampusGroups application form.
