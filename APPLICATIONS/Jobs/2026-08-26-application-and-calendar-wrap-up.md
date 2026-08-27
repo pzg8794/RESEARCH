@@ -63,6 +63,10 @@ credentials are intentionally excluded from Git.
   Information Analyst, Ajaia Education Research & Data Analyst, First
   Presbyterian Church Data Analyst, Sonibel Machine Learning Engineer Intern,
   and California Department of Public Health Research Data Analyst.
+- The new UofR student-account payment notice is marked read and starred. A
+  private RIT-calendar follow-up was created for September 8, 8:30-8:45 PM ET,
+  with two-day and one-hour reminders and this GitHub status record linked in
+  the description. The exact balance remains outside Git.
 
 ## Older Recruiter/Application Threads Reconciled
 
