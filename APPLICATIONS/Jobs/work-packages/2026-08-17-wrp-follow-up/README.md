@@ -9,6 +9,15 @@
 - **Deadline:** October 4, 2026
 - **Current state (August 26, 2026):** Application questions, tailored resume, and RIT/UofR transcripts complete; signed Schedule A letter received August 19 and verified; letter not yet uploaded; application not submitted.
 
+## WRP Application 101 Registration
+
+- **Registration state:** Approved August 26, 2026
+- **Session:** September 9, 2026, 3:00–4:30 PM ET
+- **Evidence boundary:** The session registration is complete, but it does not
+  submit or complete the separate WRP/federal application documented below.
+- **Calendar state:** Included in the validated 37-event calendar import file;
+  calendar import has not been executed.
+
 ## Completed Today
 
 - Selected the tailored federal resume.
