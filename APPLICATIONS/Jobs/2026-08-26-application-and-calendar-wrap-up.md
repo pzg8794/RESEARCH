@@ -11,6 +11,7 @@ credentials are intentionally excluded from Git.
 | --- | --- | --- |
 | HMH / NWEA — Sr Data Analyst, requisition 20774 | Submitted August 25; SuccessFactors receipt verified | Monitor for a human response; do not reapply. |
 | Jobot — Machine Learning Engineer, Predictive Intelligence | Jobot displays applied August 25 and application received | Do not reapply. Profile and elevator-pitch extras are optional and must remain evidence-grounded. |
+| RIT Student Government Technology Services — Documentation Writer | Submitted August 26; CampusGroups confirmed **“You have successfully completed the Form.”** | Monitor for a response; do not submit the remaining duplicate draft. [Preparation package](./work-packages/2026-08-26-rit-student-government-tech/README.md) |
 
 ## Receipt-Verified Registrations
 
@@ -25,7 +26,6 @@ credentials are intentionally excluded from Git.
 | --- | --- | --- |
 | WRP / federal application | Login.gov access was completed August 26 and the USAJOBS document-selection page is open; application questions, tailored resume, transcripts, and the required private eligibility document are ready; application is not submitted | Securely upload the private document, verify the final packet, submit with explicit approval, and preserve the receipt privately. |
 | Carney, Sandoe & Associates Teaching Fellowship | Handshake submission is receipt-verified; the separate CandidateConnect stage is not receipt-confirmed | Piter must sign in to CandidateConnect. Complete only the missing official stage, preserve its receipt, and then notify the recruiter. |
-| RIT Student Government Technology Services | Documentation Writer is the strongest role; application answers are ready; CampusGroups form is not submitted | Review the prepared answers, complete the remaining form steps, and preserve the submission receipt. Compensation remains unverified. [Preparation package](./work-packages/2026-08-26-rit-student-government-tech/README.md) |
 | UofR Writing Consultant | Packet complete; not sent: tailored two-page resume, one-page cover letter, and verified 12-page writing sample | Add the required private contact fields, review the final email and attachments, send, and preserve the sent-state evidence. [Preparation package](./work-packages/2026-08-26-uofr-writing-consultant/README.md) |
 
 ## Semester Calendar Package
@@ -53,7 +53,6 @@ credentials are intentionally excluded from Git.
 
 - USAJOBS document-selection page for the WRP/federal application.
 - CandidateConnect sign-in page for the Carney official application stage.
-- RIT Student Government CampusGroups application form.
 
 Do not change any row to `submitted`, `sent`, or `imported` without a visible
 provider confirmation or receipt.

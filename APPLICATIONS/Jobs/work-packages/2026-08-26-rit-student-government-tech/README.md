@@ -6,7 +6,8 @@
 - **Team:** Technology Services
 - **Application route:** CampusGroups
 - **Deadline:** September 4, 2026 at 11:59 PM, as displayed
-- **Application state:** Form opened; not submitted
+- **Application state:** Submitted August 26, 2026; CampusGroups confirmation
+  verified
 - **Compensation:** Not stated in the verified source
 
 ## Available roles
@@ -106,20 +107,23 @@ entered only in CampusGroups, not copied into additional public records.
   > experience. I can commit 4-6 hours most weeks through the Fall semester and
   > coordinate around my fixed teaching and course schedule.
 
+## Submitted state
+
+- **Role:** Documentation Writer
+- **Weekly commitment:** 4-6 hours
+- **Recurring weekly meeting:** Most weeks with some exceptions
+- **Semesters on campus:** Fall only
+- **Provider confirmation:** **“You have successfully completed the Form.”**
+- A second draft remains in CampusGroups and should not be submitted.
+
 ## Next actions
 
-1. Reopen the existing CampusGroups form without claiming that it was already
-   submitted.
-2. Use only verified experience when answering the role and skills questions,
-   emphasizing Front-End, Back-End, and Documentation work.
-3. Confirm compensation, expected weekly hours, appointment dates, and whether
-   the work can coexist with the Fall teaching and course schedule.
-4. Review every required answer and attachment, then submit before the displayed
-   September 4 deadline.
-5. Preserve the CampusGroups confirmation and update the shared tracker only
-   after a success state or receipt is visible.
+1. Monitor for a response from RIT Student Government.
+2. If invited to continue, confirm compensation, expected weekly hours,
+   appointment dates, and compatibility with the Fall teaching/course schedule.
+3. Do not submit the remaining duplicate CampusGroups draft.
 
 ## Evidence boundary
 
-This package records only the public-safe opportunity facts and application
-state. Do not infer compensation, selection, or submission from the opened form.
+This package records only the public-safe opportunity facts and verified
+submission state. Do not infer compensation or selection from submission.
