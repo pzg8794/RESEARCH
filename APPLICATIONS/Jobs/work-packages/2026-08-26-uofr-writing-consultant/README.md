@@ -65,13 +65,13 @@ Locked GPA values from `AGENTS.md` are preserved exactly: Farmingdale 3.3,
 RIT M.S. Computer Science 3.2, RIT M.S. Data Science 3.9, and University of
 Rochester Teaching Computer Science K-12 4.0.
 
-## Private send-time requirements
+## Private-data boundary
 
 The official posting also requires the applicant's student ID, graduate program,
-local address, and phone number. This public-safe package intentionally does not
-record the student ID, street address, or phone number. Add the required private
-values directly to the application email from secure records at send time; do
-not commit them to Git.
+local address, and phone number. Those required fields have been added directly
+to the Gmail draft from secure records. This public-safe package intentionally
+does not record the student ID, street address, or phone number; do not commit
+them to Git.
 
 The graduate-program text to use is:
 
