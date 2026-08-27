@@ -1,11 +1,26 @@
 # Fulbright Spain ETA Execution Plan
 
-Updated: 2026-08-06
+Updated: 2026-08-26
 
-Status: **Active.** Spain ETA is the priority application through the August 24
-campus-review checkpoint. Piter owns all submitted prose. Generative AI may
+Status: **CAMPUS-REVIEW STAGE COMPLETE.** The application is available for the
+University of Rochester campus-review process; national submission remains
+separate and untouched. Piter owns all submitted prose. Generative AI may
 organize evidence, check requirements, review, and schedule work, but it may not
 compose Fulbright statements for submission.
+
+## August 26 receipt reconciliation
+
+- The application is complete for the current campus-review stage; national
+  submission remains separate and untouched.
+- The official Fulbright receipt confirms that Kirt Komocki submitted the
+  Spanish Foreign Language Evaluation on August 26.
+- Official recommendation receipts confirm Zenon Borys submitted on August 22
+  and April Luehmann submitted on August 25.
+- Elyse Schirmer's form was unsubmitted on August 26 at Piter's request. No
+  official submission receipt was located for Alyse Cunzio, so that portal
+  status remains unverified rather than inferred.
+- The original dated checklist below is retained as the execution history. Use
+  this reconciliation and the live portal for current receipt status.
 
 ## Outcome
 

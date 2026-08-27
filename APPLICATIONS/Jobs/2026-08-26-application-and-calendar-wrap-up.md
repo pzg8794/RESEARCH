@@ -52,6 +52,14 @@ credentials are intentionally excluded from Git.
   and a separate 30-day pass cleared the remaining unread UofR/Warner human and
   school-origin messages. No unread inbox message remains in the seven-day
   window, and no unread UofR/Warner sender remains in the 30-day window.
+- A final 30-day opportunity pass cleared the older unread residue that the
+  seven-day window did not include: expired federal-event notices, duplicate
+  Academic Eye and EQseer receipts already documented in Git, incompatible
+  teaching alerts, a Handshake recruiter broadcast, and old RIT calendar
+  echoes. Follow-up searches now return no unread human-like message and no
+  unread job/application/interview message in the UofR inbox for that period.
+  This changed mailbox state only; it did not create, withdraw, or relabel any
+  application as submitted.
 - Completed, duplicated, expired, marketing, and clearly incompatible alerts
   were marked read and unstarred, including the already-submitted Academic Eye
   and Neurohire notifications and the already-declined Positive Development
@@ -125,11 +133,22 @@ existing evidence chains are preserved in the job pipeline and email logs.
 
 ## Secure Handoffs Preserved
 
-- USAJOBS re-entry point for application 879836900; the selected document
-  package is saved. Login.gov authentication is required before the separate
-  resume-bank upload, and the application remains at the uncompleted
-  truth-certification gate.
-- CandidateConnect new-account registration page for the Carney official stage.
+- **USAJOBS application 879836900:** Piter completes Login.gov authentication,
+  adds the two-page federal resume to the separate profile resume bank, and
+  personally completes the federal truth certification. Submission must remain
+  authorized and its receipt must be preserved privately. The selected
+  application document package is already saved.
+- **UofR Graduate Writing Consultant:** Piter reviews and sends the recreated
+  Gmail draft. All three attachments and the required private fields are
+  already present and verified.
+- **Carney CandidateConnect:** Piter creates the new password, reviews and
+  accepts the provider's terms, and completes secure sign-in. Only the missing
+  official stage should then be completed; preserve its receipt before
+  notifying the recruiter.
+- **Fulbright:** Kirt, Zenon, and April receipts require no further outreach.
+  Alyse's portal submission status remains the only unverified receipt in this
+  reconciliation. The saved Will O'Neil-White reply remains a review-only draft,
+  not a required application step.
 
 Do not change any row to `submitted`, `sent`, or `imported` without a visible
 provider confirmation or receipt.
