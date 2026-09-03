@@ -21,9 +21,20 @@ current pending action.
 | Pure Tree Solutions — Data Analyst | **BLOCKED — employer email bounced** | Delivery failure in personal Gmail message `1a039a78f3d92685`, received 2026-08-25 | Do not treat as submitted or waiting; locate a verified employer/application channel before retrying |
 | Diverse Lynx — Lead Applied AI Engineer | **RESUME SENT / awaiting recruiter response** | Recruiter email in RIT Gmail thread `1a05d402be1e5877`; reply with targeted AI/ML resume sent 2026-09-03 (`1a06818051232915`) | Fully remote, full-time role advertised at $100,000-$155,000 plus benefits. Follow up once if no substantive response; confirm end client, team, interview process, and start date during screening. |
 | Jobot — Machine Learning Engineer, Predictive Intelligence | **SUBMITTED — CONFIRMED** | Live Jobot application page verified 2026-09-03; the page displays `Application Received` | Remote role advertised at $140,000-$180,000. Do not reapply from the stale August 25 “80% complete” email; the live account state supersedes it. |
+| Fund the People — Research Assistant on Improving Nonprofit Jobs | **SAVED / application preparation needed** | [Handshake 11351468](https://rochester.joinhandshake.com/jobs/11351468), verified live 2026-09-03 | Remote, $20/hour for eligible graduate students, 6-15 hours/week across fall and spring; deadline 2026-09-25. Strong research, documentation, outreach, and equity fit. Prepare a focused application rather than using a generic AI resume. |
+| ASU Preparatory Academy — Grades 6-12 Science Part-Time Teacher | **SAVED / deprioritized** | [Handshake 11354558](https://rochester.joinhandshake.com/jobs/11354558), verified live 2026-09-03 | Remote and $30/hour, but assignments are explicitly not guaranteed and an active state teaching certificate/fingerprint card is requested. Revisit after certification evidence is available; it does not solve immediate reliable-income needs. |
+| NWEA/HMH — Sr Data Analyst | **CLOSED — no application possible** | [Handshake 11333701](https://rochester.joinhandshake.com/jobs/11333701); official HMH page checked 2026-09-03 | Excellent education-data fit, but HMH states it is no longer accepting applications. Preserve as a search-template role; do not spend more application time on this posting. |
 | WRP / federal talent profile | **Schedule A letter obtained; upload/acceptance status unverified; webinar registered** | Provider letter dated 2026-08-19 in RIT Gmail thread `194b42e9994b5fe4` explicitly certifies eligibility under 5 CFR 213.3102(u); WRP webinar confirmation `1a03f12da6fb89bf` | Verify that the Schedule A PDF is attached and accepted in the WRP/federal profile; attend Application 101 on 2026-09-09 |
 
 ## Immediate Queue
+
+- 2026-09-03: Handshake inbox reviewed to zero unread messages. The Academic
+  Eye application remains under review; the new City Year, Kodely, Army
+  Civilian, financial-advisor, and phlebotomy messages do not match the current
+  remote education/data income target or point to an available role.
+- 2026-09-03: LinkedIn unread messages were checked. No current recruiter reply
+  requiring a response was present; the visible unread recruiter approaches
+  were from 2024-2025 and are not evidence of live openings.
 
 | Priority | Employer / opportunity | Work model and compensation | Fit | Status | Next action |
 | --- | --- | --- | --- | --- | --- |
