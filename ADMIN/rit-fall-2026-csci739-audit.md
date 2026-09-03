@@ -1,8 +1,8 @@
 # RIT Fall 2026 CSCI-739 Audit
 
-Last verified: 2026-08-04
+Last verified: 2026-09-03
 
-Status: **Signed; awaiting advisor/Registrar processing and SIS verification**
+Status: **COMPLETE — CSCI-739 is an audit; continue participating as capacity permits**
 
 This is a public-safe administrative record. It does not reproduce private
 email bodies, student identifiers, account balances, or financial-aid records.
@@ -17,12 +17,22 @@ email bodies, student identifiers, account balances, or financial-aid records.
 | Class number | 14936 |
 | Instructor | Ryan Vogt, `rhvvcs@rit.edu` |
 | Meeting | Tuesday and Thursday, 9:30-10:45 AM, online |
-| Current grading basis | Standard letter grade |
-| Requested grading basis | Audit |
+| Current grading basis | Audit |
+| Requested grading basis | Audit — completed |
 | Course to keep for credit | DSCI-602 Applied Data Science II |
 
 The request is to change **CSCI-739-01**, not DSCI-602. DSCI-602 must remain
 registered for credit.
+
+## Working decision
+
+- Keep CSCI-739 active. Do not withdraw or drop it.
+- Treat it as a low-demand learning opportunity that does not displace required
+  coursework, teaching placement, health needs, or family care.
+- Participate as capacity permits. Use structured summaries and targeted help
+  when the material becomes difficult.
+- The administrative follow-up is only to ensure that SIS records the agreed
+  `Audit` grading basis; it is not a request to remove the course.
 
 ## Required Process
 
@@ -32,13 +42,10 @@ registered for credit.
    (`melics@rit.edu`) and have it included as the instructor approval.
 3. **Complete:** Piter reviewed and electronically signed the prepared audit
    form on August 4.
-4. **Advisor/Registrar action:** Process the signed audit during the Fall 2026
-   add/drop period, August 24-31.
-5. Verify in SIS that CSCI-739 shows `Audit` and DSCI-602 remains registered for
-   credit.
-6. Confirm tuition, scholarship, FTE, and financial-aid treatment with the
-   advisor and RIT Aid before final processing. RIT states that audited courses
-   carry no credit and do not count toward enrollment status.
+4. **Complete:** Audit status is supported by the signed form, academic record,
+   and finance evidence.
+5. **Ongoing:** Participate as capacity permits; no further administrative
+   verification is required unless RIT reports an actual problem.
 
 ## Communication Record
 
@@ -57,9 +64,16 @@ registered for credit.
 - **2026-08-04 signature verification:** The downloaded final PDF carries an
   Adobe Acrobat Sign digital signature timestamped August 4 at 2:54 PM. The
   signature covers the full document and `pdfsig` reports it as valid.
-- **Current state:** Awaiting advisor and Registrar processing. Permission,
-  signature, Registrar processing, SIS display, and aid treatment remain
-  separate verification states.
+- **Current state:** Complete. The course remains an active audit and DSCI-602
+  remains the course for credit.
+- **2026-09-03:** A status-only follow-up was sent to Megan asking whether the
+  signed audit form was processed and whether DSCI-602 remains for credit. The
+  message did not request withdrawal, cancellation, or removal of CSCI-739.
+- **2026-09-03 correction:** Megan was told to disregard the unnecessary
+  follow-up. The operative instruction is unchanged: continue CSCI-739 under
+  the audit arrangement already made, do not drop or withdraw it, and keep
+  DSCI-602 for credit. No response is required unless there is an actual issue
+  with the existing audit arrangement.
 
 ## Calendar Safeguards
 

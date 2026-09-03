@@ -61,6 +61,9 @@ Interview preparation priorities derived from the evaluation:
 - Keep answers centered on teaching English, collaboration with the host
   teacher, cultural exchange, and adaptability.
 
+The evaluator's feedback is converted into an actionable practice guide here:
+[Fulbright campus-interview practice sheet](../../PREPARATION/meetings/2026-09-03-fulbright-campus-interview-practice.md).
+
 ## Active follow-ups
 
 | Priority | Owner | Action | Evidence state |
@@ -69,7 +72,7 @@ Interview preparation priorities derived from the evaluation:
 | P0 | William O'Neil-White | Submit the third ETA recommendation and provide an ETA | Agreed; portal request sent; submission unverified |
 | P0 | Piter | Verify the newest Application Proof shows correct transcript identity labels | Not verified from a post-August 22 export |
 | P1 | Fellowships Office | Assign campus interview slot and issue interview guidance | Waiting on office |
-| P1 | Piter / Belinda | Request a warm introduction to Lizmairi Vargas Santa '26 | Warm-introduction/forwarding request sent to Belinda 2026-09-03 |
+| P1 | Piter | Introduce himself directly to Lizmairi Vargas Santa '26 through her verified public professional profile | Direct, source-grounded outreach prepared; no guessed email address |
 | P1 | Piter | Continue country-source current-events reading and practice responses | Scheduled preparation |
 
 ## Completion test

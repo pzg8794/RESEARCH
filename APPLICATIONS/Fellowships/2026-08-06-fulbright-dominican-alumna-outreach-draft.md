@@ -2,8 +2,8 @@
 
 Updated: 2026-08-06
 
-Status: **Ready for Piter's review; not sent.** Lizmairi Vargas Santa '26 is
-identified but has not been contacted. No introduction has been requested.
+Status: **Direct outreach prepared; not yet sent.** Lizmairi Vargas Santa '26
+is identified through a verified public professional profile.
 
 ## Verified Identity And Boundary
 
@@ -24,53 +24,32 @@ request.
 
 ## Contact Route
 
-1. Ask Belinda or the Fellowships Office to make a warm introduction or
-   forward the direct note below.
-2. If they cannot introduce the two students, ask for a verified professional
-   route or use a public professional profile only after confirming that it is
-   Lizmairi's.
+1. Use Lizmairi's verified public professional profile for one direct message.
+2. Do not require Belinda or the Fellowships Office to broker the contact.
 3. Do not guess a personal email address. Do not use the Penpal contact page's
    placeholder phone number, address, or generic development email.
 4. Do not contact several possible accounts at once. If there is no response,
    send at most one follow-up after seven days.
 
-## Draft 1: Introduction Request
-
-Subject: Introduction to Lizmairi Vargas Santa '26
-
-Dear Belinda,
-
-Thank you for sharing the Rochester stories about Lizmairi Vargas Santa during
-our Fulbright advising meeting. Would you be willing to introduce us, or to
-forward the short note below?
-
-I would value a brief conversation about how she developed reciprocal,
-community-centered work in Azua and kept the project feasible. That perspective
-would help me think more carefully about community engagement in my Spain ETA
-application. I understand that her Projects for Peace grant is separate from
-Fulbright.
-
-Thank you,
-
-Piter Garcia
-
-## Draft 2: Forwardable Note To Lizmairi
+## Direct note to Lizmairi
 
 Subject: Rochester introduction and a brief community-engagement question
 
 Dear Lizmairi,
 
 Belinda Redden shared Rochester's story about your Projects for Peace work in
-Azua during a recent Fulbright advising meeting. I am a Warner master's student
-from the Dominican Republic preparing a Fulbright Spain English Teaching
-Assistant application.
+Azua during my Fulbright advising. I am also Dominican and a Warner master's
+student preparing a Fulbright Spain English Teaching Assistant application
+centered on inclusive education.
 
-Would you be open to a 15-20 minute conversation about how you scoped your
-project, worked with the local community, and kept the engagement reciprocal?
-I am especially interested in lessons that would help me describe a modest,
-realistic community-engagement plan without overstating access or impact. I
-understand that Projects for Peace and Fulbright are separate programs, and I
-am seeking only your perspective as a recent Rochester graduate.
+Your work creating arts and vocational opportunities with young people in Azua
+connects genuinely with my interest in how educational systems can remove
+barriers before students are treated as failing. Would you be open to a 15-20
+minute conversation about how you scoped the work, collaborated with local
+partners, and kept the engagement reciprocal and feasible? I understand that
+Projects for Peace and Fulbright are separate programs; I am reaching out
+because your community-centered education work offers a perspective I would
+value as a fellow Dominican Rochester student.
 
 Thank you for considering it.
 
@@ -91,8 +70,7 @@ Piter Garcia
 
 ## Completion Test
 
-This action is complete when Piter has reviewed the wording, a verified
-introduction or forwarding request has been sent, and the response status has
-been recorded privately. A draft alone does not complete the task. Keep private
-addresses, sent or received message bodies, meeting links, and scheduling
-details outside Git.
+This action is complete when the direct note has been sent through the verified
+public profile and the response status has been recorded privately. A draft
+alone does not complete the task. Keep private addresses, sent or received
+message bodies, meeting links, and scheduling details outside Git.

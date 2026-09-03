@@ -10,13 +10,15 @@ Public-safe status only. Do not add private health or family information.
 - Placement dates: 2026-09-08 through 2026-11-20.
 - District policies: signed and received.
 - Required GCN training: 12/12 complete and confirmed by Human Resources.
-- District IT access: Human Resources requested access on 2026-09-03; login
-  information is to be sent to the host teacher/administrator.
+- District IT access: authorized through Human Resources; login information was
+  routed to the host teacher/administrator rather than directly to Piter.
 - Coordination schedule: revised schedule was sent to the SBTE and HR.
 
-Next check: confirm access credentials and first-day arrival details before
-September 8. Do not treat the access request as proof that credentials have
-been issued.
+Next action: obtain the issued login information from the host
+teacher/administrator, identify the systems covered, test access, and resolve
+any failed login before September 8. Also request a public course overview or
+scope-and-sequence reference so preparation can begin without requesting
+private student or district material.
 
 ## Warner registration
 
@@ -40,10 +42,11 @@ been issued.
 
 ## RIT audit follow-up
 
-- A September 3 follow-up asked the RIT advisor to verify whether the signed
-  August 4 CSCI-739 audit form was processed and whether DSCI-602 remains for
-  credit. Access to the course does not by itself prove the grading-basis
-  change.
+- **Complete:** CSCI-739 is established as an audit through the signed form,
+  academic record, and finance evidence. Continue it as a low-demand learning
+  opportunity; do not drop or withdraw it. DSCI-602 remains for credit.
+- The unnecessary September 3 verification message was corrected the same day.
+  Megan was told that no course-plan change or response is needed.
 
 ## Completion test
 
