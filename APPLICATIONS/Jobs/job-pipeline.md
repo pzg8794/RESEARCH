@@ -28,6 +28,14 @@ current pending action.
 
 ### Live Handshake saved-job reconciliation — 2026-09-03
 
+Evening follow-up: the RIT mailbox contained no new employer decision requiring
+an immediate reply. The new Diverse Lynx Austin AI Engineer message is onsite
+and therefore outside the current remote-work boundary. Academic Eye and
+SaNDAI remain under review; their existing follow-up dates remain appropriate.
+Talent Glider and NEX2 were re-opened and staged at Handshake's final submission
+button with the verified data-science resume attached; neither should be marked
+submitted until Handshake displays a receipt.
+
 | Opportunity | Live result | Action |
 | --- | --- | --- |
 | [Talent Glider — Data Analyst](https://rochester.joinhandshake.com/jobs/11273567) | Remote, full-time, $70,000-$80,000; SQL, Python/R, Excel, BI, statistics, reporting, and data-quality fit; deadline 2026-09-03 | **Application ready:** submit the current data-science resume before the deadline |
