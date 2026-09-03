@@ -22,23 +22,17 @@ private student or district material.
 
 ## Warner registration
 
-- The Registrar made no schedule changes and confirmed that EDF 435B remains
-  registered.
-- The Registrar flagged that EDF 436 does not appear in Spring 2026 and said
-  the program advisor must update the POS in WAIS if the requirement was
-  completed through equivalent clinical work.
-- Program-advisor confirmation is still required for the exact remaining Fall
-  registrations, EDF 436 equivalency, certificate completion, and final-term
-  enrollment-status treatment.
-- EDU 427A may be feasible as an audit with participation as an active thought
-  partner, subject to registration, financial-aid, and advisor confirmation.
-- ED 480 should not be treated as an active audit commitment until the revised
-  plan is confirmed.
-- A consolidated advisor escalation covering the POS/WAIS correction, exact
-  remaining requirements, audit choice, and final-term enrollment treatment
-  was sent on 2026-09-03.
-- The ED 480 instructor was notified on 2026-09-03 that the audit commitment is
-  no longer workable, subject to the advisor's final registration confirmation.
+- **Advisor-confirmed plan, 2026-09-03:** EDF 465 for 6 credits covers student
+  teaching and seminar; EDE 477 for 3 credits is the only academic class.
+- EDE465IN and EDE465CS are zero-credit registrations that signal the
+  graduation semester and portfolio work.
+- These registrations total the 9 credits needed for full-time status.
+- Zenon is working with the Registrar to update the POS to reflect this plan.
+- EDU 427A, EDU 497, ED 480, EDF 435B, and the provisional EDF 446 labels are
+  not part of the advisor-confirmed Fall plan and should not remain as active
+  course commitments in the calendar.
+- Reply to Zenon is saved as a Gmail draft acknowledging the plan and asking
+  him to notify Piter when the registration/POS changes are ready to verify.
 
 ## RIT audit follow-up
 
