@@ -8,6 +8,7 @@ Use this folder when an opportunity comes from ProFellow, an external fellowship
 
 | Need | File |
 | --- | --- |
+| Current September 3 Fulbright closeout, verified component status, and interview follow-ups | [2026-09-03-fulbright-closeout-and-followups.md](./2026-09-03-fulbright-closeout-and-followups.md) |
 | Current Fulbright decision, Spain ETA requirements, and individualized August 17 late-starter draft plan | [August 6 Fulbright advising outcome](../../PREPARATION/meetings/2026-08-06-fulbright-advising-outcome.md) |
 | Fulbright Spain ETA critical path, to-do list, and scheduled work blocks | [2026-08-06-fulbright-spain-eta-execution-plan.md](./2026-08-06-fulbright-spain-eta-execution-plan.md) |
 | Review-only outreach to the officially assigned Spanish Fulbright-assessments contact | [2026-08-06-fulbright-spanish-fle-outreach-draft.md](./2026-08-06-fulbright-spanish-fle-outreach-draft.md) |
