@@ -65,11 +65,11 @@ Interview preparation priorities derived from the evaluation:
 
 | Priority | Owner | Action | Evidence state |
 |---|---|---|---|
-| P0 | Piter / Belinda | Belinda rereviews the revised essays and confirms whether review should occur before the third recommendation arrives | Draft prepared; not sent |
+| P0 | Piter / Belinda | Belinda rereviews the revised essays and confirms whether review should occur before the third recommendation arrives | Status/review request sent 2026-09-03; waiting on Belinda |
 | P0 | William O'Neil-White | Submit the third ETA recommendation and provide an ETA | Agreed; portal request sent; submission unverified |
 | P0 | Piter | Verify the newest Application Proof shows correct transcript identity labels | Not verified from a post-August 22 export |
 | P1 | Fellowships Office | Assign campus interview slot and issue interview guidance | Waiting on office |
-| P1 | Piter / Belinda | Request a warm introduction to Lizmairi Vargas Santa '26 | Draft prepared; not sent |
+| P1 | Piter / Belinda | Request a warm introduction to Lizmairi Vargas Santa '26 | Warm-introduction/forwarding request sent to Belinda 2026-09-03 |
 | P1 | Piter | Continue country-source current-events reading and practice responses | Scheduled preparation |
 
 ## Completion test

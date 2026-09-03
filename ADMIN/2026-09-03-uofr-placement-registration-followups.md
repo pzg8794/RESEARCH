@@ -32,6 +32,18 @@ been issued.
   partner, subject to registration, financial-aid, and advisor confirmation.
 - ED 480 should not be treated as an active audit commitment until the revised
   plan is confirmed.
+- A consolidated advisor escalation covering the POS/WAIS correction, exact
+  remaining requirements, audit choice, and final-term enrollment treatment
+  was sent on 2026-09-03.
+- The ED 480 instructor was notified on 2026-09-03 that the audit commitment is
+  no longer workable, subject to the advisor's final registration confirmation.
+
+## RIT audit follow-up
+
+- A September 3 follow-up asked the RIT advisor to verify whether the signed
+  August 4 CSCI-739 audit form was processed and whether DSCI-602 remains for
+  credit. Access to the course does not by itself prove the grading-basis
+  change.
 
 ## Completion test
 
