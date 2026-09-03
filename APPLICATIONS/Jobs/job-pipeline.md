@@ -20,7 +20,7 @@ current pending action.
 | KTH — PhD in deep learning for biological systems | **Interview completed; thank-you sent; decision pending** | Interview thread `1a01dee9a6fbb6c2`; thank-you sent 2026-08-25 | Check on 2026-09-09; calendar follow-up created |
 | Pure Tree Solutions — Data Analyst | **BLOCKED — employer email bounced** | Delivery failure in personal Gmail message `1a039a78f3d92685`, received 2026-08-25 | Do not treat as submitted or waiting; locate a verified employer/application channel before retrying |
 | Diverse Lynx — Lead Applied AI Engineer | **REVIEWED / no resume sent yet** | Recruiter email in RIT Gmail thread `1a05d402be1e5877`, received 2026-09-01 | Potential technical fit, but verify client identity and work terms before transmitting a resume |
-| WRP / federal talent profile | **BLOCKED on acceptable Schedule A documentation; webinar registered** | RIT Gmail thread `194b42e9994b5fe4` and WRP webinar confirmation `1a03f12da6fb89bf` | Attend Application 101 on 2026-09-09; existing calendar prep block is current |
+| WRP / federal talent profile | **Schedule A letter obtained; upload/acceptance status unverified; webinar registered** | Provider letter dated 2026-08-19 in RIT Gmail thread `194b42e9994b5fe4` explicitly certifies eligibility under 5 CFR 213.3102(u); WRP webinar confirmation `1a03f12da6fb89bf` | Verify that the Schedule A PDF is attached and accepted in the WRP/federal profile; attend Application 101 on 2026-09-09 |
 
 ## Immediate Queue
 
