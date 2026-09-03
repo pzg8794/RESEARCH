@@ -1,6 +1,26 @@
 # Job Pipeline
 
-Last updated: 2026-08-04
+Last updated: 2026-09-03
+
+## Verified status snapshot — 2026-09-03
+
+This snapshot records direct email or portal evidence found during the
+UofR, RIT, and personal-account reconciliation. Older queue entries below
+remain useful as history, but their old follow-up dates are not proof of a
+current pending action.
+
+| Opportunity | Verified current state | Evidence | Next action |
+| --- | --- | --- | --- |
+| Academic Eye | **Under review**; employer expects to choose one candidate by the end of September | UofR Gmail thread `1a0642ca3a7eaee7`, received 2026-09-02 | Calendar follow-up created for 2026-09-30; do not send an early duplicate message |
+| SaNDAI Global — Student AI & Analytics Talent Program | **Under review**; employer said interview-scheduling details should arrive later that week or early the next | RIT Gmail message `1a0588d52ff3f382`, received 2026-08-31 | Check on 2026-09-08; calendar follow-up created |
+| Ballotpedia — Research Associate (Remote) | **SUBMITTED — CONFIRMED** | Workable receipt in RIT Gmail message `1a04b7d183298a8c`, received 2026-08-29 | Check on 2026-09-15; calendar follow-up created |
+| Neuromatch — Curriculum Specialist, NeuroAI for High Schoolers | **SUBMITTED — CONFIRMED** | Airtable receipt in personal Gmail message `1a013497a3172bf3`, received 2026-08-18 | Existing 2026-09-08 calendar follow-up remains the next action |
+| HMH — Sr Data Analyst, requisition 20774 | **SUBMITTED — CONFIRMED / under review** | HMH receipt in personal Gmail message `1a03a41fa1fda812`, received 2026-08-25 | Monitor; no reply is possible or requested |
+| Seamless — Customer Education Manager | **SUBMITTED — CONFIRMED / under review** | Rippling receipt in personal Gmail message `1a04b1b2df53e65b`, received 2026-08-29 | Monitor; sender explicitly says replies are not read |
+| KTH — PhD in deep learning for biological systems | **Interview completed; thank-you sent; decision pending** | Interview thread `1a01dee9a6fbb6c2`; thank-you sent 2026-08-25 | Check on 2026-09-09; calendar follow-up created |
+| Pure Tree Solutions — Data Analyst | **BLOCKED — employer email bounced** | Delivery failure in personal Gmail message `1a039a78f3d92685`, received 2026-08-25 | Do not treat as submitted or waiting; locate a verified employer/application channel before retrying |
+| Diverse Lynx — Lead Applied AI Engineer | **REVIEWED / no resume sent yet** | Recruiter email in RIT Gmail thread `1a05d402be1e5877`, received 2026-09-01 | Potential technical fit, but verify client identity and work terms before transmitting a resume |
+| WRP / federal talent profile | **BLOCKED on acceptable Schedule A documentation; webinar registered** | RIT Gmail thread `194b42e9994b5fe4` and WRP webinar confirmation `1a03f12da6fb89bf` | Attend Application 101 on 2026-09-09; existing calendar prep block is current |
 
 ## Immediate Queue
 
