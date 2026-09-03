@@ -26,6 +26,29 @@ current pending action.
 | NWEA/HMH — Sr Data Analyst | **CLOSED — no application possible** | [Handshake 11333701](https://rochester.joinhandshake.com/jobs/11333701); official HMH page checked 2026-09-03 | Excellent education-data fit, but HMH states it is no longer accepting applications. Preserve as a search-template role; do not spend more application time on this posting. |
 | WRP / federal talent profile | **Schedule A letter obtained; upload/acceptance status unverified; webinar registered** | Provider letter dated 2026-08-19 in RIT Gmail thread `194b42e9994b5fe4` explicitly certifies eligibility under 5 CFR 213.3102(u); WRP webinar confirmation `1a03f12da6fb89bf` | Verify that the Schedule A PDF is attached and accepted in the WRP/federal profile; attend Application 101 on 2026-09-09 |
 
+### Live Handshake saved-job reconciliation — 2026-09-03
+
+| Opportunity | Live result | Action |
+| --- | --- | --- |
+| [Talent Glider — Data Analyst](https://rochester.joinhandshake.com/jobs/11273567) | Remote, full-time, $70,000-$80,000; SQL, Python/R, Excel, BI, statistics, reporting, and data-quality fit; deadline 2026-09-03 | **Application ready:** submit the current data-science resume before the deadline |
+| [NEX2 — App Development Intern](https://rochester.joinhandshake.com/jobs/11272622) | Remote/part-time, $20-$25/hour; app development and GitHub portfolio fit, although the text also asks for Miami-area availability; deadline 2026-09-03 | **Application ready:** submit the current data-science resume, which includes GitHub and portfolio links |
+| [AXLE IT — Data Analyst](https://rochester.joinhandshake.com/jobs/11281323) | Remote/full-time; 1-5 years, SQL, Excel, BI, Python/R, ETL, cloud, and predictive-modeling fit; deadline 2026-09-06 | **Application ready:** submit the current data-science resume |
+| [Pure Tree Solutions — Data Analyst](https://rochester.joinhandshake.com/jobs/11290781) | Remote/full-time, $50-$60/hour; live Handshake application remains available despite the earlier email bounce; deadline 2026-09-09 | **Application ready:** use Handshake rather than the bounced email channel |
+| [WT Cox Information Services — Associate Data Integration Analyst](https://rochester.joinhandshake.com/jobs/11314098) | Remote/full-time, $50,000-$60,000; unusually strong fit across ETL, data quality, AI-output evaluation, Python, SQL, APIs, JSON/XML/CSV, documentation, and stakeholder work; deadline 2026-09-16 | **Application ready:** submit the current data-science resume |
+| [USA for UNFPA — Data Intern](https://rochester.joinhandshake.com/jobs/11289199) | Remote/part-time, $17/hour; requires two written answers, including a specific Power BI project. No Power BI project was found in RESEARCH or the local DataScience course tree | **Evidence gap:** do not invent Power BI experience; revisit only with a truthful transferable-project answer |
+| [Fund the People — Research Assistant](https://rochester.joinhandshake.com/jobs/11351468) | Remote/part-time, $20/hour for eligible graduate students; strong research, outreach, documentation, qualitative-analysis, and equity fit; deadline 2026-09-25 | **Prepare targeted external application**; Handshake's external-application control did not expose the destination in the current browser session |
+| [ASU Prep — Grades 6-12 Science Part-Time Teacher](https://rochester.joinhandshake.com/jobs/11354558) | Remote, $30/hour, but assignments are not guaranteed and the posting requests an active teaching certificate and Arizona fingerprint card | **Hold:** not reliable immediate income and credential evidence is incomplete |
+| [Miami University — Application Reader](https://rochester.joinhandshake.com/jobs/11297529) | Remote/part-time, but applicants must have a permanent address in Ohio, Kentucky, or Indiana | **Ineligible:** do not apply from New York |
+| [SAP iXp](https://rochester.joinhandshake.com/jobs/11287004) | Broad external internship-program listing rather than a defined matching role | **Search the SAP destination for a specific remote role before applying** |
+| [Cardiff — Python Engineer](https://rochester.joinhandshake.com/jobs/11292951) | Remote contractor-to-full-time role, but requires deep recent FastAPI, production Snowflake/AWS pipeline, regulated financial API, and video/project evidence | **Stretch / secondary:** do not displace the five ready applications above |
+
+Previously queued IDs were also resolved live: Neurohire Healthcare Data
+Scientist (`11310628`), Neurohire Machine Learning Engineer (`11286753`), and
+Academic Eye Curriculum & Standards Alignment Intern (`11263267`) all show
+**Applied on August 18, 2026**. IDs `11264841` and `11274375` are no longer
+viewable by this account; `11285797` and `11258399` redirect to the general job
+search rather than a live saved posting.
+
 ## Immediate Queue
 
 - 2026-09-03: Handshake inbox reviewed to zero unread messages. The Academic
