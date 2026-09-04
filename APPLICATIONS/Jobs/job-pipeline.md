@@ -1,11 +1,12 @@
 # Job Pipeline
 
-Last updated: 2026-08-04
+Last updated: 2026-09-04
 
 ## Immediate Queue
 
 | Priority | Employer / opportunity | Work model and compensation | Fit | Status | Next action |
 | --- | --- | --- | --- | --- | --- |
+| P0 | SaNDAI Global — Student AI & Analytics Talent Program | Remote/worldwide; part-time; $25/hour | Strong fit across AI/analytics, responsible AI, client communication, data workflows, and independent project work | **Group 1 assessment scheduled — confirmed for 2026-09-09, 6:00–7:15 PM ET** | Prepare with the [assessment guide](../../PREPARATION/applications/2026-09-09-sandai-client-readiness-assessment.md), open the confirmation link by 5:45 PM, and join by 5:50 PM. Record the outcome and next step afterward. |
 | P0 | [Recovery Audit Solutions - Data Analytics and Web Development Intern](https://rochester.joinhandshake.com/job-search/11243659) | Remote; $20-$30/hour; 10 hours/week; August 15-December 15, 2026 | Excellent final-semester fit across healthcare, Python, SQL, AI prototyping, Docker, Git, and independent technical work | **Submitted 2026-07-31 / follow-up sent 2026-08-03** | Handshake and email receipts are verified. The hiring lead received the 10-hour/week, August 15, and Monday/Wednesday/Friday availability note. Check for a response on **2026-08-07**; do not send a duplicate. |
 | P0 | [Tech Rise Solutions - Data Scientist](https://rochester.joinhandshake.com/job-search/11241730) | Remote, full-time; compensation not stated; U.S. work authorization required | Strong Python, ML, SQL, statistical modeling, cloud, visualization, reproducible experimentation, and GitHub fit; listing explicitly seeks 2025/2026 master's graduates | **Submitted 2026-07-31** | Handshake and email receipts are verified. The tailored [resume](./application-materials/2026-07-31-tech-rise-data-scientist-resume.pdf) was used and set as the default data-science resume. Check for a response on **2026-08-07** and screen start date/hours against the final semester. |
 | P0 | [Health Data Max - Clinical Business Analyst Intern](https://rochester.joinhandshake.com/job-search/11219848) | Remote or hybrid in Ashburn, Virginia; $20-$30/hour; part-time internship at **30 hours/week** | Strong healthcare-data, Python/SQL, data-quality, requirements, testing, documentation, and applied-AI fit; confirm workable hours during screening | **Submitted 2026-07-27** | Handshake confirmed the tailored resume, cover letter, and unofficial transcripts were submitted. Check for a response on **2026-08-03** and confirm schedule flexibility during screening. |
@@ -97,3 +98,5 @@ Last updated: 2026-08-04
   submitted and receipt-confirmed on August 3.
 - 2026-08-16 at 11:59 PM: Health Data Max application deadline; the application
   was submitted on July 27.
+
+- 2026-09-09 at 6:00 PM: SaNDAI Group 1 Client-Readiness Proficiency Assessment; appointment and confirmation verified. Use the [preparation guide](../../PREPARATION/applications/2026-09-09-sandai-client-readiness-assessment.md), join by 5:50 PM, and document the outcome afterward.
