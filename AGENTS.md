@@ -2,6 +2,19 @@
 
 This file applies to the entire `RESEARCH/` tree.
 
+## RULE 0 — CLEAN UP AFTER YOURSELF
+
+This rule applies to every task, workspace, repository, sub-agent, and tool run.
+
+1. Use task-scoped temporary directories and keep track of every temporary path, render, extraction, cache, duplicate download, build product, background process, terminal session, and browser tab created for the task.
+2. Before handoff, remove only artifacts the agent created that are no longer required. Stop task-created background processes and close duplicate, login, download, intermediate, and stale portal tabs. Keep the final user-review page open when useful.
+3. Preserve requested deliverables, source evidence, repositories, `.git` directories, worktrees, configured remotes, user changes, submission receipts, and anything whose ownership or regeneration path is uncertain. Cleanup never authorizes repository deletion or destructive Git operations.
+4. Never perform broad deletion based on age, name, size, or location. Resolve every cleanup target to an explicit task-created path first. If ownership is uncertain, preserve it and report it instead of deleting it.
+5. Keep reproducible support artifacts out of user workspaces when possible. Use a task-specific temporary directory; if an artifact must remain, place it in an intentional project location and document why.
+6. Before declaring completion, verify that task-created temporary paths are gone, no unnecessary generated debris was added to repositories, required deliverables still open correctly, and Git working state is preserved.
+
+Rule 0 is a completion condition, not optional polish.
+
 ## Account Access And Thread Handoff
 
 Before reporting that an account, mailbox, calendar, Drive file, portal, or

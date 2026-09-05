@@ -23,6 +23,7 @@ applications, recruiter conversations, and follow-up work.
 
 | File | Purpose |
 | --- | --- |
+| [Application Operating Process](./APPLICATION_OPERATING_PROCESS.md) | Controlling evidence, fit, Viber-verification, Handshake Save, submission, documentation, and follow-up workflow |
 | [Preparation Center](../../PREPARATION/README.md) | Meeting and application preparation kits, shared career evidence, review timing, and post-meeting records |
 | [Near-Term Income and School-Funding Queue](./2026-08-04-near-term-income-and-funding.md) | Ranked quick-income, scholarship, grant, recruiter-screening, and competition actions with risk boundaries |
 | [Quick-Income and Apple Calendar Receipt](./2026-08-04-quick-income-and-apple-calendar-receipt.md) | DoorDash pilots, broader income sources, RIT-to-Apple calendar verification, duplicate-display cleanup, and notification settings |
@@ -48,21 +49,25 @@ applications, recruiter conversations, and follow-up work.
 
 ## Operating Rules
 
-1. Record a lead before or immediately after taking action.
-2. Distinguish `remote now` from `relocation after December`.
-3. Tailor a resume only for an active role with a real application path.
-4. Store summaries, not private message bodies or personal email addresses.
-5. Record submission evidence and the next follow-up date.
-6. Remove an email from the starred queue only after it has been handled and
+1. Follow the [Application Operating Process](./APPLICATION_OPERATING_PROCESS.md)
+   for every lead and application.
+2. Record a lead before or immediately after taking action.
+3. Click **Save** on every Handshake job under consideration, and track
+   `SAVED` separately from `SUBMITTED`.
+4. Distinguish `remote now` from `relocation after December`.
+5. Tailor a resume only for an active role with a real application path.
+6. Store summaries, not private message bodies or personal email addresses.
+7. Record submission evidence and the next follow-up date.
+8. Remove an email from the starred queue only after it has been handled and
    logged. Keep unresolved career, financial, and financial-aid dependencies
    starred.
-7. Prefer afternoons and Zoom when possible. Tuesdays and Thursdays are no
+9. Prefer afternoons and Zoom when possible. Tuesdays and Thursdays are no
    longer blanket exclusions; check the live calendar and protect preparation,
    recovery, and travel time before accepting an appointment.
-8. Keep at least one full calendar day between a new meeting request and the
+10. Keep at least one full calendar day between a new meeting request and the
    meeting. Use a same-day time only when no workable alternative exists and
    Piter explicitly accepts it.
-9. Link every active recruiter screen, interview, advising meeting, and
+11. Link every active recruiter screen, interview, advising meeting, and
    high-stakes appointment to a preparation kit before confirming the time.
 
 ## Status Vocabulary
