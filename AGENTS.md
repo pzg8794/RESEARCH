@@ -166,3 +166,9 @@ Before every PhD or fellowship application — especially positions requiring C/
 5. Do NOT use the 2015 academic PDFs in the `Publications` subfolder as primary PhD writing samples; use Overleaf-tracked papers instead (see `APPLICATIONS/PhD/OVERLEAF_PAPER_INDEX.md`).
 
 This portfolio supplements `MASTER_RESEARCH_INDEX.md` — both should be consulted.
+
+## Viber continuity
+
+Before substantial work with Piter, read `VIBER_HOME.md` and recover the
+canonical Viber context when accessible. Do not duplicate Viber state inside
+this repository.
