@@ -1,6 +1,6 @@
 # PhD & Fellowship Application Deadline Tracker
 
-Last updated: 2026-08-06
+Last updated: 2026-09-09
 Maintainer: Piter Garcia  
 Repo: https://github.com/pzg8794/RESEARCH
 
@@ -84,7 +84,7 @@ This is the canonical multi-country deadline tracker for all PhD, fellowship, an
 | Dec 1, 2026 | Nov 28 | 🇨🇭 Switzerland | [EPFL EDIC PhD: Computer and Communication Sciences](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/) | Direct PhD program | 🔵 Calendar |
 | Dec 1, 2026 | Nov 28 | 🇺🇸 US | MIT EECS PhD | Direct PhD program | 🔵 Calendar |
 | Dec 1, 2026 | Nov 28 | 🇺🇸 US | Carnegie Mellon HCII / CS PhD | Direct PhD program | 🔵 Calendar |
-| Dec 1, 2026 | Nov 28 | 🇺🇸 US | University of Washington iSchool / CSE PhD | Direct PhD program | 🔵 Calendar |
+| Dec 2, 2026, 11:59 PM PT | Nov 19 | 🇺🇸 US | University of Washington Information Science PhD | Direct PhD program | 🟠 OPEN — account activation in progress; not submitted |
 | Dec 1–15, 2026 | Nov 30 | 🇫🇮 Finland | University of Turku selected doctoral programmes | Doctoral admissions | 🔵 Calendar |
 | Dec 15, 2026 | Dec 12 | 🇺🇸 US | Georgia Tech CS / Interactive Computing PhD | Direct PhD program | 🔵 Calendar |
 | Dec 15, 2026 | Dec 12 | 🇺🇸 US | University of Michigan CSE / iSchool PhD | Direct PhD program | 🔵 Calendar |
@@ -164,7 +164,7 @@ alongside the current Spain ETA application.
 |---------|----------|-----------------|-------|
 | MIT EECS / MIT Media Lab | AI fairness, health AI, inclusion | Dec 1, 2026 | Faculty match critical |
 | Carnegie Mellon HCII / CS | HCI + AI fairness + disability inclusion | Dec 1, 2026 | HCII especially strong fit |
-| University of Washington iSchool / CSE | Accessibility, ML, health data | Dec 1–15, 2026 | Allen School + iSchool both relevant |
+| University of Washington Information Science PhD | Responsible AI, reliability, health information, accessibility | Dec 2, 2026, 11:59 PM PT | Open; active workspace under `fall-2027/applications/uw-information-science/` |
 | Georgia Tech CS / Interactive Computing | Equity, AI, education tech | Dec 15, 2026 | Strong equity-in-computing culture |
 | University of Michigan CSE / iSchool | AI ethics, health equity | Dec 15, 2026 | Multiple departments relevant |
 | RIT / University of Rochester | Disability inclusion, ethics of AI | Varies | Relationship advantage; local connections |

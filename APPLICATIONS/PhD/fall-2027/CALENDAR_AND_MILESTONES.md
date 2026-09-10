@@ -52,7 +52,7 @@ These are working appointments, not application deadlines. `Confirmed opening` m
 | Nov 2, 2026 | INTERNAL TARGET: Stanford GSE LSTD PhD ready for final review | Created and verified; one-week and one-day reminders at 9 AM |
 | Nov 13, 2026 | INTERNAL TARGET: Michigan Information PhD ready for final review | Created and verified; one-week and one-day reminders at 9 AM |
 | Nov 17, 2026 | Internal submit target: MIT EECS PhD | Created and verified; one-week and one-day reminders at 9 AM |
-| Nov 18, 2026 | Internal submit target: Rochester Statistics PhD | Created and verified; one-week and one-day reminders at 9 AM |
+| Nov 18, 2026 | Internal submit target: Rochester Statistics PhD | **PAUSED by Piter on 2026-09-09; calendar cleanup must be separately verified before changing the event** |
 | Nov 19, 2026 | Internal submit target: UW Information Science PhD | Created and verified; one-week and one-day reminders at 9 AM |
 | Nov 20, 2026 | Internal submit target: NYU Data Science PhD | Created and verified; one-week and one-day reminders at 9 AM |
 | Dec 17, 2026 | Internal submit target: RIT CIS PhD | Created and verified; one-week and one-day reminders at 9 AM |
@@ -65,10 +65,10 @@ These are working appointments, not application deadlines. `Confirmed opening` m
 | Nov 16, 2026 | DEADLINE: Stanford GSE LSTD PhD | Explicit 2027-28 application requirements; deadline is Nov 16 | Created and verified; two-week, one-week, and one-day reminders at 9 AM |
 | Dec 1, 2026 | DEADLINE: MIT EECS PhD | Current official page; recheck Fall 2027 label | Created and verified; two-week, one-week, and one-day reminders at 9 AM |
 | Dec 1, 2026 | DEADLINE: Michigan Information PhD | Explicit Fall 2027 page; 11:59 PM ET | Created and verified; two-week, one-week, and one-day reminders at 9 AM |
-| Dec 1, 2026 | PRIORITY DEADLINE: Rochester Statistics PhD | Explicit entering Fall 2027 requirements | Created and verified; two-week, one-week, and one-day reminders at 9 AM |
+| Dec 1, 2026 | PRIORITY DEADLINE: Rochester Statistics PhD | Explicit entering Fall 2027 requirements; application deprioritized by Piter | Existing calendar event requires separate cleanup decision; do not treat as active work |
 | Dec 2, 2026 | DEADLINE: UW Information Science PhD | Explicit Autumn 2027 page; 11:59 PM PT | Created and verified; two-week, one-week, and one-day reminders at 9 AM |
 | Dec 3, 2026 | DEADLINE: NYU Data Science PhD | Explicit Fall 2027 page | Created and verified; two-week, one-week, and one-day reminders at 9 AM |
-| Dec 15, 2026 | FINAL DEADLINE: Rochester Statistics PhD | Explicit entering Fall 2027 requirements | Created and verified; two-week, one-week, and one-day reminders at 9 AM |
+| Dec 15, 2026 | FINAL DEADLINE: Rochester Statistics PhD | Explicit entering Fall 2027 requirements; application deprioritized by Piter | Existing calendar event requires separate cleanup decision; do not treat as active work |
 | Dec 31, 2026 | PRIORITY DEADLINE: RIT CIS PhD | Current official page; recheck Fall 2027 label | Created and verified; two-week, one-week, and one-day reminders at 9 AM |
 | Jan 5, 2027 | DEADLINE: Rochester Computer Science PhD | Current official page; recheck cycle label | Created and verified; two-week, one-week, and one-day reminders at 9 AM |
 | TBD | DEADLINE: CMU HCII PhD | Fall 2027 date not yet posted | Do not create until verified |
