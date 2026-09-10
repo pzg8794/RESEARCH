@@ -19,6 +19,17 @@ This is the live one-page cutoff list. Dates are official only where the linked 
 |---|---|---|
 | **Oct 6, 2026, 5:00 PM ET** | [Fulbright U.S. Student Program](https://us.fulbrightonline.org/) | Official national deadline. Campus-review and live-portal status remain separate controls. |
 
+## External fellowship audit
+
+| Deadline | Fellowship | Current control state |
+|---|---|---|
+| **Oct 30, 2026** | [Hertz Fellowship](https://www.hertzfoundation.org/hertz-fellowship/apply/) | **OPEN / ACTIONABLE.** Intended for applicants entering a full-time, in-person US PhD as a first- or second-year student in Fall 2027. Four recommender forms are due Nov 2 at 6 PM Pacific. |
+| **Oct 29, 2026, 2:00 PM ET** | [Paul & Daisy Soros](https://pdsoros.org/eligibility/) | **ELIGIBILITY GATE.** Requires qualifying New American status and age 30 or younger on the deadline. |
+| **Oct 20, 2026, 8:00 PM ET (CISE)** | [NSF GRFP](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf26-526/solicitation) | **CLOSED AS INELIGIBLE FOR PITER.** Current rules limit applicants to their first graduate degree; completed graduate degrees disqualify this route. References would otherwise be due Oct 16 at 8 PM ET. |
+| No 2027 date posted | [Microsoft Research Fellowship](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-fellowship/how-to-apply/) | **WATCH.** Official page shows only the closed 2026 call. |
+| Program concluded | [Ford Foundation Fellowships](https://www.nationalacademies.org/programs/PGA-FP-18-P-24/updates?sort=desc) | **REMOVE/CLOSED.** No active deadline. |
+| 2026 cycle closed Apr 30 | [Google PhD Fellowship](https://research.google/programs-and-events/phd-fellowship/) | **WATCH.** No verified December 2026 deadline. |
+
 ## Fall 2027 PhD deadlines — chronological
 
 | Deadline | Program | Evidence state |
