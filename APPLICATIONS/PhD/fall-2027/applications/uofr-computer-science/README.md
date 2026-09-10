@@ -2,7 +2,7 @@
 
 Last verified: 2026-09-09
 
-Status: **OFFICIAL FALL 2027 CYCLE PUBLISHED — PORTAL LOGIN/PROGRAM SELECTOR NOT YET CAPTURED — NOT SUBMITTED**
+Status: **IN PROGRESS — AUTHENTICATED FALL 2027 DRAFT CREATED — NOT SUBMITTED**
 
 - Official PhD deadline: January 5, 2027.
 - Internal ready-for-review target: December 18, 2026.
@@ -12,7 +12,17 @@ Status: **OFFICIAL FALL 2027 CYCLE PUBLISHED — PORTAL LOGIN/PROGRAM SELECTOR N
 - Existing brief: [programs/uofr-computer-science.md](../../programs/uofr-computer-science.md)
 - Common evidence: [COMMON_DOSSIER.md](../../COMMON_DOSSIER.md)
 
-The official CS page explicitly names January 5, 2027 and links “Apply Online Today.” The public portal permits account creation/login and lists Computer Science PhD/MS. The exact Fall 2027 program selector and secure fields still require authenticated capture; that is a quick access step, not a substantive application blocker.
+The authenticated application now records Computer Science, PhD, full-time,
+Fall 2027, with “Multiple Areas” selected. The provisional faculty-interest
+order saved in the draft is Fatemeh Nargesian, Ehsan Hoque, and Zhen Bai. No
+recommendation was entered, no file was uploaded, no fee was paid, and the
+application was not submitted.
+
+The live statement prompt requires both (1) background, Rochester goals,
+faculty fit, and applicant contribution, and (2) the most challenging
+programming or research project, emphasizing why it was challenging, what was
+learned, preparation for graduate study, and the applicant's specific
+publication contribution when applicable.
 
 ## Technical focus
 

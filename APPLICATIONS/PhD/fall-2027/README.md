@@ -6,7 +6,9 @@ Applicant: Piter Garcia
 
 Target entry: Fall 2027
 
-Current status: UW and Hertz workspaces launched; Rochester CS requirements verified; no Fall 2027 portal submission is recorded
+Current status: four live drafts exist: UW Information Science, RIT CIS,
+Rochester Computer Science, and Hertz Fellowship. No application submission,
+fee payment, or recommendation request is recorded.
 
 ## Decision
 
@@ -29,11 +31,11 @@ not additional active applications.
 
 | Priority | Program | Portfolio role | Official deadline | Funding summary | Verification | Application status | Immediate next action |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [RIT Computing and Information Sciences PhD](./programs/rit-cis.md) | Anchor / strong fit | Priority: Dec 31; rolling afterward | Typical full tuition plus RA stipend or TA salary | Current official page; Fall 2027 cycle must be rechecked | Pre-application | Locate a valid GRE score or schedule the GRE; build a three-faculty shortlist |
-| 2 | [University of Rochester Computer Science PhD](./applications/uofr-computer-science/README.md) | Strong local fit | Jan 5, 2027 | Full tuition, stipend, and health insurance for PhD students in good standing | Explicit current PhD page; secure form still needs authenticated capture | Active preparation | Authenticate and capture the exact live form; then review current faculty work |
+| 1 | [RIT Computing and Information Sciences PhD](./applications/rit-cis/README.md) | Anchor / strong fit | Priority: Dec 31; rolling afterward | Typical full tuition plus RA stipend or TA salary | Live portal explicitly offers CIS PhD, Fall 2027 | **IN PROGRESS — draft created; not submitted** | Verify current address/phone and GRE plan; build a three-faculty shortlist |
+| 2 | [University of Rochester Computer Science PhD](./applications/uofr-computer-science/README.md) | Strong local fit | Jan 5, 2027 | Full tuition, stipend, and health insurance for PhD students in good standing | Live authenticated Fall 2027 form captured | **IN PROGRESS — draft created; not submitted** | Resolve transfer-credit choice; build academic-history and statement packets |
 | PAUSED | [University of Rochester Statistics PhD](./programs/uofr-statistics.md) | Deprioritized by Piter | Priority: Dec 1; final: Dec 15 | Full tuition scholarship, health insurance, and competitive stipend | Explicit entering Spring/Fall 2027 page | PAUSED | No writing or portal work unless Piter reactivates it |
 | 4 | [NYU Center for Data Science PhD](./programs/nyu-data-science.md) | High-fit reach | **TBD; prior Dec 3 date no longer supported by current page** | Tuition and stipend guaranteed for up to five years | Official page checked Sep 9 says Fall 2027 details are coming soon | Watch / pre-application | Monitor the official page; prepare materials but do not treat Dec 3 as controlling |
-| 5 | [University of Washington Information Science PhD](./applications/uw-information-science/README.md) | High-fit reach | Dec 2, 2026, 11:59 PM PT | All admitted applicants receive a funding offer; details arrive mid-February | Explicit Autumn 2027 page | OPEN; account activation in progress; not submitted | Finish account activation, capture portal, then review faculty papers |
+| 5 | [University of Washington Information Science PhD](./applications/uw-information-science/README.md) | High-fit reach | Dec 2, 2026, 11:59 PM PT | All admitted applicants receive a funding offer; details arrive mid-February | Explicit Autumn 2027 page and authenticated portal | **IN PROGRESS — Autumn 2027 draft created; not submitted** | Review faculty papers and confirm the provisional research cluster |
 | 6 | [Carnegie Mellon HCII PhD](./programs/cmu-hcii.md) | High-fit reach | Provisional: Nov 18, 2026 at 3 PM EST early; Dec 9, 2026 at 3 PM EST final | Full tuition and living allowance expected, renewable in good standing | Official page displays dates but has a contradictory “Fall 2026 admission window” label while describing a 2027 start | Watch / pre-application | Recheck cycle label/live portal; begin faculty matching now |
 | 7 | [MIT EECS PhD](./programs/mit-eecs.md) | Major reach | Dec 1 on the current official page | New admits are considered for assistantships and fellowships; assistantships include tuition and stipend | Current official page; Fall 2027 cycle must be rechecked | Pre-application | Identify three credible faculty or research-group connections and define the EECS contribution |
 | 8 | [University of Michigan PhD in Information](./programs/umich-information.md) | High-fit accessibility and equitable-technology reach | Dec 1, 2026, 11:59 PM ET | Guaranteed while progress is satisfactory: fall/winter tuition and stipend, year-round health benefits, and one summer stipend | Explicit Fall 2027 page and current program funding page | Pre-application; portal closed | Build the two-adviser fit map and attend one official information session |
@@ -89,7 +91,9 @@ These targets create review time before each official deadline. They are not off
 - [Statement theme library](../../../STATEMENTS/statement-theme-library.md)
 - [UW Information Science active workspace](./applications/uw-information-science/README.md)
 - [Rochester Computer Science active workspace](./applications/uofr-computer-science/README.md)
+- [RIT CIS active workspace](./applications/rit-cis/README.md)
 - [Hertz Fellowship active workspace](../../Fellowships/hertz-2027/README.md)
+- [September 9 live-application launch log](./2026-09-09-APPLICATION-LAUNCH-LOG.md)
 
 ## Official sources
 

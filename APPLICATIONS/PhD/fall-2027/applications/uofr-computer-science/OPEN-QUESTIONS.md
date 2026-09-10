@@ -2,7 +2,8 @@
 
 ## RED / Piter choices
 
-- Authenticate the graduate portal; the agent can then capture the live Fall 2027 form.
+- Decide whether to request transfer credit in the live application.
+- Verify private academic-history entries and current address/contact data before completion.
 - Choose whether the statement leads with data/reliability or human-centered health AI.
 - Decide whether optional GRE evidence strengthens the file after locating any valid score.
 - Approve final faculty and recommender sets before outreach.

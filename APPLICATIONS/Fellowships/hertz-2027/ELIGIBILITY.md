@@ -15,8 +15,10 @@ Source: [Hertz Who Can Apply](https://www.hertzfoundation.org/hertz-fellowship/w
 | --- | --- | --- |
 | Fall 2027 first-year PhD plan | SUPPORTED | Fall 2027 PhD application plan in the common dossier |
 | Existing/current master's degrees | NOT DISQUALIFYING ON PUBLISHED RULES | No published rule excludes a future first-year PhD applicant for holding standalone master's degrees |
-| Full-time, in-person eligible PhD | NEEDS PITER CONFIRMATION | Confirm commitment and ensure the eventual program/field qualifies |
-| U.S. citizenship/permanent residence | PRIVATE / UNVERIFIED | Confirm privately; do not place status or documents in public GitHub |
+| Full-time, in-person eligible PhD | SUPPORTED AS AN APPLICATION PLAN | Live RIT and Rochester drafts are full-time/on-campus Fall 2027 PhD applications; final eligibility still depends on enrollment |
+| U.S. citizenship/permanent residence | SUPPORTED / PRIVATE EVIDENCE | Prior application evidence records U.S. citizenship; do not place identity documents in public GitHub |
 | Near-term societal problem | SUPPORTED AS A PLAN | Reliable/equitable high-stakes AI can be framed as a technical contribution to health and information systems |
 
-Decision state: **CONDITIONAL GO**. A 5-minute private confirmation can convert this to GO or STOP.
+Decision state: **GO FOR INCREMENTAL PREPARATION**. Final eligibility depends on
+entering an eligible full-time U.S. PhD in Fall 2027; that is the active
+application plan, not a present blocker.

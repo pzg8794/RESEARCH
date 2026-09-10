@@ -2,7 +2,7 @@
 
 Last verified: 2026-09-09
 
-Status: **OPEN — ELIGIBILITY CONDITIONAL — NOT SUBMITTED**
+Status: **IN PROGRESS — LIVE 2027 DRAFT CREATED — ELIGIBILITY CONDITIONAL — NOT SUBMITTED**
 
 - Official window: August 31–October 30, 2026.
 - Official application: [Hertz application portal](https://fellowship.hertzfoundation.org/)
@@ -12,9 +12,18 @@ Status: **OPEN — ELIGIBILITY CONDITIONAL — NOT SUBMITTED**
 
 ## Eligibility gate
 
-Piter's plan to start a U.S. PhD in Fall 2027 appears compatible with the academic-stage rule even though he is currently completing standalone master's programs. Eligibility remains **conditional** until Piter privately confirms U.S. citizenship/permanent-resident status and intent to pursue a full-time, in-person PhD in an eligible applied science, mathematics, or engineering field.
+The authenticated portal explicitly lists Computer Science, Machine Learning,
+and AI among typical supported fields. Piter's plan to start a U.S. PhD in Fall
+2027 appears compatible with the academic-stage rule even though he is
+currently completing standalone master's programs. Eligibility remains
+**conditional** until the intended full-time PhD enrollment and Hertz school
+arrangement are confirmed. Citizenship is supported by prior application
+evidence, but any secure proof must remain outside this public repository.
 
-Do not invest in polished essays or trigger reference requests before that gate is resolved.
+The live draft was created on 2026-09-09 using the application email. No
+reference was entered, no document was uploaded, and the application was not
+submitted. Do not invest in polished essays or trigger reference requests
+before the remaining eligibility/school gate is resolved.
 
 ## Workspace
 

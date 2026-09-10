@@ -2,7 +2,7 @@
 
 | Material | State | Next action |
 | --- | --- | --- |
-| Secure Fall 2027 application | ACCESS HANDOFF | Authenticate and verify program/term selector |
+| Secure Fall 2027 application | IN PROGRESS | Draft created; program/term/faculty-interest selectors saved; not submitted |
 | Portal-field inventory | RED | Capture after login without submitting/paying |
 | Statement | WORKING | Confirm agenda/faculty and secure length, then outline |
 | Academic CV | RED | Correct name and Dec. 2026 dates; verify entries |

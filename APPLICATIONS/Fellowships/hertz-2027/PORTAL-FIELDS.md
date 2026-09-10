@@ -1,8 +1,12 @@
 # Portal Fields — Hertz 2027
 
-Status: **PUBLIC REQUIREMENTS PARTIALLY CAPTURED; LIVE 2027 FORM NOT AUTHENTICATED**
+Status: **AUTHENTICATED 2027 FORM OPEN; FIRST LIVE SECTIONS CAPTURED; NOT SUBMITTED**
 
-Expected public categories:
+Live 2027 navigation currently exposes About the Fellowship, Eligibility,
+Fields of Study / Participating Schools, and Personal Background. Additional
+sections appear as required earlier sections are completed.
+
+Captured live fields/categories:
 
 - identity, citizenship/residency eligibility, academic stage and intended PhD;
 - education and transcripts;
@@ -13,10 +17,24 @@ Expected public categories:
 - optional GRE information;
 - document uploads.
 
+The Personal Background page includes legal/preferred name, address, email,
+mobile phone, text-message opt-in, gender, pronouns, birth date/country, and
+citizenship. Only values already supported by secure records should be entered;
+address, phone, and birth country remain unfilled rather than guessed.
+
+The live Fields of Study page explicitly includes Computer Science, Machine
+Learning, and AI. Participating schools include University of Rochester and
+University of Washington-Seattle. RIT is not listed, but the portal says an
+applicant may attend another U.S. school and Hertz will attempt to negotiate an
+agreement if the applicant is selected.
+
 ## Do not trigger references
 
 Hertz states that recommenders are emailed when entered. Names must not be entered until eligibility is confirmed, the four-person strategy is approved, and each person has a tailored packet.
 
-## RED
+## RED / remaining live capture
 
-Exact 2027 prompts, character/word limits, dropdown choices, required fields, and field order are not verified. Capture them from an authenticated portal before drafting final responses.
+Exact downstream 2027 essay prompts, character/word limits, education fields,
+research fields, and document-upload rules remain unavailable until the
+earlier factual sections are completed. Capture them incrementally; do not
+infer them from prior cycles.
