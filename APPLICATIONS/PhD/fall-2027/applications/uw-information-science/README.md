@@ -4,6 +4,8 @@ Last verified: 2026-09-09
 
 Status: **OPEN — P0 HIGH FIT — NOT SUBMITTED**
 
+Portal state: **Applicant account and Autumn 2027 Information Science PhD draft created in the existing g.rit.edu Chrome profile. Program selection is saved; application questions are open.**
+
 - Official application window: September 1–December 2, 2026, 11:59 PM Pacific.
 - Internal ready-for-review target: November 19, 2026.
 - Portal: [UW Graduate School application](https://apply.grad.uw.edu/)
@@ -35,4 +37,4 @@ Start with a 30–60 minute faculty-evidence session in [FACULTY-FIT.md](FACULTY
 
 ## Evidence state
 
-The public requirements and deadline are verified. The secure applicant portal has not been inspected in an authenticated Piter account during this pass. No account, recommendation invitation, payment, or submission was created.
+The public requirements and deadline are verified, and the secure applicant portal was inspected in Piter's authenticated account. The correct program and Autumn 2027 term are saved. No recommendation invitation, payment, or submission occurred. Subjective choices and sensitive fields remain deliberately unfilled rather than guessed.
