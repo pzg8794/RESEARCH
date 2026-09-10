@@ -6,10 +6,10 @@ and secure application exports.
 
 | Opportunity | Live result | Saved configuration | Not done | Next safe step |
 | --- | --- | --- | --- | --- |
-| UW Information Science PhD | Authenticated draft in progress | Information School PhD in Information Science, Seattle, Autumn 2027 | no fee, submission, statements, or recommender entry | confirm research cluster and capture remaining factual fields |
-| RIT Computing and Information Sciences PhD | Authenticated draft in progress | on-campus, full-time, CIS PhD, Fall 2027 | no uploads, fee, submission, or recommender entry | verify private address/phone; GRE plan; faculty shortlist |
-| University of Rochester Computer Science PhD | Authenticated draft in progress | Computer Science PhD, full-time, Fall 2027, Multiple Areas; provisional three-faculty interest order | no uploads, fee, submission, or recommender entry | transfer-credit decision; academic-history and SOP evidence packets |
-| Hertz Fellowship 2027 | Authenticated draft in progress | applicant account and 2027 application created | no uploads, submission, or recommender entry | resolve eligible full-time PhD/school route; continue factual profile capture |
+| UW Information Science PhD | Draft recoverable; access recovery requested after session expiry | Information School PhD in Information Science, Seattle, Autumn 2027; first drafts of all three statements exist in Git | no fee, submission, uploads, or recommender entry | complete user-operated password recovery; review research cluster and drafts |
+| RIT Computing and Information Sciences PhD | Draft exists; current session expired after another Slate record opened | on-campus, full-time, CIS PhD, Fall 2027; first statement draft exists in Git | no uploads, fee, submission, or recommender entry | recover session; update private contact data; verify GRE and faculty shortlist |
+| University of Rochester Computer Science PhD | Authenticated draft in progress | Computer Science PhD, full-time, Fall 2027, Multiple Areas; AI/HCI areas prepared; first statement draft exists in Git | current-school row is prepared but not saved; no uploads, fee, submission, or recommender entry | save/reconcile academic history; transfer-credit decision; inspect remaining sections |
+| Hertz Fellowship 2027 | Authenticated draft in progress | verified profile facts prepared through Personal Background; modular response bank exists in Git | Personal Background is at `Continue`; no uploads, submission, or recommender entry | continue profile, capture exact downstream prompts, then map response bank |
 
 ## Explicit boundaries
 

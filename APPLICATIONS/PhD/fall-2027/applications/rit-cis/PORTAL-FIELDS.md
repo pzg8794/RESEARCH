@@ -37,6 +37,10 @@ study, awareness of field advances, and a specific research vision.
 
 ## RED / private review
 
-The recovered profile contains old or incomplete address/contact data. Do not
-copy those values into Git or silently propagate them. Verify the current
-address and phone from a secure primary record before editing the portal.
+The recovered profile contains old or incomplete address/contact data. Current
+mailing address and mobile have now been recovered from secure local evidence,
+but are not reproduced here. The RIT session expired after another Slate-family
+application record was opened in the same Chrome session, so no RIT profile
+change was made in this pass. Recover the RIT draft after the Rochester
+academic-history editor is safely resolved; then correct the private contact
+fields without copying their values into Git.

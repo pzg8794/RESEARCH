@@ -4,7 +4,7 @@
 | --- | --- | --- |
 | Secure Fall 2027 application | IN PROGRESS | Draft created; program/term/faculty-interest selectors saved; not submitted |
 | Portal-field inventory | RED | Capture after login without submitting/paying |
-| Statement | WORKING | Confirm agenda/faculty and secure length, then outline |
+| Statement | FIRST DRAFT | Review against the live two-part prompt; verify any format/length rule before upload |
 | Academic CV | RED | Correct name and Dec. 2026 dates; verify entries |
 | Unofficial transcripts | WORKING | Obtain current secure institutional PDFs |
 | Three recommendations | PLANNING ONLY | Evaluate Desell/Krutz plus method-appropriate third; no invitations |

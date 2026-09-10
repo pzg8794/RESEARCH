@@ -20,8 +20,9 @@ file, recommendation, fee, or submission was completed in this pass.
 
 1. Verify private address/phone and the GRE plan without placing either in Git.
 2. Build a three-faculty evidence matrix from current official RIT pages.
-3. Map the research-SOP prompt to verified QuantumMAB, EQUITAS, MLADIS, and
-   data-science evidence; do not draft polished prose yet.
+3. Review the source-grounded first draft against verified QuantumMAB,
+   EQUITAS, MLADIS, and data-science evidence; replace the provisional faculty
+   paragraph only after current paper-level review.
 
 ## Workspace
 
@@ -29,5 +30,6 @@ file, recommendation, fee, or submission was completed in this pass.
 - [Portal fields](PORTAL-FIELDS.md)
 - [Faculty fit](FACULTY-FIT.md)
 - [Statement plan](STATEMENT-PLAN.md)
+- [Statement draft](STATEMENT-DRAFT.md)
 - [Materials checklist](MATERIALS-CHECKLIST.md)
 - [Open questions](OPEN-QUESTIONS.md)

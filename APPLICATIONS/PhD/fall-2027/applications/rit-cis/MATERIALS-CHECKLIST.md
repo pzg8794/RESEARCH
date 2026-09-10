@@ -5,7 +5,7 @@
 | Live Fall 2027 draft | IN PROGRESS | preserve; not submitted |
 | Current private contact data | RED | verify address and phone from secure source |
 | Academic CV | WORKING | rebuild with Piter Garcia and December 2026 completion dates |
-| Research SOP | PLAN ONLY | faculty/evidence work first |
+| Research SOP | FIRST DRAFT | review technical narrative; complete faculty/evidence work before upload |
 | Optional writing sample | SHORTLIST | compare verified QuantumMAB and responsible-AI samples |
 | Transcripts | PRIVATE / NOT UPLOADED | verify current files and institution/name display |
 | GRE | RED | locate valid score or determine test/waiver path |

@@ -31,6 +31,7 @@ before the remaining eligibility/school gate is resolved.
 - [Requirements](REQUIREMENTS.md)
 - [Portal fields](PORTAL-FIELDS.md)
 - [Essay architecture](ESSAY-PLAN.md)
+- [Draft response bank](RESPONSE-BANK-DRAFT.md)
 - [Recommendation strategy](RECOMMENDATION-STRATEGY.md)
 - [Materials checklist](MATERIALS-CHECKLIST.md)
 - [Open questions and incremental work](OPEN-QUESTIONS.md)

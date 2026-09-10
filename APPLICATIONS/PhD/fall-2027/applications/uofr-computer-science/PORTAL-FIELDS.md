@@ -40,8 +40,25 @@ Live sections:
 
 ## Remaining capture / applicant decisions
 
-- verify academic-history entries and transcript requirements against private
-  official records;
+- Personal page was reconciled on 2026-09-09 against secure records for the
+  current mailing address, phone, birth country, citizenship, native language,
+  and first-generation status. Self-identification and transcript-history
+  questions that were not independently established remain unanswered.
+- Program interests were populated from the verified research direction:
+  Artificial Intelligence and Human-Computer Interaction, with ranked areas
+  Machine Learning and Optimization, Data Mining and Big Data Analytics, and
+  Assistive Technology. The already-saved provisional faculty order was not
+  changed.
+- A University of Rochester academic-history row is fully prepared in the live
+  editor using the current transcript/dossier evidence (May 2025 through
+  expected December 2026, M.S. Teaching Computer Science K-12, reported 4.0
+  GPA, English instruction). **It is not yet saved**; the portal's `Save`
+  control remains the next action.
+- the existing in-progress RIT record still shows a May 2026 end date and must
+  be corrected to December 2026 after the Rochester row is saved;
+- obtain current secure transcript exports before uploading; the May 30, 2026
+  Warner PDF is evidence for the profile but is not assumed to be the newest
+  available transcript;
 - decide whether to request transfer credit;
 - inspect Test Scores, Related Experience, Funding Sources, and Other Documents
   before completion;

@@ -22,7 +22,7 @@ This preserves a computational core—machine learning, uncertainty-aware decisi
 
 ## Resume point
 
-Start with a 30–60 minute faculty-evidence session in [FACULTY-FIT.md](FACULTY-FIT.md). Do not write polished statements until Piter confirms the research agenda and provisional faculty order.
+First-pass, source-grounded drafts now exist for iterative review. They are not portal text and are not submission-ready until Piter reviews the research emphasis, faculty order, voice, and any intentionally selected personal disclosure. The faculty-evidence session in [FACULTY-FIT.md](FACULTY-FIT.md) remains necessary before finalizing the research statement and ranking.
 
 ## Workspace
 
@@ -30,8 +30,11 @@ Start with a 30–60 minute faculty-evidence session in [FACULTY-FIT.md](FACULTY
 - [Portal fields](PORTAL-FIELDS.md)
 - [Faculty fit](FACULTY-FIT.md)
 - [Research statement plan](RESEARCH-STATEMENT-PLAN.md)
+- [Research statement draft](RESEARCH-STATEMENT-DRAFT.md)
 - [Personal statement plan](PERSONAL-STATEMENT-PLAN.md)
+- [Personal statement draft](PERSONAL-STATEMENT-DRAFT.md)
 - [Diversity statement plan](DIVERSITY-STATEMENT-PLAN.md)
+- [Diversity statement draft](DIVERSITY-STATEMENT-DRAFT.md)
 - [Materials checklist](MATERIALS-CHECKLIST.md)
 - [Open questions and short sessions](OPEN-QUESTIONS.md)
 

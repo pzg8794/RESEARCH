@@ -1,6 +1,6 @@
 # Portal Fields — UW Information Science
 
-Status: **AUTHENTICATED DRAFT CREATED; LIVE PORTAL INSPECTED; NOT SUBMITTED**
+Status: **DRAFT CREATED; LIVE PORTAL INSPECTED; ACCESS RECOVERY REQUESTED AFTER SESSION EXPIRY; NOT SUBMITTED**
 
 Live verification: 2026-09-09 (America/New_York), in Piter's existing g.rit.edu Chrome profile.
 
@@ -54,3 +54,10 @@ Use [COMMON_DOSSIER.md](../../COMMON_DOSSIER.md) only as a staging source. Exact
 - No payment or submission occurred.
 
 Because payment prevents most later edits, do not pay until every field has passed a line-by-line review.
+
+## 2026-09-09 access note
+
+The established draft session expired. A temporary recovery PIN was requested
+to `pzg8794@rit.edu`. The draft remains recoverable; no password change, portal
+edit, payment, recommendation request, or submission was completed in this
+recovery step.

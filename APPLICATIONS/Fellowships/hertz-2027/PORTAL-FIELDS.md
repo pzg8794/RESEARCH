@@ -19,8 +19,17 @@ Captured live fields/categories:
 
 The Personal Background page includes legal/preferred name, address, email,
 mobile phone, text-message opt-in, gender, pronouns, birth date/country, and
-citizenship. Only values already supported by secure records should be entered;
-address, phone, and birth country remain unfilled rather than guessed.
+citizenship.
+
+On 2026-09-09, the secure live draft was populated with verified identity,
+current mailing location, RIT email, mobile, gender/pronouns, birth country,
+U.S. citizenship, Hispanic/Latino identity, first-generation status, and no
+current/former U.S. military service. Exact address, phone, and birth-date
+values remain private and are not reproduced here. The page is currently
+prepared at `Continue`; first-generation and military selections have not yet
+been represented as a completed saved page. Race-group selection and SMS
+opt-in remain intentionally unanswered because no source-backed applicant
+choice was recovered.
 
 The live Fields of Study page explicitly includes Computer Science, Machine
 Learning, and AI. Participating schools include University of Rochester and
@@ -36,5 +45,5 @@ Hertz states that recommenders are emailed when entered. Names must not be enter
 
 Exact downstream 2027 essay prompts, character/word limits, education fields,
 research fields, and document-upload rules remain unavailable until the
-earlier factual sections are completed. Capture them incrementally; do not
+Personal Background page is continued. Capture them incrementally; do not
 infer them from prior cycles.

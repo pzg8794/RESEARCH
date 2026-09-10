@@ -34,5 +34,6 @@ Lead with reliable AI/data systems under incomplete or heterogeneous evidence. H
 - [Portal fields](PORTAL-FIELDS.md)
 - [Faculty fit](FACULTY-FIT.md)
 - [Statement plan](STATEMENT-PLAN.md)
+- [Statement draft](STATEMENT-DRAFT.md)
 - [Materials checklist](MATERIALS-CHECKLIST.md)
 - [Open questions and short sessions](OPEN-QUESTIONS.md)

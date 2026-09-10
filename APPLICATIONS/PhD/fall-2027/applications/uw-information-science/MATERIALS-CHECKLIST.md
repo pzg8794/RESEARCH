@@ -4,9 +4,9 @@ Evidence states: `READY` means verified and upload-ready; `WORKING` means usable
 
 | Material | State | Next action |
 | --- | --- | --- |
-| Personal statement | WORKING | Draft privately from the approved 350-word architecture |
-| Diversity statement | WORKING | Draft privately with contribution/support balance |
-| Research statement | WORKING | Confirm agenda and faculty papers, then outline 1,000–2,000 words |
+| Personal statement | FIRST DRAFT | Review the 326-word body for voice and intentional disclosure |
+| Diversity statement | FIRST DRAFT | Review the 313-word body for contribution/support balance |
+| Research statement | FIRST DRAFT | Review the 1,000–2,000-word draft; confirm agenda and faculty papers |
 | Academic CV | RED | Correct name and Dec. 2026 completion dates; verify every entry |
 | UofR transcript | WORKING | Obtain newest institutional PDF and verify UW-required display fields |
 | RIT transcript(s) | RED | Obtain newest institutional PDF(s); distinguish completed and current degrees |
@@ -17,7 +17,7 @@ Evidence states: `READY` means verified and upload-ready; `WORKING` means usable
 | Optional work sample | OPEN DECISION | Compare thesis report, anonymous-safe quantum report, and public portfolio |
 | Optional additional information | OPEN DECISION | Use only if it explains material record context not covered elsewhere |
 | English requirement | WORKING | Confirm Farmingdale bachelor's transcript supports U.S. bachelor route |
-| Secure portal audit | RED | Log in/create account later and capture exact fields without paying/submitting |
+| Secure portal audit | PARTIAL / ACCESS RECOVERY | Draft exists; a password-recovery PIN was requested on 2026-09-09 after session expiry; complete login without paying/submitting |
 
 ## Recommendation strategy
 
