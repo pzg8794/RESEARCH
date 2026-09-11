@@ -8,6 +8,8 @@ Use this folder when an opportunity comes from ProFellow, an external fellowship
 
 | Need | File |
 | --- | --- |
+| Established evidence-retrieval process: Overleaf, DataScience Drive/local sources, then public-safe Git derivatives | [Overleaf discovery playbook](../PhD/OVERLEAF_DISCOVERY_PLAYBOOK.md) |
+| Fulbright Spain ETA Page 8 source trace, verified output inventory, and live change receipt (2026-08-17) | [2026-08-17-fulbright-page8-source-trace.md](./2026-08-17-fulbright-page8-source-trace.md) |
 | Current Fulbright decision, Spain ETA requirements, and individualized August 17 late-starter draft plan | [August 6 Fulbright advising outcome](../../PREPARATION/meetings/2026-08-06-fulbright-advising-outcome.md) |
 | Fulbright Spain ETA critical path, to-do list, and scheduled work blocks | [2026-08-06-fulbright-spain-eta-execution-plan.md](./2026-08-06-fulbright-spain-eta-execution-plan.md) |
 | Review-only outreach to the officially assigned Spanish Fulbright-assessments contact | [2026-08-06-fulbright-spanish-fle-outreach-draft.md](./2026-08-06-fulbright-spanish-fle-outreach-draft.md) |

@@ -1,0 +1,26 @@
+# Statement of Purpose Draft — Rochester Computer Science PhD
+
+Status: **DRAFT — NOT SUBMITTED**
+Portal prompt captured: background, Rochester goals, contribution, faculty fit, and the most challenging programming/research project.
+
+I study how machine-learning and data systems should make reliable decisions when evidence is incomplete, delayed, noisy, or uneven. My preparation combines computer engineering, a completed M.S. in Computer Science, an M.S. in Data Science that I expect to complete in December 2026, and industry experience building software, healthcare machine-learning workflows, and production data pipelines. Across those settings, I learned that technical performance depends on the entire system: how data are collected and validated, how uncertainty is represented, how decisions are evaluated, and whether the result can be understood and challenged.
+
+My current research develops a shared experimental framework for fairness-aware sequential decisions. My thesis, *Fairness-Aware Bandits for Network Routing in Quantum and Clinical Settings*, compares algorithms that allocate limited resources, observe feedback, and adapt future choices. The quantum-network testbed studies routing and computational-resource allocation under changing conditions. A distinct clinical simulation studies limited diagnostic attention and context. I evaluate utility, latency, reliability, robustness, and group- or flow-level disparities under controlled missing, delayed, noisy, and uneven information.
+
+The most challenging part of this project has been building one reproducible decision and evaluation structure without erasing the important differences between the two domains. It required me to define reusable policy interfaces, model changing and adversarial conditions, standardize logging and comparison-ready outputs, and separate algorithmic claims from domain interpretation. The project taught me that a strong result is not a single performance number. It is a traceable chain from assumptions and data conditions to implementation, experiments, limitations, and conclusions. My specific contribution has been the design and implementation of the experimental workflows, including the Python-based testbed structure, validation, logging, algorithm comparison, and evaluation planning. I will describe publication status only after it is supported by the final record.
+
+Earlier professional experience prepared me for this work. At VIOME, I developed Python machine-learning workflows for healthcare use cases, including preprocessing, feature engineering, experimentation, evaluation, and deployment-oriented data preparation. At VEDADATA, I designed Python data pipelines, validation workflows, AWS processes, and analytics-ready datasets. These roles gave me experience moving between research questions and operational systems while preserving maintainability and evidence.
+
+At Rochester, I want to deepen the computer-science foundations of reliable decision systems. I am especially interested in research that connects heterogeneous-data quality, adaptive decision policies, and human-centered evaluation in health and other high-stakes environments. Fatemeh Nargesian's work on data discovery, integration, heterogeneous raw data, and representative data acquisition aligns with my interest in how incomplete and uneven evidence affects downstream decisions. Ehsan Hoque's work in AI, HCI, interactive machine learning, health, and access offers a strong setting for evaluating whether technically successful systems remain useful and equitable for people. Zhen Bai's work in assistive technology, technology-enhanced learning, and machine learning for HCI is relevant to my interest in accessible interfaces and in testing how people understand and use AI-supported recommendations.
+
+I would bring extensive implementation experience, a reproducibility-first research practice, and the ability to connect algorithmic questions to data quality and real use. My current M.S. in Teaching Computer Science K–12 and advanced certificate in disability and inclusive practices also strengthen how I communicate technical ideas and identify accessibility requirements. Those experiences support my CS research; they do not replace the computational contribution.
+
+My long-term goal is to become a faculty researcher and applied data scientist who develops reliable and equitable AI systems while teaching others how to understand, question, and improve them. Rochester is attractive because it offers a technically rigorous environment in which data management, machine learning, health, HCI, and accessibility can inform one focused research agenda. I would use doctoral study to move from a strong cross-domain experimental foundation toward defensible computational methods for deciding when evidence is sufficient, when a system should seek more information or defer, and how reliability should be measured across the people and institutions a system is meant to serve.
+
+## Source anchors
+
+- `COMMON_DOSSIER.md`
+- `PREPARATION/shared-career-evidence.md`
+- `STATEMENT-PLAN.md`
+- `FACULTY-FIT.md`
+- `PREPARATION/research/2026-08-10-dsci602-scope-consolidation/advisor-decision-memo.md`

@@ -1,6 +1,6 @@
 # PhD & Fellowship Application Deadline Tracker
 
-Last updated: 2026-08-06
+Last updated: 2026-09-09
 Maintainer: Piter Garcia  
 Repo: https://github.com/pzg8794/RESEARCH
 
@@ -74,17 +74,17 @@ This is the canonical multi-country deadline tracker for all PhD, fellowship, an
 | Sep 10–22, 2026 | Sep 9 | 🇪🇸 Spain | UofR campus endorsement interviews | Fulbright U.S. Student | 🔵 Calendar |
 | Sep 14–25, 2026 | Sep 14 | 🇪🇸 Spain | Discuss interview feedback and final application revisions with the FPA | Fulbright U.S. Student | 🔵 Calendar |
 | **Oct 1, 2026** | Sep 29 | 🇪🇸 Spain | Final revised application marked `Ready for Review` for campus approval | Fulbright U.S. Student | 🔵 Calendar |
-| ~Sep–Oct 2026 | Sep 15 | 🌍 US | NSF Graduate Research Fellowship Program (GRFP) | Fellowship | 🔵 Major priority |
-| ~Sep–Oct 2026 | Sep 15 | 🌍 US | Microsoft Research PhD Fellowship | Fellowship | 🔵 Calendar |
-| ~Oct 2026 | Oct 1 | 🌍 US | Hertz Fellowship | Fellowship | 🔵 Calendar |
+| Oct 20, 2026, 8 PM ET (CISE) | — | 🌍 US | NSF Graduate Research Fellowship Program (GRFP) | Fellowship | ⚫ CLOSE — current rules exclude applicants with a completed graduate degree; references otherwise due Oct 16, 8 PM ET |
+| TBD | TBD | 🌍 Global | Microsoft Research Fellowship | Fellowship | ⚪ WATCH — official site only shows the closed 2026 call; no 2027 deadline posted |
+| **Oct 30, 2026** | Oct 16 | 🇺🇸 US | Hertz Fellowship | Fellowship | 🟠 IN PROGRESS — live 2027 draft created Sep 9; four recommender names required to submit and reports due Nov 2 at 6 PM Pacific; no requests sent |
 | **Oct 6, 2026, 5 PM ET** | Oct 1 | 🇪🇸 Spain | **Fulbright Spain English Teaching Assistant Award national deadline** | Fulbright U.S. Student | 🔵 Major milestone |
-| ~Nov 2026 | Nov 1 | 🌍 US | Ford Foundation Predoctoral Fellowship | Fellowship | 🔵 Calendar |
-| ~Nov 2026 | Nov 1 | 🌍 US | Paul & Daisy Soros Fellowship for New Americans | Fellowship | 🔵 Check eligibility |
-| ~Dec 2026 | Nov 28 | 🌍 US | Google PhD Fellowship | Fellowship | 🔵 Calendar |
+| CLOSED | — | 🇺🇸 US | Ford Foundation Predoctoral Fellowship | Fellowship | ⚫ CLOSED — National Academies states the program concluded |
+| **Oct 29, 2026, 2 PM ET** | Oct 15 | 🇺🇸 US | Paul & Daisy Soros Fellowship for New Americans | Fellowship | ⚪ ELIGIBILITY GATE — New American status and age 30 or younger required |
+| CLOSED | — | 🌍 Global | Google PhD Fellowship | Fellowship | ⚪ WATCH — 2026 cycle closed Apr 30; no December 2026 deadline |
 | Dec 1, 2026 | Nov 28 | 🇨🇭 Switzerland | [EPFL EDIC PhD: Computer and Communication Sciences](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/) | Direct PhD program | 🔵 Calendar |
 | Dec 1, 2026 | Nov 28 | 🇺🇸 US | MIT EECS PhD | Direct PhD program | 🔵 Calendar |
 | Dec 1, 2026 | Nov 28 | 🇺🇸 US | Carnegie Mellon HCII / CS PhD | Direct PhD program | 🔵 Calendar |
-| Dec 1, 2026 | Nov 28 | 🇺🇸 US | University of Washington iSchool / CSE PhD | Direct PhD program | 🔵 Calendar |
+| Dec 2, 2026, 11:59 PM PT | Nov 19 | 🇺🇸 US | University of Washington Information Science PhD | Direct PhD program | 🟠 IN PROGRESS — authenticated Autumn 2027 draft created Sep 9; not submitted |
 | Dec 1–15, 2026 | Nov 30 | 🇫🇮 Finland | University of Turku selected doctoral programmes | Doctoral admissions | 🔵 Calendar |
 | Dec 15, 2026 | Dec 12 | 🇺🇸 US | Georgia Tech CS / Interactive Computing PhD | Direct PhD program | 🔵 Calendar |
 | Dec 15, 2026 | Dec 12 | 🇺🇸 US | University of Michigan CSE / iSchool PhD | Direct PhD program | 🔵 Calendar |
@@ -128,12 +128,12 @@ alongside the current Spain ETA application.
 
 | Fellowship | ~Deadline | Fit | Priority |
 |-----------|----------|-----|----------|
-| NSF GRFP | Mid-Oct 2026 | Highest — funds 3 years; equitable diagnostics is a perfect fit | 🔴 Must apply |
-| Ford Foundation Predoctoral | ~Nov 2026 | Underrepresented scholars; directly matches profile | 🔴 Must apply |
-| Paul & Daisy Soros (New Americans) | ~Nov 2026 | Strong fit if eligibility confirmed | 🟠 Confirm eligibility |
-| Microsoft Research PhD Fellowship | ~Sep–Oct 2026 | AI + equity focus | 🟠 Apply |
-| Hertz Fellowship | ~Oct 2026 | Applied science/engineering PhD | 🟠 Apply |
-| Google PhD Fellowship | ~Dec 2026 | ML, systems, health AI | 🟡 Apply |
+| NSF GRFP | Oct 20, 2026, 8 PM ET for CISE | Current rules restrict applicants to their first graduate degree; Piter's completed graduate degrees make this route ineligible | ⚫ Close |
+| Ford Foundation Predoctoral | Program concluded | No active competition remains | ⚫ Close |
+| Paul & Daisy Soros (New Americans) | Oct 29, 2026, 2 PM ET | Activate only if both immigration-background and age requirements are satisfied | ⚪ Eligibility gate |
+| Microsoft Research Fellowship | 2027 date not posted | Official page shows only the prior closed call | ⚪ Watch |
+| Hertz Fellowship | Oct 30, 2026; recommenders Nov 2, 6 PM PT | Potential fit for an applicant entering a full-time US PhD in Fall 2027 | 🟠 Draft started; resolve eligibility and school plan before essay investment or recommender entry |
+| Google PhD Fellowship | 2026 cycle closed Apr 30, 2026 | No current December deadline | ⚪ Watch |
 | HHMI Gilliam Fellowship | ~Feb 2027 | Underrepresented PhD in biomedical | 🟡 Calendar |
 
 ---
@@ -164,7 +164,7 @@ alongside the current Spain ETA application.
 |---------|----------|-----------------|-------|
 | MIT EECS / MIT Media Lab | AI fairness, health AI, inclusion | Dec 1, 2026 | Faculty match critical |
 | Carnegie Mellon HCII / CS | HCI + AI fairness + disability inclusion | Dec 1, 2026 | HCII especially strong fit |
-| University of Washington iSchool / CSE | Accessibility, ML, health data | Dec 1–15, 2026 | Allen School + iSchool both relevant |
+| University of Washington Information Science PhD | Responsible AI, reliability, health information, accessibility | Dec 2, 2026, 11:59 PM PT | Open; active workspace under `fall-2027/applications/uw-information-science/` |
 | Georgia Tech CS / Interactive Computing | Equity, AI, education tech | Dec 15, 2026 | Strong equity-in-computing culture |
 | University of Michigan CSE / iSchool | AI ethics, health equity | Dec 15, 2026 | Multiple departments relevant |
 | RIT / University of Rochester | Disability inclusion, ethics of AI | Varies | Relationship advantage; local connections |
