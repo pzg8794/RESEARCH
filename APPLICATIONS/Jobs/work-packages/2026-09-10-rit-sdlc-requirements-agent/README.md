@@ -2,13 +2,15 @@
 
 ## Status
 
-- **State:** CONTACTED — WAITING ON REPLY
-- **Opportunity owner:** Dr. Nidhi Rastogi, RIT Software Engineering
+- **State:** AVAILABILITY CONFIRMED — WAITING ON PROJECT DETAILS
+- **Opportunity owner:** Dr. Nidhi Rastogi, RIT Software Engineering; Piter's first Data Science instructor
 - **Source:** RIT Slack post shared by Piter on 2026-09-10
 - **Outreach sent:** 2026-09-10 from `pzg8794@rit.edu` to `nxrvse@rit.edu`
 - **Subject:** `Building agents for SDLC`
 - **Resume attached:** `Piter_Garcia_AI_Automation_Engineer_Resume.pdf`
-- **Follow-up target:** 2026-09-15 if no reply
+- **Reply received:** 2026-09-10 at 8:47 PM ET — asked whether Piter will be around for Fall 2026 and Spring 2027; said she is speaking with several individuals and will share more details shortly
+- **Availability reply sent:** 2026-09-10 at 9:36 PM ET — confirmed availability for both Fall 2026 and Spring 2027
+- **Follow-up target:** 2026-09-16 if no additional project details arrive
 
 ## Opportunity as stated
 
@@ -39,7 +41,6 @@ The outreach deliberately did not claim prior published requirements-engineering
 
 ## Next action
 
-- Wait for Dr. Rastogi's response.
-- If no response by 2026-09-15, send one concise follow-up in the same thread.
-- When she replies, record the exact scope, compensation, schedule, and selection process before making a commitment.
-
+- Wait for Dr. Rastogi's promised project details while she speaks with other candidates.
+- If no additional details arrive by 2026-09-16, send one concise follow-up in the same thread.
+- Record the exact scope, compensation, schedule, appointment classification, and selection process before making a commitment.
