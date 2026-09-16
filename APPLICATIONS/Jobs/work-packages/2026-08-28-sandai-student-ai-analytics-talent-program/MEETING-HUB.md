@@ -31,6 +31,8 @@ In plain language, SaNDAI helps clients:
 
 Their central idea is **“AI starts with BI.”** In other words: understand and organize the data first, then add intelligent automation where it is useful. That is closely aligned with your own approach.
 
+[↑ Back to index](#clickable-index)
+
 ## What does Jeremy do?
 
 Jeremy Williams Sr. is SaNDAI Global's **founder and CEO**. He is the business strategist and company leader, not merely a technical interviewer.
@@ -45,6 +47,8 @@ The company's official profile says he has more than 26 years of executive leade
 - Can he contribute to real analytics/AI projects rather than only discuss theory?
 - Can he work well in a multidisciplinary, client-facing environment?
 
+[↑ Back to index](#clickable-index)
+
 ## What opportunity am I interviewing for?
 
 The **Student AI & Analytics Talent Program** is a paid, part-time pathway for students and recent graduates to contribute to internal and potentially client-facing projects.
@@ -56,6 +60,8 @@ The **Student AI & Analytics Talent Program** is a paid, part-time pathway for s
 - An interview does not guarantee an assignment; work depends on readiness and business needs.
 
 You selected **Data & Business Analysis** as your primary track, with AI/subject-matter expertise as a complementary strength.
+
+[↑ Back to index](#clickable-index)
 
 ## What should I say first?
 
@@ -71,6 +77,8 @@ Use this order:
 2. **Current work:** quantum/AI research, data-science graduate work, teaching.
 3. **How you work:** understand the business and data, establish a baseline, improve one measurable part at a time.
 4. **Why here:** SaNDAI combines data, AI, client work, and community impact.
+
+[↑ Back to index](#clickable-index)
 
 ## Why am I a strong fit?
 
@@ -88,6 +96,8 @@ Use this order:
 ### Best concrete example: MLADIS
 
 > In MLADIS, I organized raw information into increasingly reliable and useful layers. I kept source-backed facts separate from generated suggestions, placed human authorization outside the recommendation system, and used independent verification rather than calling an entire workflow complete because one component worked. That made the system useful without allowing AI output to silently become an authorized action.
+
+[↑ Back to index](#clickable-index)
 
 ## Likely questions and short answers
 
@@ -119,6 +129,8 @@ Use this order:
 
 > I naturally see many possible improvements in a system. I manage that by defining the immediate business outcome, prioritizing one bounded deliverable, and using evidence and checkpoints to prevent scope from expanding unnecessarily.
 
+[↑ Back to index](#clickable-index)
+
 ## Questions to ask Jeremy
 
 Pick two or three:
@@ -129,9 +141,13 @@ Pick two or three:
 4. **How does SaNDAI decide whether a client problem needs workflow improvement, traditional automation, analytics, or AI?**
 5. **Where do you think my mix of data engineering, responsible AI, research, and teaching would create the most value?**
 
+[↑ Back to index](#clickable-index)
+
 ## How should I close?
 
 > Thank you. This conversation reinforces my interest because the work connects technical problem-solving with real organizational outcomes. I believe I can contribute through data and business analysis, reliable automation, clear documentation, and responsible AI. I would be excited to learn what the next step is and where you think my background could help the team most.
+
+[↑ Back to index](#clickable-index)
 
 ## If my mind goes blank
 
@@ -145,6 +161,8 @@ Remember only these five words:
 
 And remember: **automation does not automatically mean AI.**
 
+[↑ Back to index](#clickable-index)
+
 ## Verified sources
 
 - [SaNDAI Global — About](https://sandaiglobal.net/about/)
@@ -153,3 +171,5 @@ And remember: **automation does not automatically mean AI.**
 - [Full interview preparation](INTERVIEW-PREP-2026-09-16.md)
 - [One-page quick sheet](INTERVIEW-QUICK-SHEET-2026-09-16.md)
 - [Submitted application answers](answers.md)
+
+[↑ Back to index](#clickable-index)
