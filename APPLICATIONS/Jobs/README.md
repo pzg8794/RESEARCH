@@ -6,8 +6,8 @@ applications, recruiter conversations, and follow-up work.
 ## Current Search Constraints
 
 - Available now for remote work that can fit alongside graduate study.
-- Remote or Rochester-area work is required through December 2026.
-- Nationwide and international relocation is possible after December 2026.
+- Remote or Rochester-area work is the standing requirement.
+- Relocation-dependent onsite roles are paused because of private family caregiving responsibilities; do not reopen them unless Piter explicitly changes this constraint.
 - To respect Piter's access and energy needs, prefer afternoon meetings and
   focused work blocks, with recovery time before high-stakes obligations.
 - Tuesdays and Thursdays are available again; check the live calendar for
