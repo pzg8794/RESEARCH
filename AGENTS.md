@@ -43,6 +43,40 @@ Account-specific addresses, browser profiles, mounted Drive paths, and the
 verified routing table belong only in `AGENTS.private.md`. The public-safe
 email queues remain under `APPLICATIONS/Jobs/`.
 
+## REQUIRED: Email Account And Thread Integrity (ALL AGENTS — MANDATORY)
+
+For every email reply, the sending identity and thread are locked to the
+message being answered.
+
+1. **Reply from the same email account that received the source message.**
+   If a message was received in UofR Gmail, reply from UofR Gmail. If it was
+   received in RIT Gmail, reply from RIT Gmail. The same rule applies to every
+   other connected mailbox.
+2. **Stay in the exact existing conversation thread.** Read the relevant
+   source message immediately before sending and use its real message/thread
+   identifier for the reply. Do not create a new same-subject thread as a
+   substitute.
+3. **Never switch sender accounts because of a default preference.** A rule
+   such as "use RIT by default" applies only to genuinely new conversations
+   when no established inbound thread exists. It never overrides the account
+   that received an existing conversation.
+4. **A cross-account reply is forbidden unless Piter explicitly instructs it
+   for that communication, or explicitly delegates the sender-account choice
+   for that communication.** General tool access, prior defaults, convenience,
+   or assumptions do not count as authorization.
+5. **If the correct mailbox cannot perform the send, stop and report the
+   problem.** Do not silently reroute the reply through another account.
+6. **Before every send, verify all of the following:** recipient identity,
+   organization/context, source mailbox, source message ID, source thread ID,
+   outbound mailbox, and reply target. If two active contacts share a first
+   name, disambiguate them by full name and organization before acting.
+7. **Forwarding, CC'ing, or moving a conversation across accounts also
+   requires explicit instruction** unless it is part of an already-approved
+   workflow that specifically includes that cross-account action.
+
+This is an execution guardrail, not a style preference. A reply sent from the
+wrong account is a failed send even if the message body itself is correct.
+
 ## REQUIRED: Meeting Preparation Kit And Calendar Block
 
 Every externally scheduled meeting, interview, recruiter screen, advising
