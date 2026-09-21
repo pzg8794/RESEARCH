@@ -77,6 +77,39 @@ message being answered.
 This is an execution guardrail, not a style preference. A reply sent from the
 wrong account is a failed send even if the message body itself is correct.
 
+
+## REQUIRED: Calendar Location Integrity (ALL AGENTS — MANDATORY)
+
+Every calendar event must have a populated Calendar `Location` field before it
+is treated as complete. This applies to events created manually, by automation,
+or by any agent.
+
+1. **Physical events require the verified destination in the Location field.**
+   Use the full street address and include suite, building, room, or campus
+   location when the authoritative source provides it.
+2. **Virtual events require an explicit virtual location.** Use the verified
+   meeting URL/platform when available; otherwise use
+   `Online — link in event description` until the exact link is confirmed.
+3. **Reminder/planning-only events still require a Location field.** Use
+   `No travel — reminder only`.
+4. **Never guess a physical address.** If the source confirms a physical event
+   but the location cannot be verified from connected authoritative records,
+   treat the event as unresolved and surface the missing location instead of
+   creating or leaving a locationless event.
+5. **Reschedules and corrections must re-verify Location.** Updating only the
+   title, time, or description is incomplete if the Location field is blank,
+   stale, or inconsistent with the latest source.
+6. **Calendar descriptions do not substitute for Location.** An address or
+   venue written only in the description does not satisfy this rule.
+7. **Automations that create or update events must enforce this invariant on
+   every run.** If they encounter an existing matching event with an empty
+   Location field, they must repair it when authoritative evidence is
+   available.
+
+A calendar event with an empty/null Location field is an execution failure,
+not a cosmetic issue, because it can directly affect travel timing and arrival.
+
+
 ## REQUIRED: Meeting Preparation Kit And Calendar Block
 
 Every externally scheduled meeting, interview, recruiter screen, advising
