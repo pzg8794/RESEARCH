@@ -141,6 +141,18 @@ Every artifact uses this structure:
 
 ---
 
+### Fulbright Campus Committee Interview — Raw Source Record, September 21, 2026
+
+- **Link / Filename:** `APPLICATIONS/Fellowships/2026-09-21-fulbright-campus-interview-RAW.md`
+- **Type:** Source-preserving interview archive
+- **Category:** Applications / Fellowships
+- **Status:** Canonical raw record; not synthesized
+- **Public/Private:** Contains applicant interview transcript material; review sharing scope before publication
+- **Summary:** Interview-only derivative of the recovered September 21 campus committee transcript, with exact source provenance and unresolved evidence gaps.
+- **Next action:** Use the raw record as evidence for a separate synthesis; do not treat it as a preparation guide or revision plan.
+
+---
+
 ### May 2026 Application Sprint Todo
 - **Link / Filename:** `may-2026-application-sprint.md`
 - **Type:** Weekly todo list / application sprint

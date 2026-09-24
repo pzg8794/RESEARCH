@@ -8,6 +8,8 @@ credentials do not belong here.
 
 ## Current verified state
 
+- Raw September 21 campus interview record: [interview-only source archive](./2026-09-21-fulbright-campus-interview-RAW.md). This is a source-preserving record, not a synthesis or revision plan.
+
 - Application essays: revised; Belinda asked whether another review is needed.
 - Campus review: application was marked ready for campus review; the current
   campus process permits an interview with two of three recommendations.
