@@ -1,10 +1,10 @@
 # University of Washington Information Science PhD
 
-Checked: 2026-08-03
+Checked: 2026-09-09
 
 Portfolio role: high-fit reach
 
-Application status: opens September 1, 2026
+Application status: open; account activation started, not submitted
 
 ## Official record
 
@@ -14,7 +14,7 @@ Application status: opens September 1, 2026
 - Required writing: 350-word personal statement, 350-word diversity statement, and 1,000-2,000-word research statement.
 - Other materials: CV, transcripts, three academic recommendations, ranked list of 3-4 faculty with a 2-3 sentence rationale for each, and an optional work sample.
 - The GRE is not considered.
-- Funding: at least four years of tuition, stipend, and health coverage through RA, TA, or fellowship support.
+- Funding: all admitted applicants receive a funding offer; package details arrive in mid-February.
 
 ## Why it fits
 
@@ -38,6 +38,10 @@ Do not use a generic school-fit paragraph; UW requires a short rationale for eac
 - Diversity statement showing concrete teaching, access, and mentoring practice.
 - Optional work sample selected for both rigor and readability.
 
+## Active workspace
+
+[Autumn 2027 application workspace](../applications/uw-information-science/README.md)
+
 ## Next action
 
-Complete the four-faculty ranking before September 1, then open the portal on its verified opening date and record every field in this brief.
+Finish account activation, capture the authenticated portal fields without paying/submitting, then complete the paper-grounded faculty ranking.

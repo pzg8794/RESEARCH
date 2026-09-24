@@ -1,16 +1,16 @@
 # University of Rochester Computer Science PhD
 
-Checked: 2026-08-03
+Checked: 2026-09-09
 
 Portfolio role: strong local fit
 
-Application status: pre-application
+Application status: official Fall 2027 cycle published; public portal supports account creation/login; authenticated program/term selector not yet captured
 
 ## Official record
 
 - [Computer Science application instructions](https://cs.rochester.edu/graduate/how-to-apply.html)
 - [University graduate deadline list](https://www.rochester.edu/college/gradstudies/admissions/apply.html)
-- Deadline: January 5 on the current official list; confirm the Fall 2027 cycle label when the portal opens.
+- Deadline: January 5, 2027, explicitly labeled for the current PhD cycle.
 - Listed materials: statement of purpose, transcripts, and three recommendations. The GRE is optional but encouraged.
 - Application fee: $70 on the current program page.
 - Funding: full tuition, stipend, and health insurance for PhD students in good standing.
@@ -33,6 +33,10 @@ Alternates to assess: Jiebo Luo, Christopher Kanan, and Gonzalo Mateos. Every fi
 - Three short faculty-fit paragraphs grounded in current work.
 - Academic CV and research sample list.
 - Three recommendations chosen after deciding whether the application leads with AI/HCI, probabilistic methods, or systems.
+
+## Active workspace
+
+[Fall 2027 application workspace](../applications/uofr-computer-science/README.md)
 
 ## Next action
 
