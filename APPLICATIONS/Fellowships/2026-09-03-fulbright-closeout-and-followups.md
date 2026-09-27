@@ -8,7 +8,7 @@ credentials do not belong here.
 
 ## Current verified state
 
-- Raw September 21 campus interview record: [interview-only source archive](./2026-09-21-fulbright-campus-interview-RAW.md). This is a source-preserving record, not a synthesis or revision plan.
+- September 21 campus interview: completed. The [raw interview-only source archive](./2026-09-21-fulbright-campus-interview-RAW.md) preserves the transcript evidence; the [canonical debrief and revision map](./2026-09-21-fulbright-campus-interview-debrief.md) separates direct committee feedback from inference and prepares the September 27 post-interview meeting.
 
 - Application essays: revised; Belinda asked whether another review is needed.
 - Campus review: application was marked ready for campus review; the current
@@ -17,8 +17,7 @@ credentials do not belong here.
   O'Neil-White agreed to complete the ETA form and received the portal request;
   submission remains unverified.
 - Foreign Language Evaluation: Kirt Komocki submitted it on 2026-08-26.
-- Campus interview: the Fellowships Office is building the schedule and will
-  notify candidates several days before the assigned slot.
+- Campus interview: completed on September 21, 2026. A post-interview meeting with Juliet Sullivan is scheduled for September 27 at 3:00 PM ET to adjudicate committee feedback and final changes.
 - National deadline: 2026-10-06 at 5:00 PM Eastern. National submission is
   final and must not occur before the campus process and final proof review.
 
@@ -73,7 +72,7 @@ The evaluator's feedback is converted into an actionable practice guide here:
 | P0 | Piter / Belinda | Belinda rereviews the revised essays and confirms whether review should occur before the third recommendation arrives | Status/review request sent 2026-09-03; waiting on Belinda |
 | P0 | William O'Neil-White | Submit the third ETA recommendation and provide an ETA | Agreed; portal request sent; submission unverified |
 | P0 | Piter | Verify the newest Application Proof shows correct transcript identity labels | Not verified from a post-August 22 export |
-| P1 | Fellowships Office | Assign campus interview slot and issue interview guidance | Waiting on office |
+| P1 | Piter / Juliet Sullivan | Discuss the September 21 committee feedback and adjudicate final application changes at the September 27 post-interview meeting | Scheduled for September 27, 3:00 PM ET |
 | P1 | Piter | Introduce himself directly to Lizmairi Vargas Santa '26 through her verified public professional profile | Direct, source-grounded outreach prepared; no guessed email address |
 | P1 | Piter | Continue country-source current-events reading and practice responses | Scheduled preparation |
 
