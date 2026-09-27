@@ -50,8 +50,8 @@ computer-science teaching or research appointment.
 | August 21 | Revised campus packet passes final internal review | Online sections, abstract, statements, recommendations, and transcript handling have been checked |
 | August 24 | Campus review packet complete | Application is `Ready for Review`; all three ETA forms are submitted; national submit remains untouched |
 | September 8 | Foreign Language Evaluation complete | Evaluator submission is visible in the application system |
-| September 10-22 | Campus interview completed | Invitation is accepted without conflict and a separate 45-minute preparation block exists |
-| September 14-25 | Interview feedback and revisions discussed with the FPA | Interview notes are converted into an approved revision list and the final application is being completed |
+| September 10-22 | Campus interview completed | **Completed September 21, 2026.** Raw transcript evidence and a separate synthesis/revision map are preserved in this folder. |
+| September 14-25 | Interview feedback and revisions discussed with the FPA | **In progress.** Post-interview meeting with Juliet Sullivan is scheduled for September 27 at 3:00 PM ET; candidate revisions remain provisional until that adjudication. |
 | October 1 | Final campus review checkpoint complete | All revisions and support materials are present and application is `Ready for Review` |
 | October 6, 5:00 PM ET | National deadline | Submit only after FPA approval; retain private confirmation |
 
@@ -107,12 +107,8 @@ computer-science teaching or research appointment.
 - [ ] **Language evaluation follow-up:** verify acceptance and portal status by
   September 1, follow up by September 4 if incomplete, and confirm submission
   on September 8.
-- [ ] **Interview control:** monitor for an invitation beginning September 9.
-  Once a time is known, conflict-check it and add a separate 45-minute
-  preparation block with multiple alerts.
-- [ ] **Final revision:** discuss interview feedback with the FPA, complete all
-  revisions by September 29, mark `Ready for Review` on October 1, and wait for
-  FPA clearance before national submission.
+- [x] **Interview control:** campus committee interview completed September 21, 2026. Preserve the [raw source record](./2026-09-21-fulbright-campus-interview-RAW.md) and use the [canonical synthesis](./2026-09-21-fulbright-campus-interview-debrief.md) for post-interview revision decisions.
+- [ ] **Final revision:** use the September 27 post-interview meeting with Juliet Sullivan to confirm the committee's requested changes, record decisions in the synthesis adjudication table, complete approved revisions by September 29, mark `Ready for Review` on October 1, and wait for FPA clearance before national submission.
 
 ## Conflict-Checked Work Blocks
 
