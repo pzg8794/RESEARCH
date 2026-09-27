@@ -8,6 +8,7 @@ Use this folder when an opportunity comes from ProFellow, an external fellowship
 
 | Need | File |
 | --- | --- |
+| Clean synthesis and revision map from the September 21, 2026 Fulbright Campus Committee interview | [2026-09-21-fulbright-campus-interview-debrief.md](./2026-09-21-fulbright-campus-interview-debrief.md) |
 | Raw, interview-only source record for the September 21, 2026 Fulbright Campus Committee interview | [2026-09-21-fulbright-campus-interview-RAW.md](./2026-09-21-fulbright-campus-interview-RAW.md) |
 | Current September 3 Fulbright closeout, verified component status, and interview follow-ups | [2026-09-03-fulbright-closeout-and-followups.md](./2026-09-03-fulbright-closeout-and-followups.md) |
 | Current Fulbright decision, Spain ETA requirements, and individualized August 17 late-starter draft plan | [August 6 Fulbright advising outcome](../../PREPARATION/meetings/2026-08-06-fulbright-advising-outcome.md) |
