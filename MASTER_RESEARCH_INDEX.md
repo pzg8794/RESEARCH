@@ -153,6 +153,20 @@ Every artifact uses this structure:
 
 ---
 
+### Fulbright Campus Committee Interview — Synthesis and Revision Map, September 21, 2026
+
+- **Link / Filename:** `APPLICATIONS/Fellowships/2026-09-21-fulbright-campus-interview-debrief.md`
+- **Type:** Interview synthesis / application revision map
+- **Category:** Applications / Fellowships
+- **Status:** Canonical synthesis; pending September 27 FPA adjudication
+- **Public/Private:** Public-safe synthesis; raw transcript remains separately preserved
+- **Summary:** Distills the September 21 campus committee interview into direct feedback, interview evidence, clearly labeled inference, candidate application revisions, and questions for the September 27 post-interview meeting with Juliet Sullivan.
+- **Why this matters for PhD applications:** Preserves the committee's strongest guidance without conflating transcript evidence with later interpretation and keeps the Fulbright revision path tied to the broader teaching, data science, and human-development trajectory.
+- **GitHub target path:** `APPLICATIONS/Fellowships/2026-09-21-fulbright-campus-interview-debrief.md`
+- **Next action:** Use the September 27 meeting to confirm which candidate changes should be applied, then complete the adjudication table before editing the final application.
+
+---
+
 ### May 2026 Application Sprint Todo
 - **Link / Filename:** `may-2026-application-sprint.md`
 - **Type:** Weekly todo list / application sprint
