@@ -78,6 +78,8 @@ This is the canonical multi-country deadline tracker for all PhD, fellowship, an
 | TBD | TBD | 🌍 Global | Microsoft Research Fellowship | Fellowship | ⚪ WATCH — official site only shows the closed 2026 call; no 2027 deadline posted |
 | **Oct 30, 2026** | Oct 16 | 🇺🇸 US | Hertz Fellowship | Fellowship | 🟠 IN PROGRESS — live 2027 draft created Sep 9; four recommender names required to submit and reports due Nov 2 at 6 PM Pacific; no requests sent |
 | **Oct 6, 2026, 5 PM ET** | Oct 1 | 🇪🇸 Spain | **Fulbright Spain English Teaching Assistant Award national deadline** | Fulbright U.S. Student | 🔵 Major milestone |
+| **Nov 1, 2026, 11:59 PM** (portal timezone to confirm) | Oct 30 | 🌎 Latin America/Caribbean | [Princeton in Latin America (PiLA)](https://princetoninlatinamerica.org/apply) | Yearlong service fellowship | 🟠 OPEN — confirm placement-year label in portal; [action plan](../Fellowships/2026-09-27-pila-nalcap-action-plan.md) |
+| Not posted for 2027-28 | Jan 15, 2027 status check | 🇪🇸 Spain | [NALCAP](https://www.educacionfpydeportes.gob.es/eeuu/en/convocatorias-programas/convocatorias-eeuu/nalcap.html) | Language assistantship | ⚪ WATCH — 2026-27 call closed; do not infer next-cycle dates |
 | CLOSED | — | 🇺🇸 US | Ford Foundation Predoctoral Fellowship | Fellowship | ⚫ CLOSED — National Academies states the program concluded |
 | **Oct 29, 2026, 2 PM ET** | Oct 15 | 🇺🇸 US | Paul & Daisy Soros Fellowship for New Americans | Fellowship | ⚪ ELIGIBILITY GATE — New American status and age 30 or younger required |
 | CLOSED | — | 🌍 Global | Google PhD Fellowship | Fellowship | ⚪ WATCH — 2026 cycle closed Apr 30; no December 2026 deadline |
