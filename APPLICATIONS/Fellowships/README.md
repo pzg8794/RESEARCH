@@ -8,6 +8,7 @@ Use this folder when an opportunity comes from ProFellow, an external fellowship
 
 | Need | File |
 | --- | --- |
+| Private September 30 Fulbright feedback evidence package (public-safe pointer only) | [2026-09-30-fulbright-feedback-evidence-package-private.md](./2026-09-30-fulbright-feedback-evidence-package-private.md) |
 | Fulbright September 30 portal before/after change record (public-safe; full proofs remain private) | [2026-09-30-fulbright-portal-before-after.md](./2026-09-30-fulbright-portal-before-after.md) |
 | PiLA November 2026 deadline and NALCAP watchlist | [PiLA/NALCAP action plan](./2026-09-27-pila-nalcap-action-plan.md) |
 | Established evidence-retrieval process: Overleaf, DataScience Drive/local sources, then public-safe Git derivatives | [Overleaf discovery playbook](../PhD/OVERLEAF_DISCOVERY_PLAYBOOK.md) |
