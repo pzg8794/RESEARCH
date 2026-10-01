@@ -8,6 +8,7 @@ Use this folder when an opportunity comes from ProFellow, an external fellowship
 
 | Need | File |
 | --- | --- |
+| Private September 30 Fulbright three-way editorial revision proposal (public-safe pointer only) | [2026-09-30-fulbright-editorial-three-way-revision-proposal-private.md](./2026-09-30-fulbright-editorial-three-way-revision-proposal-private.md) |
 | Private September 30 Fulbright independent Pro audit (public-safe pointer only) | [2026-09-30-fulbright-independent-pro-audit-private.md](./2026-09-30-fulbright-independent-pro-audit-private.md) |
 | Private September 30 Fulbright feedback evidence package (public-safe pointer only) | [2026-09-30-fulbright-feedback-evidence-package-private.md](./2026-09-30-fulbright-feedback-evidence-package-private.md) |
 | Fulbright September 30 portal before/after change record (public-safe; full proofs remain private) | [2026-09-30-fulbright-portal-before-after.md](./2026-09-30-fulbright-portal-before-after.md) |
