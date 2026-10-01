@@ -1,64 +1,51 @@
 # Urgent Deadlines — Quick Reference
 
-Last updated: 2026-08-03
+Last updated and official-source checked: 2026-09-09
 Full tracker: [DEADLINE-TRACKER.md](./DEADLINE-TRACKER.md)
 
-This file is the **1-page view** of everything due in the next 30–60 days. Update status after each submission.
+This is the live one-page cutoff list. Dates are official only where the linked current program page supports them.
 
----
+## Immediate non-PhD application controls
 
-## 🔴 Due THIS WEEK (June 4-8)
+| When | Item | State / action |
+|---|---|---|
+| Sep 10, 2026, 11:59 PM EDT | Cardiff Python Engineer Handshake posting | Base application submitted Sep 9. Complete the separate video/project supplement promptly; no separate supplement cutoff was stated. |
+| No posted cutoff | Jobot Senior Data Engineer | Final form prepared but not submitted. Treat as rolling/unknown and finish promptly after final-click authorization. |
+| Sep 16, 2026, 5:00–5:30 PM EDT | SG Tech Services interview | Confirmed appointment; prepare before the interview. |
 
-No unsubmitted high-fit PhD packet is currently documented as still needing first submission this week. The June 8 KTH reliable quantum deadline remains the only active official deadline in this window, but the packet-status log says it was already submitted and re-submitted.
+## Fellowship deadline
 
-| Deadline | Country | Opportunity | What you need | Status |
-|----------|---------|-------------|--------------|--------|
-| Jun 1 | 🇸🇪 Sweden | [Uppsala PhD: ML for Precision Medicine & Diagnostics](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=930689) | CV, transcripts, personal letter (1 page), writing sample, 2 reference contacts | Closed: institution canceled recruitment `UFV-PA 2026/1408` on Jul 27; not an applicant rejection; no appeal or follow-up |
-| Jun 3 | 🇸🇪 Sweden | [KTH PhD: AI/ML for Single-Cell Cancer Data](https://www.kth.se/lediga-jobb/927967?l=en) | CV, application letter (2 pages), diplomas/grades, language proof, publications/technical report | Submitted; no immediate portal action |
-| **Jun 8** | 🇸🇪 Sweden | [KTH PhD: ML for Reliable Quantum Computing](https://www.kth.se/lediga-jobb/919576?l=en) | CV, application letter (2 pages), diplomas/grades, language proof, publications/technical report | Submitted/re-submitted; optional final portal sanity check by Jun 7 |
-| Jun 8 | 🇳🇴 Norway | [UiO Postdoctoral Fellows in Special Needs Education, Education, Educational Psychology and Psychology](https://www.jobbnorge.no/en/available-jobs/job/299662/postdoctoral-fellows-in-special-needs-education-education-educational-psychology-and-psychology) | Postdoc-level application | Low fit / postdoc-only; skip unless specifically desired |
+| Deadline | Opportunity | Status |
+|---|---|---|
+| **Oct 6, 2026, 5:00 PM ET** | [Fulbright U.S. Student Program](https://us.fulbrightonline.org/) | Official national deadline. Campus-review and live-portal status remain separate controls. |
 
----
+## External fellowship audit
 
-## 🟠 Due in June (by June 30)
+| Deadline | Fellowship | Current control state |
+|---|---|---|
+| **Oct 30, 2026** | [Hertz Fellowship](https://www.hertzfoundation.org/hertz-fellowship/apply/) | **OPEN / ACTIONABLE.** Intended for applicants entering a full-time, in-person US PhD as a first- or second-year student in Fall 2027. Four recommender forms are due Nov 2 at 6 PM Pacific. |
+| **Oct 29, 2026, 2:00 PM ET** | [Paul & Daisy Soros](https://pdsoros.org/eligibility/) | **ELIGIBILITY GATE.** Requires qualifying New American status and age 30 or younger on the deadline. |
+| **Oct 20, 2026, 8:00 PM ET (CISE)** | [NSF GRFP](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf26-526/solicitation) | **CLOSED AS INELIGIBLE FOR PITER.** Current rules limit applicants to their first graduate degree; completed graduate degrees disqualify this route. References would otherwise be due Oct 16 at 8 PM ET. |
+| No 2027 date posted | [Microsoft Research Fellowship](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-fellowship/how-to-apply/) | **WATCH.** Official page shows only the closed 2026 call. |
+| Program concluded | [Ford Foundation Fellowships](https://www.nationalacademies.org/programs/PGA-FP-18-P-24/updates?sort=desc) | **REMOVE/CLOSED.** No active deadline. |
+| 2026 cycle closed Apr 30 | [Google PhD Fellowship](https://research.google/programs-and-events/phd-fellowship/) | **WATCH.** No verified December 2026 deadline. |
 
-| Deadline | Country | Opportunity | Status |
-|----------|---------|-------------|--------|
-| Jun 15 | 🇳🇱 Netherlands | [TU Delft PhD: Impact of AI on Business Operations](https://www.academictransfer.com/en/jobs/361381/phd-position-the-impact-of-ai-on-business-operations-in-knowledge-intensive-technology-firms/) | 🟠 Review |
-| Jun 15 | 🇳🇱 Netherlands | VU Junior Researcher | 🟡 Check fit |
-| Jun 17 | 🇸🇪 Sweden | [KTH PhD: Machine Learning (backup)](https://www.kth.se/lediga-jobb?l=en) | ✅ Submitted |
-| Jun 29 | 🇳🇱 Netherlands | [Radboud PhD: Gut-Brain Axis & ADHD](https://www.academictransfer.com/en/jobs/) | 🟠 Review |
-| Jun 30 | 🇳🇱 Netherlands | [Twente EngD: Context-Aware AI for Building Permitting](https://www.academictransfer.com/en/jobs/361380/engd-position-designing-a-context-aware-ai-for-automated-building-permitting/) | 🟡 Low priority |
-| **Jun 30** | 🌍 Fulbright | **UofR campus Fulbright full draft due for internal review** | 🟠 Build now |
+## Fall 2027 PhD deadlines — chronological
 
----
-
-## 🟡 Due July
-
-| Deadline | Country | Opportunity | Status |
-|----------|---------|-------------|--------|
-| Jul 1 | 🌍 Fulbright | Late-starter cutoff: FPQ + Planning Tool at UofR | Safety net |
-| Jul 31 | 🇸🇪 Sweden | [KTH PhD: Deep Learning for Biological Systems](https://www.kth.se/lediga-jobb/928557?l=en) | 🟡 Active |
-
----
-
-## 🔵 Major upcoming milestones (calendar now)
-
-| Deadline | What |
-|----------|------|
-| Aug 25–Sep 8, 2026 | 🇫🇮 Finland — University of Turku doctoral application window |
-| ~Sep 1–15, 2026 | 🌍 Fulbright — UofR campus deadline (4–6 weeks before Oct 6) |
-| ~Sep–Oct 2026 | 🌍 NSF GRFP opens — **must apply** |
-| ~Sep–Oct 2026 | 🌍 Microsoft Research PhD Fellowship |
-| **Oct 6, 2026, 5 PM ET** | 🌍 Fulbright U.S. Student — all Europe/Eurasia countries |
-| ~Nov 2026 | 🌍 Ford Foundation Predoctoral Fellowship |
-| ~Nov 2026 | 🌍 Paul & Daisy Soros Fellowship (check eligibility) |
-| Dec 1, 2026 | 🇨🇭 Switzerland — EPFL EDIC PhD |
-| Dec 1, 2026 | 🇺🇸 US — MIT, CMU, UW PhD programs |
-| Dec 1–15, 2026 | 🇫🇮 Finland — Turku selected doctoral programmes |
-| Dec 15, 2026 | 🇺🇸 US — Georgia Tech, U Michigan PhD programs |
-| Mar 16–30, 2027 | 🇫🇮 Finland — Turku all doctoral programmes |
-| Apr 15, 2027 | 🇨🇭 Switzerland — EPFL EDIC backup round |
+| Deadline | Program | Evidence state |
+|---|---|---|
+| **Nov 15, 2026** | [Rochester Statistics PhD](https://www.urmc.rochester.edu/education/graduate/phd/statistics/apply) | Fee-waiver target; not the final deadline. |
+| **Nov 16, 2026** | [Stanford GSE LSTD PhD](https://ed.stanford.edu/admissions/application-reqs/programs) | Verified official deadline. |
+| **Nov 18, 2026, 3:00 PM EST** | [CMU HCII PhD](https://www.hcii.cmu.edu/academics/phd-hci/admissions) early deadline | **PROVISIONAL/CONFLICTING:** official page displays this date but still labels the window “Fall 2026” while saying the next cycle is for a 2027 start. Recheck portal/cycle label. |
+| **Dec 1, 2026** | [MIT EECS PhD](https://www.eecs.mit.edu/academics/graduate-programs/admission-process/) | Official page displays this date; recheck live portal after opening because the page's admission-year sentence is stale. |
+| **Dec 1, 2026, 11:59 PM EST** | [Michigan Information PhD](https://www.si.umich.edu/admissions-aid/apply/how-do-i-apply-phd-information) | Verified official cutoff. |
+| **Dec 1, 2026** | [Rochester Statistics PhD](https://www.urmc.rochester.edu/education/graduate/phd/statistics/apply) | Priority-review deadline. |
+| **Dec 2, 2026, 11:59 PM Pacific** | [UW Information Science PhD](https://ischool.uw.edu/programs/phd/admissions/application-process) | Verified official cutoff; application opened Sep 1. |
+| **TBD — prior Dec 3 date withdrawn** | [NYU CDS PhD](https://cds.nyu.edu/phd-admissions-requirements/) | Official page now says Fall 2027 details are coming soon. Do not schedule against Dec 3 unless re-confirmed. |
+| **Dec 9, 2026, 3:00 PM EST** | [CMU HCII PhD](https://www.hcii.cmu.edu/academics/phd-hci/admissions) final deadline | **PROVISIONAL/CONFLICTING** for the same cycle-label reason above. |
+| **Dec 15, 2026** | [Rochester Statistics PhD](https://www.urmc.rochester.edu/education/graduate/phd/statistics/apply) | Verified final acceptance deadline. |
+| **Dec 31, 2026** | [RIT CIS PhD](https://www.rit.edu/study/computing-and-information-sciences-phd) | Verified priority deadline; rolling afterward. |
+| **Jan 5, 2027** | [Rochester Computer Science PhD](https://anon.cs.rochester.edu/graduate/how-to-apply.html) | Verified official deadline. |
 
 ---
 

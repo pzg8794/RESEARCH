@@ -1,0 +1,7 @@
+# Neuromatch Curriculum Specialist application response
+
+Neuromatch's mission excites me because it treats high-quality computational education as something that should be accessible across geography, institutions, and prior opportunity. That goal aligns with my work connecting inclusive computer science teaching, disability access, and responsible AI. I am completing M.S. degrees in Teaching Computer Science K-12 at the University of Rochester and Data Science at RIT, where I also build and evaluate AI systems as a graduate assistant.
+
+My K-5 computer science placement, middle-school science teaching, and environmental-science camp have taught me to translate complex ideas into clear goals, modeled first steps, multimodal explanations, structured collaboration, and multiple ways to participate. My industry and research experience helps me bring technical depth, reproducible workflows, and careful evaluation to curriculum development.
+
+The NeuroAI modules particularly match my interests in learning, decision-making, generalization, failure, ethics, and fairness. I would contribute AI expertise, backward design, Universal Design for Learning, and a willingness to test and revise materials with educators. Long term, I plan to teach computer science and pursue research connecting fairness, AI, education, and support for neurodivergent learners. Building open NeuroAI materials for high school students would directly advance those goals.
