@@ -1,9 +1,20 @@
 # Handshake Message Log
 
-Last updated: 2026-08-03
+Last updated: 2026-09-30
 
 Privacy note: this public repository stores concise professional summaries, not
 private message bodies, recruiter email addresses, or authenticated inbox URLs.
+
+## September 30 preparation
+
+- IBM federal consulting recruiter: reviewed an onsite West Virginia role with
+  high travel and clearance eligibility; tailored factual questions prepared
+  but **not sent**. Piter will decide whether to pursue it.
+- City Teaching Alliance recruiter: reviewed a June 2027 relocation program
+  with a three-year teaching commitment and unclear CS pathway; factual reply
+  prepared but **not sent**. Piter will decide whether to pursue it.
+- Source links, fit details, and drafts:
+  [IBM/CTA preparation](2026-09-30-ibm-cta-preparation.md).
 
 ## August 3 Refresh
 

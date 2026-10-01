@@ -1,6 +1,17 @@
 # Job Pipeline
 
-Last updated: 2026-09-03
+Last updated: 2026-09-30
+
+## September 30 preparation-only review
+
+Piter directed preparation only for the IBM and City Teaching Alliance leads.
+See [sourced fit, commitment, deadline, and unsent reply drafts](2026-09-30-ibm-cta-preparation.md).
+Neither application nor reply was submitted.
+
+| Opportunity | Current state | Next action |
+| --- | --- | --- |
+| [IBM Federal Associate Consultant - Salesforce](https://careers.ibm.com/en_US/careers/JobDetail?jobId=127929&source=DS_Handshake&tags=tm%7Celh%7Cus708%7Ctas_federal_demetrius) | Prepare only. Onsite Rocket Center, WV; up to 100% travel; clearance eligibility; 2027 start. Apply now visible Sep 30. | Piter decides on travel/location/clearance path; verify role remains open, then prepare role-specific resume. |
+| [City Teaching Alliance Teaching Fellow/Teacher](https://app.joinhandshake.com/jobs/11372993) | Prepare only. June 2027 start, relocation, three-year teaching commitment; posting's Sep 28/Sep 30 deadline fields conflict. Apply visible Sep 30. | Piter decides on relocation/program fit; clarify CS pathway and open deadline before an application. |
 
 ## Verified status snapshot — 2026-09-03
 
