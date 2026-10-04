@@ -1,6 +1,8 @@
 # Fall 2027 US PhD Application Dashboard
 
-Updated: 2026-08-06
+Updated: 2026-08-06 (historical portfolio detail; current status pointer added 2026-10-04)
+
+**Current deadlines and last documented application statuses:** [October 4, 2026 snapshot](./2026-10-04-APPLICATION-STATUS.md). The program board below predates the September portal-draft check and the October deadline refresh; use the dated snapshot where it differs. Submission/payment/recommendation status requires live portal verification.
 
 Applicant: Piter Garcia
 

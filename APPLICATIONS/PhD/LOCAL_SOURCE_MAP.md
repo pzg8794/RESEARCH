@@ -2,6 +2,8 @@
 
 Updated: 2026-05-28
 
+Fall 2027 status update (2026-10-04): [current deadline/status snapshot](./fall-2027/2026-10-04-APPLICATION-STATUS.md), mirrored in the restricted Drive Research folder as `2026-10-04-phd-application-status.md`. The older roadmap linked below is historical where it conflicts with this snapshot; portal receipts, not planning files, establish submission status.
+
 This file links the application-related documentation spread across the two local DataScience spaces into this repository. It is a navigation map, not a bulk upload. Copy only public-safe or sanitized derivatives into GitHub.
 
 ## Retrieval order for formal and research documents

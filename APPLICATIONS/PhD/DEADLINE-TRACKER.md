@@ -1,12 +1,12 @@
 # PhD & Fellowship Application Deadline Tracker
 
-Last updated: 2026-08-06
+Last updated: 2026-08-06 (historical tracker; Fall 2027 PhD status pointer added 2026-10-04)
 Maintainer: Piter Garcia  
 Repo: https://github.com/pzg8794/RESEARCH
 
 This is the canonical multi-country deadline tracker for all PhD, fellowship, and research applications. Update this file every time a new opportunity is found or a deadline is confirmed.
 
-> **Fall 2027 US PhD applications:** use the [current Fall 2027 dashboard](./fall-2027/README.md) for verified deadlines, application status, funding, and next actions. Several US rows later in this older tracker were planning estimates and must not be used without checking the official program page.
+> **Fall 2027 US PhD applications:** use the [October 4 deadline/status snapshot](./fall-2027/2026-10-04-APPLICATION-STATUS.md). The dashboard and several US rows later in this older tracker contain historical planning estimates. Submission status in the snapshot was last documented September 9 and requires live portal verification.
 >
 > **Current Fulbright route:** the August 6 FPA consultation selected the
 > [Spain English Teaching Assistant Award](../../PREPARATION/meetings/2026-08-06-fulbright-advising-outcome.md).
