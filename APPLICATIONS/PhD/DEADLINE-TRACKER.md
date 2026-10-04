@@ -1,6 +1,8 @@
 # PhD & Fellowship Application Deadline Tracker
 
-Last updated: 2026-09-09
+Last updated: 2026-10-04 (PhD deadline/status pointer; other entries retain their previous verification dates)
+
+For the current Fall 2027 PhD portfolio, use [the October 4 application-status snapshot](./fall-2027/2026-10-04-APPLICATION-STATUS.md). Older PhD dates in this broad tracker are historical where they conflict with that snapshot. Portal statuses in the snapshot were last documented September 9 and require live verification.
 Maintainer: Piter Garcia  
 Repo: https://github.com/pzg8794/RESEARCH
 
