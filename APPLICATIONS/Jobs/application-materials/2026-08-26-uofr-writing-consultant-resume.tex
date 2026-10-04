@@ -1,0 +1,134 @@
+\documentclass[10pt,letterpaper]{article}
+
+\usepackage[margin=0.65in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{tabularx}
+\usepackage[hidelinks]{hyperref}
+\usepackage{titlesec}
+\usepackage{microtype}
+
+\definecolor{accent}{HTML}{174E70}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\setlist[itemize]{leftmargin=1.15em,itemsep=0.7pt,topsep=1.5pt,parsep=0pt}
+\titleformat{\section}{\large\bfseries\color{accent}}{}{0pt}{}[\vspace{-2pt}\titlerule]
+\titlespacing*{\section}{0pt}{5pt}{2.5pt}
+\pagestyle{empty}
+
+\newcommand{\entry}[4]{%
+  \noindent\begin{tabularx}{\textwidth}{@{}Xr@{}}
+    \textbf{#1} & #2 \\
+    \textit{#3} & \textit{#4}
+  \end{tabularx}\vspace{-1pt}
+}
+
+\begin{document}
+\fontsize{9.5}{11}\selectfont
+
+\begin{center}
+  {\Large\bfseries Piter Z. Garcia Bautista}\\[1pt]
+  {\large Graduate Writing, Interdisciplinary STEM Education, and Research Communication}\\[2pt]
+  Rochester, NY
+  \enspace|\enspace \href{https://linkedin.com/in/garciapiterz}{linkedin.com/in/garciapiterz}
+  \enspace|\enspace \href{https://github.com/pzg8794}{github.com/pzg8794}
+  \enspace|\enspace \href{https://garciapiterz.com}{garciapiterz.com}
+\end{center}
+
+\section*{Profile}
+University of Rochester graduate student, educator, researcher, and academic mentor with experience helping learners organize complex assignments, interpret feedback, explain technical ideas, and revise without surrendering ownership of their work. Writes across education, data science, computer science, bioinformatics, AI ethics, and research methods. Brings Spanish-English cross-cultural communication, Universal Design for Learning, and more than ten years of professional experience translating specialized information for varied audiences.
+
+\section*{Writing, Tutoring, and Facilitation Strengths}
+\begin{tabularx}{\textwidth}{@{}>{\bfseries}l X@{}}
+Individual support & Goal-setting, assignment interpretation, guided questioning, feedback, revision, and writer agency\\
+Academic writing & Research papers, literature synthesis, technical reports, documentation, lesson analyses, and presentations\\
+Inclusive practice & Universal Design for Learning, multimodal communication, vocabulary support, and differentiated participation\\
+Interdisciplinary work & Education, computer science, data science, statistics, bioinformatics, healthcare AI, and technology ethics\\
+Languages & Spanish (native/fluent); English (fluent)\\
+\end{tabularx}
+
+\section*{Teaching, Tutoring, and Research Experience}
+
+\entry{Independent Practice}{2021--Present}{STEM Tutor and Academic Mentor; Varsity Tutors, 2022--2026}{Remote / Rochester, NY}
+\begin{itemize}
+  \item Tutor computer science, data science, statistics, and mathematics through examples, diagrams, guided practice, and patient debugging.
+  \item Help learners organize complex assignments, interpret feedback, revise explanations, and build confidence while maintaining responsibility for their own work.
+\end{itemize}
+
+\entry{University of Rochester / Pine Brook Elementary School}{Feb 2026--May 2026}{K--5 Computer Science Student Teacher}{Rochester, NY}
+\begin{itemize}
+  \item Co-designed and delivered standards-aligned coding, robotics, digital-fluency, and responsible-technology instruction across K--5 classrooms.
+  \item Created and revised lesson plans, directions, rubrics, and formative assessments using mentor and student feedback; used visual, verbal, hands-on, small-group, and one-to-one supports.
+\end{itemize}
+
+\entry{University of Rochester / Freedom Scholars}{Jul 2026}{Environmental Science Camp Teacher}{Rochester, NY}
+\begin{itemize}
+  \item Co-developed and facilitated an environmental-science and environmental-justice learning sequence, coordinated youth-facing materials, and prepared a public poster showcase.
+  \item Adapted explanations, grouping, and activities in response to youth and teacher feedback while preserving rigorous scientific goals.
+\end{itemize}
+
+\entry{Rochester Institute of Technology, Software Engineering}{Fall 2025--Present}{Graduate Assistant, Quantum and AI Research}{Rochester, NY}
+\begin{itemize}
+  \item Build and document reproducible experiments in adaptive quantum-network routing, online learning, fairness, and resource allocation.
+  \item Translate complex methods and findings into reports, presentations, visual explanations, reusable documentation, and manuscript-ready evidence for interdisciplinary collaborators.
+\end{itemize}
+
+\newpage
+
+\section*{Selected Academic Writing}
+\begin{itemize}
+  \item \textit{RNA Secondary Structure Prediction and Visualization: Implementing the Nussinov Algorithm with MFE Enhancements} (single-authored computational-biology manuscript, 2026) --- reproducible methods, benchmarking, visual analysis, and biological interpretation.
+  \item \textit{Designing Equitable AI Systems that Providers and Patients from Marginalized Communities Can Trust} (AI ethics research paper, 2025) --- literature synthesis, governance analysis, and an evidence-based argument for accountable diagnostic AI.
+  \item \textit{Integrating Fairness-Aware Algorithms into Health Screening for Culturally and Linguistically Diverse Adolescents} (adolescent-development research brief, 2025) --- interdisciplinary synthesis connecting developmental theory, assessment, and algorithmic fairness.
+  \item \textit{Becoming the Teacher I Needed} (public teaching-portfolio statement, 2026) --- reflective writing on inclusive computer-science education, access, dignity, and teacher agency.
+\end{itemize}
+
+\section*{Education}
+
+\entry{University of Rochester, Warner School of Education and Human Development}{Expected Dec 2026}{M.S., Teaching Computer Science K--12 --- GPA 4.0}{Rochester, NY}
+\begin{itemize}
+  \item NSF Robert Noyce Scholar; graduate preparation in curriculum, assessment, adolescent development, teaching practice, and inclusive computer-science education.
+  \item Advanced Certificates in Teaching Students with Disabilities, All Grades, and Digitally-Rich Teaching in K--12 Schools (in progress; expected December 2026).
+\end{itemize}
+
+\entry{Rochester Institute of Technology}{Expected Dec 2026}{M.S., Data Science --- GPA 3.9}{Rochester, NY}
+\begin{itemize}
+  \item Graduate work in applied data science, bioinformatics, machine learning, AI ethics, reproducible research, and technical communication.
+\end{itemize}
+
+\entry{Rochester Institute of Technology}{2015}{M.S., Computer Science --- GPA 3.2}{Rochester, NY}
+\begin{itemize}
+  \item Concentrations in artificial intelligence, big-data analytics, and computer graphics.
+\end{itemize}
+
+\entry{Farmingdale State College}{2012}{Dual B.S., Electrical Engineering Technology and Computer Engineering Technology --- GPA 3.3}{Farmingdale, NY}
+
+\section*{Additional Professional Experience}
+
+\entry{VEDADATA Inc.}{Sep 2022--Aug 2024}{Data Solutions Engineer}{New York, NY}
+\begin{itemize}
+  \item Designed data workflows, validation checks, and documentation; clarified requirements and communicated results across technical and nontechnical teams.
+\end{itemize}
+
+\entry{VIOME Inc.}{Jan 2021--Sep 2022}{AI Data Solutions Engineer}{New York, NY}
+\begin{itemize}
+  \item Developed and documented healthcare machine-learning workflows, evaluation results, and deployment-oriented data preparation.
+\end{itemize}
+
+\entry{The NPD Group, Inc.}{Jun 2019--Jan 2021}{Senior Systems Engineer, Data Platform}{New York, NY}
+\begin{itemize}
+  \item Collaborated across teams on data integration, requirements, automated testing, documentation, and analytics applications.
+\end{itemize}
+
+\entry{Insticator Inc.}{Sep 2017--Mar 2019}{Senior Systems Engineer, Data and Machine Learning}{New York, NY}
+\begin{itemize}
+  \item Built data pipelines, APIs, reporting tools, and recommendation/NLP systems; contributed technical documentation and cross-functional explanations.
+\end{itemize}
+
+\section*{Recognition and Tools}
+\textbf{Recognition:} NSF Robert Noyce Teacher Scholarship (2024--2026); Herbert R. Miller Scholar (2025--2026); M.S. International Scholarship, MESCyT and RIT (2012--2015); NYS STEP/CSTEP Honorable Mention Technology Award (2012).\\[2pt]
+\textbf{Writing and research tools:} Microsoft Word, Google Docs, LaTeX, Overleaf, Zotero, Git/GitHub, Jupyter, data visualization, presentation development, and accessible document design.
+
+\end{document}

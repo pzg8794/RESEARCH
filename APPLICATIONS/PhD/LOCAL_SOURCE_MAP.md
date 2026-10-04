@@ -73,6 +73,8 @@ This is the main local status board for profile/application identity work.
 
 ## Google Drive Research folder
 
+The current public-safe Fall 2027 PhD deadline/status snapshot is [in Git](./fall-2027/2026-10-04-APPLICATION-STATUS.md) and mirrored in the restricted Drive Research folder as `2026-10-04-phd-application-status.md`. The older Drive roadmap remains a historical planning source, not the controlling deadline or submission-status record.
+
 This is the main Google Drive application-materials folder. Most files should remain referenced, not copied raw.
 
 | Source | Use | Repo action |
