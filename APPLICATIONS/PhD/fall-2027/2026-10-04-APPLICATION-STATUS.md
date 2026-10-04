@@ -12,7 +12,7 @@ The October 4 [execution checkpoint](./2026-10-04-APPLICATION-EXECUTION-CHECKPOI
 | MIT EECS PhD | Official application route reached; authenticated draft not verified. | [December 1, 2026](https://www.eecs.mit.edu/academics/graduate-programs/admission-process/); confirm cycle details in portal because the page has inconsistent admission-year wording. |
 | UW Information Science PhD | Existing Fall 2027 draft authenticated, saved, and reopened; Review still lists six required items. No submission receipt. | [December 2, 2026, 11:59 p.m. PT](https://ischool.uw.edu/programs/phd/admissions/application-process) |
 | NYU Center for Data Science PhD | Historical account evidence found; current Fall 2027 draft not verified. | [December 3, 2026](https://cds.nyu.edu/phd-admissions-requirements/). This supersedes the September 9 tracker’s “TBD.” |
-| RIT Computing and Information Sciences PhD | Account recovery advanced, but application Review rendered blank; current draft and submission state remain unverified. | [December 31 priority; rolling afterward](https://www.rit.edu/study/computing-and-information-sciences-phd) |
+| RIT Computing and Information Sciences PhD | Account recovery advanced, but the original application Review rendered blank and a fresh route returned to login; current draft, reusable authentication, and submission state remain unverified. | [December 31 priority; rolling afterward](https://www.rit.edu/study/computing-and-information-sciences-phd) |
 | University of Rochester Computer Science PhD | Existing Fall 2027 draft authenticated, saved, and reopened; Review still lists six required items. No submission receipt. | [January 5, 2027](https://cs.rochester.edu/graduate/how-to-apply.html) |
 
 University of Rochester Statistics remains **paused by Piter**. Its deadline is not an active application commitment. Hertz Fellowship is a separate fellowship draft, not a PhD application.
@@ -20,7 +20,7 @@ University of Rochester Statistics remains **paused by Piter**. Its deadline is 
 ## Status verification still required
 
 - Continue the UW and Rochester authenticated drafts from their remaining required-item lists; verify fee and recommendation states before any submission decision.
-- Recover the RIT application-review page without creating a duplicate draft; its blank page is not evidence of submission or completeness.
+- Sign in through the verified existing RIT admissions account and recover the application-review page without creating a duplicate draft; the prior Certification content and blank Review are not evidence of a current authenticated draft or completeness.
 - Establish account/draft status for Stanford, CMU, Michigan, MIT, and NYU before claiming live completion.
 - Resolve the undergraduate degree/GPA source conflict before inserting that disputed entry or uploading a CV carrying it.
 - Resolve CMU and MIT cycle-label inconsistencies before relying on those dates for submission.
