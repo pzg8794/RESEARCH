@@ -4,6 +4,8 @@ Updated: 2026-10-04 deadline refresh; portal statuses last documented 2026-09-09
 
 Current deadline/status snapshot: [2026-10-04-APPLICATION-STATUS.md](./2026-10-04-APPLICATION-STATUS.md). This dated snapshot supersedes older deadline claims below where they differ. Portal submission, payment, and recommender status still require live verification.
 
+October 4 execution checkpoint: [2026-10-04-APPLICATION-EXECUTION-CHECKPOINT.md](./2026-10-04-APPLICATION-EXECUTION-CHECKPOINT.md). RIT and Rochester return to account-login pages; UW's official returning-applicant route is likewise unauthenticated. This records access and updated requirement gates, not a verified draft/submission state.
+
 Applicant: Piter Garcia
 
 Target entry: Fall 2027

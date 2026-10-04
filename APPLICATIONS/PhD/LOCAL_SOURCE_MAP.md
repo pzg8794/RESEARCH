@@ -75,6 +75,8 @@ This is the main local status board for profile/application identity work.
 
 The current public-safe Fall 2027 PhD deadline/status snapshot is [in Git](./fall-2027/2026-10-04-APPLICATION-STATUS.md) and mirrored in the Drive Research folder as `2026-10-04-phd-application-status.md`. The Drive file is link-readable (`anyone` reader), so neither copy contains private applicant material. The older Drive roadmap remains a historical planning source, not the controlling deadline or submission-status record.
 
+The [October 4 execution checkpoint](./fall-2027/2026-10-04-APPLICATION-EXECUTION-CHECKPOINT.md) is mirrored in the same Drive Research folder as [2026-10-04-phd-application-execution-checkpoint.md](https://drive.google.com/file/d/1kUXb-ZqGCoTTN5hyPkc4CPQCubv1iswC/view). It records public-safe login gates, official requirement checks, and next actions; it is not an authenticated submission-status receipt.
+
 This is the main Google Drive application-materials folder. Most files should remain referenced, not copied raw.
 
 | Source | Use | Repo action |

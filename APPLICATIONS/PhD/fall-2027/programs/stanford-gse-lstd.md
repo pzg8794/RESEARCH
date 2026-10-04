@@ -1,12 +1,11 @@
 # Stanford GSE PhD in Learning Sciences and Technology Design
 
-Checked: 2026-08-06
+Checked: 2026-10-04 for 2027–28 requirements and fee-waiver dates; faculty/financial detail below was last checked 2026-08-06
 
 Portfolio role: high-fit national reach for computing education and learning
 sciences
 
-Application status: opens in mid-September 2026; official deadline is November
-16, 2026
+Application status: official application is open; no authenticated applicant draft has been documented; official deadline is November 16, 2026
 
 ## Official record
 
@@ -25,6 +24,15 @@ Application status: opens in mid-September 2026; official deadline is November
 - Required components include the application and fee, statement of purpose,
   resume/CV, three recommendations, transcripts, and applicable English
   testing.
+- The statement of purpose is one to two pages, single-spaced, 12-point type,
+  with one-inch margins, and should name two or three potential advisers.
+- The application fee is $125. The school-based fee-waiver request round
+  available to regular PhD applicants closes November 5, 2026 at noon
+  Pacific, with decisions scheduled November 6. This is an earlier action
+  gate than the PhD application deadline; eligibility is not yet verified.
+- The current GSE requirements say LSTD applicants under SHIPS must select
+  LSTD **and** another SHIPS subplan. Confirm the exact linked home area in
+  the live application before writing to a prompt or choosing faculty.
 
 ## Funding record
 
