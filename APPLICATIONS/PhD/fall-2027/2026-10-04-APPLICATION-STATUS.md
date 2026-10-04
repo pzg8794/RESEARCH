@@ -1,6 +1,6 @@
 # Fall 2027 PhD application status — 2026-10-04
 
-This is the current public-safe deadline/status snapshot. Program deadlines were checked against official pages on 2026-10-04. Application and recommender statuses below are **last documented on 2026-09-09**, not live portal confirmations. Do not infer that an application remains unsubmitted if the portal has changed since that check.
+This is the current public-safe deadline/status snapshot. Its Drive mirror is link-readable (`anyone` reader), so it contains no private applicant materials. Program deadlines were checked against official pages on 2026-10-04. Application and recommender statuses below are **last documented on 2026-09-09**, not live portal confirmations. Do not infer that an application remains unsubmitted if the portal has changed since that check.
 
 | Program | Last documented application status | Official deadline / verification |
 | --- | --- | --- |
