@@ -1,16 +1,19 @@
 # Fall 2027 PhD application execution checkpoint — 2026-10-04
 
-This is a public-safe operational record. It does **not** certify any application as submitted or submission-ready. The [deadline/status snapshot](./2026-10-04-APPLICATION-STATUS.md) remains the deadline board; this record documents what the October 4 execution pass could and could not verify.
+This is a public-safe operational record. It does **not** certify any application as submitted or submission-ready. The [deadline/status snapshot](./2026-10-04-APPLICATION-STATUS.md) remains the deadline board; this record documents what the October 4 execution pass could and could not verify. Full working essays, applicant identity evidence, and portal receipts are restricted to private local/Drive storage.
 
 ## Authenticated-portal checkpoint
 
 | Application | Live page reached on October 4 | What is verified | What remains unverified |
 | --- | --- | --- | --- |
-| RIT Computing and Information Sciences PhD | [RIT admissions account login](https://join.rit.edu/account/login) in the established Chrome PhD tab | The saved session is no longer authenticated; the page asks for account email and password. | Current draft, uploads, GRE, recommendations, fee/waiver, and submission state. Last documented draft state remains September 9. |
-| Rochester Computer Science PhD | [Rochester graduate admissions account login](https://apply.grad.rochester.edu/account/login) in the established Chrome PhD tab | The saved session is no longer authenticated; the page asks for account email and password. | Current draft, uploads, recommendations, fee/waiver, and submission state. Last documented draft state remains September 9. |
-| UW Information Science PhD | [Official returning-applicant route](https://apply.grad.uw.edu/portal/gr_app) | The application-management portal identifies a returning-user login; no authenticated application state is visible. | Current draft, faculty choices, uploads, recommendations, fee/waiver, and submission state. Last documented draft state remains September 9. |
+| Stanford GSE LSTD | [Official graduate application gateway](https://applygrad.stanford.edu/portal/grad-app) and first-time registration | Fall 2027 route and registration fields visible; no account created and no draft verified. | Account email/legal-identity choice, linked academic area, live checklist, uploads, waiver, and submission state. |
+| CMU HCII PhD | [SCS Fall 2027 gateway](https://admissions.scs.cmu.edu/portal/apply_gr) and first-time registration | Correct cycle, early/final deadlines and fees visible; no account created and no draft verified. | Account identity, HCII selection, live checklist, waiver, uploads, and submission state. |
+| Michigan Information, MIT EECS, NYU CDS | Official application/login or registration routes | Public program requirements and private working packets mapped; no current authenticated draft verified. | Exact live fields, uploads, fee/waiver, and submission state. |
+| RIT Computing and Information Sciences PhD | [RIT application review](https://join.rit.edu/apply/review) after account recovery | Recovery advanced, but review/home pages rendered blank; a current draft cannot be confirmed from that view. | Program/term, checklist, uploads, recommendations, fee/waiver, and submission state. |
+| Rochester Computer Science PhD | [Authenticated Rochester application](https://apply.grad.rochester.edu/apply/) | Existing Fall 2027 CS PhD draft saved and reopened; statement and current Warner transcript attached; Review lists six required items. | Six required items, current CV and other documents, recommendations, fee/waiver, and final status. |
+| UW Information Science PhD | [Authenticated UW application review](https://apply.grad.uw.edu/apply/review) | Existing Fall 2027 draft saved and reopened; research/personal materials, diversity text, faculty interests, and current Warner academic row/transcript recorded; Review lists six required items. | Six required items, current CV, recommendation and fee/waiver state, and final status. |
 
-Do not infer that these applications are still unsubmitted solely because the earlier documentation says so. Resume each draft after normal account sign-in, record its actual checklist and status, then continue completing factual fields and verified uploads. No password is recorded in this repository.
+Do not infer submission state for inaccessible portals from earlier documentation. The authenticated UW and Rochester drafts remain incomplete and no submission receipt was observed. No password or private application prose is recorded in this repository.
 
 ## Official requirement changes and time-sensitive gates
 
@@ -20,9 +23,9 @@ Do not infer that these applications are still unsubmitted solely because the ea
 
 ## Next execution sequence
 
-1. Re-enter the existing RIT, Rochester, and UW portals through normal account sign-in; capture each live checklist and status before changing fields. Do not guess credentials or applicant-specific fee-waiver answers.
-2. Resolve the Stanford LSTD linked-area choice and fee-waiver eligibility early enough to use the November 5 round; do not enter an unsupported choice in a live application.
-3. Reconcile the UW statement bodies with their official word limits and verify three or four adviser rationales against currently eligible faculty before any upload.
-4. Verify current academic CV, transcripts, and recommender assignments from private source records before upload/invitation. The existing [materials checklists](./applications/uw-information-science/MATERIALS-CHECKLIST.md), [Rochester checklist](./applications/uofr-computer-science/MATERIALS-CHECKLIST.md), and [RIT checklist](./applications/rit-cis/MATERIALS-CHECKLIST.md) remain working inventories, not evidence of completed portal actions.
+1. Continue the authenticated UW and Rochester drafts from their six-item Review lists; save and reopen only source-verifiable fields and authorized documents. Do not send recommender invitations, pay, sign, or submit.
+2. Diagnose RIT's blank application-review page without creating a duplicate draft. Then establish current authenticated status for Stanford, CMU, Michigan, MIT, and NYU through normal account routes.
+3. Resolve the Stanford LSTD linked-area choice and fee-waiver eligibility early enough to use the November 5 round; do not enter an unsupported choice in a live application.
+4. Resolve the issuer-versus-older-display conflict in the Farmingdale undergraduate degree/GPA before uploading a CV or entering those disputed fields. Verify current academic CV, transcripts, and recommender assignments from private source records. The existing [UW materials checklist](./applications/uw-information-science/MATERIALS-CHECKLIST.md), [Rochester checklist](./applications/uofr-computer-science/MATERIALS-CHECKLIST.md), and [RIT checklist](./applications/rit-cis/MATERIALS-CHECKLIST.md) remain working inventories, not evidence of completed portal actions.
 
-No application was submitted, no fee was paid, no recommender was contacted, and no applicant file was uploaded during this checkpoint. No application reached an Astra validation checkpoint.
+No application was submitted, no fee was paid, and no recommender was contacted during this checkpoint. Verified applicant materials were attached to the authenticated UW and Rochester drafts only, as documented privately. No application reached an Astra validation checkpoint.
