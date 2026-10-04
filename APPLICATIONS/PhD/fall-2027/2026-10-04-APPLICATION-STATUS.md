@@ -2,6 +2,8 @@
 
 This is the current public-safe deadline/status snapshot. Its Drive mirror is link-readable (`anyone` reader), so it contains no private applicant materials. Program deadlines were checked against official pages on 2026-10-04. Application and recommender statuses below are **last documented on 2026-09-09**, not live portal confirmations. Do not infer that an application remains unsubmitted if the portal has changed since that check.
 
+The October 4 [execution checkpoint](./2026-10-04-APPLICATION-EXECUTION-CHECKPOINT.md) records the three login gates and newly verified application-material and fee-waiver requirements. It does not change any submission-status claim.
+
 | Program | Last documented application status | Official deadline / verification |
 | --- | --- | --- |
 | Stanford GSE Learning Sciences and Technology Design | No draft recorded; application now open | [November 16, 2026, 11:59 p.m. PT](https://ed.stanford.edu/admissions/faq) |
