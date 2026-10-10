@@ -45,6 +45,21 @@ Setup commit `fa3faee33164274b8c36ded1b5a3071745907974` was pushed and independe
 - Drive mirror: `1SsDaH2Tyz74nmszhHr5uDCjAzaG25eRI`, in established Research folder `1m24V54TKPhjl_vjnUjOwEZMrCQLQ3f5b`. Initial complete text readback equals local text. Folder/file inherits anyone-link-reader access: this is deliberately operational/public-safe metadata only; sensitive case evidence remains in its restricted project location. Reuse the stable ID for subsequent updates; do not create duplicate uploads.
 - Matched supervisory response READ: `9b388e14-7d58-4184-b4f9-840d919b260f`, turn `382b2d62-e512-48a2-92f0-bd4f2f7f72d0`, explicitly matches `PORTFOLIO-20261010T175250955Z`. VIBER independently verified commit `3f3c1791a018563fba7f1fb5141d869e4fb2efc5`, Drive ID, exact Git/Drive text equality and bounded worker acknowledgments. Decision: ACKNOWLEDGED — CONTINUE WITH ONE PRIORITY MODIFICATION. The retrieved body did not specify that modification; do not invent it. Continue established priorities and read any appended clarification at the next checkpoint. This closes the matching-response gate for this bounded run only, not the web worker's own separate request.
 
+## Hourly run — PORTFOLIO-20261010T184951094Z
+
+- Trigger/start: 2026-10-10 18:49:51.094 UTC / 14:49:51.094 EDT.
+- Request source: VIBER oversight `40960c39-d2dc-4fb6-8f29-7c9d8808d6db`; preserve established sole-writer roles and request source-backed platform-comment inspection, not duplicate outreach.
+- Coverage: AGENTS/VIBER_HOME and prior receipt; current VIBER chat; canonical local GROUP and WEB receipts; Chrome existing-session inventory and native UI fallback.
+- Verified worker state: GROUP `heartbeat-2026-10-10T180450Z` / `REMI-GROUP-20261010-180450Z-REPORT-01`, own stable Drive ID retained, response WAITING_FOR_VIBER. WEB `heartbeat-2026-10-10T183121018Z` / `REMI-WEB-20261010T183121018Z-REPORT-01`, own stable Drive ID retained, WAITING_FOR_VIBER. Acknowledgments from older runs do not release these requests.
+- Completed substantive check: attempted direct inspection of already-open platform notifications. Chrome-tab binding timed out twice; native Chrome fallback successfully displayed authenticated REMI dashboard. Messages navigation and public alert rendered blank; screenshot confirmed blank content. This is incomplete coverage, not absence of a comment or sighting. No repeated outreach, send, report-reunited click, location change or subscription action.
+- Portal inventory: existing application tabs preserved; several display login/reset/registration titles, while Rochester retains a form title. Those titles alone do not verify current authentication or application completion. Native attempt to select the Rochester group returned offscreen-element error. No field save/upload or required-item reduction claimed; application work remains at its established checkpoints.
+- Private account-security concern remains an owner-recognition decision in VIBER's source chat; no credentials/session/security changes performed, and private details excluded from this public-safe register.
+- Technical blocker: browser-tab binding timeout and blank native rendered content; not an applicant factual-information blocker. Keep existing sessions and retry a bounded correct-tab read on the next wake, rather than reset accounts or create duplicates.
+- Coordination: correlated progress report sent to VIBER; matching actual response pending until read. No recipient expansion; no submissions, certifications, payments or external email.
+- Cleanup: no task-created tabs, processes or temporary files; user tabs and all source records preserved.
+- Timing: technical checks include two 30-second timeouts; actual elapsed run time recorded by the chat, not employment hours. Human-equivalent check estimate 10–15 minutes only.
+- Next: existing outreach worker's source-backed comment inspection; when browser access works, resume source-supported application fields from current saved state.
+
 ## Runtime
 
 The local heartbeat requires this Mac and Codex to remain available. A schedule is not proof of an actual completed future run. Preserve useful review tabs and clean only task-created disposable artifacts.
