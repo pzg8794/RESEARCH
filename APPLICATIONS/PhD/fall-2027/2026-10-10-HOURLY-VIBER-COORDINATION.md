@@ -77,4 +77,16 @@ Setup commit `fa3faee33164274b8c36ded1b5a3071745907974` was pushed and independe
 
 ## Runtime requirements
 
+## Hourly run — PORTFOLIO-20261010T205851633Z
+
+- Trigger: 20:58:51.633 UTC / 16:58:51.633 EDT. Re-anchored instructions, ledger, existing private Rochester source/checkpoint and VIBER's appended bounded offline instruction `61647fa3-273e-4994-b235-4f78b2251a8f`.
+- Completed: bounded source-readiness classification appended to the existing private Rochester checkpoint, not another portfolio checklist. Compared existing CV and two-part statement with specific historical saved-upload receipts. Recorded stale header/path discrepancies; no source wording revised or applicant fact invented. Source-ready, source-missing, owner-decision and live-verification boundaries remain distinct. Approved academic decision not reopened.
+- Private checkpoint: same established Drive ID `1gScuDJZiJJHhP_x0InZeGLn6IhEu-GIs` updated; full remote text equals full local source on readback. Private application content stays there, not this metadata index.
+- REMI: current GROUP200151Z receipt records actual own matched acknowledgment read; WEB202922002Z retains its own WAITING_FOR_VIBER and no new actionable lead. Incomplete original-source screening is not confirmed identity or exclusion. No duplicate outreach or schedule.
+- Browser: no repeated failing binding without a changed condition; no portal interaction this offline slice. Existing drafts untouched; historical required counts not represented as current live counts.
+- Coordination: exact-run completed-action report delivered to VIBER; matched current response pending. No submissions, certification, payments, invitations, credentials or external communications changed.
+- Cleanup: no task-created tabs, temporary files, downloads or background processes. Existing materials preserved; only intentional checkpoint/receipt additions.
+
+## Runtime availability
+
 The local heartbeat requires this Mac and Codex to remain available. A schedule is not proof of an actual completed future run. Preserve useful review tabs and clean only task-created disposable artifacts.
