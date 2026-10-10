@@ -26,7 +26,23 @@ Record only consequential actions: source checkpoint read, exact application sec
 
 ## Synchronization
 
-Local register created. Git push and Drive destination readback not yet verified. Future runs must use established source maps, verify privacy before transferring private content, and report each unsynchronized destination accurately.
+Setup commit `fa3faee33164274b8c36ded1b5a3071745907974` was pushed and independently read by VIBER (response `3d5d5a1b-167e-44b2-97f9-11540530eeb6`). This corrects the initial pending-push statement. Drive readback is tracked separately; never infer it from Git success.
+
+## Hourly run — PORTFOLIO-20261010T175250955Z
+
+- Trigger/start: 2026-10-10 17:52:50.955 UTC / 13:52:50.955 EDT.
+- Worker: existing local coordinator; no new application worker or recovery schedule created.
+- Coverage: current AGENTS/VIBER_HOME, this ledger, VIBER chat messages `3d5d5a1b-167e-44b2-97f9-11540530eeb6` and `8d6fed80-9771-4c3f-be20-40f7280f5b39`, three canonical local recovery-worker receipts, existing RIT packet and approved academic reconciliation record.
+- Completed: verified actual worker execution receipts, rather than merely enabled schedules. Group and recovery-review receipts record matched acknowledgments; web receipt now exists at its stable Drive ID and remains waiting for a matching response. Its Drive copy was fetched successfully. No new confirmed recovery or actionable lead was established by this bounded coverage.
+- Request captured: VIBER's newest oversight asks that new platform notifications be checked by the existing outreach worker. Requested routing/acknowledgment in the established VIBER chat; no duplicate outreach or recipient expansion performed.
+- Academic reconciliation: the existing October 4 applicant-approved forward-looking academic decision is present and explicitly supersedes the stale general lock for new Fall 2027 work. It is not an unresolved owner question. Exact applicant values stay in the private source, not this register. No portal edit claimed.
+- Working: coordination and source synchronization; substantive slice is closing missing runtime-evidence and cross-storage handoff gaps.
+- Blockers: platform-comment content not yet independently inspected in this run; web worker's matched acknowledgment pending; camera/watch coverage unverified. Existing project sole writers retain ownership.
+- Notifications: sent correlated run/request to VIBER; awaiting its actual matching reply before coordination closure.
+- Next action: read VIBER's matching reply and existing outreach worker's platform-notification result; then continue source-supported application fields without reopening settled academic decisions.
+- Cleanup: no task-created browser tabs, temporary directories or background processes. Existing source files/worker ledgers preserved.
+- Execution slice ended: 2026-10-10 17:54:38 UTC; elapsed wall time approximately 1 minute 47 seconds, excluding subsequent supervisor-response wait and receipt synchronization. Estimated human-equivalent administrative effort: 10–15 minutes (estimate only, not actual employment hours).
+- Drive mirror: `1SsDaH2Tyz74nmszhHr5uDCjAzaG25eRI`, in established Research folder `1m24V54TKPhjl_vjnUjOwEZMrCQLQ3f5b`. Initial complete text readback equals local text. Folder/file inherits anyone-link-reader access: this is deliberately operational/public-safe metadata only; sensitive case evidence remains in its restricted project location. Reuse the stable ID for subsequent updates; do not create duplicate uploads.
 
 ## Runtime
 
