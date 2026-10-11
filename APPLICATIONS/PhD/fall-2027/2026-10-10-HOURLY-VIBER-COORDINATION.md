@@ -122,3 +122,12 @@ The local heartbeat requires this Mac and Codex to remain available. A schedule 
 - REMI latest local receipts: GROUP230252Z records own matched response and partial coverage, no new sighting/containment; WEB232852579Z WAITING_FOR_VIBER, no new actionable lead. Unresolved context remains context, not dog identification. No duplicate outreach/schedule.
 - Coordination report to VIBER pending delivery/matched response. Cleanup: no task-created temporary files, processes, downloads or tabs; existing source/user state preserved.
 - Matched response READ: `ecc097bc-8bc6-482a-8c18-9268c261332b`, turn `9a441f4a-d59d-4288-abaa-2cd329505239`, explicitly acknowledges this run. VIBER verified private checkpoint owner-only and operational Git/Drive parity; accepted bounded assessment, not upload/submission readiness. Next task: up to three original technical-project claim checks, append existing private checkpoint without rewriting. Separate GROUP matched / WEB waiting retained; no qualifying REMI lead established.
+
+## Hourly run — PORTFOLIO-20261011T010423160Z
+
+- Trigger 01:04:23.160 UTC / October 10 21:04:23.160 EDT. Re-anchored instructions, private checkpoint and VIBER request `ecc097bc-8bc6-482a-8c18-9268c261332b`.
+- Completed three bounded primary technical-claim checks from original implementation code and dated status: two PARTIALLY_SUPPORTED, one UNVERIFIED within inspected evidence. Implementation capability, compatibility proxies and achieved scientific results kept distinct. No statement rewrite or new results inferred. Existing research checkout changes preserved untouched.
+- Same private Stanford checkpoint Drive ID updated; complete remote/local text match verified. Full findings stay private; only workflow metadata here.
+- REMI latest GROUP005553Z / WEB003122919Z: no new actionable report or containment established, partial/throttled/access-blocked coverage; own current response gates pending. Historical location wording not promoted into a new event. No duplicate outreach/schedules.
+- No browser retry, live field change, upload, certification, fee/waiver request, payment, invitation or submission. Existing source material and portal sessions preserved. No task-created temp paths, tabs, processes or downloads.
+- Current-run report and exact matching response pending.
