@@ -193,3 +193,10 @@ The local heartbeat requires this Mac and Codex to remain available. A schedule 
 - OFFLINE FIELD DRAFT — PORTAL SAVE NOT VERIFIED. No live portal progress/upload claimed, original CV/SOP untouched. No fee, waiver, invitation, certification or submission. No task-created temporary paths, tabs or processes.
 - REMI GROUP075955Z / WEB073325281Z waiting/partial; no new actionable sighting or secure containment established. Separate response gates preserved; no duplicate outreach/schedule. Synchronization and current-run acknowledgment pending.
 - Complete checkpoint/ledger local–Drive parity verified; commit `339a0c1` pushed. Actual matching response read: `bc4af965-1775-474b-9452-4f0eb8bb4014`, turn `3afcadce-f79c-4601-953d-51818ca2d8b1`; exact run/request matched. ACKNOWLEDGED — CONTINUE / PASS — OFFLINE FIELD PREPARATION. VIBER independently verified private checkpoint owner-only and Git/Drive ledger equality. Next approved task: route-neutral private recommender support brief from preserved materials, not a recommendation letter or invitation; no portal action. Linked academic home remains applicant decision; separate REMI gates preserved.
+
+## Hourly run — PORTFOLIO-20261011T091826245Z
+
+- Re-anchored instructions, current checkpoint/ledger, preserved SOP/CV and VIBER `bc4af965-1775-474b-9452-4f0eb8bb4014`.
+- Completed STANFORD_RECOMMENDER_SUPPORT_BRIEF: concise private applicant-facing draft appended to existing checkpoint with future-research framing, three bounded experience anchors, qualified academic status, exact source sections and applicant-controlled sharing decisions. Not a recommendation letter; no invented endorsement or recipient agreement. No new fact audit; originals unchanged. Private prose excluded from Git ledger.
+- No live fields/uploads/count reduction claimed. No email, invitation, waiver, fee, certification or submission. No task-created temp/tab/process. Statistics remains paused.
+- REMI GROUP090525Z / WEB083155561Z waiting/partial; no new actionable sighting or containment established. No duplicate outreach/schedules. Current-run synchronization and VIBER response pending.
