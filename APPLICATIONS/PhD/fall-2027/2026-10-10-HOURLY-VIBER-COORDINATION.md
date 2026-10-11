@@ -185,3 +185,10 @@ The local heartbeat requires this Mac and Codex to remain available. A schedule 
 - OFFLINE FIELD DRAFT — PORTAL SAVE NOT VERIFIED. No live save, upload or required-item reduction claimed. Original CV/SOP unchanged. No fee, waiver, invitation, certification or submission. No task-created temporary files, tabs or processes.
 - REMI GROUP070225Z / WEB063354924Z remain waiting/partial with no new actionable sighting or containment established. Separate response gates preserved; no duplicate outreach/schedules. Current-run synchronization and VIBER response pending.
 - Full checkpoint/ledger local–Drive parity verified; operational commit `def354b` pushed. Actual matching VIBER response read: `e6d763b5-02a4-45fe-a7e0-f9c3d016710c`, turn `1afdb3a3-fe1f-46a6-bb3b-d450ef84e55b`; exact run/request matched. ACKNOWLEDGED — CONTINUE / PASS — OFFLINE FIELD PREPARATION. VIBER verified checkpoint owner-only and Git/Drive ledger equality. Next approved priority: two additional research/teaching offline entries using existing sources, with exact-month/current-appointment/category boundaries preserved and no live portal action. Separate REMI gates unchanged.
+
+## Hourly run — PORTFOLIO-20261011T081655503Z
+
+- Re-anchored instructions, latest checkpoint/ledger and VIBER request `e6d763b5-02a4-45fe-a7e0-f9c3d016710c`.
+- Completed STANFORD_RESEARCH_TEACHING_EXPERIENCE_FORM_READY_ENTRIES: exactly two additional offline entries in the existing private checkpoint, reusing established source map/CV. Date/current-role, location, category and scholarship-versus-employment qualifications preserved; no invented outcomes or repeated fact audit. Private content excluded from operational Git record.
+- OFFLINE FIELD DRAFT — PORTAL SAVE NOT VERIFIED. No live portal progress/upload claimed, original CV/SOP untouched. No fee, waiver, invitation, certification or submission. No task-created temporary paths, tabs or processes.
+- REMI GROUP075955Z / WEB073325281Z waiting/partial; no new actionable sighting or secure containment established. Separate response gates preserved; no duplicate outreach/schedule. Synchronization and current-run acknowledgment pending.
