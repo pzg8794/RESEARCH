@@ -168,3 +168,11 @@ The local heartbeat requires this Mac and Codex to remain available. A schedule 
 - REMI GROUP050024Z / WEB043154309Z waiting; no new actionable public lead/secure containment reported by WEB, partial coverage preserved. No duplicate outreach/schedules.
 - Render-only temporary directory removed; no tabs/background processes created. Same-ID record synchronization and current-run VIBER acknowledgment pending. No certification, fee/payment, invitation or submission.
 - Complete local/Drive record parity verified; ledger commit `a3ae9d5` pushed. PDF owner-only permissions/5,174-byte size verified; raw fetch succeeded, remote byte checksum not established. Actual matching response READ: `7b5b7520-07f4-415f-a466-645eeec3c265`, turn `5b83c26e-75ae-41ff-88b8-03fd95c6d876`, ACKNOWLEDGED — CONTINUE for this exact run/request. VIBER independently verified preview accessible/readable/owner-only and ledger Git/Drive equality. Next bounded executable priority: route-neutral provisional academic CV editable copy plus preview from existing records; no new fact audit, portal upload or submission. Separate REMI response gates remain pending.
+
+## Hourly run — PORTFOLIO-20261011T061524818Z
+
+- Trigger 06:15:24.818 UTC / October 11 02:15:24.818 EDT. Re-anchored instructions, existing CV/checkpoint and VIBER `7b5b7520-07f4-415f-a466-645eeec3c265`.
+- Created private editable route-neutral provisional CV plus two-page PDF preview from existing verified structure; no new academic-fact audit. Original CV/SOP preserved. Both pages visually inspected and source/PDF text checked with documented extraction normalization; research artifacts and unsupported outcomes kept distinct.
+- Editable/PDF Drive copies created in existing private folder, owner-only verified; editable exact local text match verified. PDF remote byte checksum not established; generator intentionally local support only. Private applicant content absent from this ledger.
+- REMI GROUP060054Z / WEB052524519Z waiting; no new actionable public lead/secure containment reported, partial coverage preserved; no outreach/schedule duplication.
+- No live portal save/upload/count reduction claimed. No waiver, payment, invitation, certification or submission. Task render directory removed; no browser tab or process created. Record synchronization/current-run VIBER response pending.
