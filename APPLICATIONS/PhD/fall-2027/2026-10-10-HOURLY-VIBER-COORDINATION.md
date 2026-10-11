@@ -201,3 +201,10 @@ The local heartbeat requires this Mac and Codex to remain available. A schedule 
 - No live fields/uploads/count reduction claimed. No email, invitation, waiver, fee, certification or submission. No task-created temp/tab/process. Statistics remains paused.
 - REMI GROUP090525Z / WEB083155561Z waiting/partial; no new actionable sighting or containment established. No duplicate outreach/schedules. Current-run synchronization and VIBER response pending.
 - Complete checkpoint/ledger parity verified; commit `cd63f46` pushed. Actual matching response read: `baf65050-42b9-49fb-a252-a0e8d2d26076`, turn `319b59da-19de-4cf8-b222-92b0579f75ee`; exact run/request matched. ACKNOWLEDGED — CONTINUE / PASS — PRIVATE APPLICANT-REVIEW DRAFT. VIBER verified owner-only checkpoint and Git/Drive operational-ledger match. Next bounded task: offline academic-history entries for three institution groups from existing source map; no new fact audit/live fields. Applicant decisions and separate REMI response gates preserved.
+
+## Hourly run — PORTFOLIO-20261011T101427042Z
+
+- Re-anchored instructions, current checkpoint/ledger and actual VIBER `baf65050-42b9-49fb-a252-a0e8d2d26076`.
+- Completed STANFORD_ACADEMIC_HISTORY_OFFLINE_FIELD_ENTRIES: exactly three institution groups prepared in existing private checkpoint from established source map; separate program records/status, issuer-vs-applicant GPA and unknown date/portal-structure boundaries preserved. No repeated degree audit or academic-standing declaration. Private values/prose excluded from operational Git ledger.
+- OFFLINE ACADEMIC HISTORY DRAFT — PORTAL SAVE NOT VERIFIED. No live save/upload/required-item reduction claimed; originals preserved. No email, invitation, waiver, fee, certification or submission. No task-created temp/tab/process. Statistics remains paused.
+- REMI GROUP095726Z / WEB092726189Z partial/waiting; no new actionable sighting or containment established. No duplicate outreach/schedules. Record synchronization/current-run VIBER response pending.
